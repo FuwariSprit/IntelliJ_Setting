@@ -21,8 +21,8 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Admin/User/UserRepository.php" timestamp="1560152397604">
         <mark key="'" line="104" column="62" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/routes/web.php" timestamp="1562140736549">
-        <mark key="'" line="424" column="41" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/routes/web.php" timestamp="1565328626235">
+        <mark key="'" line="424" column="43" />
         <mark key="[" line="424" column="43" />
         <mark key="]" line="424" column="48" />
         <mark key="." line="424" column="48" />
@@ -118,6 +118,7 @@
         <mark key="^" line="94" column="9" />
         <mark key="." line="115" column="9" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/RecruitController.php" timestamp="1565328585206" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/Assign/GetUserAssignRequestsList.php" timestamp="1560157025303">
         <mark key="[" line="43" column="5" />
         <mark key="]" line="24" column="24" />
@@ -435,7 +436,6 @@
       <jump line="1290" column="12" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="1471" column="14" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="48" column="22" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
-      <jump line="424" column="41" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
       <jump line="4611" column="8" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
       <jump line="4821" column="22" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
       <jump line="4811" column="15" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
@@ -487,6 +487,7 @@
       <jump line="144" column="28" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/offer/user_list.blade.php" />
       <jump line="128" column="28" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/offer/user_list.blade.php" />
       <jump line="4" column="22" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/users/table.blade.php" />
+      <jump line="424" column="43" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -496,7 +497,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>searchE2EClass</text>
+        <text>recruit</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">LT53aGVyZUluKCdkc2EudXNlcl9pZCcsICRpdGVtLT51c2VySWQoKS0+dmFsdWUoKSk=</text>
@@ -537,9 +538,9 @@
       </register>
     </registers>
     <search>
-      <last-search>searchE2EClass</last-search>
+      <last-search>recruit</last-search>
       <last-offset />
-      <last-pattern>searchE2EClass</last-pattern>
+      <last-pattern>recruit</last-pattern>
       <last-replace>let</last-replace>
       <last-substitute>var</last-substitute>
       <last-dir>1</last-dir>
@@ -547,7 +548,6 @@
     </search>
     <history>
       <history-search>
-        <entry>approval_status</entry>
         <entry>DeleteUp</entry>
         <entry>DeleteUploadedFileRequest</entry>
         <entry>検索</entry>
@@ -567,6 +567,7 @@
         <entry>要項</entry>
         <entry>evaluate</entry>
         <entry>searchE2EClass</entry>
+        <entry>recruit</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>
@@ -608,6 +609,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>

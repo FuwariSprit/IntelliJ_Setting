@@ -179,18 +179,19 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/detail/willgate.blade.php" timestamp="1555915457394">
         <mark key="'" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/clients/edit.blade.php" timestamp="1566526589013">
-        <mark key="[" line="16" column="78" />
-        <mark key="]" line="16" column="71" />
-        <mark key="^" line="16" column="71" />
-        <mark key="." line="16" column="71" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/clients/edit.blade.php" timestamp="1566527382069">
+        <mark key="'" line="16" column="4" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="89" />
+        <mark key="^" line="16" column="89" />
+        <mark key="." line="16" column="89" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/entrypoints/admin/clients/edit.js" timestamp="1566526465482">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="16" column="22" />
-        <mark key="]" line="17" column="21" />
-        <mark key="." line="17" column="21" />
-        <mark key="^" line="17" column="21" />
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="38" column="22" />
+        <mark key="]" line="39" column="21" />
+        <mark key="." line="39" column="21" />
+        <mark key="^" line="39" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" timestamp="1562552320716">
         <mark key="'" line="2391" column="21" />
@@ -431,7 +432,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1779" column="27" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/UserRepository.php" />
       <jump line="1839" column="53" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/UserRepository.php" />
       <jump line="1539" column="19" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/UserRepository.php" />
       <jump line="1841" column="53" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/UserRepository.php" />
@@ -531,6 +531,7 @@
       <jump line="314" column="39" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="294" column="9" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
       <jump line="36" column="0" filename="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/entrypoints/admin/clients/edit.js" />
+      <jump line="16" column="4" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/clients/edit.blade.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">

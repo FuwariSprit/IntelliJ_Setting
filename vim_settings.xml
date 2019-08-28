@@ -12,12 +12,7 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/delivery_panel.blade.php" timestamp="1555915681375">
         <mark key="'" line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/public/js/admin/clients/edit.js" timestamp="1566968224011">
-        <mark key="[" line="0" column="4" />
-        <mark key="]" line="0" column="11" />
-        <mark key="^" line="0" column="11" />
-        <mark key="." line="0" column="11" />
-      </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/public/js/admin/clients/edit.js" timestamp="1566971889173" />
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/step_evaluate.blade.php" timestamp="1558339088774">
         <mark key="[" line="26" column="45" />
         <mark key="]" line="26" column="45" />
@@ -143,8 +138,8 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/work_groups/detail.blade.php" timestamp="1558341291904">
         <mark key="'" line="34" column="56" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/public/js/work_groups/detail.js" timestamp="1555480629031">
-        <mark key="'" line="360" column="12" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/public/js/work_groups/detail.js" timestamp="1566971735211">
+        <mark key="'" line="430" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/public/lib/css/style.css" timestamp="1559094056802">
         <mark key="'" line="0" column="0" />
@@ -209,8 +204,11 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/public/css/style.css" timestamp="1556080695937">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/clients/client/edit/Index.vue" timestamp="1566967721370">
-        <mark key="[" line="169" column="5" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/clients/client/edit/Index.vue" timestamp="1566971995256">
+        <mark key="[" line="169" column="14" />
+        <mark key="]" line="171" column="46" />
+        <mark key="^" line="171" column="46" />
+        <mark key="." line="171" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/Assign/GetUserAssignsList.php" timestamp="1560330919858">
         <mark key="[" line="50" column="43" />
@@ -296,7 +294,7 @@
         <mark key="^" line="27" column="6" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/entrypoints/admin/clients/ng_creator_list.js" timestamp="1566786107245" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/entrypoints/admin/clients/ng_creator_list.js" timestamp="1566970152658" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/ClientController.php" timestamp="1566968106599">
         <mark key="[" line="343" column="0" />
         <mark key="]" line="343" column="0" />
@@ -395,15 +393,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="991" column="24" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
-      <jump line="1204" column="20" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
-      <jump line="1212" column="38" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
-      <jump line="66" column="30" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
-      <jump line="289" column="12" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
-      <jump line="311" column="15" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
-      <jump line="352" column="11" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
-      <jump line="382" column="16" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
       <jump line="308" column="63" filename="$USER_HOME$/workspace/sagooo_navi/public/js/admin/works/detail.js" />
       <jump line="134" column="47" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="550" column="5" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
@@ -495,55 +484,64 @@
       <jump line="20" column="21" filename="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/work_groups/steps/create/StepFormList.vue" />
       <jump line="250" column="42" filename="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/work_groups/steps/create/StepFormList.vue" />
       <jump line="239" column="19" filename="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/work_groups/steps/create/StepFormList.vue" />
+      <jump line="62" column="39" filename="$USER_HOME$/workspace/sagooo_navi/public/js/work_groups/detail.js" />
+      <jump line="319" column="53" filename="$USER_HOME$/workspace/sagooo_navi/public/js/work_groups/detail.js" />
+      <jump line="410" column="46" filename="$USER_HOME$/workspace/sagooo_navi/public/js/work_groups/detail.js" />
+      <jump line="217" column="58" filename="$USER_HOME$/workspace/sagooo_navi/public/js/work_groups/detail.js" />
+      <jump line="155" column="50" filename="$USER_HOME$/workspace/sagooo_navi/public/js/work_groups/detail.js" />
+      <jump line="49" column="50" filename="$USER_HOME$/workspace/sagooo_navi/public/js/work_groups/detail.js" />
+      <jump line="449" column="0" filename="$USER_HOME$/workspace/sagooo_navi/public/js/work_groups/detail.js" />
+      <jump line="408" column="21" filename="$USER_HOME$/workspace/sagooo_navi/public/js/work_groups/detail.js" />
+      <jump line="430" column="12" filename="$USER_HOME$/workspace/sagooo_navi/public/js/work_groups/detail.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJGlzRHVwbGljYXRlKSB7CiAgICAgICAgICAgIHJldHVybiByZWRpcmVjdCgpLT5iYWNrKCktPndpdGhFcnJvcnMoJycpOwogICAgICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAkKCIuanMtc3VibWl0LWNsaWVudC1lZGl0LWZvcm0iKS5vbigiY2xpY2siLCBmdW5jdGlvbigpIHsK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">ICAgICAgICB9KTs=</text>
       </register>
       <register name="/" type="4">
-        <text>企画の</text>
+        <text>axios</text>
       </register>
       <register name="0" type="4">
         <text>dd('ナビコード');</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJGlzRHVwbGljYXRlKSB7CiAgICAgICAgICAgIHJldHVybiByZWRpcmVjdCgpLT5iYWNrKCktPndpdGhFcnJvcnMoJycpOwogICAgICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAkKCIuanMtc3VibWl0LWNsaWVudC1lZGl0LWZvcm0iKS5vbigiY2xpY2siLCBmdW5jdGlvbigpIHsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdC0+c2Vzc2lvbignZXJyb3JzJykpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJidXR0b24iKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIG15c3FsX3hkZXZhcGlcU2Vzc2lvbjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkaXNEdXBsaWNhdGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbXMuYXBwZW5kKCcnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJfdG9rZW4iIDp2YWx1ZT0iY3NyZiIgLz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdC0+c2Vzc2lvbigpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJfdG9rZW4iIDp2YWx1ZT0iY3NyZiIgLz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJGlzRHVwbGljYXRlKSB7CiAgICAgICAgICAgIHJldHVybiByZWRpcmVjdCgpLT5iYWNrKCktPndpdGhFcnJvcnMoJycpOwogICAgICAgIH0KCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFxKYXZhU2NyaXB0OjpwdXQoCi8vICAgICAgICAgICAgWwovLyAgICAgICAgICAgICAgICAnZXJyb3JzJyAgICA9PiAkcmVxdWVzdC0+c2Vzc2lvbigpLT5nZXQoJ2Vycm9ycycpCi8vICAgICAgICAgICAgXQovLyAgICAgICAgKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>企画の</last-search>
+      <last-search>axios</last-search>
       <last-offset />
-      <last-pattern>企画の</last-pattern>
+      <last-pattern>axios</last-pattern>
       <last-replace>let</last-replace>
       <last-substitute>var</last-substitute>
       <last-dir>1</last-dir>
@@ -551,9 +549,6 @@
     </search>
     <history>
       <history-search>
-        <entry>補足</entry>
-        <entry>要項</entry>
-        <entry>evaluate</entry>
         <entry>searchE2EClass</entry>
         <entry>recruit</entry>
         <entry>common</entry>
@@ -571,6 +566,9 @@
         <entry>form</entry>
         <entry>karte</entry>
         <entry>企画の</entry>
+        <entry>cfrf</entry>
+        <entry>csrf</entry>
+        <entry>axios</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

@@ -70,6 +70,7 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/users/news/confirm_create.blade.php" timestamp="1557465479411">
         <mark key="'" line="77" column="9" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/clients/client/Note.vue" timestamp="1566974963995" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/Assign/GetWorkList.php" timestamp="1560151807918">
         <mark key="[" line="8" column="17" />
         <mark key="]" line="18" column="28" />
@@ -204,11 +205,11 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/public/css/style.css" timestamp="1556080695937">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/clients/client/edit/Index.vue" timestamp="1566971995256">
-        <mark key="[" line="169" column="14" />
-        <mark key="]" line="171" column="46" />
-        <mark key="^" line="171" column="46" />
-        <mark key="." line="171" column="46" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/clients/client/edit/Index.vue" timestamp="1566975412066">
+        <mark key="[" line="173" column="51" />
+        <mark key="]" line="172" column="74" />
+        <mark key="^" line="172" column="74" />
+        <mark key="." line="172" column="74" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/Assign/GetUserAssignsList.php" timestamp="1560330919858">
         <mark key="[" line="50" column="43" />
@@ -495,11 +496,11 @@
       <jump line="430" column="12" filename="$USER_HOME$/workspace/sagooo_navi/public/js/work_groups/detail.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkKCIuanMtc3VibWl0LWNsaWVudC1lZGl0LWZvcm0iKS5vbigiY2xpY2siLCBmdW5jdGlvbigpIHsK</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICB9KTs=</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>axios</text>

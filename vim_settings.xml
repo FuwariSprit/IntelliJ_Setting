@@ -70,7 +70,7 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/users/news/confirm_create.blade.php" timestamp="1557465479411">
         <mark key="'" line="77" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/clients/client/Note.vue" timestamp="1566976426009">
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/clients/client/Note.vue" timestamp="1566980983871">
         <mark key="'" line="86" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/Assign/GetWorkList.php" timestamp="1560151807918">
@@ -207,10 +207,11 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/public/css/style.css" timestamp="1556080695937">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/clients/client/edit/Index.vue" timestamp="1566979709984">
-        <mark key="[" line="177" column="0" />
-        <mark key="]" line="177" column="0" />
-        <mark key="." line="177" column="0" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/clients/client/edit/Index.vue" timestamp="1566983522703">
+        <mark key="[" line="23" column="61" />
+        <mark key="]" line="23" column="52" />
+        <mark key="^" line="23" column="52" />
+        <mark key="." line="23" column="52" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/Assign/GetUserAssignsList.php" timestamp="1560330919858">
         <mark key="[" line="50" column="43" />
@@ -218,10 +219,11 @@
         <mark key="^" line="50" column="41" />
         <mark key="." line="50" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/Client/FormatClientEdit.php" timestamp="1566784036271">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/Client/FormatClientEdit.php" timestamp="1566982293011">
+        <mark key="[" line="29" column="133" />
+        <mark key="]" line="29" column="141" />
+        <mark key="." line="29" column="141" />
+        <mark key="^" line="29" column="141" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/Client/EditClient.php" timestamp="1566545010013">
         <mark key="[" line="7" column="6" />
@@ -297,11 +299,11 @@
         <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/entrypoints/admin/clients/ng_creator_list.js" timestamp="1566970152658" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/ClientController.php" timestamp="1566968106599">
-        <mark key="[" line="343" column="0" />
-        <mark key="]" line="343" column="0" />
-        <mark key="." line="343" column="0" />
-        <mark key="^" line="344" column="53" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/ClientController.php" timestamp="1566981797609">
+        <mark key="[" line="341" column="0" />
+        <mark key="]" line="341" column="0" />
+        <mark key="." line="341" column="0" />
+        <mark key="^" line="341" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/public/js/admin/steps/assigns/create.js" timestamp="1559699865988">
         <mark key="[" line="72" column="0" />
@@ -498,7 +500,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
@@ -510,31 +512,31 @@
         <text>dd('ナビコード');</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoJCgnI2VkaXQtZm9ybS1uYW1lIFtjb21wYW55TmFtZV0nKS52YWwoKSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGF4aW9zIGZyb20gImF4aW9zIjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6dmFsdWU9ImNvbXBhbnlOYW1lIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsZXJ0KCflpLHmlZcnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ+aKvOOBl+OBnycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsZXJ0KCfmiJDlip8nKTsK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIGxldCBwYXJhbXMgPSBuZXcgVVJMU2VhcmNoUGFyYW1zKCk7CiAgICAgICAgICAgIHBhcmFtcy5hcHBlbmQoJ293bmVyQ2xpZW50Q29kZScsIG93bmVyQ2xpZW50Q29kZTogdGhpcy5uYXZpQ29kZSkKICAgICAgICAgICAgcGFyYW1zLmFwcGVuZCgnY2xpZW50TmFtZScsIGNvbXBhbnlOYW1lKTsKICAgICAgICAgICAgcGFyYW1zLmFwcGVuZCgnY2xpZW50QWRkcmVzcycsIHBsYWNlKTs=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkKCIuanMtc3VibWl0LWNsaWVudC1lZGl0LWZvcm0iKS5vbigiY2xpY2siLCBmdW5jdGlvbigpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoJCgnI2VkaXQtZm9ybS1uYW1lIFtjb21wYW55TmFtZV0nKS52YWwoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6dmFsdWU9ImNvbXBhbnlOYW1lIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJidXR0b24iKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ+aKvOOBl+OBnycpOwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIGxldCBwYXJhbXMgPSBuZXcgVVJMU2VhcmNoUGFyYW1zKCk7CiAgICAgICAgICAgIHBhcmFtcy5hcHBlbmQoJ293bmVyQ2xpZW50Q29kZScsIG93bmVyQ2xpZW50Q29kZTogdGhpcy5uYXZpQ29kZSkKICAgICAgICAgICAgcGFyYW1zLmFwcGVuZCgnY2xpZW50TmFtZScsIGNvbXBhbnlOYW1lKTsKICAgICAgICAgICAgcGFyYW1zLmFwcGVuZCgnY2xpZW50QWRkcmVzcycsIHBsYWNlKTs=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -615,6 +617,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>

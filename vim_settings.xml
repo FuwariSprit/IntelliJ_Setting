@@ -70,7 +70,9 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/users/news/confirm_create.blade.php" timestamp="1557465479411">
         <mark key="'" line="77" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/clients/client/Note.vue" timestamp="1566974963995" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/clients/client/Note.vue" timestamp="1566976426009">
+        <mark key="'" line="86" column="16" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/Assign/GetWorkList.php" timestamp="1560151807918">
         <mark key="[" line="8" column="17" />
         <mark key="]" line="18" column="28" />
@@ -205,11 +207,11 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/public/css/style.css" timestamp="1556080695937">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/clients/client/edit/Index.vue" timestamp="1566975412066">
-        <mark key="[" line="173" column="51" />
-        <mark key="]" line="172" column="74" />
-        <mark key="^" line="172" column="74" />
-        <mark key="." line="172" column="74" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/clients/client/edit/Index.vue" timestamp="1566977610309">
+        <mark key="[" line="172" column="40" />
+        <mark key="]" line="177" column="35" />
+        <mark key="." line="177" column="35" />
+        <mark key="^" line="177" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/Assign/GetUserAssignsList.php" timestamp="1560330919858">
         <mark key="[" line="50" column="43" />
@@ -394,7 +396,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="308" column="63" filename="$USER_HOME$/workspace/sagooo_navi/public/js/admin/works/detail.js" />
       <jump line="134" column="47" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="550" column="5" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="617" column="14" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
@@ -494,55 +495,56 @@
       <jump line="449" column="0" filename="$USER_HOME$/workspace/sagooo_navi/public/js/work_groups/detail.js" />
       <jump line="408" column="21" filename="$USER_HOME$/workspace/sagooo_navi/public/js/work_groups/detail.js" />
       <jump line="430" column="12" filename="$USER_HOME$/workspace/sagooo_navi/public/js/work_groups/detail.js" />
+      <jump line="86" column="16" filename="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/clients/client/Note.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ+aKvOOBl+OBnycpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>axios</text>
+        <text>owner_client_code</text>
       </register>
       <register name="0" type="4">
         <text>dd('ナビコード');</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkKCIuanMtc3VibWl0LWNsaWVudC1lZGl0LWZvcm0iKS5vbigiY2xpY2siLCBmdW5jdGlvbigpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ+aKvOOBl+OBnycpOwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIGxldCBwYXJhbXMgPSBuZXcgVVJMU2VhcmNoUGFyYW1zKCk7CiAgICAgICAgICAgIHBhcmFtcy5hcHBlbmQoJ293bmVyQ2xpZW50Q29kZScsIG93bmVyQ2xpZW50Q29kZTogdGhpcy5uYXZpQ29kZSkKICAgICAgICAgICAgcGFyYW1zLmFwcGVuZCgnY2xpZW50TmFtZScsIGNvbXBhbnlOYW1lKTsKICAgICAgICAgICAgcGFyYW1zLmFwcGVuZCgnY2xpZW50QWRkcmVzcycsIHBsYWNlKTs=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJidXR0b24iKTsK</text>
+        <text encoding="base64">ICAgICAgICAkKCIuanMtc3VibWl0LWNsaWVudC1lZGl0LWZvcm0iKS5vbigiY2xpY2siLCBmdW5jdGlvbigpIHsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbXMuYXBwZW5kKCcnKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJidXR0b24iKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJfdG9rZW4iIDp2YWx1ZT0iY3NyZiIgLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJfdG9rZW4iIDp2YWx1ZT0iY3NyZiIgLz4K</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbXMuYXBwZW5kKCcnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJGlzRHVwbGljYXRlKSB7CiAgICAgICAgICAgIHJldHVybiByZWRpcmVjdCgpLT5iYWNrKCktPndpdGhFcnJvcnMoJycpOwogICAgICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJfdG9rZW4iIDp2YWx1ZT0iY3NyZiIgLz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJfdG9rZW4iIDp2YWx1ZT0iY3NyZiIgLz4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>axios</last-search>
+      <last-search>owner_client_code</last-search>
       <last-offset />
-      <last-pattern>axios</last-pattern>
+      <last-pattern>owner_client_code</last-pattern>
       <last-replace>let</last-replace>
       <last-substitute>var</last-substitute>
       <last-dir>1</last-dir>
@@ -550,7 +552,6 @@
     </search>
     <history>
       <history-search>
-        <entry>searchE2EClass</entry>
         <entry>recruit</entry>
         <entry>common</entry>
         <entry>script</entry>
@@ -570,6 +571,7 @@
         <entry>cfrf</entry>
         <entry>csrf</entry>
         <entry>axios</entry>
+        <entry>owner_client_code</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

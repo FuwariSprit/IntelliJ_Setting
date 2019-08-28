@@ -117,7 +117,7 @@
         <mark key="^" line="64" column="128" />
         <mark key="." line="64" column="128" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/clients/search/Index.vue" timestamp="1561536411595">
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/clients/search/Index.vue" timestamp="1566957111701">
         <mark key="[" line="115" column="9" />
         <mark key="]" line="115" column="9" />
         <mark key="^" line="94" column="9" />
@@ -211,6 +211,9 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/delivery_modal.blade.php" timestamp="1562551982899">
         <mark key="'" line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/work_groups/steps/create/StepFormList.vue" timestamp="1566957395405">
+        <mark key="'" line="239" column="19" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/works/reviewer_proofreeding.blade.php" timestamp="1562560714400">
         <mark key="[" line="186" column="0" />
         <mark key="]" line="186" column="129" />
@@ -242,7 +245,7 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/public/css/style.css" timestamp="1556080695937">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/clients/client/edit/Index.vue" timestamp="1566954987641" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/clients/client/edit/Index.vue" timestamp="1566956627015" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/Assign/GetUserAssignsList.php" timestamp="1560330919858">
         <mark key="[" line="50" column="43" />
         <mark key="]" line="50" column="41" />
@@ -342,11 +345,11 @@
         <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/entrypoints/admin/clients/ng_creator_list.js" timestamp="1566786107245" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/ClientController.php" timestamp="1566954815861">
-        <mark key="[" line="344" column="51" />
-        <mark key="]" line="344" column="53" />
-        <mark key="." line="344" column="53" />
-        <mark key="^" line="344" column="53" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/ClientController.php" timestamp="1566958599184">
+        <mark key="[" line="316" column="0" />
+        <mark key="]" line="316" column="0" />
+        <mark key="." line="316" column="0" />
+        <mark key="^" line="316" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/public/js/admin/steps/assigns/create.js" timestamp="1559699865988">
         <mark key="[" line="72" column="0" />
@@ -440,9 +443,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1487" column="8" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
-      <jump line="133" column="70" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
-      <jump line="972" column="20" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="991" column="24" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="1204" column="20" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="1212" column="38" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
@@ -540,55 +540,58 @@
       <jump line="1544" column="35" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="1529" column="39" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="529" column="43" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/ClientRepository.php" />
+      <jump line="20" column="21" filename="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/work_groups/steps/create/StepFormList.vue" />
+      <jump line="250" column="42" filename="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/work_groups/steps/create/StepFormList.vue" />
+      <jump line="239" column="19" filename="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/work_groups/steps/create/StepFormList.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIG15c3FsX3hkZXZhcGlcU2Vzc2lvbjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>karte</text>
+        <text>企画の</text>
       </register>
       <register name="0" type="4">
         <text>dd('ナビコード');</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIG15c3FsX3hkZXZhcGlcU2Vzc2lvbjsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkaXNEdXBsaWNhdGUpOwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdC0+c2Vzc2lvbignZXJyb3JzJykpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">dXNlIG15c3FsX3hkZXZhcGlcU2Vzc2lvbjsK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdC0+c2Vzc2lvbigpKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkaXNEdXBsaWNhdGUpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFxKYXZhU2NyaXB0OjpwdXQoCi8vICAgICAgICAgICAgWwovLyAgICAgICAgICAgICAgICAnZXJyb3JzJyAgICA9PiAkcmVxdWVzdC0+c2Vzc2lvbigpLT5nZXQoJ2Vycm9ycycpCi8vICAgICAgICAgICAgXQovLyAgICAgICAgKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdC0+c2Vzc2lvbigpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnZXJyb3JzJyAgICA9PiAkcmVxdWVzdC0+ZXJyb3JzKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+Y2xpZW50RWxvcXVlbnQtPmZpbmQoMzEpKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgIFxKYXZhU2NyaXB0OjpwdXQoCi8vICAgICAgICAgICAgWwovLyAgICAgICAgICAgICAgICAnZXJyb3JzJyAgICA9PiAkcmVxdWVzdC0+c2Vzc2lvbigpLT5nZXQoJ2Vycm9ycycpCi8vICAgICAgICAgICAgXQovLyAgICAgICAgKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnZXJyb3JzJyAgICA9PiAkcmVxdWVzdC0+ZXJyb3JzKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>karte</last-search>
+      <last-search>企画の</last-search>
       <last-offset />
-      <last-pattern>karte</last-pattern>
+      <last-pattern>企画の</last-pattern>
       <last-replace>let</last-replace>
       <last-substitute>var</last-substitute>
       <last-dir>1</last-dir>
@@ -596,7 +599,6 @@
     </search>
     <history>
       <history-search>
-        <entry>対応可能エリア</entry>
         <entry>補足</entry>
         <entry>要項</entry>
         <entry>evaluate</entry>
@@ -616,6 +618,7 @@
         <entry>企業</entry>
         <entry>form</entry>
         <entry>karte</entry>
+        <entry>企画の</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

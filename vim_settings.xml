@@ -207,11 +207,11 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/public/css/style.css" timestamp="1556080695937">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/clients/client/edit/Index.vue" timestamp="1566983522703">
-        <mark key="[" line="23" column="61" />
-        <mark key="]" line="23" column="52" />
-        <mark key="^" line="23" column="52" />
-        <mark key="." line="23" column="52" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/clients/client/edit/Index.vue" timestamp="1567129254085">
+        <mark key="[" line="176" column="93" />
+        <mark key="]" line="177" column="11" />
+        <mark key="." line="177" column="11" />
+        <mark key="^" line="177" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/Assign/GetUserAssignsList.php" timestamp="1560330919858">
         <mark key="[" line="50" column="43" />
@@ -499,11 +499,11 @@
       <jump line="86" column="16" filename="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/clients/client/Note.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>owner_client_code</text>
@@ -512,31 +512,31 @@
         <text>dd('ナビコード');</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2luZG93LmFsZXJ0KCJzdGFydCIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGF4aW9zIGZyb20gImF4aW9zIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coInN0YXJ0Iik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsZXJ0KCflpLHmlZcnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0eXBlPSJzdWJtaXQiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsZXJ0KCfmiJDlip8nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aW5kb3cuYWxlcnQoJ+WkseaVlycpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aW5kb3cuYWxlcnQoJ+aIkOWKnycpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoJCgnI2VkaXQtZm9ybS1uYW1lIFtjb21wYW55TmFtZV0nKS52YWwoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6dmFsdWU9ImNvbXBhbnlOYW1lIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cob3duZXJDbGllbnRDb2RlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ+aKvOOBl+OBnycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IG93bmVyQ2xpZW50Q29kZSA9ICQoIiNlZGl0LWZvcm0tbmF2aS1jb2RlIFtuYW1lPW93bmVyQ2xpZW50Q29kZV0iKS52YWwoKTsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIGxldCBwYXJhbXMgPSBuZXcgVVJMU2VhcmNoUGFyYW1zKCk7CiAgICAgICAgICAgIHBhcmFtcy5hcHBlbmQoJ293bmVyQ2xpZW50Q29kZScsIG93bmVyQ2xpZW50Q29kZTogdGhpcy5uYXZpQ29kZSkKICAgICAgICAgICAgcGFyYW1zLmFwcGVuZCgnY2xpZW50TmFtZScsIGNvbXBhbnlOYW1lKTsKICAgICAgICAgICAgcGFyYW1zLmFwcGVuZCgnY2xpZW50QWRkcmVzcycsIHBsYWNlKTs=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgd2luZG93LmFsZXJ0KCQoIiNlZGl0LWZvcm0tbmF2aS1jb2RlIFtuYW1lPW93bmVyQ2xpZW50Q29kZV0iKS52YWwoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

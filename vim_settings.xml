@@ -6,9 +6,6 @@
       <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_4.php" timestamp="1555494063188">
         <mark key="'" line="816" column="9" />
       </file>
-      <file name="/a.dummy" timestamp="1566545039348">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/delivery_panel.blade.php" timestamp="1555915681375">
         <mark key="'" line="49" column="0" />
       </file>
@@ -207,12 +204,12 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/public/css/style.css" timestamp="1556080695937">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/clients/client/edit/Index.vue" timestamp="1567131090788">
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/clients/client/edit/Index.vue" timestamp="1567138917359">
         <mark key="'" line="45" column="29" />
-        <mark key="[" line="73" column="52" />
-        <mark key="]" line="74" column="39" />
-        <mark key="." line="74" column="39" />
-        <mark key="^" line="74" column="39" />
+        <mark key="[" line="53" column="57" />
+        <mark key="]" line="53" column="56" />
+        <mark key="." line="53" column="56" />
+        <mark key="^" line="53" column="56" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/Assign/GetUserAssignsList.php" timestamp="1560330919858">
         <mark key="[" line="50" column="43" />
@@ -247,6 +244,7 @@
         <mark key="^" line="48" column="30" />
         <mark key="." line="48" column="30" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkSummaryController.php" timestamp="1567139423132" />
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/work_groups/edit.blade.php" timestamp="1557712647823">
         <mark key="'" line="0" column="0" />
       </file>
@@ -255,9 +253,6 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
         <mark key="^" line="25" column="78" />
-      </file>
-      <file name="vim_settings.xml" timestamp="1564706943345">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/Assign/GetAssignCountList.php" timestamp="1560151899505">
         <mark key="[" line="16" column="13" />
@@ -300,11 +295,11 @@
         <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/entrypoints/admin/clients/ng_creator_list.js" timestamp="1566970152658" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/ClientController.php" timestamp="1567133635368">
-        <mark key="[" line="320" column="80" />
-        <mark key="]" line="320" column="83" />
-        <mark key="." line="320" column="83" />
-        <mark key="^" line="320" column="83" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/ClientController.php" timestamp="1567139653834">
+        <mark key="[" line="345" column="53" />
+        <mark key="]" line="345" column="52" />
+        <mark key="." line="345" column="52" />
+        <mark key="^" line="345" column="52" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/public/js/admin/steps/assigns/create.js" timestamp="1559699865988">
         <mark key="[" line="72" column="0" />
@@ -500,11 +495,11 @@
       <jump line="45" column="29" filename="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/clients/client/edit/Index.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlZGlyZWN0KCktPmJhY2soKS0+d2l0aEVycm9yCg==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>input</text>
@@ -513,31 +508,31 @@
         <text>dd('ナビコード');</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBcSmF2YVNjcmlwdDo6cHV0KAogICAgICAgICAgICAkZm9ybWF0dGVkQ2xpZW50RGV0YWlsCiAgICAgICAgKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlZGlyZWN0KCktPmJhY2soKS0+d2l0aEVycm9yCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGRkKCRyZXF1ZXN0LT5zZXNzaW9uKCktPmdldCgnZXJyb3JzJyktPmFsbCgpKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICBcSmF2YVNjcmlwdDo6cHV0KCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2Vzc2lvbignZXJyb3JfbWVzc2FnZScsICRyZXF1ZXN0LT5zZXNzaW9uKCktPmdldCgnZXJyb3JzJykpPz8gJycK</text>
+        <text encoding="base64">ICAgICAgICAgICAgWwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBUT0RPICJ7XCJjbGllbnROYW1lXCI6W1wi5LyB5qWt5ZCN44KS5YWl5Yqb44GX44Gm5LiL44GV44GEXCJdfSIg44Go5rih44Gj44Gm44GX44G+44GG44Gf44KB6KaB5L+u5q2jCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdlcnJvcnMnICAgID0+ICRyZXF1ZXN0LT5zZXNzaW9uKCktPmdldCgnZXJyb3JzJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2luZG93LmFsZXJ0KCJzdGFydCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdC0+c2Vzc2lvbigpLT5nZXQoJ2Vycm9ycycpKTsKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coInN0YXJ0Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBcSmF2YVNjcmlwdDo6cHV0KAogICAgICAgICAgICAkZm9ybWF0dGVkQ2xpZW50RGV0YWlsCiAgICAgICAgKTsKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0eXBlPSJzdWJtaXQiCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGRkKCRyZXF1ZXN0LT5zZXNzaW9uKCktPmdldCgnZXJyb3JzJyktPmFsbCgpKTsKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aW5kb3cuYWxlcnQoJ+WkseaVlycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBdCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

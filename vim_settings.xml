@@ -207,11 +207,12 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/public/css/style.css" timestamp="1556080695937">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/clients/client/edit/Index.vue" timestamp="1567129254085">
-        <mark key="[" line="176" column="93" />
-        <mark key="]" line="177" column="11" />
-        <mark key="." line="177" column="11" />
-        <mark key="^" line="177" column="11" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/clients/client/edit/Index.vue" timestamp="1567131090788">
+        <mark key="'" line="45" column="29" />
+        <mark key="[" line="73" column="52" />
+        <mark key="]" line="74" column="39" />
+        <mark key="." line="74" column="39" />
+        <mark key="^" line="74" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/Assign/GetUserAssignsList.php" timestamp="1560330919858">
         <mark key="[" line="50" column="43" />
@@ -299,11 +300,11 @@
         <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/entrypoints/admin/clients/ng_creator_list.js" timestamp="1566970152658" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/ClientController.php" timestamp="1566981797609">
-        <mark key="[" line="341" column="0" />
-        <mark key="]" line="341" column="0" />
-        <mark key="." line="341" column="0" />
-        <mark key="^" line="341" column="20" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/ClientController.php" timestamp="1567133635368">
+        <mark key="[" line="320" column="80" />
+        <mark key="]" line="320" column="83" />
+        <mark key="." line="320" column="83" />
+        <mark key="^" line="320" column="83" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/public/js/admin/steps/assigns/create.js" timestamp="1559699865988">
         <mark key="[" line="72" column="0" />
@@ -397,11 +398,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="47" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
-      <jump line="550" column="5" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
-      <jump line="617" column="14" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
-      <jump line="664" column="19" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
-      <jump line="894" column="12" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="1290" column="12" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="1471" column="14" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="48" column="22" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
@@ -497,55 +493,60 @@
       <jump line="408" column="21" filename="$USER_HOME$/workspace/sagooo_navi/public/js/work_groups/detail.js" />
       <jump line="430" column="12" filename="$USER_HOME$/workspace/sagooo_navi/public/js/work_groups/detail.js" />
       <jump line="86" column="16" filename="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/clients/client/Note.vue" />
+      <jump line="51" column="39" filename="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/clients/client/edit/Index.vue" />
+      <jump line="68" column="29" filename="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/clients/client/edit/Index.vue" />
+      <jump line="91" column="39" filename="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/clients/client/edit/Index.vue" />
+      <jump line="24" column="21" filename="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/clients/client/edit/Index.vue" />
+      <jump line="45" column="29" filename="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/clients/client/edit/Index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>owner_client_code</text>
+        <text>input</text>
       </register>
       <register name="0" type="4">
         <text>dd('ナビコード');</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2luZG93LmFsZXJ0KCJzdGFydCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBcSmF2YVNjcmlwdDo6cHV0KAogICAgICAgICAgICAkZm9ybWF0dGVkQ2xpZW50RGV0YWlsCiAgICAgICAgKTsKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coInN0YXJ0Iik7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGRkKCRyZXF1ZXN0LT5zZXNzaW9uKCktPmdldCgnZXJyb3JzJyktPmFsbCgpKTsKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0eXBlPSJzdWJtaXQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aW5kb3cuYWxlcnQoJ+WkseaVlycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2Vzc2lvbignZXJyb3JfbWVzc2FnZScsICRyZXF1ZXN0LT5zZXNzaW9uKCktPmdldCgnZXJyb3JzJykpPz8gJycK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aW5kb3cuYWxlcnQoJ+aIkOWKnycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBUT0RPICJ7XCJjbGllbnROYW1lXCI6W1wi5LyB5qWt5ZCN44KS5YWl5Yqb44GX44Gm5LiL44GV44GEXCJdfSIg44Go5rih44Gj44Gm44GX44G+44GG44Gf44KB6KaB5L+u5q2jCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2luZG93LmFsZXJ0KCJzdGFydCIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cob3duZXJDbGllbnRDb2RlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coInN0YXJ0Iik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IG93bmVyQ2xpZW50Q29kZSA9ICQoIiNlZGl0LWZvcm0tbmF2aS1jb2RlIFtuYW1lPW93bmVyQ2xpZW50Q29kZV0iKS52YWwoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0eXBlPSJzdWJtaXQiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2luZG93LmFsZXJ0KCQoIiNlZGl0LWZvcm0tbmF2aS1jb2RlIFtuYW1lPW93bmVyQ2xpZW50Q29kZV0iKS52YWwoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aW5kb3cuYWxlcnQoJ+WkseaVlycpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>owner_client_code</last-search>
+      <last-search>input</last-search>
       <last-offset />
-      <last-pattern>owner_client_code</last-pattern>
+      <last-pattern>input</last-pattern>
       <last-replace>let</last-replace>
       <last-substitute>var</last-substitute>
       <last-dir>1</last-dir>
@@ -553,7 +554,6 @@
     </search>
     <history>
       <history-search>
-        <entry>recruit</entry>
         <entry>common</entry>
         <entry>script</entry>
         <entry>scri</entry>
@@ -573,6 +573,7 @@
         <entry>csrf</entry>
         <entry>axios</entry>
         <entry>owner_client_code</entry>
+        <entry>input</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

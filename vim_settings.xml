@@ -306,8 +306,8 @@
         <mark key="." line="16" column="13" />
         <mark key="^" line="16" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/UserRepository.php" timestamp="1567733275517">
-        <mark key="'" line="1144" column="33" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/UserRepository.php" timestamp="1567738159457">
+        <mark key="'" line="1095" column="20" />
         <mark key="[" line="1779" column="45" />
         <mark key="]" line="1779" column="45" />
         <mark key="." line="1779" column="45" />
@@ -441,9 +441,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2130" column="75" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" />
-      <jump line="2133" column="75" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" />
-      <jump line="2391" column="21" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" />
       <jump line="94" column="78" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="1475" column="14" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="1479" column="8" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
@@ -541,6 +538,9 @@
       <jump line="99" column="42" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
       <jump line="1143" column="32" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/UserRepository.php" />
       <jump line="1144" column="33" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/UserRepository.php" />
+      <jump line="1246" column="27" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/UserRepository.php" />
+      <jump line="913" column="20" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/UserRepository.php" />
+      <jump line="1095" column="20" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/UserRepository.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -597,7 +597,6 @@
     </search>
     <history>
       <history-search>
-        <entry>新規</entry>
         <entry>案件</entry>
         <entry>client</entry>
         <entry>更新</entry>
@@ -616,6 +615,7 @@
         <entry>showCreate</entry>
         <entry>getTarget</entry>
         <entry>getUser</entry>
+        <entry>getUserList</entry>
         <entry>getUserListIndex</entry>
       </history-search>
       <history-cmd>

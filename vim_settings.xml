@@ -493,7 +493,7 @@
         <text>い</text>
       </register>
       <register name="/" type="4">
-        <text>input</text>
+        <text>募集</text>
       </register>
       <register name="0" type="4">
         <text>dd('ナビコード');</text>
@@ -530,9 +530,9 @@
       </register>
     </registers>
     <search>
-      <last-search>input</last-search>
+      <last-search>募集</last-search>
       <last-offset />
-      <last-pattern>input</last-pattern>
+      <last-pattern>募集</last-pattern>
       <last-replace>let</last-replace>
       <last-substitute>var</last-substitute>
       <last-dir>1</last-dir>
@@ -540,7 +540,6 @@
     </search>
     <history>
       <history-search>
-        <entry>common</entry>
         <entry>script</entry>
         <entry>scri</entry>
         <entry>create</entry>
@@ -560,6 +559,7 @@
         <entry>axios</entry>
         <entry>owner_client_code</entry>
         <entry>input</entry>
+        <entry>募集</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

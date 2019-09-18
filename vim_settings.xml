@@ -132,11 +132,12 @@
         <mark key="^" line="7" column="50" />
         <mark key="." line="7" column="50" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/users/table.blade.php" timestamp="1562908055779">
-        <mark key="[" line="79" column="20" />
-        <mark key="]" line="79" column="28" />
-        <mark key="." line="79" column="28" />
-        <mark key="^" line="79" column="28" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/users/table.blade.php" timestamp="1568772785219">
+        <mark key="'" line="114" column="53" />
+        <mark key="[" line="118" column="58" />
+        <mark key="]" line="118" column="77" />
+        <mark key="." line="118" column="77" />
+        <mark key="^" line="118" column="77" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Requests/Admin/WorkGroup/DeleteUploadedFile.php" timestamp="1562316357702">
         <mark key="[" line="9" column="24" />
@@ -455,7 +456,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1891" column="42" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/UserRepository.php" />
       <jump line="1900" column="69" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/UserRepository.php" />
       <jump line="1910" column="15" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/UserRepository.php" />
       <jump line="1916" column="40" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/UserRepository.php" />
@@ -555,6 +555,7 @@
       <jump line="1351" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/UserRepository.php" />
       <jump line="1348" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/UserRepository.php" />
       <jump line="1329" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/UserRepository.php" />
+      <jump line="114" column="53" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/users/table.blade.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -564,7 +565,7 @@
         <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>format</text>
+        <text>textarea</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkZm9ybWF0dGVkUmFua0lucHV0ID0gJGZvcm1hdFBlclJhbmtDaGVja0JveElucHV0VXNlY2FzZSgkcmVxdWVzdC0+YWxsKCkpOwo=</text>
@@ -601,9 +602,9 @@
       </register>
     </registers>
     <search>
-      <last-search>format</last-search>
+      <last-search>textarea</last-search>
       <last-offset />
-      <last-pattern>format</last-pattern>
+      <last-pattern>textarea</last-pattern>
       <last-replace>let</last-replace>
       <last-substitute>var</last-substitute>
       <last-dir>1</last-dir>
@@ -611,8 +612,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get</entry>
-        <entry>getUserList</entry>
         <entry>getUserListIndex</entry>
         <entry>score</entry>
         <entry>photographer</entry>
@@ -631,6 +630,8 @@
         <entry>$parameter['worker_type']</entry>
         <entry>parameter['</entry>
         <entry>format</entry>
+        <entry>運営メモ</entry>
+        <entry>textarea</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

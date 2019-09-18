@@ -73,11 +73,11 @@
         <mark key="." line="531" column="0" />
         <mark key="^" line="534" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/sass/foundation/override-bootstrap/_wells.scss" timestamp="1568782595013">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="6" column="2" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/sass/foundation/override-bootstrap/_wells.scss" timestamp="1568784704162">
+        <mark key="[" line="13" column="37" />
+        <mark key="]" line="12" column="16" />
+        <mark key="." line="12" column="16" />
+        <mark key="^" line="12" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/users/news/confirm_create.blade.php" timestamp="1557465479411">
         <mark key="'" line="77" column="9" />
@@ -138,12 +138,12 @@
         <mark key="^" line="7" column="50" />
         <mark key="." line="7" column="50" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/users/table.blade.php" timestamp="1568783069454">
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/users/table.blade.php" timestamp="1568785019266">
         <mark key="'" line="114" column="53" />
-        <mark key="[" line="118" column="38" />
-        <mark key="]" line="118" column="42" />
-        <mark key="." line="118" column="42" />
-        <mark key="^" line="118" column="42" />
+        <mark key="[" line="118" column="50" />
+        <mark key="]" line="118" column="61" />
+        <mark key="." line="118" column="61" />
+        <mark key="^" line="118" column="61" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Requests/Admin/WorkGroup/DeleteUploadedFile.php" timestamp="1562316357702">
         <mark key="[" line="9" column="24" />
@@ -402,17 +402,20 @@
         <mark key="^" line="6" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/steps/assigns/create.blade.php" timestamp="1567733533308" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/public/lib/css/bootstrap.css" timestamp="1568784264802">
+        <mark key="[" line="2556" column="24" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/clients/search.blade.php" timestamp="1565332218395">
         <mark key="[" line="16" column="64" />
         <mark key="]" line="16" column="64" />
         <mark key="." line="16" column="64" />
         <mark key="^" line="16" column="64" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/sass/component/_writerMemo.scss" timestamp="1568783128054">
-        <mark key="[" line="1" column="15" />
-        <mark key="]" line="1" column="7" />
-        <mark key="^" line="1" column="7" />
-        <mark key="." line="1" column="7" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/sass/component/_writerMemo.scss" timestamp="1568785271556">
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="2" column="27" />
+        <mark key="^" line="2" column="27" />
+        <mark key="." line="2" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/develop/group/base.blade.php" timestamp="1557886770323">
         <mark key="[" line="7" column="73" />
@@ -571,10 +574,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>!important;</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>!important;</text>
       </register>
       <register name="/" type="4">
         <text>textarea</text>
@@ -583,31 +586,31 @@
         <text encoding="base64">ICAgICAgICAkZm9ybWF0dGVkUmFua0lucHV0ID0gJGZvcm1hdFBlclJhbmtDaGVja0JveElucHV0VXNlY2FzZSgkcmVxdWVzdC0+YWxsKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBtYXJnaW4tYm90dG9tOiAwOwo=</text>
+        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiAjZWVlZWVlOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkIAo=</text>
+        <text encoding="base64">ICBtYXJnaW4tYm90dG9tOiAwOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGhlaWdodDogMTAwJTsK</text>
+        <text encoding="base64">ICBkIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
+        <text encoding="base64">ICAgIGhlaWdodDogMTAwJTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdG90YWxTY29yZVdoZXJlQXJyYXkgPSBbXTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIWVtcHR5KCRwYXJhbWV0ZXJbXSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAkdG90YWxTY29yZVdoZXJlQXJyYXkgPSBbXTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

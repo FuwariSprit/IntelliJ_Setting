@@ -467,8 +467,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1900" column="69" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/UserRepository.php" />
-      <jump line="1910" column="15" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/UserRepository.php" />
       <jump line="1916" column="40" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/UserRepository.php" />
       <jump line="1922" column="9" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/UserRepository.php" />
       <jump line="1322" column="82" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/UserRepository.php" />
@@ -567,6 +565,8 @@
       <jump line="1348" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/UserRepository.php" />
       <jump line="1329" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/UserRepository.php" />
       <jump line="114" column="53" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/users/table.blade.php" />
+      <jump line="104" column="24" filename="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/work_groups/steps/create/StepFormItem.vue" />
+      <jump line="41" column="20" filename="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/work_groups/steps/create/StepFormItem.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -576,7 +576,7 @@
         <text>o</text>
       </register>
       <register name="/" type="4">
-        <text>es-lint</text>
+        <text>v-for</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkZm9ybWF0dGVkUmFua0lucHV0ID0gJGZvcm1hdFBlclJhbmtDaGVja0JveElucHV0VXNlY2FzZSgkcmVxdWVzdC0+YWxsKCkpOwo=</text>
@@ -613,9 +613,9 @@
       </register>
     </registers>
     <search>
-      <last-search>es-lint</last-search>
+      <last-search>v-for</last-search>
       <last-offset />
-      <last-pattern>es-lint</last-pattern>
+      <last-pattern>v-for</last-pattern>
       <last-replace>let</last-replace>
       <last-substitute>var</last-substitute>
       <last-dir>1</last-dir>
@@ -623,7 +623,6 @@
     </search>
     <history>
       <history-search>
-        <entry>score</entry>
         <entry>photographer</entry>
         <entry>dd (</entry>
         <entry>評価</entry>
@@ -643,6 +642,7 @@
         <entry>運営メモ</entry>
         <entry>textarea</entry>
         <entry>es-lint</entry>
+        <entry>v-for</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

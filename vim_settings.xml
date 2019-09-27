@@ -103,6 +103,7 @@
         <mark key="." line="29" column="47" />
         <mark key="^" line="29" column="47" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/.eslintrc.js" timestamp="1569402916641" />
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/offers/assigns/create.blade.php" timestamp="1560330215986">
         <mark key="'" line="50" column="32" />
       </file>
@@ -126,11 +127,6 @@
         <mark key="." line="115" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/RecruitController.php" timestamp="1565328585206" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/sass/style.scss" timestamp="1568787471173">
-        <mark key="]" line="17" column="28" />
-        <mark key="^" line="17" column="28" />
-        <mark key="." line="17" column="28" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Auth/LoginController.php" timestamp="1569384176937">
         <mark key="[" line="56" column="34" />
         <mark key="]" line="56" column="34" />
@@ -263,10 +259,10 @@
         <mark key="^" line="50" column="41" />
         <mark key="." line="50" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/public/js/login/login_recaptcha.js" timestamp="1569401556294">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="16" />
-        <mark key="." line="23" column="16" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/public/js/login/login_recaptcha.js" timestamp="1569402929219">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
         <mark key="^" line="0" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/Client/FormatClientEdit.php" timestamp="1566982293011">
@@ -289,6 +285,12 @@
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Recruit/RecruitRepository.php" timestamp="1558945534155">
         <mark key="'" line="4" column="22" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/public/js/accounts/entry.js" timestamp="1569403759898">
+        <mark key="[" line="41" column="53" />
+        <mark key="]" line="41" column="60" />
+        <mark key="." line="41" column="60" />
+        <mark key="^" line="41" column="60" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Requests/Admin/Develop/UpdateWriterDirectionRequest.php" timestamp="1557908787270">
         <mark key="[" line="41" column="56" />
@@ -318,11 +320,10 @@
         <mark key="." line="16" column="13" />
         <mark key="^" line="16" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/public/js/accounts/signup.js" timestamp="1569402063761">
-        <mark key="[" line="2" column="25" />
-        <mark key="]" line="3" column="34" />
-        <mark key="." line="3" column="34" />
-        <mark key="^" line="3" column="34" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/public/js/accounts/signup.js" timestamp="1569403011648">
+        <mark key="]" line="8" column="6" />
+        <mark key="." line="8" column="6" />
+        <mark key="^" line="8" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/UserRepository.php" timestamp="1568277952837">
         <mark key="'" line="1329" column="0" />
@@ -460,6 +461,13 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Admin/Work/WorkRepository.php" timestamp="1562572368541">
         <mark key="'" line="187" column="20" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/accounts/entry.blade.php" timestamp="1569403772147">
+        <mark key="'" line="119" column="105" />
+        <mark key="[" line="119" column="105" />
+        <mark key="]" line="119" column="107" />
+        <mark key="^" line="119" column="107" />
+        <mark key="." line="119" column="107" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/login.blade.php" timestamp="1569387598733">
         <mark key="[" line="27" column="87" />
         <mark key="]" line="27" column="89" />
@@ -487,9 +495,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1435" column="34" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/UserRepository.php" />
-      <jump line="54" column="22" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/UserRepository.php" />
-      <jump line="111" column="53" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/UserRepository.php" />
       <jump line="127" column="47" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/UserRepository.php" />
       <jump line="142" column="61" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/UserRepository.php" />
       <jump line="158" column="27" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/UserRepository.php" />
@@ -587,55 +592,58 @@
       <jump line="595" column="0" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
       <jump line="10" column="14" filename="$USER_HOME$/workspace/sagooo_navi/package.json" />
       <jump line="22" column="8" filename="$USER_HOME$/workspace/sagooo_navi/package.json" />
+      <jump line="78" column="102" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/accounts/entry.blade.php" />
+      <jump line="98" column="111" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/accounts/entry.blade.php" />
+      <jump line="119" column="105" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/accounts/entry.blade.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkKCIjcGFzc3dvcmQiKS52YWwoJCgiI3Bhc3N3b3JkIikudmFsKCkudHJpbSgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>git add</text>
+        <text>js-password</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gZXNsaW50LWRpc2FibGUtbmV4dC1saW5lIG5vLXVuZGVmCg==</text>
+        <text encoding="base64">ICAgICAgICAkKCIuanMtcGFzc3dvcmQiKS52YWwoJCgiLmpzLXBhc3N3b3JkIikudmFsKCkudHJpbSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkKCIjcGFzc3dvcmQiKS52YWwoJCgiI3Bhc3N3b3JkIikudmFsKCkudHJpbSgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImdpdCBhZGQiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImdpdCBhZGQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGVzbGludC1kaXNhYmxlLW5leHQtbGluZSBuby11bmRlZgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImdpdCBhZGQiCg==</text>
+        <text encoding="base64">ICAgIC8vIGVzbGludC1kaXNhYmxlLW5leHQtbGluZSBuby11bmRlZgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJsaW50LXN0YWdlZCI6IHsKICAgICAgICAicmVzb3VyY2VzL2Fzc2V0cy9qcy8qKi8qLntqcyx2dWV9IjogWwogICAgICAgICAgICAibnBtIHJ1biBqczpsaW50OmZpeCIsCiAgICAgICAgICAgICJnaXQgYWRkIgogICAgICAgIF0sCiAgICAgICAgInB1YmxpYy9qcy8qKi8qLmpzIjogWwogICAgICAgICAgICAibnBtIHJ1biBqczpsaW50OmZpeCIsCiAgICAgICAgICAgICJnaXQgYWRkIgogICAgICAgIF0sCiAgICAgICAgIioue3Njc3N9IjogWwogICAgICAgICAgICAibnBtIHJ1biBzYXNzOmxpbnQ6Zml4IiwKICAgICAgICAgICAgImdpdCBhZGQiCiAgICAgICAgXQogICAgfSwK</text>
+        <text encoding="base64">Ly8gZXNsaW50LWRpc2FibGUtbmV4dC1saW5lIG5vLXVuZGVmCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJsaW50LXN0YWdlZCI6IHsKICAgICAgICAicmVzb3VyY2VzL2Fzc2V0cy9qcy8qKi8qLntqcyx2dWV9IjogWwogICAgICAgICAgICAibnBtIHJ1biBqczpsaW50OmZpeCIsCiAgICAgICAgICAgICJnaXQgYWRkIgogICAgICAgIF0sCiAgICAgICAgInB1YmxpYy9qcy8qKi8qLmpzIjogWwogICAgICAgICAgICAibnBtIHJ1biBqczpsaW50OmZpeCIsCiAgICAgICAgICAgICJnaXQgYWRkIgogICAgICAgIF0sCiAgICAgICAgIioue3Njc3N9IjogWwogICAgICAgICAgICAibnBtIHJ1biBzYXNzOmxpbnQ6Zml4IiwKICAgICAgICAgICAgImdpdCBhZGQiCiAgICAgICAgXQo=</text>
+        <text encoding="base64">ICAgICAgICAkKCIjcGFzc3dvcmQiKS52YWwoJCgiI3Bhc3N3b3JkIikudmFsKCkudHJpbSgpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkKCIjbWFpbF9hZGRyZXNzIikudmFsKCQoIiNtYWlsX2FkZHJlc3MiKS52YWwudHJpbSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgImdpdCBhZGQiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkKCIjbWFpbF9hZGRyZXNzIikudmFsKCQoIiNtYWlsX2FkZHJlc3MiKS52YWwudHJpbSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgImdpdCBhZGQiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzd29yZC52YWwocGFzc3dvcmQudHJpbSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgImdpdCBhZGQiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>git add</last-search>
+      <last-search>js-password</last-search>
       <last-offset />
-      <last-pattern>git add</last-pattern>
+      <last-pattern>js-password</last-pattern>
       <last-replace>let</last-replace>
       <last-substitute>var</last-substitute>
       <last-dir>1</last-dir>
@@ -643,7 +651,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pluck</entry>
         <entry>search</entry>
         <entry>user.regi</entry>
         <entry>user.register</entry>
@@ -663,6 +670,7 @@
         <entry>help</entry>
         <entry>ログイン</entry>
         <entry>git add</entry>
+        <entry>js-password</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

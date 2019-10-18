@@ -274,6 +274,7 @@
         <mark key="^" line="129" column="51" />
         <mark key="." line="186" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/config/work.php" timestamp="1571381631226" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/User/GetUserScheduledInterviews.php" timestamp="1559894820475">
         <mark key="[" line="8" column="32" />
         <mark key="]" line="32" column="63" />
@@ -696,7 +697,7 @@
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>width</text>
+        <text>interview_genre</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8dGV4dGFyZWEgY2xhc3M9ImZvcm0tY29udHJvbCB0ZXh0LXhzIHdlbGwgd3JpdGVyLW1lbW8iIHJlYWRvbmx5Pnt7JHVzZXItPm1lbW8oKX19PC90ZXh0YXJlYT4K</text>
@@ -733,9 +734,9 @@
       </register>
     </registers>
     <search>
-      <last-search>width</last-search>
+      <last-search>interview_genre</last-search>
       <last-offset />
-      <last-pattern>width</last-pattern>
+      <last-pattern>interview_genre</last-pattern>
       <last-replace>let</last-replace>
       <last-substitute>var</last-substitute>
       <last-dir>1</last-dir>
@@ -743,9 +744,6 @@
     </search>
     <history>
       <history-search>
-        <entry>updateOrCreate</entry>
-        <entry>create</entry>
-        <entry>search</entry>
         <entry>ocupation</entry>
         <entry>getUser</entry>
         <entry>getUserListBySearchParameter</entry>
@@ -763,6 +761,9 @@
         <entry>当日の取材</entry>
         <entry>運営メモ</entry>
         <entry>width</entry>
+        <entry>社長</entry>
+        <entry>注目役職の評価</entry>
+        <entry>interview_genre</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

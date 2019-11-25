@@ -218,8 +218,8 @@
         <mark key="^" line="23" column="46" />
         <mark key="." line="23" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/routes/web.php" timestamp="1573176927198">
-        <mark key="'" line="205" column="8" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/routes/web.php" timestamp="1574658709765">
+        <mark key="'" line="192" column="67" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/database/migrations/2019_11_20_105052_update_mst_order_requests_pay_price_value.php" timestamp="1574217886667">
         <mark key="[" line="33" column="0" />
@@ -382,11 +382,11 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" timestamp="1569830071915">
         <mark key="'" line="2225" column="51" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/CreateAssign.php" timestamp="1574657911303">
-        <mark key="[" line="46" column="33" />
-        <mark key="]" line="46" column="33" />
-        <mark key="^" line="46" column="33" />
-        <mark key="." line="46" column="33" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/CreateAssign.php" timestamp="1574659084641">
+        <mark key="[" line="39" column="5" />
+        <mark key="]" line="40" column="12" />
+        <mark key="." line="40" column="12" />
+        <mark key="^" line="40" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/login.blade.php" timestamp="1571987187323">
         <mark key="[" line="127" column="103" />
@@ -415,8 +415,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1351" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/UserRepository.php" />
-      <jump line="1348" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/UserRepository.php" />
       <jump line="1329" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/UserRepository.php" />
       <jump line="114" column="53" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/users/table.blade.php" />
       <jump line="104" column="24" filename="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/work_groups/steps/create/StepFormItem.vue" />
@@ -515,10 +513,12 @@
       <jump line="102" column="24" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/OfferController.php" />
       <jump line="105" column="57" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/OfferController.php" />
       <jump line="213" column="28" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/OfferController.php" />
+      <jump line="394" column="53" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
+      <jump line="192" column="67" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>n</text>
@@ -530,31 +530,31 @@
         <text encoding="base64">ICAgICAgICBkZCgnYXNzaWduJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgndGVzdCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkYXNzaWduZWREYXRhWyd3b3JrJ10pOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBkZCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJ2NhdGNoJyk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJ3RyeScpOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBkZCgndGVzdCcpOwo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgpOwo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGQoKTsK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJ2NhdGNoJyk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJ3RyeScpOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJ3Rlc3QnKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgndGVzdCcpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -571,7 +571,6 @@
     </search>
     <history>
       <history-search>
-        <entry>納品締切日</entry>
         <entry>検索</entry>
         <entry>showCreate</entry>
         <entry>登録日</entry>
@@ -590,6 +589,7 @@
         <entry>createManner</entry>
         <entry>案件詳細</entry>
         <entry>detail</entry>
+        <entry>createAssign</entry>
         <entry>createAccept</entry>
       </history-search>
       <history-cmd>

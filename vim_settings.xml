@@ -610,12 +610,12 @@
         <mark key="^" line="114" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/works/offer.blade.php" timestamp="1574655611014" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" timestamp="1578460574275">
-        <mark key="'" line="803" column="22" />
-        <mark key="[" line="3686" column="8" />
-        <mark key="]" line="3685" column="96" />
-        <mark key="." line="3685" column="96" />
-        <mark key="^" line="3685" column="96" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" timestamp="1578462526176">
+        <mark key="'" line="820" column="12" />
+        <mark key="[" line="3688" column="0" />
+        <mark key="]" line="3688" column="0" />
+        <mark key="." line="3688" column="0" />
+        <mark key="^" line="3688" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/sass/component/_writerMemo.scss" timestamp="1568785271556">
         <mark key="[" line="2" column="16" />
@@ -661,8 +661,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="35" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/login.blade.php" />
-      <jump line="10" column="35" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/login.blade.php" />
       <jump line="1" column="4" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/login.blade.php" />
       <jump line="8" column="35" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/login.blade.php" />
       <jump line="92" column="31" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/steps/offers/create.blade.php" />
@@ -742,6 +740,7 @@
       <jump line="4672" column="20" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
       <jump line="4678" column="8" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
       <jump line="4695" column="8" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
+      <jump line="4700" column="77" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
       <jump line="4710" column="63" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
       <jump line="4738" column="8" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
       <jump line="4744" column="8" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
@@ -761,10 +760,11 @@
       <jump line="693" column="12" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
       <jump line="731" column="26" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
       <jump line="803" column="22" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
+      <jump line="820" column="12" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAtPnNlbGVjdFJhdygnZHdnaS53b3JrX2dyb3VwX2lkLCBkaXJzLmludGVydmlld19yZWd1bGF0aW9uX3NoZWV0X2lkLCBkaXJzLmRlbGV0ZWRfYXQnKQovLyAgICAgICAgICAgIC0+Z2V0KCdkd2dpLndvcmtfZ3JvdXBfaWQnKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkaGVhcmluZ1NlYXRFeGlzdHNMaXN0KTsK</text>
       </register>
       <register name="-" type="4">
         <text>hearingSeatExistsList</text>
@@ -776,34 +776,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iU3BhY2VyIC1oNCI+PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgIEBpZiAoISR3b3JrWydoZWFyaW5nU2VhdEV4aXN0cyddKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9InRleHQtZGFuZ2VyIiBzdHlsZT0iZm9udC1zaXplOiAxMXB4OyBmb250LXdlaWdodDogYm9sZDsiPkhT5pyq44Ki44OD44OXPC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICBAZW5kaWYK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAtPnNlbGVjdFJhdygnZHdnaS53b3JrX2dyb3VwX2lkLCBkaXJzLmludGVydmlld19yZWd1bGF0aW9uX3NoZWV0X2lkLCBkaXJzLmRlbGV0ZWRfYXQnKQovLyAgICAgICAgICAgIC0+Z2V0KCdkd2dpLndvcmtfZ3JvdXBfaWQnKTsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAtPm1hcFdpdGhLZXlzKGZ1bmN0aW9uICgkaXRlbSkgewovLyAgICAgICAgICAgICAgICAvLyBIU+OCkuWJiumZpOOBl+OBpuOBhOOCi+WgtOWQiOOBp+OCguacquOCouODg+ODl+OBqOOBl+OBpuWIpOWumuOBmeOCiwovLyAgICAgICAgICAgICAgICBpZiAoaXNzZXQoJGl0ZW0tPmRlbGV0ZWRfYXQpKSB7Ci8vICAgICAgICAgICAgICAgICAgICByZXR1cm4gWwovLyAgICAgICAgICAgICAgICAgICAgICAgICRpdGVtLT53b3JrX2dyb3VwX2lkID0+IGZhbHNlCi8vICAgICAgICAgICAgICAgICAgICBdOwovLyAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgICAgIC8vIGludGVydmlld19yZWd1bGF0aW9uX3NoZWV0X2lk44GM5a2Y5Zyo44GX44Gq44GE5aC05ZCI44Gv5pyq44Ki44OD44OXCi8vICAgICAgICAgICAgICAgIGlmIChpc3NldCgkaXRlbS0+aW50ZXJ2aWV3X3JlZ3VsYXRpb25fc2hlZXRfaWQpKSB7Ci8vICAgICAgICAgICAgICAgICAgICByZXR1cm4gWwovLyAgICAgICAgICAgICAgICAgICAgICAgICRpdGVtLT53b3JrX2dyb3VwX2lkID0+IHRydWUKLy8gICAgICAgICAgICAgICAgICAgIF07Ci8vICAgICAgICAgICAgICAgIH0gZWxzZSB7Ci8vICAgICAgICAgICAgICAgICAgICByZXR1cm4gWwovLyAgICAgICAgICAgICAgICAgICAgICAgICRpdGVtLT53b3JrX2dyb3VwX2lkID0+IGZhbHNlCi8vICAgICAgICAgICAgICAgICAgICBdOwovLyAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgfSk7Cgo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBkZCgkaGVhcmluZ1NlYXRFeGlzdHNMaXN0KTsK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAtPnNlbGVjdFJhdygnZHdnaS53b3JrX2dyb3VwX2lkLCBkaXJzLmludGVydmlld19yZWd1bGF0aW9uX3NoZWV0X2lkLCBkaXJzLmRlbGV0ZWRfYXQnKQovLyAgICAgICAgICAgIC0+Z2V0KCdkd2dpLndvcmtfZ3JvdXBfaWQnKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAtPm1hcFdpdGhLZXlzKGZ1bmN0aW9uICgkaXRlbSkgewovLyAgICAgICAgICAgICAgICAvLyBIU+OCkuWJiumZpOOBl+OBpuOBhOOCi+WgtOWQiOOBp+OCguacquOCouODg+ODl+OBqOOBl+OBpuWIpOWumuOBmeOCiwovLyAgICAgICAgICAgICAgICBpZiAoaXNzZXQoJGl0ZW0tPmRlbGV0ZWRfYXQpKSB7Ci8vICAgICAgICAgICAgICAgICAgICByZXR1cm4gWwovLyAgICAgICAgICAgICAgICAgICAgICAgICRpdGVtLT53b3JrX2dyb3VwX2lkID0+IGZhbHNlCi8vICAgICAgICAgICAgICAgICAgICBdOwovLyAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgICAgIC8vIGludGVydmlld19yZWd1bGF0aW9uX3NoZWV0X2lk44GM5a2Y5Zyo44GX44Gq44GE5aC05ZCI44Gv5pyq44Ki44OD44OXCi8vICAgICAgICAgICAgICAgIGlmIChpc3NldCgkaXRlbS0+aW50ZXJ2aWV3X3JlZ3VsYXRpb25fc2hlZXRfaWQpKSB7Ci8vICAgICAgICAgICAgICAgICAgICByZXR1cm4gWwovLyAgICAgICAgICAgICAgICAgICAgICAgICRpdGVtLT53b3JrX2dyb3VwX2lkID0+IHRydWUKLy8gICAgICAgICAgICAgICAgICAgIF07Ci8vICAgICAgICAgICAgICAgIH0gZWxzZSB7Ci8vICAgICAgICAgICAgICAgICAgICByZXR1cm4gWwovLyAgICAgICAgICAgICAgICAgICAgICAgICRpdGVtLT53b3JrX2dyb3VwX2lkID0+IGZhbHNlCi8vICAgICAgICAgICAgICAgICAgICBdOwovLyAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgfSk7Cgo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZ3JvdXBJZExpc3QsICRoZWFyaW5nU2VhdERhdGFMaXN0KTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkaGVhcmluZ1NlYXRFeGlzdHNMaXN0KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkaSA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkZ3JvdXBJZExpc3QsICRoZWFyaW5nU2VhdERhdGFMaXN0KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFpc3NldCgkaGVhcmluZ1NlYXREYXRhTGlzdFskaV0pKSB7CiAgICAgICAgICAgICAgICAkaGVhcmluZ1NlYXRFeGlzdHNMaXN0WyRncm91cElkXSA9IHRydWU7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAkaGVhcmluZ1NlYXRFeGlzdHNMaXN0WyRncm91cElkXSA9IGZhbHNlOwogICAgICAgICAgICB9CiAgICAgICAgICAgICRpKys7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkaSA9IDA7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZ3JvdXBJZExpc3QpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFpc3NldCgkaGVhcmluZ1NlYXREYXRhTGlzdFskaV0pKSB7CiAgICAgICAgICAgICAgICAkaGVhcmluZ1NlYXRFeGlzdHNMaXN0WyRncm91cElkXSA9IHRydWU7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAkaGVhcmluZ1NlYXRFeGlzdHNMaXN0WyRncm91cElkXSA9IGZhbHNlOwogICAgICAgICAgICB9CiAgICAgICAgICAgICRpKys7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5wbHVjaygnd29ya19ncm91cF9pZCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkZ3JvdXBJZExpc3QpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5wbHVjaygnZHdnaS53b3JrX2dyb3VwX2lkJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5wbHVjaygnd29ya19ncm91cF9pZCcpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -817,8 +817,6 @@
     </search>
     <history>
       <history-search>
-        <entry>js-e2e</entry>
-        <entry>手段</entry>
         <entry>評価する</entry>
         <entry>createManner</entry>
         <entry>createAssign</entry>
@@ -836,6 +834,8 @@
         <entry>HS</entry>
         <entry>getWorkData</entry>
         <entry>$data</entry>
+        <entry>forProgress</entry>
+        <entry>forProgre</entry>
         <entry>for</entry>
       </history-search>
       <history-cmd>
@@ -848,8 +848,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>e</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>vs</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />

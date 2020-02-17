@@ -216,7 +216,9 @@
         <mark key="." line="4" column="14" />
         <mark key="^" line="4" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/work_groups/completed.blade.php" timestamp="1581922342734" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/work_groups/completed.blade.php" timestamp="1581926321649">
+        <mark key="'" line="28" column="25" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/works/reviewer_work_before.blade.php" timestamp="1562560744597">
         <mark key="[" line="186" column="0" />
         <mark key="]" line="186" column="129" />
@@ -557,8 +559,12 @@
         <mark key="." line="12" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/.env.testing" timestamp="1579056071728" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" timestamp="1581921876295">
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" timestamp="1581926449204">
         <mark key="'" line="51" column="6" />
+        <mark key="[" line="673" column="45" />
+        <mark key="]" line="673" column="45" />
+        <mark key="." line="673" column="45" />
+        <mark key="^" line="673" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/app/Providers/AuthServiceProvider.php" timestamp="1562293256006">
         <mark key="[" line="87" column="115" />
@@ -797,9 +803,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="65" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/CreateAssign.php" />
-      <jump line="58" column="40" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/CreateAssign.php" />
-      <jump line="211" column="27" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
       <jump line="738" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="739" column="61" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="767" column="61" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
@@ -897,19 +900,22 @@
       <jump line="53" column="35" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
       <jump line="189" column="68" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
       <jump line="195" column="29" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
+      <jump line="82" column="29" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/work_groups/completed.blade.php" />
+      <jump line="42" column="62" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/work_groups/completed.blade.php" />
+      <jump line="28" column="25" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/work_groups/completed.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFJvdXRlOjpnZXQoJy93b3JrX2dyb3Vwcy9jb21wbGV0ZWQnLCAnV29ya0dyb3VwQ29udHJvbGxlckBjb21wbGV0ZWQnKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>completed</text>
+        <text>status</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFJvdXRlOjpnZXQoJy93b3JrX2dyb3Vwcy9jb21wbGV0ZWQnLCAnV29ya0dyb3VwQ29udHJvbGxlckBjb21wbGV0ZWQnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8tPndoZXJlSGFzKCdncm91cC5zdGF0dXMnLCBmdW5jdGlvbiAoJHF1ZXJ5KSB7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIFJvdXRlOjpnZXQoJy93b3JrX2dyb3Vwcy9jb21wbGV0ZWQnLCAnV29ya0dyb3VwQ29udHJvbGxlckBjb21wbGV0ZWQnKTsK</text>
@@ -943,9 +949,9 @@
       </register>
     </registers>
     <search>
-      <last-search>completed</last-search>
+      <last-search>status</last-search>
       <last-offset />
-      <last-pattern>completed</last-pattern>
+      <last-pattern>status</last-pattern>
       <last-replace>let</last-replace>
       <last-substitute>var</last-substitute>
       <last-dir>1</last-dir>
@@ -953,9 +959,6 @@
     </search>
     <history>
       <history-search>
-        <entry>採用待ち</entry>
-        <entry>dd</entry>
-        <entry>getMissingHearingSheet</entry>
         <entry>getWork</entry>
         <entry>HS</entry>
         <entry>getWorkData</entry>
@@ -973,6 +976,9 @@
         <entry>取材先</entry>
         <entry>work_group</entry>
         <entry>completed</entry>
+        <entry>group_status</entry>
+        <entry>groupStatus</entry>
+        <entry>status</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

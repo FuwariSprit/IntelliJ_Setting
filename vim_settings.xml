@@ -622,11 +622,11 @@
         <mark key="." line="12" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/.env.testing" timestamp="1579056071728" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" timestamp="1582098440319">
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" timestamp="1582099662146">
         <mark key="'" line="2030" column="46" />
-        <mark key="[" line="680" column="38" />
-        <mark key="]" line="680" column="38" />
-        <mark key="." line="680" column="38" />
+        <mark key="[" line="674" column="24" />
+        <mark key="]" line="674" column="24" />
+        <mark key="." line="674" column="24" />
         <mark key="^" line="680" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/app/Providers/AuthServiceProvider.php" timestamp="1562293256006">
@@ -994,8 +994,13 @@
       <jump line="2030" column="46" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="8">
+        <text>//
+//
+//
+//
+//
+//</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
@@ -1006,29 +1011,34 @@
       <register name="0" type="4">
         <text>dtb_steps.step_id</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGVtcHR5KCRzdGVwLT5ncm91cCkpIGRkKCRzdGVwLT5ncm91cFN0YXR1cy0+dG9Eb21haW4oKSk7Cgo=</text>
+      <register name="1" type="8">
+        <text>//
+//
+//
+//
+//
+//</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoZ2V0dHlwZSgkc3RlcC0+dG9Eb21haW4oKS0+c3RlcElkKCkpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLT5qb2luKCdkdGJfc3RlcF9wcm9kdWN0cyBhcyBkc3AnLCAnZHNwLnN0ZXBfaWQnLCAnZHRiX3N0ZXBzLnN0ZXBfaWQnKQogICAgICAgICAgICAgICAgICAgICAgICAtPm9yZGVyQnkoJ2RlbGV2ZXJ5X3NjaGVkdWxlZF9hdCcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHN0ZXApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLT5qb2luKCdkdGJfc3RlcF9hc3NpZ25zIGFzIGRzYScsICdkc2Euc3RlcF9pZCcsICdkdGJfc3RlcHMuc3RlcF9pZCcpCiAgICAgICAgICAgICAgICAgICAgICAgIC0+d2hlcmUoJ2RzYS51c2VyX2lkJywgJHVzZXItPnVzZXJJZCgpLT52YWx1ZSgpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHN0ZXAtPmdyb3VwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGVtcHR5KCRzdGVwLT5ncm91cCkpIGRkKCRzdGVwLT5ncm91cFN0YXR1cy0+dG9Eb21haW4oKSk7Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgLy8g5LyB55S75Y2Y5L6h5ZCI6KiI5Y+W5b6XCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoZ2V0dHlwZSgkc3RlcC0+dG9Eb21haW4oKS0+c3RlcElkKCkpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkd29ya3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHN0ZXApOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICdncm91cCcsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHN0ZXAtPmdyb3VwKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHN0ZXBQcm9kdWN0cy0+Zmlyc3QoKS0+dG9Eb21haW4oKSk7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgLy8g5LyB55S75Y2Y5L6h5ZCI6KiI5Y+W5b6XCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBkZCgkd29ya3MpOwo=</text>

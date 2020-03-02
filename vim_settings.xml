@@ -153,10 +153,10 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="32" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" timestamp="1583131272096">
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" timestamp="1583132629025">
         <mark key="'" line="805" column="0" />
-        <mark key="[" line="394" column="41" />
-        <mark key="]" line="394" column="57" />
+        <mark key="[" line="375" column="0" />
+        <mark key="]" line="382" column="20" />
         <mark key="." line="394" column="57" />
         <mark key="^" line="394" column="57" />
       </file>
@@ -219,6 +219,9 @@
         <mark key="]" line="115" column="9" />
         <mark key="^" line="94" column="9" />
         <mark key="." line="115" column="9" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/[2019]アシカ4Q-8/クリエイターはアサインされた案件を未来の案件から順に見たい.md" timestamp="1583132539787">
+        <mark key="'" line="30" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Auth/LoginController.php" timestamp="1571988420492">
         <mark key="[" line="61" column="36" />
@@ -385,6 +388,13 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/[2019]アシカ4Q-1/WGは案件終了後、時間が立ってから記入した案件評価をサマリの評価に反映したい.md" timestamp="1583116742841" />
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/work_groups/steps/create/StepFormList.vue" timestamp="1566957395405">
         <mark key="'" line="239" column="19" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/クリエイター詳細に表示している注目業種の評価件数の取得ロジックが誤っている.md" timestamp="1583133714411">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="18" column="88" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/GetAssignedWorkData.php" timestamp="1582080392750">
         <mark key="[" line="32" column="37" />
@@ -821,12 +831,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2126" column="20" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="3143" column="20" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="3785" column="20" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="4607" column="20" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="4764" column="20" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="4781" column="20" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
       <jump line="4799" column="20" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
       <jump line="4816" column="20" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
       <jump line="4833" column="20" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
@@ -921,57 +925,52 @@
       <jump line="400" column="73" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" />
       <jump line="2019" column="9" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" />
       <jump line="2030" column="46" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" />
+      <jump line="38" column="0" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/クリエイター詳細に表示している注目業種の評価件数の取得ロジックが誤っている.md" />
+      <jump line="14" column="0" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/[2019]アシカ4Q-8/クリエイターはアサインされた案件を未来の案件から順に見たい.md" />
+      <jump line="15" column="0" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/[2019]アシカ4Q-8/クリエイターはアサインされた案件を未来の案件から順に見たい.md" />
+      <jump line="21" column="0" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/[2019]アシカ4Q-8/クリエイターはアサインされた案件を未来の案件から順に見たい.md" />
+      <jump line="28" column="0" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/[2019]アシカ4Q-8/クリエイターはアサインされた案件を未来の案件から順に見たい.md" />
+      <jump line="30" column="0" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/[2019]アシカ4Q-8/クリエイターはアサインされた案件を未来の案件から順に見たい.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>*</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YGAg44GM5a++6LGh566H5omACg==</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>: Collection</text>
       </register>
       <register name="/" type="4">
         <text>assigned</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5kaXN0aW5jdCgnZ2VucmVfaWQnKQo=</text>
+        <text encoding="base64">ICAgICAgICAkc3RlcFdyaXRlckV2YWx1YXRlU3VtbWFyaWVzID0gJHRoaXMtPnN0ZXBFdmFsdWF0ZVN1bW1hcnlFbG9xdWVudAogICAgICAgICAgICAtPmpvaW4oJ2R0Yl9zdGVwcycsICdkdGJfc3RlcHMuc3RlcF9pZCcsICc9JywgJ2R0Yl9zdGVwX2V2YWx1YXRlX3N1bW1hcmllcy5zdGVwX2lkJykKICAgICAgICAgICAgLT5zZWxlY3RSYXcoJ2dlbnJlX2lkLCBjb3VudCgqKSBhcyBnZW5yZV9jb3VudCwgYXZnKHRvdGFsX3Njb3JlKSBhcyBhdmdfdG90YWxfc2NvcmUnKQogICAgICAgICAgICAtPndoZXJlKCd1c2VyX2lkJywgJHVzZXJJZCkKICAgICAgICAgICAgLT53aGVyZSgnc3RlcF90YXJnZXRfaWQnLCBjb25maWcoJ3VzZXJfcmVnaXN0ZXJfaXRlbXMud29ya2VyX3R5cGUud3JpdGVyLmlkJykpCiAgICAgICAgICAgIC0+d2hlcmVOb3ROdWxsKCdnZW5yZV9pZCcpCiAgICAgICAgICAgIC0+Z3JvdXBCeSgnZ2VucmVfaWQnKQogICAgICAgICAgICAtPmdldCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5jb3VudCgpCg==</text>
+        <text encoding="base64">YGAg44GM5a++6LGh566H5omACg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5zZWxlY3QoJ2dlbnJlX2lkJykK</text>
+        <text encoding="base64">LSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC0+ZGlzdGluY3QoJ2dlbnJlX2lkJykK</text>
+        <text encoding="base64">LSAK</text>
       </register>
-      <register name="4" type="8">
-        <text>//
-//
-//</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLT53aGVyZSgndXNlcl9pZCcsICR1c2VySWQpCiAgICAgICAgICAgIC0+d2hlcmUoJ3N0ZXBfdGFyZ2V0X2lkJywgY29uZmlnKCd1c2VyX3JlZ2lzdGVyX2l0ZW1zLndvcmtlcl90eXBlLndyaXRlci5pZCcpKQogICAgICAgICAgICAtPndoZXJlTm90TnVsbCgnZ2VucmVfaWQnKQogICAgICAgICAgICAtPmdyb3VwQnkoJ2dlbnJlX2lkJykKICAgICAgICAgICAgLT5nZXQoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLT5oYXMoJ2Fzc2lnbicpCiAgICAgICAgICAgICAgICAgICAgICAgIC0+CiAgICAgICAgICAgICAgICAgICAgICAgIC0+d2hlcmUoJ3VzZXJfaWQnLCAkdXNlci0+dXNlcklkKCktPnZhbHVlKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAkc3RlcFdyaXRlckV2YWx1YXRlU3VtbWFyaWVzID0gJHRoaXMtPnN0ZXBFdmFsdWF0ZVN1bW1hcnlFbG9xdWVudAogICAgICAgICAgICAtPmpvaW4oJ2R0Yl9zdGVwcycsICdkdGJfc3RlcHMuc3RlcF9pZCcsICc9JywgJ2R0Yl9zdGVwX2V2YWx1YXRlX3N1bW1hcmllcy5zdGVwX2lkJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLT5oYXMoJ3Byb2R1Y3RzJykKICAgICAgICAgICAgICAgICAgICAgICAgLT5wcm9kdWN0cygpCiAgICAgICAgICAgICAgICAgICAgICAgIC0+b3JkZXJCeSgnZGVsaXZlcnlfc2NoZWR1bGVkX2F0JykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT53aGVyZSgndXNlcl9pZCcsICR1c2VySWQpCiAgICAgICAgICAgIC0+d2hlcmUoJ3N0ZXBfdGFyZ2V0X2lkJywgY29uZmlnKCd1c2VyX3JlZ2lzdGVyX2l0ZW1zLndvcmtlcl90eXBlLndyaXRlci5pZCcpKQogICAgICAgICAgICAtPndoZXJlTm90TnVsbCgnZ2VucmVfaWQnKQogICAgICAgICAgICAtPmdyb3VwQnkoJ2dlbnJlX2lkJykKICAgICAgICAgICAgLT5nZXQoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLT5oYXMoJ2dyb3VwLnN0YXR1cycpCg==</text>
+        <text encoding="base64">ICAgICAgICAkc3RlcFdyaXRlckV2YWx1YXRlU3VtbWFyaWVzID0gJHRoaXMtPnN0ZXBFdmFsdWF0ZVN1bW1hcnlFbG9xdWVudAogICAgICAgICAgICAtPmpvaW4oJ2R0Yl9zdGVwcycsICdkdGJfc3RlcHMuc3RlcF9pZCcsICc9JywgJ2R0Yl9zdGVwX2V2YWx1YXRlX3N1bW1hcmllcy5zdGVwX2lkJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLT5hc3NpZ24KICAgICAgICAgICAgICAgICAgICAgICAgLT53aGVyZSgndXNlcl9pZCcsICR1c2VyLT51c2VySWQoKS0+dmFsdWUoKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="8">
-        <text>//
-//
-//
-//
-//
-//
-//
-//
-//
-//</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

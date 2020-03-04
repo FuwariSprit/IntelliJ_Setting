@@ -360,12 +360,12 @@
         <mark key="." line="172" column="72" />
         <mark key="^" line="172" column="72" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" timestamp="1583295096438">
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" timestamp="1583300474952">
         <mark key="'" line="2032" column="46" />
-        <mark key="[" line="682" column="45" />
-        <mark key="]" line="682" column="42" />
-        <mark key="." line="682" column="42" />
-        <mark key="^" line="682" column="42" />
+        <mark key="[" line="692" column="188" />
+        <mark key="]" line="692" column="203" />
+        <mark key="." line="692" column="203" />
+        <mark key="^" line="692" column="203" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/app/Providers/AuthServiceProvider.php" timestamp="1562293256006">
         <mark key="[" line="87" column="115" />
@@ -946,89 +946,57 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>DB::table()</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>DB::table()</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>assigned</text>
       </register>
-      <register name="0" type="4">
-        <text>## 要求
-
-**Who**
-
-**What**
-
-**Why**
-
-## 機能要件
-* 〇〇を登録する際に△△を自動で入力された形にする
-    * △△は〜〜のロジックで自動算出
-
-## 非機能要件
-ほげほげ
-
-## 影響範囲(スコープ)
-* 〇〇の既存の登録画面、及び表示画面
-
-## 〇〇画面
-### 〇〇登録機能
-### 〇〇のバリデーション
-### 〇〇の一覧
-### 〇〇の検索
-※画面遷移図も必要であれば入れる
-
-## 〇〇バッチ
-### 〇〇の非同期処理
-※バッチ実行計画も忘れずに
-
-## 詳細設計
-### テーブル設計
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
-※テーブルでいい感じに
-※indexも忘れずに
-
-
-### 〇〇登録機能設計
-* 〇〇登録機能に必要なものを洗い出していく(レイアーごとにどこにどのような処理を入れていくか書いていく)
-※DFDが必要であれば入れる
-
-## Reference
-* [テスト設計]()
-* [テスト手順]()
-*</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLT5nZXQoWydkcy5zdGVwX2lkJywgJ2R3Zy53b3JrX2dyb3VwX2lkJywgJ3N0ZXBfb3JkZXJfaWQnLCAnc3RlcF90YXJnZXRfaWQnLCAnZmlsZV9uYW1lJywgJ2ZpbGVfcGF0aCcsICdhcHByb3ZhbF9zdGF0dXMnLCAnZHdnLm9wZXJhdG9yX2lkJ10pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLT50b1NxbCgpOwogICAgICAgIGRkKCR3b3Jrcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT50b1NxbCgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyMjIOOAh+OAh+eZu+mMsuapn+iDveioreioiAoqIOOAh+OAh+eZu+mMsuapn+iDveOBq+W/heimgeOBquOCguOBruOCkua0l+OBhOWHuuOBl+OBpuOBhOOBjyjjg6zjgqTjgqLjg7zjgZTjgajjgavjganjgZPjgavjganjga7jgojjgYbjgarlh6bnkIbjgpLlhaXjgozjgabjgYTjgY/jgYvmm7jjgYTjgabjgYTjgY8pCuKAu0RGROOBjOW/heimgeOBp+OBguOCjOOBsOWFpeOCjOOCiwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5nZXQoKTsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">IyMjIOODhuODvOODluODq+ioreioiAp8IENvbHVtbiAxIHwgQ29sdW1uIDIgfCBDb2x1bW4gMyB8CnwgLS0tLS0tLS0gfCAtLS0tLS0tLSB8IC0tLS0tLS0tIHwKfCBUZXh0ICAgICB8IFRleHQgICAgIHwgVGV4dCAgICAgfAoK4oC744OG44O844OW44Or44Gn44GE44GE5oSf44GY44GrCuKAu2luZGV444KC5b+Y44KM44Ga44GrCgoK</text>
+      <register name="3" type="8">
+        <text>//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiMjIOOAh+OAh+eUu+mdogojIyMg44CH44CH55m76Yyy5qmf6IO9CiMjIyDjgIfjgIfjga7jg5Djg6rjg4fjg7zjgrfjg6fjg7MKIyMjIOOAh+OAh+OBruS4gOimpwojIyMg44CH44CH44Gu5qSc57SiCuKAu+eUu+mdoumBt+enu+Wbs+OCguW/heimgeOBp+OBguOCjOOBsOWFpeOCjOOCiwoKIyMg44CH44CH44OQ44OD44OBCiMjIyDjgIfjgIfjga7pnZ7lkIzmnJ/lh6bnkIYK4oC744OQ44OD44OB5a6f6KGM6KiI55S744KC5b+Y44KM44Ga44GrCgo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkd29ya3MpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KiDjgIfjgIfjga7ml6LlrZjjga7nmbvpjLLnlLvpnaLjgIHlj4rjgbPooajnpLrnlLvpnaIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5nZXQoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">44G744GS44G744GSCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkd29ya3MpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KiDjgIfjgIfjgpLnmbvpjLLjgZnjgovpmpvjgavilrPilrPjgpLoh6rli5XjgaflhaXlipvjgZXjgozjgZ/lvaLjgavjgZnjgosKICAgICog4paz4paz44Gv44Cc44Cc44Gu44Ot44K444OD44Kv44Gn6Ieq5YuV566X5Ye6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5zZWxlY3QoJycpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YGAg44GM5a++6LGh566H5omACg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5vcmRlckJ5KCdkc3AuZGVsaXZlcnlfc2NoZWR1bGVkX2F0JywgJ2Rlc2MnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT53aGVyZU51bGwoJ2R3Z3MuZGVsZXRlZF9hdCcpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

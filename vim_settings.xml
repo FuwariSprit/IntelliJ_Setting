@@ -360,12 +360,12 @@
         <mark key="." line="172" column="72" />
         <mark key="^" line="172" column="72" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" timestamp="1583300474952">
-        <mark key="'" line="2032" column="46" />
-        <mark key="[" line="692" column="188" />
-        <mark key="]" line="692" column="203" />
-        <mark key="." line="692" column="203" />
-        <mark key="^" line="692" column="203" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" timestamp="1583304077554">
+        <mark key="'" line="656" column="0" />
+        <mark key="[" line="696" column="8" />
+        <mark key="]" line="696" column="8" />
+        <mark key="." line="696" column="8" />
+        <mark key="^" line="696" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/app/Providers/AuthServiceProvider.php" timestamp="1562293256006">
         <mark key="[" line="87" column="115" />
@@ -843,10 +843,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4901" column="20" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="4953" column="20" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="5011" column="20" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="3767" column="23" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
       <jump line="794" column="22" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
       <jump line="3683" column="29" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
       <jump line="405" column="8" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
@@ -943,13 +939,17 @@
       <jump line="22" column="7" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/Templates/3_ 開発チケット/仕様書.md" />
       <jump line="10" column="0" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/Templates/3_ 開発チケット/仕様書.md" />
       <jump line="46" column="0" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/クリエイターはアサインされた案件を未来の案件から順に見たいの高速化.md" />
+      <jump line="683" column="8" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" />
+      <jump line="693" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" />
+      <jump line="681" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" />
+      <jump line="656" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>assigned</text>
@@ -958,12 +958,9 @@
         <text encoding="base64">ICAgICAgICAgICAgLT5nZXQoWydkcy5zdGVwX2lkJywgJ2R3Zy53b3JrX2dyb3VwX2lkJywgJ3N0ZXBfb3JkZXJfaWQnLCAnc3RlcF90YXJnZXRfaWQnLCAnZmlsZV9uYW1lJywgJ2ZpbGVfcGF0aCcsICdhcHByb3ZhbF9zdGF0dXMnLCAnZHdnLm9wZXJhdG9yX2lkJ10pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT50b1NxbCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5nZXQoKTsK</text>
-      </register>
-      <register name="3" type="8">
+      <register name="2" type="8">
         <text>//
 //
 //
@@ -980,23 +977,26 @@
 //
 //</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHdvcmstPnRvRG9tYWluKCkpOwo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkd29ya3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5nZXQoKTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBkZCgkd29ya3MpOwo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8tPmdldChbJ2RzLnN0ZXBfaWQnLCAnZHdnLndvcmtfZ3JvdXBfaWQnLCAnc3RlcF9vcmRlcl9pZCcsICdzdGVwX3RhcmdldF9pZCcsICdmaWxlX25hbWUnLCAnZmlsZV9wYXRoJywgJ2FwcHJvdmFsX3N0YXR1cycsICdkd2cub3BlcmF0b3JfaWQnXSk7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5zZWxlY3QoJycpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT50b1NxbCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5vcmRlckJ5KCdkc3AuZGVsaXZlcnlfc2NoZWR1bGVkX2F0JywgJ2Rlc2MnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT50b1NxbCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT53aGVyZU51bGwoJ2R3Z3MuZGVsZXRlZF9hdCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5nZXQoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

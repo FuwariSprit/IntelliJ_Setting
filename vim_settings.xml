@@ -201,8 +201,8 @@
         <mark key="." line="172" column="72" />
         <mark key="^" line="172" column="72" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/layout/works/work_detail.blade.php" timestamp="1583481592545">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/layout/works/work_detail.blade.php" timestamp="1583743175243">
+        <mark key="'" line="252" column="151" />
         <mark key="[" line="18" column="153" />
         <mark key="]" line="18" column="160" />
         <mark key="." line="18" column="160" />
@@ -323,11 +323,11 @@
         <mark key="^" line="31" column="34" />
         <mark key="." line="31" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/layout/admin/works/detail.blade.php" timestamp="1583740603807">
-        <mark key="'" line="205" column="45" />
-        <mark key="[" line="26" column="18" />
-        <mark key="]" line="26" column="23" />
-        <mark key="." line="26" column="23" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/layout/admin/works/detail.blade.php" timestamp="1583743154998">
+        <mark key="'" line="66" column="34" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="16" />
+        <mark key="." line="18" column="16" />
         <mark key="^" line="26" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/database/migrations/2020_01_22_101538_update_mst_evaluate_questions_question.php" timestamp="1579832957952">
@@ -667,11 +667,11 @@
         <mark key="." line="72" column="28" />
         <mark key="^" line="72" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/sass/service/component/_QuestionSign.scss" timestamp="1583740852242">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="14" column="18" />
-        <mark key="." line="14" column="18" />
-        <mark key="^" line="14" column="18" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/sass/service/component/_QuestionSign.scss" timestamp="1583742924888">
+        <mark key="[" line="7" column="25" />
+        <mark key="]" line="7" column="23" />
+        <mark key="." line="7" column="23" />
+        <mark key="^" line="7" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/clients/client/edit/Index.vue" timestamp="1567138917359">
         <mark key="'" line="45" column="29" />
@@ -866,14 +866,6 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/sass/service/component/_WriterMemo.scss" timestamp="1583475726744" />
     </filemarks>
     <jumps>
-      <jump line="3757" column="12" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="3753" column="8" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="3684" column="7" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="4672" column="20" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="4678" column="8" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="4695" column="8" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="4700" column="77" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="4710" column="63" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
       <jump line="4738" column="8" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
       <jump line="4744" column="8" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
       <jump line="414" column="8" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
@@ -966,16 +958,24 @@
       <jump line="82" column="39" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/クリエイターはアサインされた案件を未来の案件から順に見たいの高速化.md" />
       <jump line="704" column="13" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" />
       <jump line="200" column="45" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/layout/admin/works/detail.blade.php" />
+      <jump line="13" column="16" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/layout/admin/works/detail.blade.php" />
+      <jump line="20" column="12" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/layout/admin/works/detail.blade.php" />
+      <jump line="66" column="34" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/layout/admin/works/detail.blade.php" />
+      <jump line="11" column="33" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/layout/works/work_detail.blade.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/layout/works/work_detail.blade.php" />
+      <jump line="195" column="71" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/layout/works/work_detail.blade.php" />
+      <jump line="193" column="25" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/layout/works/work_detail.blade.php" />
+      <jump line="252" column="151" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/layout/works/work_detail.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">UXVlc3Rpb24K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>基本</text>
+        <text>small</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkd29ya3MgPSAkd29ya3MtPnNvcnRCeURlc2MoZnVuY3Rpb24gKCR3b3JrKSB7CiAgICAgICAgICAgIHJldHVybiAkd29ya1snd29yayddLT5pbnRlcnZpZXdTdGFydEF0KCk7CiAgICAgICAgfSk7Cg==</text>
@@ -1014,9 +1014,9 @@
       </register>
     </registers>
     <search>
-      <last-search>基本</last-search>
+      <last-search>small</last-search>
       <last-offset />
-      <last-pattern>基本</last-pattern>
+      <last-pattern>small</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>completed</last-substitute>
       <last-dir>1</last-dir>
@@ -1024,7 +1024,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx7XD4=</entry>
         <entry>var</entry>
         <entry>CreatorPaymentRecord__list</entry>
         <entry>nowSelect</entry>
@@ -1044,6 +1043,7 @@
         <entry>completed</entry>
         <entry>assigned</entry>
         <entry>基本</entry>
+        <entry>small</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

@@ -294,8 +294,12 @@
         <mark key="^" line="67" column="73" />
         <mark key="." line="67" column="73" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" timestamp="1585718869495">
-        <mark key="'" line="294" column="0" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" timestamp="1585805458726">
+        <mark key="'" line="194" column="29" />
+        <mark key="[" line="812" column="0" />
+        <mark key="]" line="812" column="0" />
+        <mark key="." line="812" column="0" />
+        <mark key="^" line="812" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Requests/Admin/User/SearchUserRequest.php" timestamp="1568275397626">
         <mark key="[" line="31" column="0" />
@@ -834,61 +838,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="93" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/reward/index.blade.php" />
-      <jump line="24" column="204" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/reward/index.blade.php" />
-      <jump line="167" column="36" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/reward/index.blade.php" />
-      <jump line="165" column="81" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/reward/index.blade.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sagooo_navi/config/user_top_items.php" />
-      <jump line="3" column="5" filename="$USER_HOME$/workspace/sagooo_navi/config/user_top_items.php" />
-      <jump line="53" column="35" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
-      <jump line="189" column="68" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
-      <jump line="195" column="29" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
-      <jump line="82" column="29" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/work_groups/completed.blade.php" />
-      <jump line="42" column="62" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/work_groups/completed.blade.php" />
-      <jump line="28" column="25" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/work_groups/completed.blade.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/navbar.blade.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/index.blade.php" />
-      <jump line="126" column="61" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/index.blade.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/works/progress_table.blade.php" />
-      <jump line="240" column="14" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/WorkGroupController.php" />
-      <jump line="2" column="15" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/work_groups/assigned.blade.php" />
-      <jump line="104" column="8" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/work_groups/assigned.blade.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/work_groups/assigned.blade.php" />
-      <jump line="46" column="5" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Admin/Work/WorkRepository.php" />
-      <jump line="49" column="35" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Admin/Work/WorkRepository.php" />
-      <jump line="56" column="41" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Admin/Work/WorkRepository.php" />
-      <jump line="23" column="10" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Work/WorkRepository.php" />
-      <jump line="42" column="20" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Work/WorkRepository.php" />
-      <jump line="51" column="54" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" />
-      <jump line="16" column="40" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" />
-      <jump line="2923" column="9" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" />
-      <jump line="2935" column="35" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" />
-      <jump line="2938" column="26" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" />
-      <jump line="2943" column="34" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" />
-      <jump line="3179" column="13" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" />
-      <jump line="3180" column="24" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" />
-      <jump line="3181" column="58" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" />
-      <jump line="3182" column="57" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" />
-      <jump line="3285" column="31" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" />
-      <jump line="3303" column="17" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" />
-      <jump line="348" column="9" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" />
-      <jump line="399" column="13" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" />
-      <jump line="400" column="73" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" />
-      <jump line="2019" column="9" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" />
-      <jump line="2030" column="46" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" />
-      <jump line="38" column="0" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/クリエイター詳細に表示している注目業種の評価件数の取得ロジックが誤っている.md" />
-      <jump line="14" column="0" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/[2019]アシカ4Q-8/クリエイターはアサインされた案件を未来の案件から順に見たい.md" />
-      <jump line="15" column="0" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/[2019]アシカ4Q-8/クリエイターはアサインされた案件を未来の案件から順に見たい.md" />
-      <jump line="21" column="0" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/[2019]アシカ4Q-8/クリエイターはアサインされた案件を未来の案件から順に見たい.md" />
-      <jump line="28" column="0" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/[2019]アシカ4Q-8/クリエイターはアサインされた案件を未来の案件から順に見たい.md" />
-      <jump line="30" column="0" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/[2019]アシカ4Q-8/クリエイターはアサインされた案件を未来の案件から順に見たい.md" />
-      <jump line="22" column="7" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/Templates/3_ 開発チケット/仕様書.md" />
-      <jump line="10" column="0" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/Templates/3_ 開発チケット/仕様書.md" />
-      <jump line="46" column="0" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/クリエイターはアサインされた案件を未来の案件から順に見たいの高速化.md" />
-      <jump line="683" column="8" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" />
-      <jump line="693" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" />
-      <jump line="681" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" />
-      <jump line="656" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" />
       <jump line="709" column="8" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" />
       <jump line="82" column="39" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/クリエイターはアサインされた案件を未来の案件から順に見たいの高速化.md" />
       <jump line="704" column="13" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" />
@@ -902,6 +851,21 @@
       <jump line="193" column="25" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/layout/works/work_detail.blade.php" />
       <jump line="252" column="151" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/layout/works/work_detail.blade.php" />
       <jump line="30" column="6" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="281" column="28" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="892" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="883" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="870" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="864" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="859" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="851" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="845" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="841" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="822" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="819" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="909" column="45" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="159" column="34" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="24" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="28" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
       <jump line="33" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
       <jump line="38" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
       <jump line="43" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
@@ -932,57 +896,97 @@
       <jump line="247" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
       <jump line="269" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
       <jump line="272" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
-      <jump line="297" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
       <jump line="294" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="297" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="319" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="325" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="328" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="350" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="353" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="368" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="379" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="384" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="406" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="409" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="431" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="434" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="455" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="931" column="21" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="981" column="34" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="1025" column="56" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="1032" column="70" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="1034" column="28" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="1045" column="42" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="9" column="43" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="10" column="43" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="11" column="43" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="12" column="43" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="13" column="43" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="25" column="15" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="45" column="15" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="50" column="15" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="55" column="15" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="70" column="15" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="87" column="17" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="91" column="17" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="92" column="17" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="93" column="17" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="96" column="17" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="101" column="11" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="105" column="11" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="106" column="11" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="107" column="11" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="110" column="11" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
+      <jump line="194" column="29" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0aD7lj5bmnZDlhYjkvY/miYA8L3RoPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>calculateStepEvaluteTotalScore</text>
+        <text>Step</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0aD7lj5bmnZDlhYjkvY/miYA8L3RoPgo=</text>
+      <register name="0" type="4">
+        <text>$scoreDatas[$userId][$stepTargetId]['total_score']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KiB7d29yZC1icmVhazogYnJlYWstd29yZH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ci8vIC0tLS0tLS0tLS0tLS0KLy8gd29yZC1icmVhawovLyAtLS0tLS0tLS0tLS0tCiR3b3JkLWJyZWFrLWJyZWFrLXdvcmQK</text>
+        <text encoding="base64">CiAgICAgICAgLy8vLyDmoKHmraPogIXjga7loLTlkIjjga/nt4/lkIjoqZXkvqHlrZjlnKjjgZfjgarjgYTku5bjgIHosqzku7vmhJ/jgpLlkKvjgoHjgarjgYTjga7jgafjgIHmraPnorrmgKfjga7jgb/jga7jgrnjgrPjgqLjgpLnt4/lkIjoqZXkvqHjgajjgZnjgosKICAgICAgICAvL2lmICgkc3RlcFRhcmdldElkID09PSBjb25maWcoJ3VzZXJfcmVnaXN0ZXJfaXRlbXMud29ya2VyX3R5cGUucmV2aWV3ZXIuaWQnKSkgewogICAgICAgIC8vICAgIHVuc2V0KCRzY29yZURhdGFzWyR1c2VySWRdWyRzdGVwVGFyZ2V0SWRdWydxdWFsaXR5X3Njb3JlJ10sICRzY29yZURhdGFzWyR1c2VySWRdWyRzdGVwVGFyZ2V0SWRdWydtYW5uZXJfc2NvcmUnXSk7CiAgICAgICAgLy8gICAgJHNjb3JlRGF0YXNbJHVzZXJJZF1bJHN0ZXBUYXJnZXRJZF1bJ3RvdGFsX3Njb3JlJ10gPSAkc2NvcmVEYXRhc1skdXNlcklkXVskc3RlcFRhcmdldElkXVsncHJlY2lzaW9uJ107CiAgICAgICAgLy99CgogICAgICAgIC8vLy8gVE9ETzog5LqL5qWt6YOo44GL44KJR0/jgrXjgqTjg7PjgYzlh7rmrKHnrKzjgIHjg5Xjgqnjg4jjgrDjg6njg5XjgqHjg7zjgoLntI3lk4HnianoqZXkvqHjgpLogIPmha7jgZnjgovku5Xmp5jjgbjlpInmm7QgQG9vdHN1LmthenVraQogICAgICAgIC8vLy8gaHR0cHM6Ly9iaXRidWNrZXQub3JnL3dpbGxnYXRldGVhbXZpZXRudW0vc2Fnb29vX25hdmkvcHVsbC1yZXF1ZXN0cy8xNzU5L2RvbmUvZGlmZiNMcGFja2FnZXMvU2Fnb29vTmF2aS9JbmZyYXN0cnVjdHVyZS9SZXBvc2l0b3JpZXMvRG9tYWluL0Vsb3F1ZW50L0V2YWx1YXRlUmVwb3NpdG9yeS5waHBGMzcwVDQyNQogICAgICAgIC8vLy8g44Op44Kk44K/44O844Go44OV44Kp44OI44Kw44Op44OV44Kh44O844Gu5aC05ZCI44Gv44CB57SN5ZOB54mp6KmV5L6h44Go54++5aC06KmV5L6h44KS5bmz5Z2H44GX44Gf5YCk44KS57eP5ZCI6KmV5L6h44Go44GZ44KLCiAgICAgICAgLy8vLyDniYfmlrnjgZfjgYvoqZXkvqHjgYzjgarjgZHjgozjgbDjgIHjgZ3jga7oqZXkvqHjgpLnt4/lkIjoqZXkvqHjgajjgZnjgosKICAgICAgICAvLy8vaWYgKGluX2FycmF5KCRzdGVwVGFyZ2V0SWQsIFsKICAgICAgICAvLy8vICAgIGNvbmZpZygndXNlcl9yZWdpc3Rlcl9pdGVtcy53b3JrZXJfdHlwZS5waG90b2dyYXBoZXIuaWQnKSwKICAgICAgICAvLy8vICAgIGNvbmZpZygndXNlcl9yZWdpc3Rlcl9pdGVtcy53b3JrZXJfdHlwZS53cml0ZXIuaWQnKQogICAgICAgIC8vLy9dKSkgewogICAgICAgIC8vLy8g44OV44Kp44OI44Kw44Op44OV44Kh44O844Gu5aC05ZCI44Gv57SN5ZOB54mp6KmV5L6h44GM54++54q26YeN6KaB44Gn44Gv44Gq44GE44Gu44Gn44CB54++5aC06KmV5L6h44KS57eP5ZCI6KmV5L6h44Go44GZ44KLCiAgICAgICAgLy9pZiAoJHN0ZXBUYXJnZXRJZCA9PT0gY29uZmlnKCd1c2VyX3JlZ2lzdGVyX2l0ZW1zLndvcmtlcl90eXBlLnBob3RvZ3JhcGhlci5pZCcpKSB7CiAgICAgICAgLy8gICAgJHNjb3JlRGF0YXNbJHVzZXJJZF1bJHN0ZXBUYXJnZXRJZF1bJ3RvdGFsX3Njb3JlJ10gPSAkbWFubmVyU2NvcmU7CiAgICAgICAgLy99CgogICAgICAgIC8vLy8g44Op44Kk44K/44O844Gu5aC05ZCI44Gv44CB57SN5ZOB54mp6KmV5L6h44Go54++5aC06KmV5L6h44KS5bmz5Z2H44GX44Gf5YCk44KS57eP5ZCI6KmV5L6h44Go44GZ44KLCiAgICAgICAgLy8vLyDjgZ/jgaDjgZfjgIHntI3lk4HnianoqZXkvqHjgajnj77loLToqZXkvqHjganjgaHjgonjgYvjga7oqZXkvqHjgZfjgYvjgarjgYTloLTlkIjjga/jgIHniYfmlrnjga7oqZXkvqHjgaDjgZHjgafnt4/lkIjoqZXkvqHjgpLnrpflh7rjgZnjgovjg63jgrjjg4Pjgq/jgpLkvb/jgYYKICAgICAgICAvL2lmICgkc3RlcFRhcmdldElkID09PSBjb25maWcoJ3VzZXJfcmVnaXN0ZXJfaXRlbXMud29ya2VyX3R5cGUud3JpdGVyLmlkJykpIHsKICAgICAgICAvLyAgICAkc2NvcmVEYXRhc1skdXNlcklkXVskc3RlcFRhcmdldElkXVsndG90YWxfc2NvcmUnXSA9IDAuMDsKICAgICAgICAvLyAgICBpZiAoIWVtcHR5KCRtYW5uZXJTY29yZSkgJiYgZW1wdHkoJHF1YWxpdHlTY29yZSkpIHsKICAgICAgICAvLyAgICAgICAgJHRvdGFsU2NvcmVEb21haW4gPSBuZXcgVG90YWxTY29yZSgkbWFubmVyU2NvcmUsICRzdGVwVGFyZ2V0SWQpOwogICAgICAgIC8vICAgICAgICAkc2NvcmVEYXRhc1skdXNlcklkXVskc3RlcFRhcmdldElkXVsndG90YWxfc2NvcmUnXSA9IChmbG9hdCkoJHRvdGFsU2NvcmVEb21haW4tPm9ubHlNYW5uZXJUb3RhbFNjb3JlIC8gMTAwKTsKICAgICAgICAvLyAgICB9CgogICAgICAgIC8vICAgIGlmIChlbXB0eSgkbWFubmVyU2NvcmUpICYmICFlbXB0eSgkcXVhbGl0eVNjb3JlKSkgewogICAgICAgIC8vICAgICAgICAkdG90YWxTY29yZURvbWFpbiA9IG5ldyBUb3RhbFNjb3JlKCRxdWFsaXR5U2NvcmUsICRzdGVwVGFyZ2V0SWQpOwogICAgICAgIC8vICAgICAgICAkc2NvcmVEYXRhc1skdXNlcklkXVskc3RlcFRhcmdldElkXVsndG90YWxfc2NvcmUnXSA9IChmbG9hdCkoJHRvdGFsU2NvcmVEb21haW4tPm9ubHlRdWFsaXR5VG90YWxTY29yZSAvIDEwMCk7CiAgICAgICAgLy8gICAgfQoKICAgICAgICAvLyAgICBpZiAoIWVtcHR5KCRtYW5uZXJTY29yZSkgJiYgIWVtcHR5KCRxdWFsaXR5U2NvcmUpKSB7CiAgICAgICAgLy8gICAgICAgIC8vIE1FTU86IOWOn+eov+ipleS+oeOBrumHjeOBv+OCkuWwkeOBquOBj+OBmeOCi+OBn+OCgTEvMuOBq+OBmeOCiwogICAgICAgIC8vICAgICAgICAkc2NvcmVEYXRhc1skdXNlcklkXVskc3RlcFRhcmdldElkXVsndG90YWxfc2NvcmUnXSA9ICgkbWFubmVyU2NvcmUgKyAoJHF1YWxpdHlTY29yZSAvIDIpKSAvIDI7CiAgICAgICAgLy8gICAgfQogICAgICAgIC8vfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Knt3b3JkLWJyZWFrOiB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">JGJyZWFrCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkc3RlcFRhcmdldElkLCAkbWFubmVyU2NvcmUsICRxdWFsaXR5U2NvcmUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gCi8vCi8vCg==</text>
+        <text encoding="base64">ICAgICAgICBkZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">JHRlc3Q6IGJyZWFrLXdvcmQ7CiogewogICAgd29yZC1icmVhazogJHRlc3Q7Cn0K</text>
+        <text encoding="base64">ICAgICAgICAkd29ya0NvdW50QnlVc2VyID0gJHRoaXMtPmNhbGN1bGF0ZVdvcmtDb3VudEJ5VXNlcnMoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">JGNvbG9yID0gcmdiYQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRzY29yZURhdGFzWyR1c2VySWRdW10gY2FsY3VsYXRlU3RlcEV2YWx1YXRlVG90YWxTY29yZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>calculateStepEvaluteTotalScore</last-search>
+      <last-search>Step</last-search>
       <last-offset />
-      <last-pattern>calculateStepEvaluteTotalScore</last-pattern>
+      <last-pattern>Step</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>completed</last-substitute>
       <last-dir>1</last-dir>
@@ -990,9 +994,6 @@
     </search>
     <history>
       <history-search>
-        <entry>nowSelect</entry>
-        <entry>yearAnd</entry>
-        <entry>$now</entry>
         <entry>取材先</entry>
         <entry>work_group</entry>
         <entry>group_status</entry>
@@ -1010,6 +1011,9 @@
         <entry>small</entry>
         <entry>Grypicon</entry>
         <entry>calculateStepEvaluteTotalScore</entry>
+        <entry>if ($stepTargetId === config('user_register_items.worker_type.writer.id')</entry>
+        <entry>calculateWorkCountByUsers</entry>
+        <entry>Step</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

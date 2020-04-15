@@ -462,6 +462,7 @@
         <mark key="." line="72" column="28" />
         <mark key="^" line="72" column="28" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Routes/ApprovalOperatorRoutes.php" timestamp="1586940931592" />
       <file name="$USER_HOME$/workspace/sagooo_navi/config/user_login.php" timestamp="1571980522365">
         <mark key="[" line="4" column="14" />
         <mark key="]" line="4" column="14" />
@@ -801,6 +802,9 @@
         <mark key="^" line="29" column="49" />
         <mark key="." line="29" column="49" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/ApprovalOperator/AppApprovalOperatorController.php" timestamp="1586940953525">
+        <mark key="'" line="156" column="49" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/users/search.blade.php" timestamp="1570778268237">
         <mark key="'" line="224" column="125" />
         <mark key="[" line="217" column="71" />
@@ -855,16 +859,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="43" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
-      <jump line="25" column="15" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
-      <jump line="45" column="15" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
-      <jump line="50" column="15" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
-      <jump line="55" column="15" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
-      <jump line="70" column="15" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
-      <jump line="87" column="17" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
-      <jump line="91" column="17" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
-      <jump line="92" column="17" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
-      <jump line="93" column="17" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
       <jump line="96" column="17" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
       <jump line="101" column="11" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
       <jump line="105" column="11" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
@@ -955,6 +949,16 @@
       <jump line="1591" column="27" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/FrontRoutes.php" />
       <jump line="1511" column="24" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/FrontRoutes.php" />
       <jump line="1583" column="24" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/FrontRoutes.php" />
+      <jump line="16" column="6" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/ApprovalOperator/AppApprovalOperatorController.php" />
+      <jump line="19" column="12" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/ApprovalOperator/AppApprovalOperatorController.php" />
+      <jump line="39" column="17" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/ApprovalOperator/AppApprovalOperatorController.php" />
+      <jump line="41" column="37" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/ApprovalOperator/AppApprovalOperatorController.php" />
+      <jump line="45" column="37" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/ApprovalOperator/AppApprovalOperatorController.php" />
+      <jump line="48" column="17" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/ApprovalOperator/AppApprovalOperatorController.php" />
+      <jump line="84" column="15" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/ApprovalOperator/AppApprovalOperatorController.php" />
+      <jump line="87" column="43" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/ApprovalOperator/AppApprovalOperatorController.php" />
+      <jump line="116" column="20" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/ApprovalOperator/AppApprovalOperatorController.php" />
+      <jump line="156" column="49" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/ApprovalOperator/AppApprovalOperatorController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -964,7 +968,7 @@
         <text>行</text>
       </register>
       <register name="/" type="4">
-        <text>join</text>
+        <text>login</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC0+aGFzKCdncm91cCcpCg==</text>
@@ -1001,9 +1005,9 @@
       </register>
     </registers>
     <search>
-      <last-search>join</last-search>
+      <last-search>login</last-search>
       <last-offset />
-      <last-pattern>join</last-pattern>
+      <last-pattern>login</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>completed</last-substitute>
       <last-dir>1</last-dir>
@@ -1011,7 +1015,6 @@
     </search>
     <history>
       <history-search>
-        <entry>assigned</entry>
         <entry>基本</entry>
         <entry>small</entry>
         <entry>Grypicon</entry>
@@ -1031,6 +1034,7 @@
         <entry>registMailAddress</entry>
         <entry>index</entry>
         <entry>join</entry>
+        <entry>login</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

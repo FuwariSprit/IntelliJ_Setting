@@ -380,6 +380,13 @@
         <mark key="^" line="2" column="36" />
         <mark key="." line="2" column="36" />
       </file>
+      <file name="$USER_HOME$/workspace/sawa_renewal/works/app/controllers/client/client_controller.php" timestamp="1587013817987">
+        <mark key="'" line="466" column="0" />
+        <mark key="[" line="681" column="9" />
+        <mark key="]" line="681" column="10" />
+        <mark key="^" line="681" column="10" />
+        <mark key="." line="681" column="10" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepositoryTest.php" timestamp="1585880767138">
         <mark key="[" line="2" column="10" />
         <mark key="]" line="2" column="10" />
@@ -750,7 +757,7 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" timestamp="1585820978946">
         <mark key="'" line="2305" column="57" />
       </file>
-      <file name="/Dummy.txt" timestamp="1586918591034">
+      <file name="/Dummy.txt" timestamp="1587013395867">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/UI/ViewModels/RewardIndexViewModel.php" timestamp="1581658652171">
@@ -859,24 +866,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="17" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
-      <jump line="101" column="11" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
-      <jump line="105" column="11" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
-      <jump line="106" column="11" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
-      <jump line="107" column="11" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
-      <jump line="110" column="11" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
-      <jump line="194" column="29" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" />
-      <jump line="65" column="6" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="1132" column="18" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="1156" column="26" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="1165" column="18" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="1271" column="41" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="1408" column="66" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="1418" column="94" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="1497" column="9" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="1500" column="17" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="1563" column="53" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="1579" column="45" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
       <jump line="1877" column="18" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
       <jump line="1881" column="18" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
       <jump line="1918" column="15" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
@@ -959,25 +948,43 @@
       <jump line="87" column="43" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/ApprovalOperator/AppApprovalOperatorController.php" />
       <jump line="116" column="20" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/ApprovalOperator/AppApprovalOperatorController.php" />
       <jump line="156" column="49" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/ApprovalOperator/AppApprovalOperatorController.php" />
+      <jump line="459" column="4" filename="$USER_HOME$/workspace/sawa_renewal/works/app/controllers/client/client_controller.php" />
+      <jump line="471" column="19" filename="$USER_HOME$/workspace/sawa_renewal/works/app/controllers/client/client_controller.php" />
+      <jump line="475" column="19" filename="$USER_HOME$/workspace/sawa_renewal/works/app/controllers/client/client_controller.php" />
+      <jump line="489" column="19" filename="$USER_HOME$/workspace/sawa_renewal/works/app/controllers/client/client_controller.php" />
+      <jump line="517" column="19" filename="$USER_HOME$/workspace/sawa_renewal/works/app/controllers/client/client_controller.php" />
+      <jump line="514" column="0" filename="$USER_HOME$/workspace/sawa_renewal/works/app/controllers/client/client_controller.php" />
+      <jump line="510" column="0" filename="$USER_HOME$/workspace/sawa_renewal/works/app/controllers/client/client_controller.php" />
+      <jump line="504" column="0" filename="$USER_HOME$/workspace/sawa_renewal/works/app/controllers/client/client_controller.php" />
+      <jump line="501" column="0" filename="$USER_HOME$/workspace/sawa_renewal/works/app/controllers/client/client_controller.php" />
+      <jump line="496" column="0" filename="$USER_HOME$/workspace/sawa_renewal/works/app/controllers/client/client_controller.php" />
+      <jump line="494" column="0" filename="$USER_HOME$/workspace/sawa_renewal/works/app/controllers/client/client_controller.php" />
+      <jump line="491" column="0" filename="$USER_HOME$/workspace/sawa_renewal/works/app/controllers/client/client_controller.php" />
+      <jump line="484" column="0" filename="$USER_HOME$/workspace/sawa_renewal/works/app/controllers/client/client_controller.php" />
+      <jump line="454" column="0" filename="$USER_HOME$/workspace/sawa_renewal/works/app/controllers/client/client_controller.php" />
+      <jump line="461" column="0" filename="$USER_HOME$/workspace/sawa_renewal/works/app/controllers/client/client_controller.php" />
+      <jump line="481" column="0" filename="$USER_HOME$/workspace/sawa_renewal/works/app/controllers/client/client_controller.php" />
+      <jump line="477" column="0" filename="$USER_HOME$/workspace/sawa_renewal/works/app/controllers/client/client_controller.php" />
+      <jump line="466" column="0" filename="$USER_HOME$/workspace/sawa_renewal/works/app/controllers/client/client_controller.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>行</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJ2hvZ2UnKTsKICAgICAgICAgICAgZXhpdDsK</text>
       </register>
       <register name="-" type="4">
-        <text>行</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>login</text>
+        <text>redirect</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC0+aGFzKCdncm91cCcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLT5oYXMoJ2dyb3VwLmludGVydmlld3MnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJ2hvZ2UnKTsKICAgICAgICAgICAgZXhpdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLT5oYXMoJ2dyb3VwLmludGVydmlld3MnKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -1005,9 +1012,9 @@
       </register>
     </registers>
     <search>
-      <last-search>login</last-search>
+      <last-search>redirect</last-search>
       <last-offset />
-      <last-pattern>login</last-pattern>
+      <last-pattern>redirect</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>completed</last-substitute>
       <last-dir>1</last-dir>
@@ -1015,7 +1022,6 @@
     </search>
     <history>
       <history-search>
-        <entry>基本</entry>
         <entry>small</entry>
         <entry>Grypicon</entry>
         <entry>calculateStepEvaluteTotalScore</entry>
@@ -1035,6 +1041,7 @@
         <entry>index</entry>
         <entry>join</entry>
         <entry>login</entry>
+        <entry>redirect</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>
@@ -1043,13 +1050,13 @@
         <entry>%s/var/let</entry>
         <entry>wq</entry>
         <entry>W</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>e</entry>
         <entry>q</entry>
         <entry>s</entry>
         <entry encoding="base64">JzwsJz5zLyRjb21wbGV0ZWRXb3JrLyRhc3NpZ25lZFdvcms=</entry>
         <entry encoding="base64">JzwsJz5zL2NvbXBsZXRlZC9hc3NpZ25lZC9n</entry>
         <entry>vs</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

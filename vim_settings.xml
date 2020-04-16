@@ -41,6 +41,9 @@
         <mark key="." line="61" column="30" />
         <mark key="^" line="61" column="30" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" timestamp="1587026195151">
+        <mark key="'" line="1815" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/BaseController.php" timestamp="1571993488730">
         <mark key="[" line="23" column="43" />
         <mark key="]" line="23" column="46" />
@@ -434,6 +437,7 @@
         <mark key="^" line="32" column="63" />
         <mark key="." line="32" column="63" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Routes/ClientRoutes.php" timestamp="1587026130143" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/User/GetTargetUserList.php" timestamp="1570006309297">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
@@ -869,13 +873,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1881" column="18" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="1918" column="15" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="1928" column="21" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="1932" column="14" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="1972" column="20" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="2274" column="20" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="2282" column="14" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
       <jump line="2291" column="20" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
       <jump line="2075" column="48" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
       <jump line="2308" column="17" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
@@ -969,6 +966,13 @@
       <jump line="477" column="0" filename="$USER_HOME$/workspace/sawa_renewal/works/app/controllers/client/client_controller.php" />
       <jump line="466" column="0" filename="$USER_HOME$/workspace/sawa_renewal/works/app/controllers/client/client_controller.php" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Client/ClientOnlineOrder/article_entry.ctp" />
+      <jump line="1800" column="8" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
+      <jump line="1794" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
+      <jump line="1804" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
+      <jump line="1808" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
+      <jump line="1838" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
+      <jump line="1817" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
+      <jump line="1815" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -978,7 +982,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>redirect</text>
+        <text>articleEntry</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC0+aGFzKCdncm91cCcpCg==</text>
@@ -1015,9 +1019,9 @@
       </register>
     </registers>
     <search>
-      <last-search>redirect</last-search>
+      <last-search>articleEntry</last-search>
       <last-offset />
-      <last-pattern>redirect</last-pattern>
+      <last-pattern>articleEntry</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>completed</last-substitute>
       <last-dir>1</last-dir>
@@ -1025,7 +1029,6 @@
     </search>
     <history>
       <history-search>
-        <entry>small</entry>
         <entry>Grypicon</entry>
         <entry>calculateStepEvaluteTotalScore</entry>
         <entry>if ($stepTargetId === config('user_register_items.worker_type.writer.id')</entry>
@@ -1045,6 +1048,7 @@
         <entry>join</entry>
         <entry>login</entry>
         <entry>redirect</entry>
+        <entry>articleEntry</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

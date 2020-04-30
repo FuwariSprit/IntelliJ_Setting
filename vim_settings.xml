@@ -3,7 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientMypageOrderController.php" timestamp="1587953848351" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/クリエイター詳細に表示している注目業種の評価件数の取得ロジックが誤っている.md" timestamp="1583285688243">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="36" column="9" />
+        <mark key="]" line="36" column="9" />
+        <mark key="^" line="36" column="23" />
+        <mark key="." line="36" column="9" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/public/js/admin/works/detail.js" timestamp="1576201317307">
         <mark key="'" line="330" column="25" />
         <mark key="[" line="337" column="0" />
@@ -14,9 +20,18 @@
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Client/ClientOnlineOrder/article_entry.ctp" timestamp="1587024745839">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/SalesDelivery/detail.ctp" timestamp="1588062178891" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Routes/ClientRoutes.php" timestamp="1587952051304">
+        <mark key="'" line="205" column="24" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Front/JoinController.php" timestamp="1586916944712">
         <mark key="'" line="225" column="23" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/steps/offers/create.blade.php" timestamp="1584086360640">
+        <mark key="'" line="92" column="31" />
+        <mark key="[" line="76" column="106" />
+        <mark key="]" line="76" column="112" />
+        <mark key="^" line="76" column="112" />
+        <mark key="." line="76" column="112" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Work/WorkRepository.php" timestamp="1582081087209">
         <mark key="'" line="42" column="20" />
@@ -25,12 +40,26 @@
         <mark key="." line="61" column="30" />
         <mark key="^" line="61" column="30" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/work_groups/detail.blade.php" timestamp="1584073467724">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="12" column="39" />
+        <mark key="]" line="12" column="48" />
+        <mark key="^" line="12" column="48" />
+        <mark key="." line="12" column="48" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" timestamp="1587030372943">
         <mark key="'" line="1815" column="0" />
         <mark key="[" line="1840" column="0" />
         <mark key="]" line="1840" column="0" />
         <mark key="." line="1840" column="0" />
         <mark key="^" line="1819" column="7" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/clients/client/edit/Index.vue" timestamp="1567138917359">
+        <mark key="'" line="45" column="29" />
+        <mark key="[" line="53" column="57" />
+        <mark key="]" line="53" column="56" />
+        <mark key="." line="53" column="56" />
+        <mark key="^" line="53" column="56" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/routes/web.php" timestamp="1582080513466">
         <mark key="'" line="194" column="29" />
@@ -39,6 +68,13 @@
         <mark key="." line="194" column="66" />
         <mark key="^" line="194" column="66" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/work_groups/completed.blade.php" timestamp="1582080015270">
+        <mark key="'" line="28" column="25" />
+        <mark key="[" line="11" column="45" />
+        <mark key="]" line="11" column="45" />
+        <mark key="." line="11" column="45" />
+        <mark key="^" line="11" column="44" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/users/search.blade.php" timestamp="1568955788671">
         <mark key="'" line="24" column="0" />
         <mark key="[" line="107" column="78" />
@@ -46,12 +82,26 @@
         <mark key="." line="107" column="88" />
         <mark key="^" line="107" column="88" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/削除済みの取材詳細URLを開くとエラーが表示される不具合の修正.md" timestamp="1586852557998">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="18" />
+        <mark key="." line="62" column="121" />
+        <mark key="^" line="62" column="121" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/common/user_search.blade.php" timestamp="1571360924434">
         <mark key="'" line="210" column="30" />
         <mark key="[" line="202" column="77" />
         <mark key="]" line="202" column="92" />
         <mark key="^" line="202" column="92" />
         <mark key="." line="202" column="92" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/progress_step.blade.php" timestamp="1558511822349">
+        <mark key="'" line="170" column="51" />
+        <mark key="[" line="38" column="21" />
+        <mark key="]" line="38" column="106" />
+        <mark key="^" line="187" column="12" />
+        <mark key="." line="187" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/ClientRepository.php" timestamp="1567148546595">
         <mark key="'" line="529" column="43" />
@@ -66,175 +116,6 @@
         <mark key="]" line="377" column="63" />
         <mark key="." line="377" column="63" />
         <mark key="^" line="377" column="63" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/offers/assigns/create.blade.php" timestamp="1584086723843">
-        <mark key="'" line="50" column="32" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="42" />
-        <mark key="^" line="47" column="47" />
-        <mark key="." line="47" column="47" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/offer/user_list.blade.php" timestamp="1583478741983">
-        <mark key="'" line="128" column="28" />
-        <mark key="[" line="215" column="51" />
-        <mark key="]" line="215" column="60" />
-        <mark key="." line="215" column="60" />
-        <mark key="^" line="215" column="60" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/WorkGroupController.php" timestamp="1585897665969">
-        <mark key="'" line="104" column="0" />
-        <mark key="[" line="575" column="153" />
-        <mark key="]" line="575" column="153" />
-        <mark key="." line="575" column="153" />
-        <mark key="^" line="575" column="153" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/users/table.blade.php" timestamp="1570775815291">
-        <mark key="'" line="50" column="74" />
-        <mark key="[" line="118" column="51" />
-        <mark key="]" line="118" column="60" />
-        <mark key="." line="118" column="60" />
-        <mark key="^" line="118" column="60" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Shell/SalesforceShell.php" timestamp="1588049890368" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/photographer_quality_evaluate_modal.blade.php" timestamp="1579662095761">
-        <mark key="'" line="32" column="34" />
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="70" />
-        <mark key="." line="116" column="69" />
-        <mark key="^" line="116" column="69" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/search/work.blade.php" timestamp="1584080864956">
-        <mark key="'" line="111" column="42" />
-        <mark key="[" line="54" column="11" />
-        <mark key="]" line="54" column="26" />
-        <mark key="." line="54" column="26" />
-        <mark key="^" line="54" column="26" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/public/js/work_groups/detail.js" timestamp="1576201334213">
-        <mark key="'" line="6" column="33" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="6" column="46" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/index.blade.php" timestamp="1582079927532">
-        <mark key="'" line="126" column="61" />
-        <mark key="[" line="67" column="39" />
-        <mark key="]" line="67" column="73" />
-        <mark key="^" line="67" column="73" />
-        <mark key="." line="67" column="73" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" timestamp="1585806411505">
-        <mark key="'" line="194" column="29" />
-        <mark key="[" line="812" column="0" />
-        <mark key="]" line="812" column="0" />
-        <mark key="." line="812" column="0" />
-        <mark key="^" line="812" column="20" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/SalesDeliveryComponent.php" timestamp="1588062859520" />
-      <file name="$USER_HOME$/workspace/sagooo_works/webroot_src/js/pages/Admin/SalesDelivery/detail.js" timestamp="1588062129441" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/reward/index.blade.php" timestamp="1581658679628">
-        <mark key="'" line="165" column="81" />
-        <mark key="[" line="152" column="20" />
-        <mark key="]" line="152" column="61" />
-        <mark key="^" line="152" column="61" />
-        <mark key="." line="152" column="61" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/clients/edit.blade.php" timestamp="1566542661590">
-        <mark key="'" line="16" column="4" />
-        <mark key="[" line="12" column="18" />
-        <mark key="]" line="12" column="16" />
-        <mark key="^" line="12" column="16" />
-        <mark key="." line="12" column="16" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Routes/FrontRoutes.php" timestamp="1586918883307">
-        <mark key="'" line="1583" column="24" />
-        <mark key="[" line="1541" column="25" />
-        <mark key="]" line="1541" column="25" />
-        <mark key="." line="1541" column="25" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/navbar.blade.php" timestamp="1582085791905">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="172" column="67" />
-        <mark key="]" line="172" column="72" />
-        <mark key="." line="172" column="72" />
-        <mark key="^" line="172" column="72" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" timestamp="1586158351699">
-        <mark key="'" line="674" column="35" />
-        <mark key="[" line="955" column="0" />
-        <mark key="]" line="955" column="24" />
-        <mark key="." line="955" column="24" />
-        <mark key="^" line="967" column="11" />
-      </file>
-      <file name="$USER_HOME$/workspace/sawa_renewal/works/app/controllers/client/client_controller.php" timestamp="1587013817987">
-        <mark key="'" line="466" column="0" />
-        <mark key="[" line="681" column="9" />
-        <mark key="]" line="681" column="10" />
-        <mark key="^" line="681" column="10" />
-        <mark key="." line="681" column="10" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/tests/TestCase/Controller/Client/ClientMypageOrderMadeControllerTest.php" timestamp="1587952046367">
-        <mark key="'" line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/layout/works/work_detail.blade.php" timestamp="1584068303663">
-        <mark key="'" line="252" column="151" />
-        <mark key="[" line="203" column="15" />
-        <mark key="]" line="203" column="31" />
-        <mark key="." line="203" column="31" />
-        <mark key="^" line="203" column="31" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/クリエイター詳細に表示している注目業種の評価件数の取得ロジックが誤っている.md" timestamp="1583285688243">
-        <mark key="'" line="36" column="0" />
-        <mark key="[" line="36" column="9" />
-        <mark key="]" line="36" column="9" />
-        <mark key="^" line="36" column="23" />
-        <mark key="." line="36" column="9" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Routes/ClientRoutes.php" timestamp="1587952051304">
-        <mark key="'" line="205" column="24" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/steps/offers/create.blade.php" timestamp="1584086360640">
-        <mark key="'" line="92" column="31" />
-        <mark key="[" line="76" column="106" />
-        <mark key="]" line="76" column="112" />
-        <mark key="^" line="76" column="112" />
-        <mark key="." line="76" column="112" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/work_groups/detail.blade.php" timestamp="1584073467724">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="12" column="39" />
-        <mark key="]" line="12" column="48" />
-        <mark key="^" line="12" column="48" />
-        <mark key="." line="12" column="48" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/clients/client/edit/Index.vue" timestamp="1567138917359">
-        <mark key="'" line="45" column="29" />
-        <mark key="[" line="53" column="57" />
-        <mark key="]" line="53" column="56" />
-        <mark key="." line="53" column="56" />
-        <mark key="^" line="53" column="56" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/work_groups/completed.blade.php" timestamp="1582080015270">
-        <mark key="'" line="28" column="25" />
-        <mark key="[" line="11" column="45" />
-        <mark key="]" line="11" column="45" />
-        <mark key="." line="11" column="45" />
-        <mark key="^" line="11" column="44" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/削除済みの取材詳細URLを開くとエラーが表示される不具合の修正.md" timestamp="1586852557998">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="18" />
-        <mark key="." line="62" column="121" />
-        <mark key="^" line="62" column="121" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/progress_step.blade.php" timestamp="1558511822349">
-        <mark key="'" line="170" column="51" />
-        <mark key="[" line="38" column="21" />
-        <mark key="]" line="38" column="106" />
-        <mark key="^" line="187" column="12" />
-        <mark key="." line="187" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/public/js/accounts/reset.js" timestamp="1569548193599">
         <mark key="'" line="10" column="0" />
@@ -254,12 +135,39 @@
         <mark key="^" line="1286" column="0" />
         <mark key="." line="1286" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/offers/assigns/create.blade.php" timestamp="1584086723843">
+        <mark key="'" line="50" column="32" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="42" />
+        <mark key="^" line="47" column="47" />
+        <mark key="." line="47" column="47" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/offer/user_list.blade.php" timestamp="1583478741983">
+        <mark key="'" line="128" column="28" />
+        <mark key="[" line="215" column="51" />
+        <mark key="]" line="215" column="60" />
+        <mark key="." line="215" column="60" />
+        <mark key="^" line="215" column="60" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/manner_evaluate_modal.blade.php" timestamp="1576026139083">
         <mark key="'" line="33" column="34" />
         <mark key="[" line="195" column="76" />
         <mark key="]" line="195" column="74" />
         <mark key="." line="195" column="74" />
         <mark key="^" line="195" column="74" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/WorkGroupController.php" timestamp="1585897665969">
+        <mark key="'" line="104" column="0" />
+        <mark key="[" line="575" column="153" />
+        <mark key="]" line="575" column="153" />
+        <mark key="." line="575" column="153" />
+        <mark key="^" line="575" column="153" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/config/mail.php" timestamp="1588220166133">
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="0" />
+        <mark key="^" line="128" column="36" />
+        <mark key="." line="129" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/accounts/settings/login_information/edit.blade.php" timestamp="1569546703845">
         <mark key="'" line="48" column="176" />
@@ -268,8 +176,13 @@
         <mark key="^" line="48" column="171" />
         <mark key="." line="48" column="171" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Shell/GroupDeliveryManageShell.php" timestamp="1588053420780" />
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Shell/DeliveryManageShell.php" timestamp="1588053152112" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/users/table.blade.php" timestamp="1570775815291">
+        <mark key="'" line="50" column="74" />
+        <mark key="[" line="118" column="51" />
+        <mark key="]" line="118" column="60" />
+        <mark key="." line="118" column="60" />
+        <mark key="^" line="118" column="60" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/UserRepository.php" timestamp="1570409348797">
         <mark key="'" line="1290" column="0" />
         <mark key="[" line="1607" column="0" />
@@ -291,12 +204,26 @@
         <mark key="^" line="190" column="29" />
         <mark key="." line="222" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/photographer_quality_evaluate_modal.blade.php" timestamp="1579662095761">
+        <mark key="'" line="32" column="34" />
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="70" />
+        <mark key="." line="116" column="69" />
+        <mark key="^" line="116" column="69" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/Assign/CreateOfferAssign.php" timestamp="1574654837759">
         <mark key="'" line="11" column="6" />
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
         <mark key="^" line="48" column="16" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/search/work.blade.php" timestamp="1584080864956">
+        <mark key="'" line="111" column="42" />
+        <mark key="[" line="54" column="11" />
+        <mark key="]" line="54" column="26" />
+        <mark key="." line="54" column="26" />
+        <mark key="^" line="54" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/quality_evaluate_modal.blade.php" timestamp="1576026069414">
         <mark key="'" line="16" column="52" />
@@ -305,12 +232,33 @@
         <mark key="." line="67" column="71" />
         <mark key="^" line="67" column="71" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/public/js/work_groups/detail.js" timestamp="1576201334213">
+        <mark key="'" line="6" column="33" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="6" column="46" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/steps/assigns/create.blade.php" timestamp="1584086389899">
         <mark key="'" line="83" column="17" />
         <mark key="[" line="45" column="41" />
         <mark key="]" line="45" column="57" />
         <mark key="." line="45" column="57" />
         <mark key="^" line="45" column="57" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/index.blade.php" timestamp="1582079927532">
+        <mark key="'" line="126" column="61" />
+        <mark key="[" line="67" column="39" />
+        <mark key="]" line="67" column="73" />
+        <mark key="^" line="67" column="73" />
+        <mark key="." line="67" column="73" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" timestamp="1585806411505">
+        <mark key="'" line="194" column="29" />
+        <mark key="[" line="812" column="0" />
+        <mark key="]" line="812" column="0" />
+        <mark key="." line="812" column="0" />
+        <mark key="^" line="812" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/クリエイターはアサインされた案件を未来の案件から順に見たいの高速化.md" timestamp="1583468847078">
         <mark key="'" line="57" column="39" />
@@ -325,6 +273,26 @@
       <file name="/Dummy.txt" timestamp="1587013395867">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/reward/index.blade.php" timestamp="1581658679628">
+        <mark key="'" line="165" column="81" />
+        <mark key="[" line="152" column="20" />
+        <mark key="]" line="152" column="61" />
+        <mark key="^" line="152" column="61" />
+        <mark key="." line="152" column="61" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/clients/edit.blade.php" timestamp="1566542661590">
+        <mark key="'" line="16" column="4" />
+        <mark key="[" line="12" column="18" />
+        <mark key="]" line="12" column="16" />
+        <mark key="^" line="12" column="16" />
+        <mark key="." line="12" column="16" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Routes/FrontRoutes.php" timestamp="1586918883307">
+        <mark key="'" line="1583" column="24" />
+        <mark key="[" line="1541" column="25" />
+        <mark key="]" line="1541" column="25" />
+        <mark key="." line="1541" column="25" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/works/progress_table.blade.php" timestamp="1582085887744">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="200" column="52" />
@@ -332,7 +300,20 @@
         <mark key="." line="200" column="57" />
         <mark key="^" line="200" column="57" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/webroot_src/js/components/Admin/AdminProgress/list/AdminRecordLine.vue" timestamp="1588049457990" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/navbar.blade.php" timestamp="1582085791905">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="172" column="67" />
+        <mark key="]" line="172" column="72" />
+        <mark key="." line="172" column="72" />
+        <mark key="^" line="172" column="72" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" timestamp="1586158351699">
+        <mark key="'" line="674" column="35" />
+        <mark key="[" line="955" column="0" />
+        <mark key="]" line="955" column="24" />
+        <mark key="." line="955" column="24" />
+        <mark key="^" line="967" column="11" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/ApprovalOperator/AppApprovalOperatorController.php" timestamp="1586940953525">
         <mark key="'" line="156" column="49" />
       </file>
@@ -342,6 +323,16 @@
         <mark key="]" line="217" column="92" />
         <mark key="^" line="217" column="92" />
         <mark key="." line="217" column="92" />
+      </file>
+      <file name="$USER_HOME$/workspace/sawa_renewal/works/app/controllers/client/client_controller.php" timestamp="1587013817987">
+        <mark key="'" line="466" column="0" />
+        <mark key="[" line="681" column="9" />
+        <mark key="]" line="681" column="10" />
+        <mark key="^" line="681" column="10" />
+        <mark key="." line="681" column="10" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/tests/TestCase/Controller/Client/ClientMypageOrderMadeControllerTest.php" timestamp="1587952046367">
+        <mark key="'" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/accounts/entry.blade.php" timestamp="1575254754812">
         <mark key="'" line="98" column="105" />
@@ -363,6 +354,13 @@
         <mark key="]" line="138" column="101" />
         <mark key="." line="138" column="101" />
         <mark key="^" line="138" column="101" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/layout/works/work_detail.blade.php" timestamp="1584068303663">
+        <mark key="'" line="252" column="151" />
+        <mark key="[" line="203" column="15" />
+        <mark key="]" line="203" column="31" />
+        <mark key="." line="203" column="31" />
+        <mark key="^" line="203" column="31" />
       </file>
     </filemarks>
     <jumps>
@@ -469,7 +467,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdXAK</text>
+        <text encoding="base64">ICAgICAgICAnaXNoaWthd2EuY2hpa2FyYUB3aWxsZ2F0ZS5jby5qcCcsCg==</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -481,31 +479,31 @@
         <text encoding="base64">ICAgIC0+aGFzKCdncm91cCcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdXAK</text>
+        <text encoding="base64">ICAgICAgICAnaXNoaWthd2EuY2hpa2FyYUB3aWxsZ2F0ZS5jby5qcCcsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcG9zdGVkRGF0YSk7CiAgICAgICAgZXhpdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdXAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHBvc3RlZERhdGEpOwogICAgICAgICAgICBleGl0Owo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcG9zdGVkRGF0YSk7CiAgICAgICAgZXhpdDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGlwc0FuZEtleXdvcmRzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHBvc3RlZERhdGEpOwogICAgICAgICAgICBleGl0Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0Owo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGlwc0FuZEtleXdvcmRzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4aXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBleGl0Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCdob2dlaG9nZScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4aXQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJ2hvZ2UnKTsKICAgICAgICAgICAgZXhpdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCdob2dlaG9nZScpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLT5oYXMoJ2dyb3VwLmludGVydmlld3MnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJ2hvZ2UnKTsKICAgICAgICAgICAgZXhpdDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

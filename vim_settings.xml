@@ -61,8 +61,8 @@
         <mark key="." line="53" column="56" />
         <mark key="^" line="53" column="56" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/routes/web.php" timestamp="1582080513466">
-        <mark key="'" line="194" column="29" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/routes/web.php" timestamp="1589258497510">
+        <mark key="'" line="418" column="17" />
         <mark key="[" line="194" column="61" />
         <mark key="]" line="194" column="66" />
         <mark key="." line="194" column="66" />
@@ -379,9 +379,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2600" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="2592" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="2590" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
       <jump line="2609" column="62" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
       <jump line="2621" column="17" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
       <jump line="2642" column="17" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
@@ -479,6 +476,9 @@
       <jump line="19" column="0" filename="$USER_HOME$/workspace/sagooo_works/tests/TestCase/Controller/Client/ClientMypageOrderMadeControllerTest.php" />
       <jump line="11" column="0" filename="$USER_HOME$/workspace/sagooo_works/tests/TestCase/Controller/Client/ClientMypageOrderMadeControllerTest.php" />
       <jump line="5" column="0" filename="$USER_HOME$/workspace/sagooo_works/tests/TestCase/Controller/Client/ClientMypageOrderMadeControllerTest.php" />
+      <jump line="411" column="56" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
+      <jump line="414" column="17" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
+      <jump line="418" column="17" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -488,7 +488,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>order</text>
+        <text>work_groups</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC0+aGFzKCdncm91cCcpCg==</text>
@@ -525,9 +525,9 @@
       </register>
     </registers>
     <search>
-      <last-search>order</last-search>
+      <last-search>work_groups</last-search>
       <last-offset />
-      <last-pattern>order</last-pattern>
+      <last-pattern>work_groups</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>completed</last-substitute>
       <last-dir>1</last-dir>
@@ -535,8 +535,6 @@
     </search>
     <history>
       <history-search>
-        <entry>calculateStepEvaluteTotalScore</entry>
-        <entry>if ($stepTargetId === config('user_register_items.worker_type.writer.id')</entry>
         <entry>calculateWorkCountByUsers</entry>
         <entry>Step</entry>
         <entry>updateevaluate</entry>
@@ -555,6 +553,8 @@
         <entry>redirect</entry>
         <entry>articleEntry</entry>
         <entry>order</entry>
+        <entry>workgroups</entry>
+        <entry>work_groups</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

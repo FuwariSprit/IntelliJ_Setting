@@ -162,7 +162,7 @@
         <mark key="." line="195" column="74" />
         <mark key="^" line="195" column="74" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/WorkGroupController.php" timestamp="1585897665969">
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/WorkGroupController.php" timestamp="1589351812743">
         <mark key="'" line="104" column="0" />
         <mark key="[" line="575" column="153" />
         <mark key="]" line="575" column="153" />
@@ -238,8 +238,8 @@
         <mark key="." line="67" column="71" />
         <mark key="^" line="67" column="71" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/public/js/work_groups/detail.js" timestamp="1576201334213">
-        <mark key="'" line="6" column="33" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/public/js/work_groups/detail.js" timestamp="1589351842860">
+        <mark key="'" line="9" column="39" />
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="^" line="6" column="46" />
@@ -379,7 +379,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2609" column="62" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
       <jump line="2621" column="17" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
       <jump line="2642" column="17" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
       <jump line="2647" column="17" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
@@ -479,6 +478,7 @@
       <jump line="411" column="56" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
       <jump line="414" column="17" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
       <jump line="418" column="17" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
+      <jump line="9" column="39" filename="$USER_HOME$/workspace/sagooo_navi/public/js/work_groups/detail.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -488,7 +488,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>work_groups</text>
+        <text>comment</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC0+aGFzKCdncm91cCcpCg==</text>
@@ -525,9 +525,9 @@
       </register>
     </registers>
     <search>
-      <last-search>work_groups</last-search>
+      <last-search>comment</last-search>
       <last-offset />
-      <last-pattern>work_groups</last-pattern>
+      <last-pattern>comment</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>completed</last-substitute>
       <last-dir>1</last-dir>
@@ -535,8 +535,6 @@
     </search>
     <history>
       <history-search>
-        <entry>calculateWorkCountByUsers</entry>
-        <entry>Step</entry>
         <entry>updateevaluate</entry>
         <entry>updateEvaluate</entry>
         <entry>update</entry>
@@ -555,6 +553,8 @@
         <entry>order</entry>
         <entry>workgroups</entry>
         <entry>work_groups</entry>
+        <entry>success_message</entry>
+        <entry>comment</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

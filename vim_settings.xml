@@ -276,9 +276,6 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" timestamp="1585820978946">
         <mark key="'" line="2305" column="57" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587013395867">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminAccountController.php" timestamp="1589250316933">
         <mark key="]" line="16" column="0" />
         <mark key="^" line="16" column="0" />
@@ -313,12 +310,10 @@
         <mark key="." line="172" column="72" />
         <mark key="^" line="172" column="72" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" timestamp="1589419639973">
-        <mark key="'" line="4164" column="20" />
-        <mark key="[" line="4164" column="8" />
-        <mark key="]" line="4164" column="9" />
-        <mark key="." line="4164" column="9" />
-        <mark key="^" line="4164" column="9" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" timestamp="1589421121528">
+        <mark key="[" line="4117" column="20" />
+        <mark key="]" line="4117" column="20" />
+        <mark key="." line="4117" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/doc/esa/KPI.md" timestamp="1589251005607">
         <mark key="[" line="81" column="0" />
@@ -366,8 +361,8 @@
         <mark key="." line="138" column="101" />
         <mark key="^" line="138" column="101" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/layout/works/work_detail.blade.php" timestamp="1584068303663">
-        <mark key="'" line="252" column="151" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/layout/works/work_detail.blade.php" timestamp="1589420943118">
+        <mark key="'" line="87" column="66" />
         <mark key="[" line="203" column="15" />
         <mark key="]" line="203" column="31" />
         <mark key="." line="203" column="31" />
@@ -380,7 +375,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1048" column="13" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
       <jump line="1778" column="35" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
       <jump line="100" column="12" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
       <jump line="238" column="15" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
@@ -480,63 +474,63 @@
       <jump line="4" column="4" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Work/WorkRepository.php" />
       <jump line="115" column="20" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Work/WorkRepository.php" />
       <jump line="4164" column="20" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" />
+      <jump line="87" column="66" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/layout/works/work_detail.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkc3RlcC0+dG9Eb21haW4oKS0+Y29tbWVudCgpLT52YWx1ZSgpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>getUpdateMessages</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>getUpdateMessages</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cGRhdGVNZXNzYWdlc1w+</text>
+        <text>user_id</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC0+aGFzKCdncm91cCcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkc3RlcC0+dG9Eb21haW4oKS0+Y29tbWVudCgpLT52YWx1ZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAvL2RkKGNvbGxlY3QoJHVwZGF0ZU1lc3NhZ2VzKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkc3RlcC0+dG9Eb21haW4oKS0+Y29tbWVudCgpLT52YWx1ZSgpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">CQkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CeaxoOa3u+OBleOCk+OBr+elngkK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQnmsaDmt7vjgZXjgpMK</text>
+        <text encoding="base64">CeaxoOa3u+OBleOCk+OBr+elngkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnaXNoaWthd2EuY2hpa2FyYUB3aWxsZ2F0ZS5jby5qcCcsCg==</text>
+        <text encoding="base64">CQnmsaDmt7vjgZXjgpMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cGRhdGVNZXNzYWdlc1w+</last-search>
+      <last-search>user_id</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cGRhdGVNZXNzYWdlc1w+</last-pattern>
+      <last-pattern>user_id</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>completed</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>update</entry>
         <entry>updateOr</entry>
         <entry>stepTargetId</entry>
         <entry>Or</entry>
@@ -556,6 +550,7 @@
         <entry>comment</entry>
         <entry>getPro</entry>
         <entry encoding="base64">XDx1cGRhdGVNZXNzYWdlc1w+</entry>
+        <entry>user_id</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

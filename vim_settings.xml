@@ -22,6 +22,13 @@
         <mark key="^" line="330" column="38" />
         <mark key="." line="337" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/editoru_api/editoru_api/src/routes/api.php" timestamp="1589948729384">
+        <mark key="'" line="384" column="95" />
+        <mark key="[" line="385" column="60" />
+        <mark key="]" line="385" column="60" />
+        <mark key="^" line="385" column="60" />
+        <mark key="." line="385" column="60" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/steps/offers/create.blade.php" timestamp="1584086360640">
         <mark key="'" line="92" column="31" />
         <mark key="[" line="76" column="106" />
@@ -229,6 +236,13 @@
         <mark key="^" line="6" column="46" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/editoru_api/editoru_api/src/apps/EditoruApi/Application/Http/Controllers/Teams/ChannelController.php" timestamp="1589948891949">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="49" column="38" />
+        <mark key="]" line="49" column="38" />
+        <mark key="." line="49" column="38" />
+        <mark key="^" line="49" column="38" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/steps/assigns/create.blade.php" timestamp="1584086389899">
         <mark key="'" line="83" column="17" />
         <mark key="[" line="45" column="41" />
@@ -357,19 +371,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="43" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/ApprovalOperator/AppApprovalOperatorController.php" />
-      <jump line="116" column="20" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/ApprovalOperator/AppApprovalOperatorController.php" />
-      <jump line="156" column="49" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/ApprovalOperator/AppApprovalOperatorController.php" />
-      <jump line="459" column="4" filename="$USER_HOME$/workspace/sawa_renewal/works/app/controllers/client/client_controller.php" />
-      <jump line="471" column="19" filename="$USER_HOME$/workspace/sawa_renewal/works/app/controllers/client/client_controller.php" />
-      <jump line="475" column="19" filename="$USER_HOME$/workspace/sawa_renewal/works/app/controllers/client/client_controller.php" />
-      <jump line="489" column="19" filename="$USER_HOME$/workspace/sawa_renewal/works/app/controllers/client/client_controller.php" />
-      <jump line="517" column="19" filename="$USER_HOME$/workspace/sawa_renewal/works/app/controllers/client/client_controller.php" />
-      <jump line="514" column="0" filename="$USER_HOME$/workspace/sawa_renewal/works/app/controllers/client/client_controller.php" />
-      <jump line="510" column="0" filename="$USER_HOME$/workspace/sawa_renewal/works/app/controllers/client/client_controller.php" />
-      <jump line="504" column="0" filename="$USER_HOME$/workspace/sawa_renewal/works/app/controllers/client/client_controller.php" />
-      <jump line="501" column="0" filename="$USER_HOME$/workspace/sawa_renewal/works/app/controllers/client/client_controller.php" />
-      <jump line="496" column="0" filename="$USER_HOME$/workspace/sawa_renewal/works/app/controllers/client/client_controller.php" />
       <jump line="494" column="0" filename="$USER_HOME$/workspace/sawa_renewal/works/app/controllers/client/client_controller.php" />
       <jump line="491" column="0" filename="$USER_HOME$/workspace/sawa_renewal/works/app/controllers/client/client_controller.php" />
       <jump line="484" column="0" filename="$USER_HOME$/workspace/sawa_renewal/works/app/controllers/client/client_controller.php" />
@@ -457,55 +458,68 @@
       <jump line="1473" column="18" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="1596" column="62" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="209" column="6" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/editoru_api/editoru_api/src/routes/api.php" />
+      <jump line="365" column="55" filename="$USER_HOME$/workspace/editoru_api/editoru_api/src/routes/api.php" />
+      <jump line="405" column="52" filename="$USER_HOME$/workspace/editoru_api/editoru_api/src/routes/api.php" />
+      <jump line="410" column="24" filename="$USER_HOME$/workspace/editoru_api/editoru_api/src/routes/api.php" />
+      <jump line="412" column="25" filename="$USER_HOME$/workspace/editoru_api/editoru_api/src/routes/api.php" />
+      <jump line="384" column="95" filename="$USER_HOME$/workspace/editoru_api/editoru_api/src/routes/api.php" />
+      <jump line="163" column="26" filename="$USER_HOME$/workspace/editoru_api/editoru_api/src/apps/EditoruApi/Application/Http/Controllers/Teams/ChannelController.php" />
+      <jump line="19" column="0" filename="$USER_HOME$/workspace/editoru_api/editoru_api/src/apps/EditoruApi/Application/Http/Controllers/Teams/ChannelController.php" />
+      <jump line="43" column="0" filename="$USER_HOME$/workspace/editoru_api/editoru_api/src/apps/EditoruApi/Application/Http/Controllers/Teams/ChannelController.php" />
+      <jump line="57" column="0" filename="$USER_HOME$/workspace/editoru_api/editoru_api/src/apps/EditoruApi/Application/Http/Controllers/Teams/ChannelController.php" />
+      <jump line="48" column="7" filename="$USER_HOME$/workspace/editoru_api/editoru_api/src/apps/EditoruApi/Application/Http/Controllers/Teams/ChannelController.php" />
+      <jump line="168" column="0" filename="$USER_HOME$/workspace/editoru_api/editoru_api/src/apps/EditoruApi/Application/Http/Controllers/Teams/ChannelController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/editoru_api/editoru_api/src/apps/EditoruApi/Application/Http/Controllers/Teams/ChannelController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LSB3aGVyZUhhc+OBjOmBheOBhOWOn+WboOOBq+OBquOBo+OBpuOBhOOCiyAtPiDkvb/jgo/jgarjgYTmlrnlkJEKLSBFbG9xdWVudOOBp+WPluW+l+OBl+OBn+OCguOBruOBq+WvvuOBl+OBpuOAgeOCouOCteOCpOODs+OBleOCjOOBpuOBhOOCi+ahiOS7tuOBp+ODleOCo+ODq+OCv+OCkuOBi+OBkeOCi+ODreOCuOODg+OCr+OBq+e9ruOBjeaPm+OBiOOCiwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>https://docs.google.com/spreadsheets/d/1YNmK_88n51d4DainQq-aBu6PmAiEsdG9cTN71uHZuWk/edit#gid=1616881359</text>
       </register>
       <register name="/" type="4">
-        <text>getAdminWorkDetail</text>
+        <text>detail</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC0+aGFzKCdncm91cCcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LSB3aGVyZUhhc+OBjOmBheOBhOWOn+WboOOBq+OBquOBo+OBpuOBhOOCiyAtPiDkvb/jgo/jgarjgYTmlrnlkJEKLSBFbG9xdWVudOOBp+WPluW+l+OBl+OBn+OCguOBruOBq+WvvuOBl+OBpuOAgeOCouOCteOCpOODs+OBleOCjOOBpuOBhOOCi+ahiOS7tuOBp+ODleOCo+ODq+OCv+OCkuOBi+OBkeOCi+ODreOCuOODg+OCr+OBq+e9ruOBjeaPm+OBiOOCiwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">44Ki44K144Kk44Oz5qGI5Lu255S76Z2i44Gu6KGo56S644KS6auY6YCf5YyW44GZ44KLCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBkZXRhaWwoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">6YeN44GE5Yem55CG44KS5L2/55So44GX44Gm44GK44KK44CB5pS55ZaE44Gu5L2Z5Zyw44GM44GC44KL44Gf44KBCg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogagogICAgICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">44Ki44K144Kk44Oz5qGI5Lu255S76Z2i44Gu6KGo56S644KS6auY6YCf5YyW44GZ44KLCg==</text>
+        <text encoding="base64">LSB3aGVyZUhhc+OBjOmBheOBhOWOn+WboOOBq+OBquOBo+OBpuOBhOOCiyAtPiDkvb/jgo/jgarjgYTmlrnlkJEKLSBFbG9xdWVudOOBp+WPluW+l+OBl+OBn+OCguOBruOBq+WvvuOBl+OBpuOAgeOCouOCteOCpOODs+OBleOCjOOBpuOBhOOCi+ahiOS7tuOBp+ODleOCo+ODq+OCv+OCkuOBi+OBkeOCi+ODreOCuOODg+OCr+OBq+e9ruOBjeaPm+OBiOOCiwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">44Ki44K144Kk44Oz5qGI5Lu255S76Z2i44Gu6KGo56S644KS6auY6YCf5YyW44GZ44KLCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">44Kv44Oq44Ko44Kk44K/44O8Cg==</text>
+        <text encoding="base64">6YeN44GE5Yem55CG44KS5L2/55So44GX44Gm44GK44KK44CB5pS55ZaE44Gu5L2Z5Zyw44GM44GC44KL44Gf44KBCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KiDjgq/jg6rjgqjjgqTjgr/jg7zjga/jgqLjgrXjgqTjg7PjgZXjgozjgZ/moYjku7bjgpLmnKrmnaXjga7moYjku7bjgYvjgonpoIbjgavopovjgZ/jgYTjgpLmtYHnlKgK</text>
+        <text encoding="base64">44Ki44K144Kk44Oz5qGI5Lu255S76Z2i44Gu6KGo56S644KS6auY6YCf5YyW44GZ44KLCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT53aGVyZU51bGwoJ2RzcS5kZWxldGVkX2F0JykK</text>
+        <text encoding="base64">44Ki44K144Kk44Oz5qGI5Lu255S76Z2i44Gu6KGo56S644KS6auY6YCf5YyW44GZ44KLCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">44Kv44Oq44Ko44Kk44K/44O8Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>getAdminWorkDetail</last-search>
+      <last-search>detail</last-search>
       <last-offset />
-      <last-pattern>getAdminWorkDetail</last-pattern>
+      <last-pattern>detail</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>completed</last-substitute>
       <last-dir>1</last-dir>
@@ -513,10 +527,6 @@
     </search>
     <history>
       <history-search>
-        <entry>confirm</entry>
-        <entry>registMailAddress</entry>
-        <entry>index</entry>
-        <entry>join</entry>
         <entry>login</entry>
         <entry>redirect</entry>
         <entry>articleEntry</entry>
@@ -531,8 +541,12 @@
         <entry>create</entry>
         <entry>WorkGroupController</entry>
         <entry>createMessage</entry>
-        <entry>detail</entry>
         <entry>getAdminWorkDetail</entry>
+        <entry>チャンネル</entry>
+        <entry>teams</entry>
+        <entry>channel</entry>
+        <entry>detial</entry>
+        <entry>detail</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

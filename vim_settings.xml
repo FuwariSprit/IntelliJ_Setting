@@ -78,11 +78,11 @@
         <mark key="." line="11" column="45" />
         <mark key="^" line="11" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/WGはクリエイターへオファーが緊急時に送られるものだと伝えたい.md" timestamp="1590468633101">
-        <mark key="[" line="116" column="3" />
-        <mark key="]" line="116" column="6" />
-        <mark key="." line="116" column="6" />
-        <mark key="^" line="116" column="6" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/WGはクリエイターへオファーが緊急時に送られるものだと伝えたい.md" timestamp="1590471044603">
+        <mark key="[" line="99" column="31" />
+        <mark key="]" line="101" column="34" />
+        <mark key="." line="101" column="34" />
+        <mark key="^" line="101" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/users/search.blade.php" timestamp="1568955788671">
         <mark key="'" line="24" column="0" />
@@ -145,9 +145,11 @@
         <mark key="^" line="47" column="47" />
         <mark key="." line="47" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/emails/offer/only_receive_offer.blade.php" timestamp="1590468320857">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="35" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/emails/offer/only_receive_offer.blade.php" timestamp="1590471443712">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="10" column="37" />
+        <mark key="^" line="10" column="37" />
+        <mark key="." line="10" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/offer/user_list.blade.php" timestamp="1583478741983">
         <mark key="'" line="128" column="28" />
@@ -346,11 +348,11 @@
         <mark key="^" line="681" column="10" />
         <mark key="." line="681" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/emails/offer/many_receive_offer.blade.php" timestamp="1590466473791">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="2" />
-        <mark key="^" line="24" column="2" />
-        <mark key="." line="24" column="2" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/emails/offer/many_receive_offer.blade.php" timestamp="1590471624039">
+        <mark key="[" line="6" column="25" />
+        <mark key="]" line="10" column="37" />
+        <mark key="^" line="10" column="37" />
+        <mark key="." line="10" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/accounts/entry.blade.php" timestamp="1575254754812">
         <mark key="'" line="98" column="105" />
@@ -381,7 +383,12 @@
         <mark key="^" line="203" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/database/create_dummy_user.sql" timestamp="1589873139414" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Notifications/OfferTargetUserNotify.php" timestamp="1590466009395" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Notifications/OfferTargetUserNotify.php" timestamp="1590471253636">
+        <mark key="[" line="114" column="25" />
+        <mark key="]" line="130" column="51" />
+        <mark key="." line="130" column="51" />
+        <mark key="^" line="130" column="51" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/sass/service/component/_WriterMemo.scss" timestamp="1589252415352">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -492,10 +499,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>p</text>
+        <text>ー</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>ー</text>
       </register>
       <register name="/" type="4">
         <text>update</text>

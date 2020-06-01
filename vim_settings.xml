@@ -221,6 +221,13 @@
         <mark key="^" line="190" column="29" />
         <mark key="." line="222" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/現ライターは前任ライターのチャット内容が見えたくない .md" timestamp="1590991148308">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="39" column="3" />
+        <mark key="]" line="37" column="23" />
+        <mark key="." line="37" column="23" />
+        <mark key="^" line="37" column="23" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/photographer_quality_evaluate_modal.blade.php" timestamp="1579662095761">
         <mark key="'" line="32" column="34" />
         <mark key="[" line="116" column="0" />
@@ -343,7 +350,7 @@
         <mark key="." line="172" column="72" />
         <mark key="^" line="172" column="72" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" timestamp="1589788237101">
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" timestamp="1590990957778">
         <mark key="[" line="4134" column="0" />
         <mark key="]" line="4134" column="0" />
         <mark key="." line="4134" column="0" />
@@ -419,19 +426,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="0" filename="$USER_HOME$/workspace/sagooo_works/tests/TestCase/Controller/Client/ClientMypageOrderMadeControllerTest.php" />
-      <jump line="19" column="0" filename="$USER_HOME$/workspace/sagooo_works/tests/TestCase/Controller/Client/ClientMypageOrderMadeControllerTest.php" />
-      <jump line="11" column="0" filename="$USER_HOME$/workspace/sagooo_works/tests/TestCase/Controller/Client/ClientMypageOrderMadeControllerTest.php" />
-      <jump line="5" column="0" filename="$USER_HOME$/workspace/sagooo_works/tests/TestCase/Controller/Client/ClientMypageOrderMadeControllerTest.php" />
-      <jump line="411" column="56" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
-      <jump line="414" column="17" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
-      <jump line="418" column="17" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
-      <jump line="9" column="39" filename="$USER_HOME$/workspace/sagooo_navi/public/js/work_groups/detail.js" />
-      <jump line="4" column="4" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Work/WorkRepository.php" />
-      <jump line="115" column="20" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Work/WorkRepository.php" />
-      <jump line="4164" column="20" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" />
-      <jump line="87" column="66" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/layout/works/work_detail.blade.php" />
-      <jump line="193" column="43" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/WorkGroupController.php" />
       <jump line="440" column="13" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/WorkGroupController.php" />
       <jump line="456" column="27" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/WorkGroupController.php" />
       <jump line="461" column="21" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/WorkGroupController.php" />
@@ -519,46 +513,59 @@
       <jump line="40" column="0" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/WGはアサイン解除した時にアラートを出したい.md" />
       <jump line="73" column="0" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/WGはアサイン解除した時にアラートを出したい.md" />
       <jump line="77" column="0" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/WGはアサイン解除した時にアラートを出したい.md" />
+      <jump line="58" column="2" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/現ライターは前任ライターのチャット内容が見えたくない .md" />
+      <jump line="62" column="0" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/現ライターは前任ライターのチャット内容が見えたくない .md" />
+      <jump line="66" column="0" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/現ライターは前任ライターのチャット内容が見えたくない .md" />
+      <jump line="72" column="0" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/現ライターは前任ライターのチャット内容が見えたくない .md" />
+      <jump line="89" column="0" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/現ライターは前任ライターのチャット内容が見えたくない .md" />
+      <jump line="93" column="0" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/現ライターは前任ライターのチャット内容が見えたくない .md" />
+      <jump line="86" column="0" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/現ライターは前任ライターのチャット内容が見えたくない .md" />
+      <jump line="80" column="0" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/現ライターは前任ライターのチャット内容が見えたくない .md" />
+      <jump line="42" column="0" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/現ライターは前任ライターのチャット内容が見えたくない .md" />
+      <jump line="22" column="0" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/現ライターは前任ライターのチャット内容が見えたくない .md" />
+      <jump line="28" column="0" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/現ライターは前任ライターのチャット内容が見えたくない .md" />
+      <jump line="37" column="0" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/現ライターは前任ライターのチャット内容が見えたくない .md" />
+      <jump line="39" column="0" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/現ライターは前任ライターのチャット内容が見えたくない .md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>https://docs.google.com/spreadsheets/d/1YNmK_88n51d4DainQq-aBu6PmAiEsdG9cTN71uHZuWk/edit#gid=1616881359</text>
+        <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>https://docs.google.com/spreadsheets/d/1YNmK_88n51d4DainQq-aBu6PmAiEsdG9cTN71uHZuWk/edit#gid=1616881359</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
         <text>laravel</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">5pys5qGI5Lu244Gve3skdXNlck5hbWV9feanmOOBoOOBkeOBq+WFrOmWi+OBleOCjOOBpuOBiuOCiuOBvuOBmeOAgjxicj4K</text>
+        <text encoding="base64">ICAgIFvov73liqBdLT53aGVyZU51bGwoJ2R3Z2l1LmRlbGV0ZWRfYXQnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KiDjgq/jg6rjgqjjgqTjgr/jg7zjga/jgqLjgrXjgqTjg7PjgZXjgozjgZ/moYjku7bjgpLmnKrmnaXjga7moYjku7bjgYvjgonpoIbjgavopovjgZ/jgYTjgpLmtYHnlKgK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KiBb44OG44K544OI5omL6aCGXShodHRwczovL2RvY3MuZ29vZ2xlLmNvbS9zcHJlYWRzaGVldHMvZC8xWU5tS184OG41MWQ0RGFpblFxLWFCdTZQbUFpRXNkRzljVE43MXVIWnVXay9lZGl0I2dpZD0xNjE2ODgxMzU5KQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">IyMjIOiqpOOCiuOBjOOBguOCi+ipleS+oeODh+ODvOOCv+OCkuOCr+OCqOODquOCkuS9v+OBo+OBpuS/ruato+OBmeOCiwrku6XkuIvjga7jgq/jgqjjg6rjgpLkvb/jgaPjgabkv67mraPjgZnjgosKYGBgc3FsCnVwZGF0ZSBzYWdvb29fbmF2aS5kdGJfc3RlcF9ldmFsdWF0ZXMKc2V0IHRvdGFsX3Njb3JlID0gcXVhbGl0eV9zY29yZSwgdXBkYXRlZF9hdCA9IG5vdygpCndoZXJlIHN0ZXBfaWQgaW4gKAogICAgc2VsZWN0IGRzZS5zdGVwX2lkIGZyb20gc2Fnb29vX25hdmkuZHRiX3N0ZXBfZXZhbHVhdGVzIGRzZSAKICAgIGlubmVyIGpvaW4gc2Fnb29vX25hdmkuZHRiX3N0ZXBzIGRzIG9uICgKICAgICAgICBkcy5zdGVwX2lkID0gZHNlLnN0ZXBfaWQKICAgICAgICBhbmQgZHMuZGVsZXRlZF9hdCBpcyBudWxsCiAgICAgICAgYW5kIGRzLnN0ZXBfdGFyZ2V0X2lkID0gMQogICAgKQogICAgaW5uZXIgam9pbiBzYWdvb29fbmF2aS5kdGJfd29ya19ncm91cHMgZHdnIG9uICgKICAgICAgICBkd2cud29ya19ncm91cF9pZCA9IGRzLndvcmtfZ3JvdXBfaWQKICAgICAgICBhbmQgZHdnLmRlbGV0ZWRfYXQgaXMgbnVsbAogICAgKQogICAgaW5uZXIgam9pbiBzYWdvb29fbmF2aS5kdGJfd29ya19ncm91cF9zdGF0dXNlcyBkd2dzIG9uICgKICAgICAgICBkd2dzLndvcmtfZ3JvdXBfaWQgPSBkd2cud29ya19ncm91cF9pZAogICAgICAgIGFuZCBkd2dzLmlzX2NhbmNlbGVkID0gMAogICAgKQogICAgd2hlcmUgZHNlLnRvdGFsX3Njb3JlID0gMC4wMCBhbmQgZHNlLm1hbm5lcl9zY29yZSA9IDAuMDAKKTsKYGBgCgojIyMg5qGI5Lu244GU44Go44Gu57eP5ZCI6KmV5L6h566X5Ye644Ot44K444OD44Kv44KS5L+u5q2j44GZ44KLCgojIyMjIOaWuemHnQrku6XkuIvjga7pg6jliIbjga7jg63jgrjjg4Pjgq/jgpLkv67mraPjgZfjgZ/kuIrjgafjgIHplqLmlbDjgavliIfjgorlh7rjgZnjgIIK44Gd44Gu5LiK44Gn44OG44K544OI44Kz44O844OJ44KS5pu444GPCgojIyMjIOWIh+OCiuWHuuOBmemWouaVsOS9nOaIkApFdmFsdWF0ZVJlcG9zaXRvcnlAY2FsY3VsYXRlU3RlcEV2YWx1dGVUb3RhbFNjb3JlKGludCAkc3RlcFRhcmdldElkLCBmbG9hdCAkbWFubmVyU2NvcmUsIGZsb2F0ICRxdWFsaXR5U2NvcmUpIAoKYGBgcGhwCjw/cGhwCi8vIOODqeOCpOOCv+ODvOOBr+OAgee0jeWTgeeJqeipleS+oeOBqOePvuWgtOipleS+oeOCkuW5s+Wdh+OBl+OBn+WApOOCkue3j+WQiOipleS+oeOBqOOBmeOCiwovLyDniYfmlrnjgZfjgYvoqZXkvqHjgYzjgarjgZHjgozjgbDjgIHjgZ3jga7oqZXkvqHjgpLnt4/lkIjoqZXkvqHjgajjgZnjgosKaWYgKCRzdGVwVGFyZ2V0SWQgPT09IGNvbmZpZygndXNlcl9yZWdpc3Rlcl9pdGVtcy53b3JrZXJfdHlwZS53cml0ZXIuaWQnKQogICAgJiYgIWVtcHR5KCRtYW5uZXJTY29yZSkKKSB7CiAgICBpZiAoIWVtcHR5KCRtYW5uZXJTY29yZSkgJiYgZW1wdHkoJHF1YWxpdHlTY29yZSkpIHsKICAgICAgICByZXR1cm4gJG1hbm5lclNjb3JlOwogICAgfQoKICAgIGlmIChlbXB0eSgkbWFubmVyU2NvcmUpICYmICFlbXB0eSgkcXVhbGl0eVNjb3JlKSkgewogICAgICAgIHJldHVybiAkcXVhbGl0eVNjb3JlOwogICAgfQoKICAgIGlmICghZW1wdHkoJG1hbm5lclNjb3JlKSAmJiAhZW1wdHkoJHF1YWxpdHlTY29yZSkpIHsKICAgICAgICAvLyBNRU1POiDljp/nqL/oqZXkvqHjga7ph43jgb/jgpLlsJHjgarjgY/jgZnjgovjgZ/jgoExLzLjgavjgZnjgosKICAgICAgICByZXR1cm4gKCRtYW5uZXJTY29yZSArICgkcXVhbGl0eVNjb3JlIC8gMikpIC8gMjsKICAgIH0KfQoKLy8g44OV44Kp44OI44Kw44Op44OV44Kh44O844Gu5aC05ZCI44Gv57SN5ZOB54mp6KmV5L6h44GM54++54q26YeN6KaB44Gn44Gv44Gq44GE44Gu44Gn44CB54++5aC06KmV5L6h44KS57eP5ZCI6KmV5L6h44Go44GZ44KLCi8vIG1lbW86IOS7ruOBq+e0jeWTgeeJqeipleS+oeOBl+OBi+ipleS+oeOBl+OBpuOBhOOBquOBkeOCjOOBsOOAgee3j+WQiOipleS+oeOBrzAuMOOBqOOBquOCiwovLyBUT0RPOiDkuovmpa3pg6jjgYvjgolHT+OCteOCpOODs+OBjOWHuuasoeesrOOAgeODleOCqeODiOOCsOODqeODleOCoeODvOOCgue0jeWTgeeJqeipleS+oeOCkuiAg+aFruOBmeOCi+S7leanmOOBuOWkieabtCBAb290c3Uua2F6dWtpCi8vIGh0dHBzOi8vYml0YnVja2V0Lm9yZy93aWxsZ2F0ZXRlYW12aWV0bnVtL3NhZ29vb19uYXZpL3B1bGwtcmVxdWVzdHMvMTc1OS9kb25lL2RpZmYjTHBhY2thZ2VzL1NhZ29vb05hdmkvSW5mcmFzdHJ1Y3R1cmUvUmVwb3NpdG9yaWVzL0RvbWFpbi9FbG9xdWVudC9BZG1pbi9Xb3JrL1dvcmtSZXBvc2l0b3J5LnBocEYyNDY3CmlmICgkc3RlcFRhcmdldElkID09PSBjb25maWcoJ3VzZXJfcmVnaXN0ZXJfaXRlbXMud29ya2VyX3R5cGUucGhvdG9ncmFwaGVyLmlkJykpIHsKICAgIHJldHVybiAkbWFubmVyU2NvcmU7Cn0KCi8vIOagoeato+iAheOBruWgtOWQiOOBr+ePvuWgtOipleS+oeOBjOWtmOWcqOOBl+OBquOBhOOBruOBp+OAgee0jeWTgeeJqeipleS+oeOCkue3j+WQiOipleS+oeOBqOOBmeOCiwppZiAoJHN0ZXBUYXJnZXRJZCA9PT0gY29uZmlnKCd1c2VyX3JlZ2lzdGVyX2l0ZW1zLndvcmtlcl90eXBlLnJldmlld2VyLmlkJykpIHsKICAgIHJldHVybiAkcXVhbGl0eVNjb3JlOwp9CmBgYAoK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">U2Fnb29vTmF2aS9BcHBsaWNhdGlvbi9Ob3RpZmljYXRpb25zCg==</text>
+        <text encoding="base64">IyMjIOebtOaOpeW9semfv+OBruOBguOCi+apn+iDvQoqIOahiOS7tuOBlOOBqOOBruipleS+oeeul+WHuuODreOCuOODg+OCrwoJKiDntI3lk4HnianoqZXkvqHvvIhXR++8iQoJKiDntI3lk4HnianoqZXkvqHvvIjjg57jgqTjg4rjg5PvvIkKCSog54++5aC06KmV5L6h77yI44Oe44Kk44OK44OT77yJCgkqIOe3j+WQiOipleS+oe+8iFdH44O744Oe44Kk44OK44OT77yJCgojIyMg6ZaT5o6l55qE44Gr5b2x6Z+/44GZ44KL5qmf6IO9Ciog5qGI5Lu244GU44Go44Gu6KmV5L6h6KGo56S6CgkqIOWPluadkOWFiOS8gealreips+e0sOeUu+mdogoJKiDjgq/jg6rjgqjjgqTjgr/jg7zoqbPntLDnlLvpnaIKCSog77yIR3JhZmFuYSDjgafopovjgabjgYTjgosgS1BJ77yJCiog44Kv44Oq44Ko44Kk44K/44O844GU44Go44Gu6KmV5L6h566X5Ye644Ot44K444OD44KvCgkqIO+8iOahiOS7tuOBlOOBqOOBruipleS+oeOCkuWQiOioiOOBl+OBpueul+WHuuOBmeOCi+OBn+OCge+8iQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyMjIHBhY2thZ2VzL1NhZ29vb05hdmkvSW5mcmFzdHJ1Y3R1cmUvUmVwb3NpdG9yaWVzL0RvbWFpbi9FbG9xdWVudC9Xb3JrUmVwb3NpdG9yeUBnZXRBc3NpZ25lZFdvcmtEYXRhCi0gRWxvcXVlbnTjgaflj5blvpfjgZfjgZ/jgoLjga7jgavlr77jgZfjgabjgIHjgqLjgrXjgqTjg7PjgZXjgozjgabjgYTjgovmoYjku7bjgafjg5XjgqPjg6vjgr/jgpLjgYvjgZHjgosKICAgIC0g44Ki44K144Kk44Oz44GV44KM44Gm44GE44KL5qGI5Lu244Gv44Kv44Ko44Oq44OT44Or44OA44Gn5Y+W5b6XCiAgICAgICAgLSBgZHRiX3dvcmtfZ3JvdXBzYOOCkue1kOWQiOOBl+OBpuOBhOOCi+eQhueUsQogICAgICAgICAgICAtIOWtmOWcqOOBl+OBquOBhOODr+ODvOOCr+OCsOODq+ODvOODl+OBruOCueODhuODg+ODl+OCkuiAg+aFruOBmeOCi+OBn+OCgQogICAgICAgICAgICAtIOODr+ODvOOCr+OCsOODq+ODvOODl+OCkuWJiumZpOOBl+OBpuOCguOCueODhuODg+ODl+OBr+WJiumZpOOBleOCjOOBquOBhAogICAgLSDmoYjku7bjga7ooajnpLrpoIbjgoLjgq/jgqjjg6rjg5Pjg6vjg4Djgaflj5blvpcKICAgIC0gQmVmb3JlCiAgICAtIGBgYHBocAogICAgICAgICR3b3JrcyA9ICR0aGlzLT5zdGVwRWxvcXVlbnQKICAgICAgICAgICAgLT53aXRoKFsKICAgICAgICAgICAgICAgICdncm91cC5zdGF0dXMnLAogICAgICAgICAgICAgICAgJ2dyb3VwLmNsaWVudCcsCiAgICAgICAgICAgICAgICAncHJvZHVjdHMub3JkZXJSZXF1ZXN0LnByb2R1Y3QnLAogICAgICAgICAgICAgICAgJ2Fzc2lnbicsCiAgICAgICAgICAgIF0pCiAgICAgICAgICAgIC0+aGFzKCdncm91cC5zdGF0dXMnKQogICAgICAgICAgICAtPndoZXJlSGFzKCdhc3NpZ24nLCBmdW5jdGlvbiAoJHF1ZXJ5KSB1c2UgKCR1c2VyKSB7CiAgICAgICAgICAgICAgICAkcXVlcnktPndoZXJlKCd1c2VyX2lkJywgJHVzZXItPnVzZXJJZCgpLT52YWx1ZSgpKTsKICAgICAgICAgICAgfSkKICAgICAgICAgICAgLT53aGVyZUhhcygncHJvZHVjdHMnLCBmdW5jdGlvbiAoJHF1ZXJ5KSB7CiAgICAgICAgICAgICAgICAkcXVlcnktPm9yZGVyQnkoJ2RlbGl2ZXJ5X3NjaGVkdWxlZF9hdCcsICdkZXNjJyk7CiAgICAgICAgICAgIH0pCiAgICAgICAgICAgIC0+Z2V0KCk7CiAgICAgIGBgYAogICAgLSBBZnRlcgogICAgLSBgYGBwaHAKICAgICAgICAkYXNzaWduZWRJZHMgPSBcREI6OnRhYmxlKCdkdGJfc3RlcHMgYXMgZHMnKQogICAgICAgICAgICAtPmpvaW4oJ2R0Yl93b3JrX2dyb3VwcyBhcyBkd2cnLCAnZHdnLndvcmtfZ3JvdXBfaWQnLCAnZHMud29ya19ncm91cF9pZCcpCiAgICAgICAgICAgIC0+am9pbignZHRiX3N0ZXBfYXNzaWducyBhcyBkc2EnLCAnZHNhLnN0ZXBfaWQnLCAnZHMuc3RlcF9pZCcpCiAgICAgICAgICAgIC0+d2hlcmUoJ2RzYS51c2VyX2lkJywgJHVzZXItPnVzZXJJZCgpLT52YWx1ZSgpKQogICAgICAgICAgICAtPndoZXJlTnVsbCgnZHdnLmRlbGV0ZWRfYXQnKQogICAgICAgICAgICAtPndoZXJlTnVsbCgnZHMuZGVsZXRlZF9hdCcpCiAgICAgICAgICAgIC0+cGx1Y2soJ2RzYS5zdGVwX2lkJyk7CiAgICAgICAgCiAgICAgICAgJHdvcmtzID0gJHRoaXMtPnN0ZXBFbG9xdWVudAogICAgICAgICAgICAtPndpdGgoWwogICAgICAgICAgICAgICAgJ2dyb3VwLnN0YXR1cycsCiAgICAgICAgICAgICAgICAnZ3JvdXAuY2xpZW50JywKICAgICAgICAgICAgICAgICdwcm9kdWN0cy5vcmRlclJlcXVlc3QucHJvZHVjdCcsCiAgICAgICAgICAgICAgICAnYXNzaWduJywKICAgICAgICAgICAgXSkKICAgICAgICAgICAgLT53aGVyZUluKCdzdGVwX2lkJywgJGFzc2lnbmVkSWRzKQogICAgICAgICAgICAtPmdldCgpOwogICAgICBgYGAKCg==</text>
+        <text encoding="base64">KiDoqqTjgorjgYzjgYLjgovoqZXkvqHjg4fjg7zjgr/jgpLjgq/jgqjjg6rjgpLkvb/jgaPjgabkv67mraPjgZnjgosKKiDmoYjku7bjgZTjgajjga7nt4/lkIjoqZXkvqHnrpflh7rjg63jgrjjg4Pjgq/jgpLkv67mraPjgZnjgosKCSog57SN5ZOB54mp6KmV5L6h44Gv6KmV5L6h5riI44G/44Gg44GM54++5aC06KmV5L6h44Gv6KmV5L6h44GV44KM44Gm44GE44Gq44GE44Go44GNCgkqIOODhuOCueODiOOCs+ODvOODieOCguabuOOBjwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">44Ki44K144Kk44Oz5qGI5Lu255S76Z2i44Gu6KGo56S644KS6auY6YCf5YyW44GZ44KLCi0gd2hlcmVIYXPjgYzpgYXjgYTljp/lm6DjgavjgarjgaPjgabjgYTjgosgLT4g5L2/44KP44Gq44GE5pa55ZCRCi0gRWxvcXVlbnTjgaflj5blvpfjgZfjgZ/jgoLjga7jgavlr77jgZfjgabjgIHjgqLjgrXjgqTjg7PjgZXjgozjgabjgYTjgovmoYjku7bjgafjg5XjgqPjg6vjgr/jgpLjgYvjgZHjgovjg63jgrjjg4Pjgq/jgavnva7jgY3mj5vjgYjjgosK</text>
+        <text encoding="base64">IyMg6Kq/5p+744OB44Kx44OD44OICmh0dHBzOi8vd2lsbGdhdGUuYXRsYXNzaWFuLm5ldC9icm93c2UvQVNTSUNBVC02MDIKCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">44Ki44K144Kk44Oz5qGI5Lu255S76Z2i44Gu6KGo56S644KS6auY6YCf5YyW44GZ44KLCi0gd2hlcmVIYXPjgYzpgYXjgYTljp/lm6DjgavjgarjgaPjgabjgYTjgosgLT4g5L2/44KP44Gq44GE5pa55ZCRCi0gRWxvcXVlbnTjgaflj5blvpfjgZfjgZ/jgoLjga7jgavlr77jgZfjgabjgIHjgqLjgrXjgqTjg7PjgZXjgozjgabjgYTjgovmoYjku7bjgafjg5XjgqPjg6vjgr/jgpLjgYvjgZHjgovjg63jgrjjg4Pjgq/jgavnva7jgY3mj5vjgYjjgosK</text>
+        <text encoding="base64">Cue0jeWTgeeJqeipleS+oeOBr+ipleS+oea4iOOBv+OBoOOBjOePvuWgtOipleS+oeOBr+ipleS+oeOBleOCjOOBpuOBhOOBquOBhOOBqOOBjeOAgeODqeOCpOOCv+ODvOOBrue3j+WQiOipleS+oeOBr+e0jeWTgeeJqeipleS+oeOBqOWQjOOBmOWApOOBq+OBquOBo+OBpuOBhOOBquOBhOOBqOOBhOOBkeOBquOBhOOBn+OCgQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">6YeN44GE5Yem55CG44KS5L2/55So44GX44Gm44GK44KK44CB5pS55ZaE44Gu5L2Z5Zyw44GM44GC44KL44Gf44KBCg==</text>
+        <text encoding="base64">Ciog44Op44Kk44K/44O844Gn44GC44KLIO+8iOODleOCqeODiOOCsOODqeODleOCoeODvOODu+agoeato+iAheOBp+OBr+i1t+OBjeOBquOBhO+8iQoqIOe0jeWTgeeJqeipleS+oeOBr+OBleOCjOOBpuOBhOOCi+OBjOOAgeePvuWgtOipleS+oeOBr+OBleOCjOOBpuOBhOOBquOBhArkuIroqJjjga7mnaHku7bjgacx5Y+W5p2Q44Gu57eP5ZCI6KmV5L6h44GMMC4w44Gr44Gq44Gj44Gm44GX44G+44GG44Ot44K444OD44Kv44KS5L+u5q2j44GX44Gf44GECg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">44Ki44K144Kk44Oz5qGI5Lu255S76Z2i44Gu6KGo56S644KS6auY6YCf5YyW44GZ44KLCg==</text>
+        <text encoding="base64">Cu+8iFdH44O744Oe44Kk44OK44OT77yJCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

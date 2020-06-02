@@ -48,7 +48,7 @@
         <mark key="." line="194" column="66" />
         <mark key="^" line="194" column="66" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbWorkManagesTable.php" timestamp="1591081427808" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbWorkManagesTable.php" timestamp="1591082439547" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/OfferRepository.php" timestamp="1590460770927">
         <mark key="'" line="28" column="23" />
       </file>
@@ -236,7 +236,7 @@
         <text>g</text>
       </register>
       <register name="/" type="4">
-        <text>get</text>
+        <text>cmd+F+F12</text>
       </register>
       <register name="0" type="4">
         <text>WorkGroupController@showCancelForm</text>
@@ -273,9 +273,9 @@
       </register>
     </registers>
     <search>
-      <last-search>get</last-search>
+      <last-search>cmd+F+F12</last-search>
       <last-offset />
-      <last-pattern>get</last-pattern>
+      <last-pattern>cmd+F+F12</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>update</last-substitute>
       <last-dir>1</last-dir>
@@ -283,7 +283,6 @@
     </search>
     <history>
       <history-search>
-        <entry>チャンネル</entry>
         <entry>teams</entry>
         <entry>channel</entry>
         <entry>detial</entry>
@@ -303,6 +302,7 @@
         <entry>update</entry>
         <entry>save</entry>
         <entry>get</entry>
+        <entry>cmd+F+F12</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

@@ -63,7 +63,7 @@
         <mark key="." line="53" column="38" />
         <mark key="^" line="53" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/SalesRegulationPublishRequestController.php" timestamp="1591079450051">
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/SalesRegulationPublishRequestController.php" timestamp="1591080333819">
         <mark key="'" line="121" column="35" />
       </file>
       <file name="&lt;d94245aa-b6b7-4ccd-833c-d042229a9b7b&gt;/packages/SagoooNavi/Application/Notifications/OfferTargetUserNotify.php" timestamp="1590476692969">
@@ -84,8 +84,14 @@
         <mark key="^" line="1582" column="40" />
         <mark key="." line="1582" column="40" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbPublishRequestsTable.php" timestamp="1591080038091">
+        <mark key="'" line="16" column="52" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/composer.json" timestamp="1590735129655">
         <mark key="'" line="14" column="9" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_regulation_publish_request.php" timestamp="1591080362241">
+        <mark key="'" line="35" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Shell/ImportSalesForceContractInformationDataShell.php" timestamp="1588050157225">
         <mark key="[" line="108" column="0" />
@@ -131,14 +137,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Entity/DtbPublishRequest.php" timestamp="1591078680089">
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Entity/DtbPublishRequest.php" timestamp="1591079937753">
         <mark key="'" line="33" column="35" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/editoru_api/editoru_api/src/routes/api.php" />
-      <jump line="365" column="55" filename="$USER_HOME$/workspace/editoru_api/editoru_api/src/routes/api.php" />
-      <jump line="405" column="52" filename="$USER_HOME$/workspace/editoru_api/editoru_api/src/routes/api.php" />
       <jump line="410" column="24" filename="$USER_HOME$/workspace/editoru_api/editoru_api/src/routes/api.php" />
       <jump line="412" column="25" filename="$USER_HOME$/workspace/editoru_api/editoru_api/src/routes/api.php" />
       <jump line="384" column="95" filename="$USER_HOME$/workspace/editoru_api/editoru_api/src/routes/api.php" />
@@ -236,6 +239,9 @@
       <jump line="108" column="39" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/SalesRegulationPublishRequestController.php" />
       <jump line="113" column="103" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/SalesRegulationPublishRequestController.php" />
       <jump line="121" column="35" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/SalesRegulationPublishRequestController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbPublishRequestsTable.php" />
+      <jump line="16" column="52" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbPublishRequestsTable.php" />
+      <jump line="35" column="42" filename="$USER_HOME$/workspace/sagooo_works/config/const/const_regulation_publish_request.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -245,7 +251,7 @@
         <text>g</text>
       </register>
       <register name="/" type="4">
-        <text>publish_status</text>
+        <text>get</text>
       </register>
       <register name="0" type="4">
         <text>WorkGroupController@showCancelForm</text>
@@ -282,9 +288,9 @@
       </register>
     </registers>
     <search>
-      <last-search>publish_status</last-search>
+      <last-search>get</last-search>
       <last-offset />
-      <last-pattern>publish_status</last-pattern>
+      <last-pattern>get</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>update</last-substitute>
       <last-dir>1</last-dir>
@@ -292,15 +298,12 @@
     </search>
     <history>
       <history-search>
-        <entry>createMessage</entry>
-        <entry>getAdminWorkDetail</entry>
         <entry>チャンネル</entry>
         <entry>teams</entry>
         <entry>channel</entry>
         <entry>detial</entry>
         <entry>detail</entry>
         <entry>create</entry>
-        <entry>update</entry>
         <entry>develop</entry>
         <entry>workGroupStatusUpdate</entry>
         <entry>slack</entry>
@@ -312,6 +315,9 @@
         <entry>入稿依頼詳細</entry>
         <entry>ステータス</entry>
         <entry>publish_status</entry>
+        <entry>update</entry>
+        <entry>save</entry>
+        <entry>get</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

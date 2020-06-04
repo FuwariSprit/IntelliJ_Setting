@@ -34,11 +34,10 @@
         <mark key="." line="101" column="34" />
         <mark key="^" line="101" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/config/logging.php" timestamp="1591162822994">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="75" column="1" />
-        <mark key="^" line="75" column="1" />
-        <mark key="." line="75" column="1" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/config/logging.php" timestamp="1591233025751">
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="8" />
+        <mark key="." line="79" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/.env.staging" timestamp="1591176279546">
         <mark key="[" line="11" column="38" />
@@ -90,11 +89,11 @@
         <mark key="^" line="62" column="115" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/creator_column.blade.php" timestamp="1591157610327" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/Assign/CancelAssign.php" timestamp="1591162223631">
-        <mark key="[" line="96" column="12" />
-        <mark key="]" line="96" column="12" />
-        <mark key="." line="96" column="12" />
-        <mark key="^" line="96" column="12" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/Assign/CancelAssign.php" timestamp="1591233223922">
+        <mark key="[" line="92" column="9" />
+        <mark key="]" line="93" column="20" />
+        <mark key="." line="93" column="20" />
+        <mark key="^" line="93" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/search/work.blade.php" timestamp="1591152949814" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbWorkManagesTable.php" timestamp="1591085117969" />
@@ -130,7 +129,7 @@
         <mark key="." line="11" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Commands/Operator/DeleteChunkedFiles.php" timestamp="1591161457063" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/WGはアサイン解除した時にアラートを出したい.md" timestamp="1591176015445">
+      <file name="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/WGはアサイン解除した時にアラートを出したい.md" timestamp="1591233187956">
         <mark key="[" line="30" column="4" />
         <mark key="]" line="30" column="7" />
         <mark key="." line="30" column="7" />
@@ -246,11 +245,11 @@
       <jump line="37" column="8" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/WGはアサイン解除した時にアラートを出したい.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>https://hooks.slack.com/services/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</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIF0sCg==</text>
       </register>
       <register name="-" type="4">
-        <text>https://hooks.slack.com/services/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</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>cmd+F+F12</text>
@@ -259,22 +258,22 @@
         <text encoding="base64">ICAgICAgICAgICAgLy8gU2xhY2vjgafjgqLjgrXjgqTjg7Pop6PpmaTjgZfjgZ/jgZPjgajjgpLkvJ3jgYjjgosKICAgICAgICAgICAgTG9nOjpjaGFubmVsKCdub3RpZnlfc2xhY2snKS0+bm90aWNlKAogICAgICAgICAgICAgICAgIuODoeODg+OCu+ODvOOCuOOCkuWJiumZpOOBl+OBquOBhOOBqOOBhOOBkeOBquOBhOOBi+eiuuiqjeOBl+OCiOOBhiFcbiIKICAgICAgICAgICAgICAgIC4gJ+ipsuW9k+ahiOS7tjogJyAuIGFjdGlvbignQWRtaW5cV29ya0dyb3VwQ29udHJvbGxlckBkZXRhaWwnLCBbJGRhdGFbJ3N0ZXAnXS0+d29ya0dyb3VwSWQoKS0+dmFsdWUoKV0pCiAgICAgICAgICAgICk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Kirku6XkuIvjga7jgoLjga7jga/ml6foqK3oqIgqKgojIyMgW+aWsOimj+S9nOaIkF1TYWdvb29OYXZpL0FwcGxpY2F0aW9uL05vdGlmaWNhdGlvbnMvQXNzaWduQ2FuY2VsZWROb3RpZnkKYHRvU2xhY2soJG5vdGlmaWNhdGlvbilg44KS5a6f6KOFCi0gZnJvbSjpgIHkv6HogIUpCi0gaW1hZ2Uo44Ki44Kk44Kz44OzKQotIHRvKOmAgeS/oeWFiOODgeODo+ODs+ODjeODqykKLSBjb250ZW50KOWun+mam+OBruODoeODg+OCu+ODvOOCuOWGheWuuSkK6Kmz44GX44GP44GvW+ODieOCreODpeODoeODs+ODiF0oaHR0cHM6Ly9yZWFkb3VibGUuY29tL2xhcmF2ZWwvNS42L2phL25vdGlmaWNhdGlvbnMuaHRtbCnjga5TbGFja+mAmuefpeOBruODleOCqeODvOODnuODg+ODiAoKIyMjIFvmlrDopo/kvZzmiJBvcui/veiomF1wYWNrYWdlcy9TYWdvb29OYXZpL0luZnJhc3RydWN0dXJlL1JlcG9zaXRvcmllcy9Eb21haW4vRWxvcXVlbnQvPz8/CnJvdXRlTm90aWZpY2F0aW9uRm9yU2xhY2soKeOCkuWun+ijhQpUT0RPOiDjganjgZPjgavlrp/oo4XjgZfjgojjgYbvvJ8gQXNzaWduUmVwb3NpdG9yeT8g44Gd44KM44Go44KC5bCC55So44GnQ2xhc3PjgpLkvZzjgovjgYsKCiMjIyBUT0RPOiAkaG9nZS0+bm90aWZ5KG5ldyBOb3RpZmljYXRpb27jgpLntpnmib/jgZfjgZ/jgq/jg6njgrko4oCcbWVzc2FnZeKAnSkp44KS5ZG844G2Cgo=</text>
+        <text encoding="base64">ICAgIF0sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIFNsYWNr44Gn6YCa55+l44GZ44KLCg==</text>
+        <text encoding="base64">Kirku6XkuIvjga7jgoLjga7jga/ml6foqK3oqIgqKgojIyMgW+aWsOimj+S9nOaIkF1TYWdvb29OYXZpL0FwcGxpY2F0aW9uL05vdGlmaWNhdGlvbnMvQXNzaWduQ2FuY2VsZWROb3RpZnkKYHRvU2xhY2soJG5vdGlmaWNhdGlvbilg44KS5a6f6KOFCi0gZnJvbSjpgIHkv6HogIUpCi0gaW1hZ2Uo44Ki44Kk44Kz44OzKQotIHRvKOmAgeS/oeWFiOODgeODo+ODs+ODjeODqykKLSBjb250ZW50KOWun+mam+OBruODoeODg+OCu+ODvOOCuOWGheWuuSkK6Kmz44GX44GP44GvW+ODieOCreODpeODoeODs+ODiF0oaHR0cHM6Ly9yZWFkb3VibGUuY29tL2xhcmF2ZWwvNS42L2phL25vdGlmaWNhdGlvbnMuaHRtbCnjga5TbGFja+mAmuefpeOBruODleOCqeODvOODnuODg+ODiAoKIyMjIFvmlrDopo/kvZzmiJBvcui/veiomF1wYWNrYWdlcy9TYWdvb29OYXZpL0luZnJhc3RydWN0dXJlL1JlcG9zaXRvcmllcy9Eb21haW4vRWxvcXVlbnQvPz8/CnJvdXRlTm90aWZpY2F0aW9uRm9yU2xhY2soKeOCkuWun+ijhQpUT0RPOiDjganjgZPjgavlrp/oo4XjgZfjgojjgYbvvJ8gQXNzaWduUmVwb3NpdG9yeT8g44Gd44KM44Go44KC5bCC55So44GnQ2xhc3PjgpLkvZzjgovjgYsKCiMjIyBUT0RPOiAkaG9nZS0+bm90aWZ5KG5ldyBOb3RpZmljYXRpb27jgpLntpnmib/jgZfjgZ/jgq/jg6njgrko4oCcbWVzc2FnZeKAnSkp44KS5ZG844G2Cgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIC8vIFNsYWNr44Gn6YCa55+l44GZ44KLCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIC8vIFNsYWNr44Gn6YCa55+l44GZ44KLCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">TG9nOjpjaGFubmVsKCdub3RpZnlfc2xhY2snKS0+bm90aWNlKAogICAgIuODoeODg+OCu+ODvOOCuOOCkuWJiumZpOOBl+OBquOBhOOBqOOBhOOBkeOBquOBhOOBi+eiuuiqjeOBl+OCiOOBhiFcbiIKICAgIC4gJ+ipsuW9k+ahiOS7tjogJyAuIGFjdGlvbignQWRtaW5cV29ya0dyb3VwQ29udHJvbGxlckBkZXRhaWwnLCBbJGRhdGFbJ3N0ZXAnXS0+d29ya0dyb3VwSWQoKS0+dmFsdWUoKV0pCik7Cg==</text>
       </register>
-      <register name="5" type="8">
+      <register name="6" type="8">
         <text encoding="base64">KyAgICAgICAgCisgICAgICAgIAorICAgICAgICAKKyAgICAgICAgCisgICAgICAgIAorICAgICAgICAKKyAgICAgICAgCisgICAgICAgIAorICAgICAgICAKKyAgICAgICAgCisgICAgICAgIAorICAgICAgICAKKyAgICAgICAg</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -283,7 +282,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBTbGFja+OBp+OCouOCteOCpOODs+ino+mZpOOBl+OBn+OBk+OBqOOCkuS8neOBiOOCiwogICAgICAgIExvZzo6Y2hhbm5lbCgnbm90aWZ5X3NsYWNrJyktPm5vdGljZSgKICAgICAgICAgICAgIuODoeODg+OCu+ODvOOCuOOCkuWJiumZpOOBl+OBquOBhOOBqOOBhOOBkeOBquOBhOOBi+eiuuiqjeOBl+OCiOOBhiFcbiIKICAgICAgICAgICAgLiAn6Kmy5b2T5qGI5Lu2OiAnIC4gYWN0aW9uKCdBZG1pblxXb3JrR3JvdXBDb250cm9sbGVyQGRldGFpbCcsIFskZGF0YVsnc3RlcCddLT53b3JrR3JvdXBJZCgpLT52YWx1ZSgpXSkKICAgICAgICApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

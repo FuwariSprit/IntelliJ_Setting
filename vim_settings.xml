@@ -10,11 +10,12 @@
         <mark key="." line="17" column="63" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/sass/service/foundation/_variables.scss" timestamp="1601536019324" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/layout/admin/works/detail.blade.php" timestamp="1601536531364">
-        <mark key="[" line="222" column="14" />
-        <mark key="]" line="221" column="43" />
-        <mark key="^" line="222" column="53" />
-        <mark key="." line="221" column="43" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/layout/admin/works/detail.blade.php" timestamp="1601540600774">
+        <mark key="'" line="174" column="80" />
+        <mark key="[" line="223" column="0" />
+        <mark key="]" line="223" column="16" />
+        <mark key="^" line="224" column="21" />
+        <mark key="." line="223" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" timestamp="1591078949182">
         <mark key="'" line="3405" column="0" />
@@ -32,6 +33,7 @@
         <mark key="^" line="93" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Notifications/HearingsheetNotify.php" timestamp="1601537488458" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/work_groups/detail.blade.php" timestamp="1601540589460" />
       <file name="$USER_HOME$/workspace/sagooo_navi/.env" timestamp="1591321688231">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="12" column="0" />
@@ -47,7 +49,7 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/.env.testing" timestamp="1591317857336">
         <mark key="'" line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/alert_regulation_sheet_panel.blade.php" timestamp="1601535493785">
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/alert_regulation_sheet_panel.blade.php" timestamp="1601540154889">
         <mark key="[" line="8" column="19" />
         <mark key="]" line="8" column="19" />
         <mark key="^" line="8" column="15" />
@@ -85,7 +87,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="9" filename="$USER_HOME$/workspace/sagooo_navi/composer.json" />
       <jump line="16" column="9" filename="$USER_HOME$/workspace/sagooo_navi/composer.json" />
       <jump line="19" column="14" filename="$USER_HOME$/workspace/sagooo_navi/composer.json" />
       <jump line="23" column="18" filename="$USER_HOME$/workspace/sagooo_navi/composer.json" />
@@ -185,6 +186,7 @@
       <jump line="9" column="0" filename="$USER_HOME$/workspace/sagooo_navi/.env" />
       <jump line="5" column="0" filename="$USER_HOME$/workspace/sagooo_navi/.env" />
       <jump line="37" column="8" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/WGはアサイン解除した時にアラートを出したい.md" />
+      <jump line="174" column="80" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/layout/admin/works/detail.blade.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -194,7 +196,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>cmd+F+F12</text>
+        <text>取材時間や取材場所に変更がある場合、ウィルゲートまでご連絡ください</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Tk9USUZZX1NMQUNLX1dFQkhPT0tfVVJMPWh0dHBzOi8vaG9va3Muc2xhY2suY29tL3NlcnZpY2VzL1QwMjlVSkcwMS9CMDE0QThUUkxCSC9pMUkzb0RmTmdPQUlqNEdycEdwbEJSeUwKTk9USUZZX1NMQUNLX1VTRVJOQU1FPeOCouOCteOCpOODs+OCreODo+ODs+OCu+ODq+OCkuefpeOCieOBm+OCi+OBj+OCkwo=</text>
@@ -231,9 +233,9 @@
       </register>
     </registers>
     <search>
-      <last-search>cmd+F+F12</last-search>
+      <last-search>取材時間や取材場所に変更がある場合、ウィルゲートまでご連絡ください</last-search>
       <last-offset />
-      <last-pattern>cmd+F+F12</last-pattern>
+      <last-pattern>取材時間や取材場所に変更がある場合、ウィルゲートまでご連絡ください</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>update</last-substitute>
       <last-dir>1</last-dir>
@@ -241,7 +243,6 @@
     </search>
     <history>
       <history-search>
-        <entry>teams</entry>
         <entry>channel</entry>
         <entry>detial</entry>
         <entry>detail</entry>
@@ -261,6 +262,7 @@
         <entry>save</entry>
         <entry>get</entry>
         <entry>cmd+F+F12</entry>
+        <entry>取材時間や取材場所に変更がある場合、ウィルゲートまでご連絡ください</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

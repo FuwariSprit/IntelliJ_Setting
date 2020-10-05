@@ -47,12 +47,12 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/.env.testing" timestamp="1591317857336">
         <mark key="'" line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/シーズンごとのクリエイターの受注件数を知りたい.md" timestamp="1601881554585">
+      <file name="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/シーズンごとのクリエイターの受注件数を知りたい.md" timestamp="1601885534300">
         <mark key="'" line="22" column="0" />
         <mark key="[" line="53" column="4" />
-        <mark key="]" line="75" column="4" />
-        <mark key="." line="75" column="4" />
-        <mark key="^" line="75" column="4" />
+        <mark key="]" line="53" column="3" />
+        <mark key="." line="53" column="3" />
+        <mark key="^" line="53" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/alert_regulation_sheet_panel.blade.php" timestamp="1601540154889">
         <mark key="[" line="8" column="19" />
@@ -63,7 +63,9 @@
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_regulation_publish_request.php" timestamp="1591080362241">
         <mark key="'" line="35" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" timestamp="1601862804626" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" timestamp="1601885690940">
+        <mark key="'" line="281" column="23" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/AssignController.php" timestamp="1591161323988">
         <mark key="[" line="433" column="0" />
         <mark key="]" line="433" column="0" />
@@ -94,7 +96,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="623" column="80" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
       <jump line="529" column="7" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
       <jump line="538" column="17" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
       <jump line="48" column="24" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Entity/DtbPublishRequest.php" />
@@ -194,6 +195,7 @@
       <jump line="40" column="14" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/シーズンごとのクリエイターの受注件数を知りたい.md" />
       <jump line="68" column="0" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/シーズンごとのクリエイターの受注件数を知りたい.md" />
       <jump line="22" column="0" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/シーズンごとのクリエイターの受注件数を知りたい.md" />
+      <jump line="281" column="23" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -203,7 +205,7 @@
         <text>8</text>
       </register>
       <register name="/" type="4">
-        <text>受注案件</text>
+        <text>DB</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZD57eyAhZW1wdHkoJHVzZXJMYXRlc3QzU2Vhc29uSW50ZXJ2aWV3Q291bnRzWycyMDE4J10pIH19PC90ZD4gCg==</text>
@@ -240,9 +242,9 @@
       </register>
     </registers>
     <search>
-      <last-search>受注案件</last-search>
+      <last-search>DB</last-search>
       <last-offset />
-      <last-pattern>受注案件</last-pattern>
+      <last-pattern>DB</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>update</last-substitute>
       <last-dir>1</last-dir>
@@ -250,7 +252,6 @@
     </search>
     <history>
       <history-search>
-        <entry>develop</entry>
         <entry>workGroupStatusUpdate</entry>
         <entry>slack</entry>
         <entry>notification</entry>
@@ -270,6 +271,7 @@
         <entry>detail</entry>
         <entry encoding="base64">XDx1c2VySWRcPg==</entry>
         <entry>受注案件</entry>
+        <entry>DB</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

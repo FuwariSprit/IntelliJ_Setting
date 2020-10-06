@@ -47,12 +47,12 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/.env.testing" timestamp="1591317857336">
         <mark key="'" line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/シーズンごとのクリエイターの受注件数を知りたい.md" timestamp="1601970506880">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="52" column="1" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-        <mark key="^" line="52" column="0" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/シーズンごとのクリエイターの受注件数を知りたい.md" timestamp="1601975207795">
+        <mark key="'" line="64" column="0" />
+        <mark key="[" line="134" column="67" />
+        <mark key="]" line="134" column="67" />
+        <mark key="." line="134" column="67" />
+        <mark key="^" line="128" column="103" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/alert_regulation_sheet_panel.blade.php" timestamp="1601540154889">
         <mark key="[" line="8" column="19" />
@@ -63,12 +63,12 @@
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_regulation_publish_request.php" timestamp="1591080362241">
         <mark key="'" line="35" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" timestamp="1601957890513">
-        <mark key="'" line="1652" column="59" />
-        <mark key="[" line="1676" column="39" />
-        <mark key="]" line="1678" column="42" />
-        <mark key="." line="1678" column="42" />
-        <mark key="^" line="1678" column="42" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" timestamp="1601973088639">
+        <mark key="'" line="1663" column="0" />
+        <mark key="[" line="1649" column="0" />
+        <mark key="]" line="1649" column="0" />
+        <mark key="." line="1649" column="0" />
+        <mark key="^" line="1650" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/AssignController.php" timestamp="1591161323988">
         <mark key="[" line="433" column="0" />
@@ -100,13 +100,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="24" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Entity/DtbPublishRequest.php" />
-      <jump line="22" column="34" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Entity/DtbPublishRequest.php" />
-      <jump line="25" column="31" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Entity/DtbPublishRequest.php" />
-      <jump line="26" column="26" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Entity/DtbPublishRequest.php" />
-      <jump line="29" column="32" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Entity/DtbPublishRequest.php" />
-      <jump line="30" column="28" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Entity/DtbPublishRequest.php" />
-      <jump line="31" column="26" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Entity/DtbPublishRequest.php" />
       <jump line="32" column="23" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Entity/DtbPublishRequest.php" />
       <jump line="33" column="35" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Entity/DtbPublishRequest.php" />
       <jump line="11" column="6" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" />
@@ -200,13 +193,20 @@
       <jump line="315" column="17" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
       <jump line="1652" column="59" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
+      <jump line="52" column="4" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/シーズンごとのクリエイターの受注件数を知りたい.md" />
+      <jump line="58" column="0" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/シーズンごとのクリエイターの受注件数を知りたい.md" />
+      <jump line="64" column="0" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/シーズンごとのクリエイターの受注件数を知りたい.md" />
+      <jump line="1649" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
+      <jump line="1657" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
+      <jump line="1684" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
+      <jump line="1663" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkY3VycmVudFNlYXNvbkJlZ2luCg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>DB</text>
@@ -215,31 +215,31 @@
         <text encoding="base64">ICAgICAgICAgICAgJGN1cnJlbnRTZWFzb25CZWdpbiA9IENhcmJvbjo6dG9kYXkoKS0+eWVhcigpLT5zdWJZZWFycygkaSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkY3VycmVudFNlYXNvbkJlZ2luCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0aCBzY29wZT0iY29sIiBjbGFzcz0iYmctaW5mbyI+JzE4PC90aD4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHVzZXJMYXRlc3QzU2Vhc29uSW50ZXJ2aWV3Q291bnRzICs9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0aCBzY29wZT0iY29sIiBjbGFzcz0iYmctaW5mbyI+JzIwPC90aD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0aCBzY29wZT0iY29sIiBjbGFzcz0iYmctaW5mbyI+JzE5PC90aD4KICAgICAgICAgICAgICAgIDx0aCBzY29wZT0iY29sIiBjbGFzcz0iYmctaW5mbyI+JzIwPC90aD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZD57eyAhZW1wdHkoJHVzZXJMYXRlc3QzU2Vhc29uSW50ZXJ2aWV3Q291bnRzWycyMDE5J10pIH19PC90ZD4gCiAgICAgICAgICAgICAgICA8dGQ+e3sgIWVtcHR5KCR1c2VyTGF0ZXN0M1NlYXNvbkludGVydmlld0NvdW50c1snMjAyMCddKSB9fTwvdGQ+IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGludCAkdXNlcklkLAogICAgUmVxdWVzdCAkcmVxdWVzdCwKICAgIEdldElzRW5hYmxlRGVsZXRlVXNlciAkZ2V0SXNFbmFibGVEZWxldGVVc2VyVXNlQ2FzZSwKICAgIEdldFVzZXJEZXRhaWxXaXRoVHJhc2hlZCAkZ2V0VXNlckRldGFpbFVzZUNhc2UsCiAgICBHZXRVc2VyQ29tcGxldGVkSW50ZXJ2aWV3cyAkZ2V0VXNlckNvbXBsZXRlZEludGVydmlld3NVc2VDYXNlLAogICAgR2V0VXNlck9mZmVyUmVxdWVzdHMgJGdldFVzZXJPZmZlclJlcXVlc3RzVXNlQ2FzZSwKICAgIEdldFVzZXJTY29yZXMgJGdldFVzZXJTY29yZXNVc2VDYXNlLAogICAgR2V0VXNlcldvcmtIaXN0b3J5ICRnZXRVc2VyV29ya0hpc3RvcnlVc2VDYXNlLAogICAgR2V0VXNlckludGVydmlld0dlbnJlICRnZXRVc2VySW50ZXJ2aWV3R2VucmVVc2VDYXNlLAogICAgR2V0VXNlckludGVydmlld1RhcmdldCAkZ2V0VXNlckludGVydmlld1RhcmdldFVzZUNhc2UsCiAgICBHZXRQaG90b2dyYXBoZXJRdWFsaXR5RXZhbHVhdGVRdWVzdGlvbkNvdW50ICRnZXRRdWVzdGlvbkNvdW50VXNlY2FzZSwKICAgIEdldFVzZXJMYXRlc3RJbnRlcnZpZXdEYXRlICRnZXRVc2VyTGF0ZXN0SW50ZXJ2aWV3RGF0ZVVzZUNhc2UsCiAgICBHZXRXb3JrQ291bnRzICRnZXRXb3JrQ291bnRzVXNlQ2FzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAndXNlcklkJyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID0+ICR1c2VySWQsCiAgICAgICAgJ3VzZXInICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA9PiAkdXNlckRhdGFbJ3VzZXInXSwKICAgICAgICAndXNlclNjb3JlRGF0YScgICAgICAgICAgICAgICAgICAgICAgID0+ICR1c2VyU2NvcmVEYXRhLAogICAgICAgICd1c2VyV29ya0hpc3RvcnlEYXRhJyAgICAgICAgICAgICAgICAgPT4gJHVzZXJXb3JrSGlzdG9yeURhdGEsCiAgICAgICAgJ3VzZXJJbnRlcnZpZXdHZW5yZVdyaXRlckRhdGEnICAgICAgICA9PiAkdXNlckludGVydmlld0dlbnJlV3JpdGVyRGF0YSwKICAgICAgICAndXNlckludGVydmlld0dlbnJlUGhvdG9ncmFwaGVyRGF0YScgID0+ICR1c2VySW50ZXJ2aWV3R2VucmVQaG90b2dyYXBoZXJEYXRhLAogICAgICAgICd1c2VySW50ZXJ2aWV3VGFyZ2V0V3JpdGVyRGF0YScgICAgICAgPT4gJHVzZXJJbnRlcnZpZXdUYXJnZXRXcml0ZXJEYXRhLAogICAgICAgICd1c2VySW50ZXJ2aWV3VGFyZ2V0UGhvdG9ncmFwaGVyRGF0YScgPT4gJHVzZXJJbnRlcnZpZXdUYXJnZXRQaG90b2dyYXBoZXJEYXRhLAogICAgICAgICd3b3JrZXJUeXBlcycgICAgICAgICAgICAgICAgICAgICAgICAgPT4gJHdvcmtlclR5cGVzLAogICAgICAgICdjb3Jwb3JhdGlvblR5cGVzJyAgICAgICAgICAgICAgICAgICAgPT4gJGNvcnBvcmF0aW9uVHlwZXMsCiAgICAgICAgJ3dvcmtJbnRlcnZpZXdHZW5yZXMnICAgICAgICAgICAgICAgICA9PiAkd29ya0ludGVydmlld0dlbnJlcywKICAgICAgICAnd29ya0ludGVydmlld1RhcmdldHMnICAgICAgICAgICAgICAgID0+ICR3b3JrSW50ZXJ2aWV3VGFyZ2V0cywKICAgICAgICAncmVxdWVzdCcgICAgICAgICAgICAgICAgICAgICAgICAgICAgID0+ICRyZXF1ZXN0LT5hbGwoKSwKICAgICAgICAndXNlckNvbXBsZXRlZEludGVydmlld3MnICAgICAgICAgICAgID0+ICR1c2VyQ29tcGxldGVkSW50ZXJ2aWV3cywKICAgICAgICAndXNlck9mZmVyUmVxdWVzdHMnICAgICAgICAgICAgICAgICAgID0+ICR1c2VyT2ZmZXJSZXF1ZXN0cywKICAgICAgICAndXNlckxhdGVzdEludGVydmlld0RhdGUnICAgICAgICAgICAgID0+ICR1c2VyTGF0ZXN0SW50ZXJ2aWV3RGF0ZSwKICAgICAgICAnaXNFbmFibGVEZWxldGVVc2VyJyAgICAgICAgICAgICAgICAgID0+ICRpc0VuYWJsZURlbGV0ZVVzZXIsCiAgICAgICAgJ3dvcmtDb3VudHMnICAgICAgICAgICAgICAgICAgICAgICAgICA9PiAkd29ya0NvdW50cywKICAgICAgICAncGhvdG9ncmFwaGVyUXVhbGl0eVF1ZXN0aW9uQ291bnRzJyAgID0+ICRwaG90b2dyYXBoZXJRdWFsaXR5UXVlc3Rpb25Db3VudHMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZCA+e3sgIWVtcHR5KCR1c2VyTGF0ZXN0M1NlYXNvbkludGVydmlld0NvdW50c1snMjAxOCddKSB9fTwvdGQ+IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAuLi7nnIHnlaUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5zZWxlY3QoJ2RzYS51c2VyX2lkJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgICBrcHVibGljIGZ1bmN0aW9uIGdldFVzZXJMYXRlc3QzU2Vhc29uSW50ZXJ2aWV3Q291bnQoaW50ICR1c2VySWQpOiBDb2xsZWN0aW9uCiAgICB7CiAgICAgICAgLy8gOeaciOOCueOCv+ODvOODiOOBruOBn+OCgeOAgeS7iuaXpeOBjDIwMjAvMDjjgaDjgaPjgZ/loLTlkIjjgIHku4rjgrfjg7zjgrrjg7PjgYwyMDE5LzA5IH4gMjAyMC8wOOOBq+OBquOCiwogICAgICAgICR5ZWFyT2Zmc2V0ID0gMTsKICAgICAgICBpZiAoQ2FyYm9uOjpub3coKS0+bW9udGgoKS0+Z3QoQ2FyYm9uOjpwYXJzZSgnMDgnKSkpIHsKICAgICAgICAgICAgJHllYXJPZmZzZXQgPSAwOwogICAgICAgIH0KCiAgICAgICAgJHVzZXJMYXRlc3QzU2Vhc29uSW50ZXJ2aWV3Q291bnRzID0gW107CiAgICAgICAgLy8gM+OCt+ODvOOCuuODs+WIhuOBl+OBi+WPluW+l+OBl+OBquOBhOOBruOBp04rMeOBq+OBr+OBquOCieOBquOBhAogICAgICAgIGZvciAoJGkgPSAkeWVhck9mZnNldDsgJGkgPCAzICsgJHllYXJPZmZzZXQ7ICRpKyspIHsKICAgICAgICAgICAgJGN1cnJlbnRTZWFzb25ZZWFyQmVnaW4gPSBDYXJib246OnRvZGF5KCktPnllYXIoKS0+c3ViWWVhcnMoJGkpOwogICAgICAgICAgICAkY3VycmVudFNlYXNvblllYXJFbmQgPSBDYXJib246OnRvZGF5KCktPnllYXIoKS0+c3ViWWVhcnMoJGkrMSk7CgogICAgICAgICAgICAvLyAx44K344O844K644Oz44Gu5Y+X5rOo5Lu25pWw44KS5Y+W5b6X44GZ44KLCiAgICAgICAgICAgICR1c2VyTGF0ZXN0M1NlYXNvbkludGVydmlld0NvdW50c1tdID0gXERCOjp0YWJsZSgnZHRiX3N0ZXBzIGFzIGRzJykKICAgICAgICAgICAgICAgIC0+am9pbignZHRiX3N0ZXBfYXNzaWducyBhcyBkc2EnLCAnZHMuc3RlcF9pZCcsICdkc2Euc3RlcF9pZCcpCiAgICAgICAgICAgICAgICAtPmpvaW4oJ2R0Yl93b3JrX2dyb3VwX2lkIGFzIGR3ZycsICdkd2cud29ya19ncm91cF9pZCcsICdkcy53b3JrX2dyb3VwX2lkJykKICAgICAgICAgICAgICAgIC0+am9pbignZHRiX3dvcmtfZ3JvdXBfc3RhdHVzZXMgYXMgZHdncycsICdkd2dzLndvcmtfZ3JvdXBfaWQnLCAnZHdnLndvcmtfZ3JvdXBfaWQnKQogICAgICAgICAgICAgICAgLT5qb2luKCdkdGJfdXNlcnMgYXMgZHUnLCAnZHUudXNlcl9pZCcsICdkc2EudXNlcl9pZCcpCiAgICAgICAgICAgICAgICAtPndoZXJlKCdkc2EudXNlcl9pZCcsICR1c2VySWQpCiAgICAgICAgICAgICAgICAtPndoZXJlTnVsbCgnZHMuZGVsZXRlZF9hdCcpCiAgICAgICAgICAgICAgICAtPndoZXJlTnVsbCgnZHdnLmRlbGV0ZWRfYXQnKQogICAgICAgICAgICAgICAgLT5ncm91cEJ5KCd1c2VyX2lkJykKICAgICAgICAgICAgICAgIC0+c2VsZWN0KCdkc2EudXNlcl9pZCcpCiAgICAgICAgICAgICAgICAtPnNlbGVjdFJhdygic3VtKGlmKGRhdGVfZm9ybWF0KGR3Zy5pbnRlcnZpZXdfc3RhcnRfYXQsICclWS0lbScpID49ICc/LTA5JyAmJiAoZGF0ZV9mb3JtYXQoZHdnLmludGVydmlld19zdGFydF9hdCwgJyVZLSVtJykgPD0gJz8tMDgnKSwgMSwgMCkpIGFzICc/JyIpCiAgICAgICAgICAgICAgICAtPnNldEJpbmRpbmdzKFsKICAgICAgICAgICAgICAgICAgICAkY3VycmVudFNlYXNvblllYXJCZWdpbiwKICAgICAgICAgICAgICAgICAgICAkY3VycmVudFNlYXNvblllYXJFbmQsCiAgICAgICAgICAgICAgICAgICAgJGN1cnJlbnRTZWFzb25ZZWFyQmVnaW4KICAgICAgICAgICAgICAgIF0pCiAgICAgICAgICAgICAgICAtPmdldCgpOwogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -62,7 +62,7 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/.env.testing" timestamp="1591317857336">
         <mark key="'" line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/シーズンごとのクリエイターの受注件数を知りたい.md" timestamp="1602119574008">
+      <file name="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/シーズンごとのクリエイターの受注件数を知りたい.md" timestamp="1602122488356">
         <mark key="'" line="78" column="42" />
         <mark key="[" line="144" column="77" />
         <mark key="]" line="144" column="68" />
@@ -84,12 +84,12 @@
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_regulation_publish_request.php" timestamp="1591080362241">
         <mark key="'" line="35" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" timestamp="1602121034052">
-        <mark key="'" line="1708" column="0" />
-        <mark key="[" line="1685" column="0" />
-        <mark key="]" line="1685" column="24" />
-        <mark key="^" line="1683" column="23" />
-        <mark key="." line="1685" column="24" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" timestamp="1602123620234">
+        <mark key="'" line="323" column="38" />
+        <mark key="[" line="1683" column="47" />
+        <mark key="]" line="1683" column="47" />
+        <mark key="^" line="1684" column="24" />
+        <mark key="." line="1683" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/AssignController.php" timestamp="1591161323988">
         <mark key="[" line="433" column="0" />
@@ -141,7 +141,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="236" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/UserController.php" />
       <jump line="273" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/UserController.php" />
       <jump line="30" column="38" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/シーズンごとのクリエイターの受注件数を知りたい.md" />
       <jump line="68" column="0" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/users/detail.blade.php" />
@@ -241,55 +240,56 @@
       <jump line="278" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/UserController.php" />
       <jump line="275" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/UserController.php" />
       <jump line="237" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/UserController.php" />
+      <jump line="323" column="38" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>detail</text>
+        <text>getUserLatest3SeasonInterviewCount</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkY3VycmVudFNlYXNvbiA9IENhcmJvbjo6dG9kYXkoKS0+c3ViWWVhcnMoJGkrMiktPmZvcm1hdCgnWScpLT47Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkY3VycmVudFNlYXNvblllYXJCZWdpbiwgJGN1cnJlbnRTZWFzb25ZZWFyRW5kLCAkY3VycmVudFNlYXNvbiwgJHVzZXJMYXRlc3QzU2Vhc29uSW50ZXJ2aWV3Q291bnRzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF0pCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdXNlckxhdGVzdDNTZWFzb25JbnRlcnZpZXdDb3VudHMpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+c2V0QmluZGluZ3MoWwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGN1cnJlbnRTZWFzb25ZZWFyQmVnaW4sICRjdXJyZW50U2Vhc29uWWVhckVuZCwgJGN1cnJlbnRTZWFzb24pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDjgq/jg6rjgqjjgqTjgr/jg7zjga7nm7Tov5Ez44K344O844K644Oz5YiG44Gu5Y+X5rOo5Lu25pWw44KS5Y+W5b6XCiAgICAgICAgJGdldFVzZXJMYXRlc3QzU2Vhc29uSW50ZXJ2aWV3Q291bnRzID0gJGdldFVzZXJMYXRlc3QzU2Vhc29uSW50ZXJ2aWV3Q291bnRVc2VjYXNlKCR1c2VySWQpCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBHZXRVc2VyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+c2V0QmluZGluZ3MoWwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0VXNlckxhdGVzdDNTZWFzb25JbnRlcnZpZXdDb3VudCgpIG1ldGhvZC4K</text>
+        <text encoding="base64">ICAgICAgICAvLyDjgq/jg6rjgqjjgqTjgr/jg7zjga7nm7Tov5Ez44K344O844K644Oz5YiG44Gu5Y+X5rOo5Lu25pWw44KS5Y+W5b6XCiAgICAgICAgJGdldFVzZXJMYXRlc3QzU2Vhc29uSW50ZXJ2aWV3Q291bnRzID0gJGdldFVzZXJMYXRlc3QzU2Vhc29uSW50ZXJ2aWV3Q291bnRVc2VjYXNlKCR1c2VySWQpCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiAK</text>
+        <text encoding="base64">ICAgICAgICBHZXRVc2VyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIFNhZ29vb05hdmlcRG9tYWluXEV4Y2VwdGlvbnNcTW9kZWxOb3RGb3VuZEV4Y2VwdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0VXNlckxhdGVzdDNTZWFzb25JbnRlcnZpZXdDb3VudCgpIG1ldGhvZC4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog44Om44O844K244Gu6Kmz57Sw44KS5Y+W5b6XCiAgICAgKgogICAgICogQHBhcmFtIGludCAkdXNlcklkCiAgICAgKiBAdGhyb3dzIE1vZGVsTm90Rm91bmRFeGNlcHRpb24KICAgICAqIEByZXR1cm4gY29sbGVjdGlvbgogICAgICovCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBfX2ludm9rZShpbnQgJHVzZXJJZCk6IGNvbGxlY3Rpb24KICAgIHsKICAgICAgICAkdXNlckRldGFpbCA9ICR0aGlzLT51c2VyUmVwb3NpdG9yeS0+Z2V0VXNlckRldGFpbCgkdXNlcklkKTsKCiAgICAgICAgcmV0dXJuIGNvbGxlY3QoWwogICAgICAgICAgICAndXNlcicgPT4gJHVzZXJEZXRhaWxbJ3VzZXInXQogICAgICAgIF0pOwogICAgfQo=</text>
+        <text encoding="base64">dXNlIFNhZ29vb05hdmlcRG9tYWluXEV4Y2VwdGlvbnNcTW9kZWxOb3RGb3VuZEV4Y2VwdGlvbjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>detail</last-search>
+      <last-search>getUserLatest3SeasonInterviewCount</last-search>
       <last-offset />
-      <last-pattern>detail</last-pattern>
+      <last-pattern>getUserLatest3SeasonInterviewCount</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>update</last-substitute>
       <last-dir>1</last-dir>
@@ -297,8 +297,6 @@
     </search>
     <history>
       <history-search>
-        <entry>workGroupStatusUpdate</entry>
-        <entry>slack</entry>
         <entry>notification</entry>
         <entry>laravel</entry>
         <entry>アサイン</entry>
@@ -317,6 +315,8 @@
         <entry>受注案件</entry>
         <entry>DB</entry>
         <entry>detail</entry>
+        <entry>getLatest</entry>
+        <entry>getUserLatest3SeasonInterviewCount</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

@@ -60,7 +60,12 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/.env.testing" timestamp="1591317857336">
         <mark key="'" line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/シーズンごとのクリエイターの受注件数を知りたい.md" timestamp="1602206050514" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/シーズンごとのクリエイターの受注件数を知りたい.md" timestamp="1602210082942">
+        <mark key="[" line="56" column="22" />
+        <mark key="]" line="56" column="18" />
+        <mark key="^" line="56" column="18" />
+        <mark key="." line="56" column="18" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/alert_regulation_sheet_panel.blade.php" timestamp="1602039693635">
         <mark key="[" line="8" column="48" />
         <mark key="]" line="8" column="49" />
@@ -76,8 +81,8 @@
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_regulation_publish_request.php" timestamp="1591080362241">
         <mark key="'" line="35" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" timestamp="1602208143745">
-        <mark key="'" line="178" column="0" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" timestamp="1602209883707">
+        <mark key="'" line="176" column="10" />
         <mark key="[" line="1653" column="25" />
         <mark key="]" line="1654" column="6" />
         <mark key="^" line="1654" column="6" />
@@ -111,8 +116,12 @@
         <mark key="." line="30" column="7" />
         <mark key="^" line="30" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/users/picture.blade.php" timestamp="1602205775685">
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/users/picture.blade.php" timestamp="1602210788286">
         <mark key="'" line="47" column="0" />
+        <mark key="[" line="84" column="28" />
+        <mark key="]" line="84" column="43" />
+        <mark key="^" line="84" column="43" />
+        <mark key="." line="84" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Front/Top/index.ctp" timestamp="1602062646670">
         <mark key="[" line="117" column="22" />
@@ -135,7 +144,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/User/GetUserLatest3SeasonInterviewCount.php" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/User/GetUserLatest3SeasonInterviewCount.php" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/User/GetUserLatest3SeasonInterviewCount.php" />
       <jump line="24" column="4" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/User/GetUserLatest3SeasonInterviewCount.php" />
@@ -235,13 +243,14 @@
       <jump line="162" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
       <jump line="167" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
       <jump line="178" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
+      <jump line="176" column="10" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>!empty($value) ? $value : 0</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>!empty($value) ? $value : 0</text>
       </register>
       <register name="/" type="4">
         <text>s</text>

@@ -30,6 +30,12 @@
         <mark key="^" line="1" column="28" />
         <mark key="." line="1" column="28" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepositoryTest.php" timestamp="1602223187680">
+        <mark key="[" line="19" column="70" />
+        <mark key="]" line="19" column="77" />
+        <mark key="^" line="19" column="77" />
+        <mark key="." line="19" column="77" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/Assign/CancelAssign.php" timestamp="1591233223922">
         <mark key="[" line="92" column="9" />
         <mark key="]" line="93" column="20" />
@@ -50,12 +56,6 @@
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/User/GetWorkCounts.php" timestamp="1602119435134">
         <mark key="'" line="22" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1601862237219">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/sass/service/component/_.scss" timestamp="1601536149328">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/.env.testing" timestamp="1591317857336">
         <mark key="'" line="54" column="0" />
@@ -81,12 +81,12 @@
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_regulation_publish_request.php" timestamp="1591080362241">
         <mark key="'" line="35" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" timestamp="1602219629194">
-        <mark key="'" line="1659" column="14" />
-        <mark key="[" line="1668" column="43" />
-        <mark key="]" line="1668" column="73" />
-        <mark key="^" line="1668" column="73" />
-        <mark key="." line="1668" column="73" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" timestamp="1602222954447">
+        <mark key="'" line="1649" column="0" />
+        <mark key="[" line="1669" column="30" />
+        <mark key="]" line="1669" column="37" />
+        <mark key="^" line="1669" column="37" />
+        <mark key="." line="1669" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/AssignController.php" timestamp="1591161323988">
         <mark key="[" line="433" column="0" />
@@ -123,6 +123,7 @@
         <mark key="^" line="84" column="43" />
         <mark key="." line="84" column="43" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepositoryTest.php" timestamp="1602222860908" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Front/Top/index.ctp" timestamp="1602062646670">
         <mark key="[" line="117" column="22" />
         <mark key="]" line="117" column="22" />
@@ -144,8 +145,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="805" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/AssignRepository.php" />
-      <jump line="802" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/AssignRepository.php" />
       <jump line="787" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/AssignRepository.php" />
       <jump line="799" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/AssignRepository.php" />
       <jump line="271" column="6" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/UserController.php" />
@@ -171,7 +170,6 @@
       <jump line="1706" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
       <jump line="1678" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
       <jump line="1666" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
-      <jump line="1685" column="12" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
       <jump line="1709" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
       <jump line="1692" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
       <jump line="1698" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
@@ -181,7 +179,6 @@
       <jump line="32" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/User/GetUserLatest3SeasonInterviewCount.php" />
       <jump line="82" column="19" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/users/picture.blade.php" />
       <jump line="47" column="0" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/users/picture.blade.php" />
-      <jump line="1661" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
       <jump line="1675" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
       <jump line="1686" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
       <jump line="1725" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
@@ -192,7 +189,6 @@
       <jump line="1676" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
       <jump line="1687" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
       <jump line="1701" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
-      <jump line="1705" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
       <jump line="1727" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
       <jump line="64" column="5" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/シーズンごとのクリエイターの受注件数を知りたい.md" />
       <jump line="71" column="0" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/シーズンごとのクリエイターの受注件数を知りたい.md" />
@@ -231,7 +227,6 @@
       <jump line="178" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
       <jump line="176" column="10" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
       <jump line="280" column="70" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/UserController.php" />
-      <jump line="1649" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
       <jump line="1642" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
       <jump line="1583" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
       <jump line="1597" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
@@ -244,13 +239,19 @@
       <jump line="1636" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
       <jump line="1639" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
       <jump line="1659" column="14" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
+      <jump line="1705" column="26" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
+      <jump line="1689" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
+      <jump line="1685" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
+      <jump line="1671" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
+      <jump line="1661" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
+      <jump line="1649" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>s</text>
@@ -259,31 +260,31 @@
         <text encoding="base64">ICAgICAgICAkc2Vhc29uID0gJHRvZGF5LT5jb3B5KCktPmFkZFllYXJzKGNvbmZpZygndXNlcl9sYXRlc3RfM3NlYXNvbl9pbnRlcnZpZXdfY291bnQuc2Vhc29uX29mZnNldCcpIC0gMSktPnllYXIgLSAyMDAwOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGN1cnJlbnRTZWFzb24gPSAkdG9kYXktPmNvcHkoKS0+YWRkWWVhcnMoY29uZmlnKCd1c2VyX2xhdGVzdF8zc2Vhc29uX2ludGVydmlld19jb3VudC5zZWFzb25fb2Zmc2V0JykgLSAxKS0+eWVhciAtIDIwMDA7Cg==</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGN1cnJlbnRTZWFzb24gPSAkdG9kYXktPmNvcHkoKS0+YWRkWWVhcnMoY29uZmlnKCd1c2VyX2xhdGVzdF8zc2Vhc29uX2ludGVydmlld19jb3VudC5zZWFzb25fb2Zmc2V0JykpLT55ZWFyIC0gMjAwMDsK</text>
+        <text encoding="base64">54++5Zyo44Gu44K344O844K644Oz44Go54++5Zyo44Gu44K344O844K644Oz44GM5aeL44G+44Gj44Gf5bm044KS6KiI566X44GZ44KL5qmf6IO944Gu44OG44K544OICg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICovCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkeWVhclN0YW5kYXJkID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAqIOePvuWcqOOBruOCt+ODvOOCuuODs+OBqOePvuWcqOOBruOCt+ODvOOCuuODs+OBjOWni+OBvuOBo+OBn+W5tOOCkuioiOeul+OBmeOCi+apn+iDveOBruODhuOCueODiAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkc2Vhc29uID0gJHRvZGF5LT5jb3B5KCktPmFkZFllYXJzKGNvbmZpZygndXNlcl9sYXRlc3RfM3NlYXNvbl9pbnRlcnZpZXdfY291bnQuc2Vhc29uX29mZnNldCcpIC0gMSktPnllYXIgLSAyMDAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGN1cnJlbnRTZWFzb25BbmRTZWFzb25CZWdpblllYXJbJ3NlYXNvbiddIC0gJGkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHNlYXNvblN0YW5kYXJkID0gJHRvZGF5LT5jb3B5KCktPmFkZFllYXJzKGNvbmZpZygndXNlcl9sYXRlc3RfM3NlYXNvbl9pbnRlcnZpZXdfY291bnQuc2Vhc29uX29mZnNldCcpIC0gMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkY3VycmVudFNlYXNvbkFuZFNlYXNvbkJlZ2luWWVhcik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHNlYXNvblN0YW5kYXJkID0gJHRvZGF5LT5jb3B5KCktPmFkZFllYXJzKGNvbmZpZygndXNlcl9sYXRlc3RfM3NlYXNvbl9pbnRlcnZpZXdfY291bnQuc2Vhc29uX29mZnNldCcpKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkY3VycmVudFNlYXNvbik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkc2Vhc29uID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g44K344O844K644Oz44Gu6KGo56S644Gv5LiLMuahgeOBruOBv+ihqOekuuOBmeOCiwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -333,8 +334,8 @@
         <entry encoding="base64">JzwsJz5zLyRjb21wbGV0ZWRXb3JrLyRhc3NpZ25lZFdvcms=</entry>
         <entry encoding="base64">JzwsJz5zL2NvbXBsZXRlZC9hc3NpZ25lZC9n</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>vs</entry>
         <entry>q</entry>
+        <entry>vs</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

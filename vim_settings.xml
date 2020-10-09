@@ -30,11 +30,12 @@
         <mark key="^" line="1" column="28" />
         <mark key="." line="1" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepositoryTest.php" timestamp="1602223187680">
-        <mark key="[" line="19" column="70" />
-        <mark key="]" line="19" column="77" />
-        <mark key="^" line="19" column="77" />
-        <mark key="." line="19" column="77" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepositoryTest.php" timestamp="1602229314577">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="14" column="19" />
+        <mark key="]" line="16" column="67" />
+        <mark key="^" line="16" column="67" />
+        <mark key="." line="16" column="67" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/Assign/CancelAssign.php" timestamp="1591233223922">
         <mark key="[" line="92" column="9" />
@@ -81,12 +82,10 @@
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_regulation_publish_request.php" timestamp="1591080362241">
         <mark key="'" line="35" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" timestamp="1602222954447">
-        <mark key="'" line="1649" column="0" />
-        <mark key="[" line="1669" column="30" />
-        <mark key="]" line="1669" column="37" />
-        <mark key="^" line="1669" column="37" />
-        <mark key="." line="1669" column="37" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" timestamp="1602227401802">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/AssignController.php" timestamp="1591161323988">
         <mark key="[" line="433" column="0" />
@@ -118,10 +117,6 @@
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/users/picture.blade.php" timestamp="1602210788286">
         <mark key="'" line="47" column="0" />
-        <mark key="[" line="84" column="28" />
-        <mark key="]" line="84" column="43" />
-        <mark key="^" line="84" column="43" />
-        <mark key="." line="84" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepositoryTest.php" timestamp="1602222860908" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Front/Top/index.ctp" timestamp="1602062646670">
@@ -145,11 +140,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="787" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/AssignRepository.php" />
-      <jump line="799" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/AssignRepository.php" />
-      <jump line="271" column="6" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/UserController.php" />
-      <jump line="326" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/UserController.php" />
-      <jump line="320" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/UserController.php" />
       <jump line="317" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/UserController.php" />
       <jump line="308" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/UserController.php" />
       <jump line="299" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/UserController.php" />
@@ -245,46 +235,122 @@
       <jump line="1671" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
       <jump line="1661" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
       <jump line="1649" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
+      <jump line="1697" column="55" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
+      <jump line="5" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
+      <jump line="50" column="13" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepositoryTest.php" />
+      <jump line="24" column="0" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepositoryTest.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepositoryTest.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>s</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkc2Vhc29uID0gJHRvZGF5LT5jb3B5KCktPmFkZFllYXJzKGNvbmZpZygndXNlcl9sYXRlc3RfM3NlYXNvbl9pbnRlcnZpZXdfY291bnQuc2Vhc29uX29mZnNldCcpIC0gMSktPnllYXIgLSAyMDAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJzIwMTkvOS8x44GvMjHjgrfjg7zjgrrjg7PjgafjgIHjgrfjg7zjgrrjg7Pjga7plovlp4vml6XmmYLjga8yMDE5LzkvMeOBp+OBguOCiycgPT4gWwogICAgICAgICAgICAgICAgJ2V4cGVjdGVkJyAgPT4gWwogICAgICAgICAgICAgICAgICAgICdzZWFzb24nICAgID0+IDIxLAogICAgICAgICAgICAgICAgICAgICd5ZWFyJyAgICAgID0+IENhcmJvbjo6Y3JlYXRlKDIwMTksIDksIDEpLAogICAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgICAgICdkYXRhJyAgICAgID0+IFsKICAgICAgICAgICAgICAgICAgICAnZGF0ZScgICAgICA9PiBDYXJib246OmNyZWF0ZSgyMDE5LCA5LCAxKSwKICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgXSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">54++5Zyo44Gu44K344O844K644Oz44Go54++5Zyo44Gu44K344O844K644Oz44GM5aeL44G+44Gj44Gf5bm044KS6KiI566X44GZ44KL5qmf6IO944Gu44OG44K544OICg==</text>
+      <register name="2" type="8">
+        <text>//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICovCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgXTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIOePvuWcqOOBruOCt+ODvOOCuuODs+OBqOePvuWcqOOBruOCt+ODvOOCuuODs+OBjOWni+OBvuOBo+OBn+W5tOOCkuioiOeul+OBmeOCi+apn+iDveOBruODhuOCueODiAo=</text>
+        <text encoding="base64">ICAgICAgICAgIF0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIAo=</text>
+        <text encoding="base64">ICAgICAgICBdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGN1cnJlbnRTZWFzb25BbmRTZWFzb25CZWdpblllYXJbJ3NlYXNvbiddIC0gJGkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkY3VycmVudFNlYXNvbkFuZFNlYXNvbkJlZ2luWWVhcik7Cg==</text>
+        <text encoding="base64">dXNlIENhcmJvbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkY3VycmVudFNlYXNvbik7Cg==</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g44K344O844K644Oz44Gu6KGo56S644Gv5LiLMuahgeOBruOBv+ihqOekuuOBmeOCiwo=</text>
+        <text encoding="base64">54++5Zyo44Gu44K344O844K644Oz44Go54++5Zyo44Gu44K344O844K644Oz44GM5aeL44G+44Gj44Gf5bm044KS6KiI566X44GZ44KL5qmf6IO944Gu44OG44K544OICg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

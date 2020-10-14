@@ -95,6 +95,12 @@
         <mark key="." line="31" column="3" />
         <mark key="^" line="31" column="3" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/docker/gas/docker-compose.yml" timestamp="1602649874258">
+        <mark key="[" line="3" column="12" />
+        <mark key="]" line="3" column="11" />
+        <mark key="^" line="3" column="11" />
+        <mark key="." line="3" column="11" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/ApprovalOperator/TextApprovalController.php" timestamp="1602465830133" />
       <file name="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/WGはアサイン解除した時にアラートを出したい.md" timestamp="1591233187956">
         <mark key="[" line="30" column="4" />
@@ -121,6 +127,12 @@
         <mark key="]" line="3" column="1" />
         <mark key="." line="3" column="1" />
         <mark key="^" line="3" column="1" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/docker/gas/Dockerfile" timestamp="1602649832305">
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="3" column="32" />
+        <mark key="^" line="3" column="32" />
+        <mark key="." line="3" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/UserController.php" timestamp="1602212286351">
         <mark key="'" line="280" column="70" />
@@ -234,10 +246,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>s</text>
@@ -273,7 +285,7 @@
         <text encoding="base64">Pj4+Pj4+PiA4M2RjZThkMDguLi4gZml4OiDnj77lnKjjga7jgrfjg7zjgrrjg7PjgpLoqIjnrpfjgZnjgovlh6bnkIbjgpLliIfjgorlh7rjgZfjgZ8K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -313,7 +325,6 @@
         <entry>vp</entry>
         <entry>%s/&quot;var&quot;/&quot;let&quot;/</entry>
         <entry>%s/var/let</entry>
-        <entry>wq</entry>
         <entry>W</entry>
         <entry>e</entry>
         <entry>s</entry>
@@ -323,6 +334,7 @@
         <entry>q</entry>
         <entry>vs</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />

@@ -10,7 +10,8 @@
         <mark key="^" line="17" column="63" />
         <mark key="." line="17" column="63" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/design/works.sagooo/client/mypage/online_order/side_estimate.php" timestamp="1602639363482">
+      <file name="$USER_HOME$/workspace/sagooo_works/sql/schemas/20200109_create_dtb_online_order_detail_tips_and_dtb_online_order_detail_keywords.sql" timestamp="1602643682661" />
+      <file name="$USER_HOME$/workspace/sagooo_works/design/works.sagooo/client/mypage/online_order/side_estimate.php" timestamp="1602644159086">
         <mark key="[" line="82" column="0" />
         <mark key="]" line="82" column="0" />
         <mark key="." line="82" column="0" />
@@ -20,12 +21,6 @@
         <mark key="'" line="174" column="80" />
         <mark key="[" line="14" column="0" />
         <mark key="]" line="16" column="21" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_client_online_order.php" timestamp="1602032335910">
-        <mark key="'" line="655" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" timestamp="1591078949182">
-        <mark key="'" line="3405" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Admin/User/UserRepository.php" timestamp="1602207407789">
         <mark key="[" line="219" column="0" />
@@ -53,24 +48,6 @@
         <mark key="." line="93" column="20" />
         <mark key="^" line="93" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/AssignRepository.php" timestamp="1602119451021">
-        <mark key="'" line="799" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/routes/web.php" timestamp="1601630992637">
-        <mark key="'" line="64" column="3" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/SalesRegulationPublishRequestController.php" timestamp="1591080333819">
-        <mark key="'" line="121" column="35" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/users/detail.blade.php" timestamp="1601863748124">
-        <mark key="'" line="48" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/User/GetWorkCounts.php" timestamp="1602119435134">
-        <mark key="'" line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/.env.testing" timestamp="1591317857336">
-        <mark key="'" line="54" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/シーズンごとのクリエイターの受注件数を知りたい.md" timestamp="1602210082942">
         <mark key="[" line="56" column="22" />
         <mark key="]" line="56" column="18" />
@@ -89,9 +66,6 @@
         <mark key="]" line="3" column="23" />
         <mark key="^" line="3" column="23" />
         <mark key="." line="3" column="23" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_regulation_publish_request.php" timestamp="1591080362241">
-        <mark key="'" line="35" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" timestamp="1602642309851">
         <mark key="'" line="1674" column="15" />
@@ -121,9 +95,6 @@
         <mark key="." line="31" column="3" />
         <mark key="^" line="31" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/SalesDeliveryController.php" timestamp="1591085248609">
-        <mark key="'" line="1776" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/ApprovalOperator/TextApprovalController.php" timestamp="1602465830133" />
       <file name="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/WGはアサイン解除した時にアラートを出したい.md" timestamp="1591233187956">
         <mark key="[" line="30" column="4" />
@@ -145,10 +116,10 @@
         <mark key="." line="117" column="22" />
         <mark key="^" line="117" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/config/const/env/local.docker/const_url_env.php" timestamp="1602640704023">
+      <file name="$USER_HOME$/workspace/sagooo_works/config/const/env/local.docker/const_url_env.php" timestamp="1602643383435">
         <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+        <mark key="]" line="3" column="1" />
+        <mark key="." line="3" column="1" />
         <mark key="^" line="3" column="1" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/UserController.php" timestamp="1602212286351">
@@ -157,12 +128,6 @@
         <mark key="]" line="290" column="0" />
         <mark key="." line="290" column="0" />
         <mark key="^" line="350" column="45" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Entity/DtbPublishRequest.php" timestamp="1591079937753">
-        <mark key="'" line="33" column="35" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" timestamp="1602034593701">
-        <mark key="'" line="616" column="0" />
       </file>
     </filemarks>
     <jumps>

@@ -3,7 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/sagooo_works/design/works.sagooo/member/join/regist_mail_address/index.php" timestamp="1602483534740" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/docker/Makefile" timestamp="1602654656496">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="24" column="22" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/emails/work_groups/hearing_sheet.blade.php" timestamp="1601539451943">
         <mark key="[" line="17" column="62" />
         <mark key="]" line="17" column="63" />
@@ -15,7 +20,11 @@
         <mark key="]" line="82" column="0" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_url.php" timestamp="1602565311480" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/layout/admin/works/detail.blade.php" timestamp="1602571313044">
+        <mark key="'" line="174" column="80" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="16" column="21" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Admin/User/UserRepository.php" timestamp="1602207407789">
         <mark key="[" line="219" column="0" />
         <mark key="]" line="219" column="0" />
@@ -35,10 +44,34 @@
         <mark key="." line="54" column="53" />
         <mark key="^" line="54" column="53" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/Assign/CancelAssign.php" timestamp="1591233223922">
+        <mark key="[" line="92" column="9" />
+        <mark key="]" line="93" column="20" />
+        <mark key="." line="93" column="20" />
+        <mark key="^" line="93" column="20" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/.gitignore" timestamp="1602654501119">
+        <mark key="[" line="16" column="13" />
+        <mark key="]" line="17" column="23" />
+        <mark key="^" line="17" column="23" />
+        <mark key="." line="17" column="23" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/docker/docker-compose.yml" timestamp="1602652581541">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/alert_regulation_sheet_panel.blade.php" timestamp="1602039693635">
+        <mark key="[" line="8" column="48" />
+        <mark key="]" line="8" column="49" />
+        <mark key="^" line="8" column="49" />
+        <mark key="." line="8" column="49" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/config/user_latest_3season_interview_count.php" timestamp="1602232456651">
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="3" column="23" />
+        <mark key="^" line="3" column="23" />
+        <mark key="." line="3" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" timestamp="1602642309851">
         <mark key="'" line="1674" column="15" />
@@ -61,6 +94,31 @@
         <mark key="^" line="69" column="27" />
         <mark key="." line="69" column="27" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/User/GetUserLatest3SeasonInterviewCount.php" timestamp="1602206009108">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="31" column="4" />
+        <mark key="]" line="31" column="3" />
+        <mark key="." line="31" column="3" />
+        <mark key="^" line="31" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/docker/gas/Makefile" timestamp="1602655848152">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/docker/gas/docker-compose.yml" timestamp="1602653984301">
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="6" column="42" />
+        <mark key="." line="6" column="42" />
+        <mark key="^" line="6" column="42" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/WGはアサイン解除した時にアラートを出したい.md" timestamp="1591233187956">
+        <mark key="[" line="30" column="4" />
+        <mark key="]" line="30" column="7" />
+        <mark key="." line="30" column="7" />
+        <mark key="^" line="30" column="7" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/users/picture.blade.php" timestamp="1602576164660">
         <mark key="'" line="47" column="0" />
         <mark key="[" line="74" column="144" />
@@ -74,71 +132,6 @@
         <mark key="." line="117" column="22" />
         <mark key="^" line="117" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/docker/Makefile" timestamp="1602654656496">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="24" column="22" />
-        <mark key="." line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/sql/schemas/20200109_create_dtb_online_order_detail_tips_and_dtb_online_order_detail_keywords.sql" timestamp="1602643682661" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/layout/admin/works/detail.blade.php" timestamp="1602571313044">
-        <mark key="'" line="174" column="80" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="16" column="21" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientLoginController.php" timestamp="1602565296346" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/Assign/CancelAssign.php" timestamp="1591233223922">
-        <mark key="[" line="92" column="9" />
-        <mark key="]" line="93" column="20" />
-        <mark key="." line="93" column="20" />
-        <mark key="^" line="93" column="20" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/.gitignore" timestamp="1602654501119">
-        <mark key="[" line="16" column="13" />
-        <mark key="]" line="17" column="23" />
-        <mark key="^" line="17" column="23" />
-        <mark key="." line="17" column="23" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/TextApprovalComponent.php" timestamp="1602466056487" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/alert_regulation_sheet_panel.blade.php" timestamp="1602039693635">
-        <mark key="[" line="8" column="48" />
-        <mark key="]" line="8" column="49" />
-        <mark key="^" line="8" column="49" />
-        <mark key="." line="8" column="49" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/config/user_latest_3season_interview_count.php" timestamp="1602232456651">
-        <mark key="[" line="3" column="23" />
-        <mark key="]" line="3" column="23" />
-        <mark key="^" line="3" column="23" />
-        <mark key="." line="3" column="23" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/User/GetUserLatest3SeasonInterviewCount.php" timestamp="1602206009108">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="31" column="4" />
-        <mark key="]" line="31" column="3" />
-        <mark key="." line="31" column="3" />
-        <mark key="^" line="31" column="3" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/docker/gas/Makefile" timestamp="1602655348437">
-        <mark key="[" line="6" column="19" />
-        <mark key="]" line="6" column="19" />
-        <mark key="^" line="3" column="38" />
-        <mark key="." line="6" column="19" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/docker/gas/docker-compose.yml" timestamp="1602653984301">
-        <mark key="[" line="5" column="23" />
-        <mark key="]" line="6" column="42" />
-        <mark key="." line="6" column="42" />
-        <mark key="^" line="6" column="42" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/ApprovalOperator/TextApprovalController.php" timestamp="1602465830133" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/WGはアサイン解除した時にアラートを出したい.md" timestamp="1591233187956">
-        <mark key="[" line="30" column="4" />
-        <mark key="]" line="30" column="7" />
-        <mark key="." line="30" column="7" />
-        <mark key="^" line="30" column="7" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepositoryTest.php" timestamp="1602222860908" />
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/env/local.docker/const_url_env.php" timestamp="1602643383435">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="1" />
@@ -263,10 +256,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>\</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text>s</text>

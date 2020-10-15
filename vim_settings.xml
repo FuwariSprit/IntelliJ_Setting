@@ -36,8 +36,8 @@
         <mark key="." line="219" column="0" />
         <mark key="^" line="207" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/docker/gas/.clasp.json" timestamp="1602728447443">
-        <mark key="[" line="2" column="17" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/docker/gas/.clasp.json" timestamp="1602730066090">
+        <mark key="[" line="2" column="14" />
         <mark key="]" line="2" column="17" />
         <mark key="^" line="2" column="17" />
         <mark key="." line="2" column="17" />
@@ -61,16 +61,22 @@
         <mark key="." line="93" column="20" />
         <mark key="^" line="93" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/.gitignore" timestamp="1602728498137">
-        <mark key="[" line="18" column="24" />
-        <mark key="]" line="19" column="21" />
-        <mark key="^" line="19" column="21" />
-        <mark key="." line="19" column="21" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/.gitignore" timestamp="1602730150434">
+        <mark key="[" line="20" column="23" />
+        <mark key="]" line="21" column="14" />
+        <mark key="^" line="21" column="14" />
+        <mark key="." line="21" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/docker/docker-compose.yml" timestamp="1602652581541">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/docker/gas/.clasp.example.json" timestamp="1602730078339">
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="2" column="17" />
+        <mark key="." line="2" column="17" />
+        <mark key="^" line="2" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/alert_regulation_sheet_panel.blade.php" timestamp="1602039693635">
         <mark key="[" line="8" column="48" />
@@ -112,18 +118,17 @@
         <mark key="." line="31" column="3" />
         <mark key="^" line="31" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/docker/gas/Makefile" timestamp="1602728562488">
+      <file name="$USER_HOME$/workspace/sagooo_navi/docker/gas/Makefile" timestamp="1602730785693">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="0" column="39" />
-        <mark key="]" line="0" column="43" />
-        <mark key="." line="0" column="43" />
-        <mark key="^" line="0" column="43" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="40" />
+        <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/docker/gas/docker-compose.yml" timestamp="1602727017901">
-        <mark key="[" line="7" column="30" />
-        <mark key="]" line="7" column="30" />
-        <mark key="." line="7" column="30" />
-        <mark key="^" line="7" column="12" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/docker/gas/docker-compose.yml" timestamp="1602729157471">
+        <mark key="[" line="6" column="43" />
+        <mark key="]" line="7" column="44" />
+        <mark key="." line="7" column="44" />
+        <mark key="^" line="7" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/WGはアサイン解除した時にアラートを出したい.md" timestamp="1591233187956">
         <mark key="[" line="30" column="4" />
@@ -150,10 +155,11 @@
         <mark key="." line="3" column="1" />
         <mark key="^" line="3" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/docker/gas/Dockerfile" timestamp="1602728065355">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/docker/gas/Dockerfile" timestamp="1602730842424">
+        <mark key="[" line="4" column="5" />
+        <mark key="]" line="4" column="13" />
+        <mark key="." line="4" column="13" />
+        <mark key="^" line="4" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/UserController.php" timestamp="1602212286351">
         <mark key="'" line="280" column="70" />
@@ -267,10 +273,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>s</text>
@@ -279,31 +285,31 @@
         <text encoding="base64">CWRvY2tlci1jb21wb3NlIHVwIC1kIC0tYnVpbGQKCWRvY2tlci1jb21wb3NlIGV4ZWMgZ2FzIGNsYXNwIGxvZ2luIC0tbm8tbG9jYWxob3N0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGdpdCBjbG9uZSAtLWRlcHRoPTEgaHR0cHM6Ly9naXRodWIuY29tL2hvd2R5MzkvZ2FzLWNsYXNwLXN0YXJ0ZXIuZ2l0IC4gJiYgXAo=</text>
+        <text encoding="base64">CWRvY2tlci1jb21wb3NlIGV4ZWMgZ2FzIHlhcm4gaW5zdGFsbAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJhc2ggLWMgInlhcm4gZ2xvYmFsIGFkZCBAZ29vZ2xlL2NsYXNwICYmCiAgICAgICAgICBnaXQgY2xvbmUgLS1kZXB0aD0xIGh0dHBzOi8vZ2l0aHViLmNvbS9ob3dkeTM5L2dhcy1jbGFzcC1zdGFydGVyLmdpdCAuICYmCiAgICAgICAgICB5YXJuIGluc3RhbGwgJiYK</text>
+        <text encoding="base64">ICAgIHlhcm4gaW5zdGFsbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGFwayBhZGQgZ2l0ICYmCg==</text>
+        <text encoding="base64">ICAgIGdpdCBjbG9uZSAtLWRlcHRoPTEgaHR0cHM6Ly9naXRodWIuY29tL2hvd2R5MzkvZ2FzLWNsYXNwLXN0YXJ0ZXIuZ2l0IC4gJiYgXAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdXBkYXRlICYmCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGJhc2ggLWMgInlhcm4gZ2xvYmFsIGFkZCBAZ29vZ2xlL2NsYXNwICYmCiAgICAgICAgICBnaXQgY2xvbmUgLS1kZXB0aD0xIGh0dHBzOi8vZ2l0aHViLmNvbS9ob3dkeTM5L2dhcy1jbGFzcC1zdGFydGVyLmdpdCAuICYmCiAgICAgICAgICB5YXJuIGluc3RhbGwgJiYK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHlhcm4gZ2xvYmFsIGFkZCBAZ29vZ2xlL2NsYXNwICYmIFwKICAgIGdpdCBjbG9uZSAtLWRlcHRoPTEgaHR0cHM6Ly9naXRodWIuY29tL2hvd2R5MzkvZ2FzLWNsYXNwLXN0YXJ0ZXIuZ2l0IC4gJiYgXAogICAgeWFybiBpbnN0YWxsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGFwayBhZGQgZ2l0ICYmCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWRvY2tlci1jb21wb3NlIGV4ZWMgeWFybiBpbnN0YWxsCg==</text>
+        <text encoding="base64">ICAgICAgdXBkYXRlICYmCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyDjg4bjgrnjg4gK</text>
+        <text encoding="base64">ICAgIHlhcm4gZ2xvYmFsIGFkZCBAZ29vZ2xlL2NsYXNwICYmIFwKICAgIGdpdCBjbG9uZSAtLWRlcHRoPTEgaHR0cHM6Ly9naXRodWIuY29tL2hvd2R5MzkvZ2FzLWNsYXNwLXN0YXJ0ZXIuZ2l0IC4gJiYgXAogICAgeWFybiBpbnN0YWxsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQoK</text>
+        <text encoding="base64">CWRvY2tlci1jb21wb3NlIGV4ZWMgeWFybiBpbnN0YWxsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmJ1aWxkOiAuY2xhc3ByYwoK</text>
+        <text encoding="base64">ICAvLyDjg4bjgrnjg4gK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

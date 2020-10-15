@@ -30,13 +30,19 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/docker/gas/README.md" timestamp="1602736020806">
+        <mark key="[" line="42" column="11" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="43" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Admin/User/UserRepository.php" timestamp="1602207407789">
         <mark key="[" line="219" column="0" />
         <mark key="]" line="219" column="0" />
         <mark key="." line="219" column="0" />
         <mark key="^" line="207" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/docker/gas/.clasp.json" timestamp="1602730066090">
+      <file name="$USER_HOME$/workspace/sagooo_navi/docker/gas/.clasp.json" timestamp="1602736364450">
         <mark key="[" line="2" column="14" />
         <mark key="]" line="2" column="17" />
         <mark key="^" line="2" column="17" />
@@ -60,12 +66,6 @@
         <mark key="]" line="93" column="20" />
         <mark key="." line="93" column="20" />
         <mark key="^" line="93" column="20" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/.gitignore" timestamp="1602730150434">
-        <mark key="[" line="20" column="23" />
-        <mark key="]" line="21" column="14" />
-        <mark key="^" line="21" column="14" />
-        <mark key="." line="21" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/docker/docker-compose.yml" timestamp="1602652581541">
         <mark key="[" line="47" column="0" />
@@ -118,11 +118,12 @@
         <mark key="." line="31" column="3" />
         <mark key="^" line="31" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/docker/gas/Makefile" timestamp="1602730785693">
+      <file name="$USER_HOME$/workspace/sagooo_navi/docker/gas/Makefile" timestamp="1602735783901">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="40" />
-        <mark key="." line="10" column="0" />
+        <mark key="[" line="29" column="39" />
+        <mark key="]" line="29" column="53" />
+        <mark key="." line="29" column="53" />
+        <mark key="^" line="29" column="53" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/docker/gas/docker-compose.yml" timestamp="1602729157471">
         <mark key="[" line="6" column="43" />
@@ -170,12 +171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="237" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/UserController.php" />
-      <jump line="323" column="38" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
-      <jump line="1673" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
-      <jump line="1690" column="12" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
-      <jump line="1703" column="13" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
-      <jump line="1731" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
       <jump line="9" column="30" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
       <jump line="1706" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
       <jump line="1678" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
@@ -270,13 +265,19 @@
       <jump line="9" column="0" filename="$USER_HOME$/workspace/sagooo_navi/docker/gas/Makefile" />
       <jump line="6" column="0" filename="$USER_HOME$/workspace/sagooo_navi/docker/gas/Makefile" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/sagooo_navi/docker/gas/Makefile" />
+      <jump line="62" column="0" filename="$USER_HOME$/workspace/sagooo_navi/docker/gas/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sagooo_navi/docker/gas/README.md" />
+      <jump line="2" column="0" filename="$USER_HOME$/workspace/sagooo_navi/docker/gas/README.md" />
+      <jump line="5" column="0" filename="$USER_HOME$/workspace/sagooo_navi/docker/gas/README.md" />
+      <jump line="13" column="0" filename="$USER_HOME$/workspace/sagooo_navi/docker/gas/README.md" />
+      <jump line="17" column="0" filename="$USER_HOME$/workspace/sagooo_navi/docker/gas/README.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>s</text>
@@ -285,31 +286,31 @@
         <text encoding="base64">CWRvY2tlci1jb21wb3NlIHVwIC1kIC0tYnVpbGQKCWRvY2tlci1jb21wb3NlIGV4ZWMgZ2FzIGNsYXNwIGxvZ2luIC0tbm8tbG9jYWxob3N0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWRvY2tlci1jb21wb3NlIGV4ZWMgZ2FzIHlhcm4gaW5zdGFsbAo=</text>
+        <text encoding="base64">Ly8gbWFrZSBidWlsZCDjgoLotbDjgosK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHlhcm4gaW5zdGFsbAo=</text>
+        <text encoding="base64">ZApgYGAKCmBgYAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGdpdCBjbG9uZSAtLWRlcHRoPTEgaHR0cHM6Ly9naXRodWIuY29tL2hvd2R5MzkvZ2FzLWNsYXNwLXN0YXJ0ZXIuZ2l0IC4gJiYgXAo=</text>
+        <text encoding="base64">aGlzIHNvZnR3YXJlIGlzIHJlbGVhc2VkIHVuZGVyIHRoZSBNSVQgTGljZW5zZSwgc2VlIExJQ0VOU0UudHh0Lgo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJhc2ggLWMgInlhcm4gZ2xvYmFsIGFkZCBAZ29vZ2xlL2NsYXNwICYmCiAgICAgICAgICBnaXQgY2xvbmUgLS1kZXB0aD0xIGh0dHBzOi8vZ2l0aHViLmNvbS9ob3dkeTM5L2dhcy1jbGFzcC1zdGFydGVyLmdpdCAuICYmCiAgICAgICAgICB5YXJuIGluc3RhbGwgJiYK</text>
+      <register name="4" type="4">
+        <text encoding="base64">IyBnYXMtY2xhc3Atc3RhcnRlcgpBIHN0YXJ0ZXIgdGVtcGxhdGUgZm9yIEdvb2dsZSBBcHBzIFNjcmlwdCBieSBbZ29vZ2xlL2NsYXNwXShodHRwczovL2dpdGh1Yi5jb20vZ29vZ2xlL2NsYXNwKQoKIyMgQXJ0aWNsZQpbKEphcGFuZXNlKSBHb29nbGUgQXBwcyBTY3JpcHQg44KS44Ot44O844Kr44Or55Kw5aKD44Gn5b+r6YGp44Gr6ZaL55m644GZ44KL44Gf44KB44Gu44OG44Oz44OX44Os44O844OI44KS5L2c44KK44G+44GX44GfXShodHRwczovL3FpaXRhLmNvbS9ob3dkeTM5L2l0ZW1zLzBlNzk5YTliZmMxZDNiY2NmNmU1KQoKIyMgVGVjaCBTdGFjawotIFtnb29nbGUvY2xhc3BdKGh0dHBzOi8vZ2l0aHViLmNvbS9nb29nbGUvY2xhc3ApCi0gW3dlYnBhY2tdKGh0dHBzOi8vd2VicGFjay5qcy5vcmcvKQotIFtUeXBlU2NyaXB0XShodHRwOi8vd3d3LnR5cGVzY3JpcHRsYW5nLm9yZy8pCi0gW0VTTGludF0oaHR0cHM6Ly9naXRodWIuY29tL2VzbGludC9lc2xpbnQpCi0gW1ByZXR0aWVyXShodHRwczovL3ByZXR0aWVyLmlvLykKLSBbSmVzdF0oaHR0cHM6Ly9mYWNlYm9vay5naXRodWIuaW8vamVzdC8pCgojIyBQcmVyZXF1aXNpdGVzCi0gW05vZGUuanNdKGh0dHBzOi8vbm9kZWpzLm9yZy8pCi0gW2dvb2dsZS9jbGFzcF0oaHR0cHM6Ly9naXRodWIuY29tL2dvb2dsZS9jbGFzcCkKCiMjIEdldHRpbmcgU3RhcnRlZAojIyMgQ2xvbmUgdGhlIHJlcG9zaXRvcnkKYGBgCmdpdCBjbG9uZSAtLWRlcHRoPTEgaHR0cHM6Ly9naXRodWIuY29tL2hvd2R5MzkvZ2FzLWNsYXNwLXN0YXJ0ZXIuZ2l0IDxwcm9qZWN0X25hbWU+CmNkIDxwcm9qZWN0X25hbWU+CnJtIC1SZiAuZ2l0CmBgYAoKIyMjIEluc3RhbGwgZGVwZW5kZW5jaWVzCmBgYApucG0gaW5zdGFsbApgYGAKCiMjIyBDb25maWd1cmF0aW9uCiMjIyMgT3BlbiBgLmNsYXNwLmpzb25gLCBjaGFuZ2Ugc2NyaXB0SWQKV2hhdCBpcyBzY3JpcHRJZCA/IGh0dHBzOi8vZ2l0aHViLmNvbS9nb29nbGUvY2xhc3Ajc2NyaXB0aWQtcmVxdWlyZWQKYGBgCnsKICAic2NyaXB0SWQiOiA8eW91cl9zY3JpcHRfaWQ+LAogICJyb290RGlyIjogImRpc3QiCn0KYGBgCgojIyMjIE9wZW4gYHNyYy9hcHBzc2NyaXB0Lmpzb25gLCBjaGFuZ2UgdGltZVpvbmUgKG9wdGlvbmFsKQpbQXBwcyBTY3JpcHQgTWFuaWZlc3RzXShodHRwczovL2RldmVsb3BlcnMuZ29vZ2xlLmNvbS9hcHBzLXNjcmlwdC9jb25jZXB0cy9tYW5pZmVzdHMpCmBgYAp7CiAgInRpbWVab25lIjogIkFzaWEvVG9reW8iLCAjIyBDaGFuZ2UgdGltZVpvbmUKICAiZGVwZW5kZW5jaWVzIjogewogIH0sCiAgImV4Y2VwdGlvbkxvZ2dpbmciOiAiU1RBQ0tEUklWRVIiCn0KYGBgCgojIyMgRGV2ZWxvcG1lbnQgYW5kIGJ1aWxkIHByb2plY3QKYGBgCm5wbSBydW4gYnVpbGQKYGBgCgojIyMgUHVzaApgYGAKY2xhc3AgcHVzaApgYGAKCgoKIyMgQWR2YW5jZWQKIyMjIFVzaW5nIEVzNiB3aXRoIEFwcHMgU2NyaXB0CltVc2luZyBFczYgd2l0aCBBcHBzIFNjcmlwdF0oaHR0cDovL3JhbWJsaW5ncy5tY3BoZXIuY29tL0hvbWUvZXhjZWxxdWlya3MvZ2Fzc25pcHMvZXM2c2hpbSkKCgoKIyMgT3RoZXJzCiMjIyBob3dkeTM5L2dhcy1jbGFzcC1saWJyYXJ5Cltob3dkeTM5L2dhcy1jbGFzcC1saWJyYXJ5XShodHRwczovL2dpdGh1Yi5jb20vaG93ZHkzOS9nYXMtY2xhc3AtbGlicmFyeSkgaXMgc2FtcGxlIHByb2plY3QgbWFkZSB3aXRoIFtHb29nbGUgQXBwcyBTY3JpcHQgTGlicmFyaWVzXShodHRwczovL2RldmVsb3BlcnMuZ29vZ2xlLmNvbS9hcHBzLXNjcmlwdC9ndWlkZXMvbGlicmFyaWVzKS4gICAKYWxzbywgYGdhcy1jbGFzcC1saWJyYXJ5YCB1c2UgY2lyY2xlIENJLgoKIyMjIHRha2FuYWthaGlrby9zYW8tY2xhc3AKW3Rha2FuYWthaGlrby9zYW8tY2xhc3BdKGh0dHBzOi8vZ2l0aHViLmNvbS90YWthbmFrYWhpa28vc2FvLWNsYXNwKSB3YXMgbWFkZSBiYXNlZCBvbiBnYXMtY2xhc3Atc3RhcnRlciBhbmQgW1NBT10oaHR0cHM6Ly9naXRodWIuY29tL3Nhb2pzL3NhbykuCgoKCiMjIExpY2Vuc2UKVA==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGFwayBhZGQgZ2l0ICYmCg==</text>
+        <text encoding="base64">aGlzIHNvZnR3YXJlIGlzIHJlbGVhc2VkIHVuZGVyIHRoZSBNSVQgTGljZW5zZSwgc2VlIExJQ0VOU0UudHh0Lgo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdXBkYXRlICYmCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">IyBnYXMtY2xhc3Atc3RhcnRlcgpBIHN0YXJ0ZXIgdGVtcGxhdGUgZm9yIEdvb2dsZSBBcHBzIFNjcmlwdCBieSBbZ29vZ2xlL2NsYXNwXShodHRwczovL2dpdGh1Yi5jb20vZ29vZ2xlL2NsYXNwKQoKIyMgQXJ0aWNsZQpbKEphcGFuZXNlKSBHb29nbGUgQXBwcyBTY3JpcHQg44KS44Ot44O844Kr44Or55Kw5aKD44Gn5b+r6YGp44Gr6ZaL55m644GZ44KL44Gf44KB44Gu44OG44Oz44OX44Os44O844OI44KS5L2c44KK44G+44GX44GfXShodHRwczovL3FpaXRhLmNvbS9ob3dkeTM5L2l0ZW1zLzBlNzk5YTliZmMxZDNiY2NmNmU1KQoKIyMgVGVjaCBTdGFjawotIFtnb29nbGUvY2xhc3BdKGh0dHBzOi8vZ2l0aHViLmNvbS9nb29nbGUvY2xhc3ApCi0gW3dlYnBhY2tdKGh0dHBzOi8vd2VicGFjay5qcy5vcmcvKQotIFtUeXBlU2NyaXB0XShodHRwOi8vd3d3LnR5cGVzY3JpcHRsYW5nLm9yZy8pCi0gW0VTTGludF0oaHR0cHM6Ly9naXRodWIuY29tL2VzbGludC9lc2xpbnQpCi0gW1ByZXR0aWVyXShodHRwczovL3ByZXR0aWVyLmlvLykKLSBbSmVzdF0oaHR0cHM6Ly9mYWNlYm9vay5naXRodWIuaW8vamVzdC8pCgojIyBQcmVyZXF1aXNpdGVzCi0gW05vZGUuanNdKGh0dHBzOi8vbm9kZWpzLm9yZy8pCi0gW2dvb2dsZS9jbGFzcF0oaHR0cHM6Ly9naXRodWIuY29tL2dvb2dsZS9jbGFzcCkKCiMjIEdldHRpbmcgU3RhcnRlZAojIyMgQ2xvbmUgdGhlIHJlcG9zaXRvcnkKYGBgCmdpdCBjbG9uZSAtLWRlcHRoPTEgaHR0cHM6Ly9naXRodWIuY29tL2hvd2R5MzkvZ2FzLWNsYXNwLXN0YXJ0ZXIuZ2l0IDxwcm9qZWN0X25hbWU+CmNkIDxwcm9qZWN0X25hbWU+CnJtIC1SZiAuZ2l0CmBgYAoKIyMjIEluc3RhbGwgZGVwZW5kZW5jaWVzCmBgYApucG0gaW5zdGFsbApgYGAKCiMjIyBDb25maWd1cmF0aW9uCiMjIyMgT3BlbiBgLmNsYXNwLmpzb25gLCBjaGFuZ2Ugc2NyaXB0SWQKV2hhdCBpcyBzY3JpcHRJZCA/IGh0dHBzOi8vZ2l0aHViLmNvbS9nb29nbGUvY2xhc3Ajc2NyaXB0aWQtcmVxdWlyZWQKYGBgCnsKICAic2NyaXB0SWQiOiA8eW91cl9zY3JpcHRfaWQ+LAogICJyb290RGlyIjogImRpc3QiCn0KYGBgCgojIyMjIE9wZW4gYHNyYy9hcHBzc2NyaXB0Lmpzb25gLCBjaGFuZ2UgdGltZVpvbmUgKG9wdGlvbmFsKQpbQXBwcyBTY3JpcHQgTWFuaWZlc3RzXShodHRwczovL2RldmVsb3BlcnMuZ29vZ2xlLmNvbS9hcHBzLXNjcmlwdC9jb25jZXB0cy9tYW5pZmVzdHMpCmBgYAp7CiAgInRpbWVab25lIjogIkFzaWEvVG9reW8iLCAjIyBDaGFuZ2UgdGltZVpvbmUKICAiZGVwZW5kZW5jaWVzIjogewogIH0sCiAgImV4Y2VwdGlvbkxvZ2dpbmciOiAiU1RBQ0tEUklWRVIiCn0KYGBgCgojIyMgRGV2ZWxvcG1lbnQgYW5kIGJ1aWxkIHByb2plY3QKYGBgCm5wbSBydW4gYnVpbGQKYGBgCgojIyMgUHVzaApgYGAKY2xhc3AgcHVzaApgYGAKCgoKIyMgQWR2YW5jZWQKIyMjIFVzaW5nIEVzNiB3aXRoIEFwcHMgU2NyaXB0CltVc2luZyBFczYgd2l0aCBBcHBzIFNjcmlwdF0oaHR0cDovL3JhbWJsaW5ncy5tY3BoZXIuY29tL0hvbWUvZXhjZWxxdWlya3MvZ2Fzc25pcHMvZXM2c2hpbSkKCgoKIyMgT3RoZXJzCiMjIyBob3dkeTM5L2dhcy1jbGFzcC1saWJyYXJ5Cltob3dkeTM5L2dhcy1jbGFzcC1saWJyYXJ5XShodHRwczovL2dpdGh1Yi5jb20vaG93ZHkzOS9nYXMtY2xhc3AtbGlicmFyeSkgaXMgc2FtcGxlIHByb2plY3QgbWFkZSB3aXRoIFtHb29nbGUgQXBwcyBTY3JpcHQgTGlicmFyaWVzXShodHRwczovL2RldmVsb3BlcnMuZ29vZ2xlLmNvbS9hcHBzLXNjcmlwdC9ndWlkZXMvbGlicmFyaWVzKS4gICAKYWxzbywgYGdhcy1jbGFzcC1saWJyYXJ5YCB1c2UgY2lyY2xlIENJLgoKIyMjIHRha2FuYWthaGlrby9zYW8tY2xhc3AKW3Rha2FuYWthaGlrby9zYW8tY2xhc3BdKGh0dHBzOi8vZ2l0aHViLmNvbS90YWthbmFrYWhpa28vc2FvLWNsYXNwKSB3YXMgbWFkZSBiYXNlZCBvbiBnYXMtY2xhc3Atc3RhcnRlciBhbmQgW1NBT10oaHR0cHM6Ly9naXRodWIuY29tL3Nhb2pzL3NhbykuCgoKCiMjIExpY2Vuc2UKVA==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHlhcm4gZ2xvYmFsIGFkZCBAZ29vZ2xlL2NsYXNwICYmIFwKICAgIGdpdCBjbG9uZSAtLWRlcHRoPTEgaHR0cHM6Ly9naXRodWIuY29tL2hvd2R5MzkvZ2FzLWNsYXNwLXN0YXJ0ZXIuZ2l0IC4gJiYgXAogICAgeWFybiBpbnN0YWxsCg==</text>
+        <text encoding="base64">CWRvY2tlci1jb21wb3NlIGV4ZWMgZ2FzIHlhcm4gaW5zdGFsbAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWRvY2tlci1jb21wb3NlIGV4ZWMgeWFybiBpbnN0YWxsCg==</text>
+        <text encoding="base64">ICAgIHlhcm4gaW5zdGFsbAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyDjg4bjgrnjg4gK</text>
+        <text encoding="base64">ICAgIGdpdCBjbG9uZSAtLWRlcHRoPTEgaHR0cHM6Ly9naXRodWIuY29tL2hvd2R5MzkvZ2FzLWNsYXNwLXN0YXJ0ZXIuZ2l0IC4gJiYgXAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -20,11 +20,6 @@
         <mark key="]" line="82" column="0" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/layout/admin/works/detail.blade.php" timestamp="1602571313044">
-        <mark key="'" line="174" column="80" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="16" column="21" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/docker/gas/src/コード.js" timestamp="1602658547352">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -54,19 +49,13 @@
         <mark key="^" line="1" column="28" />
         <mark key="." line="1" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepositoryTest.php" timestamp="1602232820909">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="54" column="52" />
-        <mark key="]" line="54" column="53" />
-        <mark key="." line="54" column="53" />
-        <mark key="^" line="54" column="53" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/Assign/CancelAssign.php" timestamp="1591233223922">
         <mark key="[" line="92" column="9" />
         <mark key="]" line="93" column="20" />
         <mark key="." line="93" column="20" />
         <mark key="^" line="93" column="20" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/routes/web.php" timestamp="1603076529270" />
       <file name="$USER_HOME$/workspace/sagooo_navi/docker/docker-compose.yml" timestamp="1602652581541">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
@@ -111,13 +100,6 @@
         <mark key="^" line="69" column="27" />
         <mark key="." line="69" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/User/GetUserLatest3SeasonInterviewCount.php" timestamp="1602206009108">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="31" column="4" />
-        <mark key="]" line="31" column="3" />
-        <mark key="." line="31" column="3" />
-        <mark key="^" line="31" column="3" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/docker/gas/Makefile" timestamp="1602735783901">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="29" column="39" />
@@ -137,12 +119,8 @@
         <mark key="." line="30" column="7" />
         <mark key="^" line="30" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/users/picture.blade.php" timestamp="1602576164660">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="74" column="144" />
-        <mark key="]" line="74" column="137" />
-        <mark key="." line="74" column="137" />
-        <mark key="^" line="74" column="137" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/ChainOfferController.php" timestamp="1603076538723">
+        <mark key="'" line="231" column="66" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Front/Top/index.ctp" timestamp="1602062646670">
         <mark key="[" line="117" column="22" />
@@ -162,19 +140,8 @@
         <mark key="." line="4" column="13" />
         <mark key="^" line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/UserController.php" timestamp="1602212286351">
-        <mark key="'" line="280" column="70" />
-        <mark key="[" line="290" column="0" />
-        <mark key="]" line="290" column="0" />
-        <mark key="." line="290" column="0" />
-        <mark key="^" line="350" column="45" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="30" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
-      <jump line="1706" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
-      <jump line="1678" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
-      <jump line="1666" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
       <jump line="1709" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
       <jump line="1692" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
       <jump line="1698" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
@@ -271,6 +238,10 @@
       <jump line="5" column="0" filename="$USER_HOME$/workspace/sagooo_navi/docker/gas/README.md" />
       <jump line="13" column="0" filename="$USER_HOME$/workspace/sagooo_navi/docker/gas/README.md" />
       <jump line="17" column="0" filename="$USER_HOME$/workspace/sagooo_navi/docker/gas/README.md" />
+      <jump line="20" column="6" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/ChainOfferController.php" />
+      <jump line="181" column="47" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/ChainOfferController.php" />
+      <jump line="126" column="20" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/ChainOfferController.php" />
+      <jump line="231" column="66" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/ChainOfferController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -280,7 +251,7 @@
         <text>c</text>
       </register>
       <register name="/" type="4">
-        <text>s</text>
+        <text>showCreateForm</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CWRvY2tlci1jb21wb3NlIHVwIC1kIC0tYnVpbGQKCWRvY2tlci1jb21wb3NlIGV4ZWMgZ2FzIGNsYXNwIGxvZ2luIC0tbm8tbG9jYWxob3N0Cg==</text>
@@ -317,9 +288,9 @@
       </register>
     </registers>
     <search>
-      <last-search>s</last-search>
+      <last-search>showCreateForm</last-search>
       <last-offset />
-      <last-pattern>s</last-pattern>
+      <last-pattern>showCreateForm</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>update</last-substitute>
       <last-dir>1</last-dir>
@@ -327,8 +298,6 @@
     </search>
     <history>
       <history-search>
-        <entry>laravel</entry>
-        <entry>アサイン</entry>
         <entry>status</entry>
         <entry>入稿ステータス</entry>
         <entry>入稿依頼詳細</entry>
@@ -347,6 +316,8 @@
         <entry>getLatest</entry>
         <entry>getUserLatest3SeasonInterviewCount</entry>
         <entry>s</entry>
+        <entry>create</entry>
+        <entry>showCreateForm</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

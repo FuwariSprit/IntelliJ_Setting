@@ -75,9 +75,21 @@
         <mark key="." line="93" column="20" />
         <mark key="^" line="93" column="20" />
       </file>
+      <file name="$USER_HOME$/workspace/isucon_202010/docker/db/init/0_initialise.sql" timestamp="1603460738731">
+        <mark key="[" line="7" column="19" />
+        <mark key="]" line="7" column="23" />
+        <mark key="." line="7" column="23" />
+        <mark key="^" line="7" column="23" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/routes/web.php" timestamp="1603441928060">
         <mark key="'" line="103" column="33" />
       </file>
+      <file name="$USER_HOME$/workspace/isucon_202010/app/controllers/PostsController.php" timestamp="1603457041462">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/isucon_202010/docker/db/init/1_users.sql" timestamp="1603460593333" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Commands/Aggregate/CreateWorkMonthlyReport.php" timestamp="1603443401154" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Notifications/AccountPreregisterCompleted.php" timestamp="1603095432798">
         <mark key="[" line="45" column="0" />
@@ -89,6 +101,12 @@
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/isucon_202010/app/models/Users.php" timestamp="1603460641758">
+        <mark key="[" line="27" column="4" />
+        <mark key="]" line="27" column="5" />
+        <mark key="^" line="27" column="5" />
+        <mark key="." line="27" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/docker/gas/.clasp.example.json" timestamp="1602730078339">
         <mark key="[" line="2" column="14" />
@@ -173,32 +191,30 @@
         <mark key="." line="3" column="1" />
         <mark key="^" line="3" column="1" />
       </file>
+      <file name="$USER_HOME$/workspace/isucon_202010/docker/.env" timestamp="1603457815209" />
+      <file name="$USER_HOME$/workspace/isucon_202010/app/controllers/LoginController.php" timestamp="1603460650751">
+        <mark key="'" line="53" column="23" />
+        <mark key="[" line="157" column="8" />
+        <mark key="]" line="157" column="9" />
+        <mark key="^" line="157" column="9" />
+        <mark key="." line="157" column="9" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/docker/gas/Dockerfile" timestamp="1602730842424">
         <mark key="[" line="4" column="5" />
         <mark key="]" line="4" column="13" />
         <mark key="." line="4" column="13" />
         <mark key="^" line="4" column="13" />
       </file>
+      <file name="$APPLICATION_PLUGINS_DIR$/phpstorm-phalcon-4-plugin-v4.0.6.jar!/src/Phalcon/Mvc/Model.php" timestamp="1603459971426" />
+      <file name="$USER_HOME$/workspace/isucon_202010/public/js/common.js" timestamp="1603458439096">
+        <mark key="'" line="162" column="13" />
+        <mark key="[" line="144" column="12" />
+        <mark key="]" line="144" column="12" />
+        <mark key="^" line="162" column="13" />
+        <mark key="." line="144" column="12" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
-      <jump line="34" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
-      <jump line="39" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
-      <jump line="44" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
-      <jump line="49" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
-      <jump line="54" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
-      <jump line="59" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
-      <jump line="64" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
-      <jump line="69" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
-      <jump line="74" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
-      <jump line="79" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
-      <jump line="84" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
-      <jump line="89" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
-      <jump line="94" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
-      <jump line="99" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
-      <jump line="147" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
-      <jump line="158" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
-      <jump line="162" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
       <jump line="167" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
       <jump line="178" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
       <jump line="176" column="10" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
@@ -281,55 +297,74 @@
       <jump line="30" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/WorkGroup/CancelWorkGroup.php" />
       <jump line="28" column="52" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="103" column="33" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
+      <jump line="65" column="24" filename="$USER_HOME$/workspace/isucon_202010/public/js/common.js" />
+      <jump line="95" column="25" filename="$USER_HOME$/workspace/isucon_202010/public/js/common.js" />
+      <jump line="106" column="24" filename="$USER_HOME$/workspace/isucon_202010/public/js/common.js" />
+      <jump line="108" column="76" filename="$USER_HOME$/workspace/isucon_202010/public/js/common.js" />
+      <jump line="126" column="35" filename="$USER_HOME$/workspace/isucon_202010/public/js/common.js" />
+      <jump line="141" column="35" filename="$USER_HOME$/workspace/isucon_202010/public/js/common.js" />
+      <jump line="143" column="86" filename="$USER_HOME$/workspace/isucon_202010/public/js/common.js" />
+      <jump line="144" column="19" filename="$USER_HOME$/workspace/isucon_202010/public/js/common.js" />
+      <jump line="145" column="111" filename="$USER_HOME$/workspace/isucon_202010/public/js/common.js" />
+      <jump line="162" column="13" filename="$USER_HOME$/workspace/isucon_202010/public/js/common.js" />
+      <jump line="42" column="0" filename="$USER_HOME$/workspace/isucon_202010/app/controllers/LoginController.php" />
+      <jump line="41" column="11" filename="$USER_HOME$/workspace/isucon_202010/app/controllers/LoginController.php" />
+      <jump line="54" column="54" filename="$USER_HOME$/workspace/isucon_202010/app/controllers/LoginController.php" />
+      <jump line="55" column="19" filename="$USER_HOME$/workspace/isucon_202010/app/controllers/LoginController.php" />
+      <jump line="81" column="43" filename="$USER_HOME$/workspace/isucon_202010/app/controllers/LoginController.php" />
+      <jump line="125" column="19" filename="$USER_HOME$/workspace/isucon_202010/app/controllers/LoginController.php" />
+      <jump line="107" column="14" filename="$USER_HOME$/workspace/isucon_202010/app/controllers/LoginController.php" />
+      <jump line="53" column="23" filename="$USER_HOME$/workspace/isucon_202010/app/controllers/LoginController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdXNlckxpc3QpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>cancel</text>
+        <text>save</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CWRvY2tlci1jb21wb3NlIHVwIC1kIC0tYnVpbGQKCWRvY2tlci1jb21wb3NlIGV4ZWMgZ2FzIGNsYXNwIGxvZ2luIC0tbm8tbG9jYWxob3N0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdXNlckxpc3QpOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdXNlci0+Y3JlYXRlKCkpOwogICAgICAgIGV4aXQ7Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVnaXN0ZXJVcmwpOwo=</text>
+      <register name="2" type="8">
+        <text>//
+//</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkb3BlcmF0b3JzKTsK</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmVzcG9uc2UpOwogICAgICAgIGV4aXQoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJG9wZXJhdG9yUmVwb3NpdG9yeS0+Z2V0T3BlcmF0b3JBY2NvdW50KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdXNlckxpc3QpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJG9wZXJhdG9yQWNjb3VudHMpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAZGQoWyRvcGVyYXRvclsnJG9wZXJhdG9yX3R5cGUnXV0pCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAZGQoJG9wZXJhdG9yWyckb3BlcmF0b3JfdHlwZSddKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBkZCgkcmVnaXN0ZXJVcmwpOwo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkb3BlcmF0b3JzKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJG9wZXJhdG9yUmVwb3NpdG9yeS0+Z2V0T3BlcmF0b3JBY2NvdW50KCkpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJG9wZXJhdG9yQWNjb3VudHMpOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gbWFrZSBidWlsZCDjgoLotbDjgosK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAZGQoWyRvcGVyYXRvclsnJG9wZXJhdG9yX3R5cGUnXV0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>cancel</last-search>
+      <last-search>save</last-search>
       <last-offset />
-      <last-pattern>cancel</last-pattern>
+      <last-pattern>save</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>update</last-substitute>
       <last-dir>1</last-dir>
@@ -337,10 +372,6 @@
     </search>
     <history>
       <history-search>
-        <entry>update</entry>
-        <entry>save</entry>
-        <entry>get</entry>
-        <entry>cmd+F+F12</entry>
         <entry>取材時間や取材場所に変更がある場合、ウィルゲートまでご連絡ください</entry>
         <entry>クリエイター</entry>
         <entry encoding="base64">XDx1c2VySWRcPg==</entry>
@@ -357,6 +388,10 @@
         <entry>api</entry>
         <entry>Cancel</entry>
         <entry>cancel</entry>
+        <entry>true</entry>
+        <entry>esult.data.truePassword</entry>
+        <entry>truePassword</entry>
+        <entry>save</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

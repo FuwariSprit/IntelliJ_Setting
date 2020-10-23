@@ -75,6 +75,9 @@
         <mark key="." line="93" column="20" />
         <mark key="^" line="93" column="20" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/routes/web.php" timestamp="1603441928060">
+        <mark key="'" line="103" column="33" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Notifications/AccountPreregisterCompleted.php" timestamp="1603095432798">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
@@ -176,7 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
       <jump line="3" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
       <jump line="34" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
       <jump line="39" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
@@ -276,6 +278,7 @@
       <jump line="23" column="6" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/WorkGroup/CancelWorkGroup.php" />
       <jump line="30" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/WorkGroup/CancelWorkGroup.php" />
       <jump line="28" column="52" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
+      <jump line="103" column="33" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -285,7 +288,7 @@
         <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>Cancel</text>
+        <text>cancel</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CWRvY2tlci1jb21wb3NlIHVwIC1kIC0tYnVpbGQKCWRvY2tlci1jb21wb3NlIGV4ZWMgZ2FzIGNsYXNwIGxvZ2luIC0tbm8tbG9jYWxob3N0Cg==</text>
@@ -322,9 +325,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Cancel</last-search>
+      <last-search>cancel</last-search>
       <last-offset />
-      <last-pattern>Cancel</last-pattern>
+      <last-pattern>cancel</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>update</last-substitute>
       <last-dir>1</last-dir>
@@ -332,7 +335,6 @@
     </search>
     <history>
       <history-search>
-        <entry>publish_status</entry>
         <entry>update</entry>
         <entry>save</entry>
         <entry>get</entry>
@@ -352,6 +354,7 @@
         <entry>isPost</entry>
         <entry>api</entry>
         <entry>Cancel</entry>
+        <entry>cancel</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

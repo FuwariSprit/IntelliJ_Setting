@@ -280,7 +280,7 @@
         <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>isPost</text>
+        <text>api</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CWRvY2tlci1jb21wb3NlIHVwIC1kIC0tYnVpbGQKCWRvY2tlci1jb21wb3NlIGV4ZWMgZ2FzIGNsYXNwIGxvZ2luIC0tbm8tbG9jYWxob3N0Cg==</text>
@@ -317,9 +317,9 @@
       </register>
     </registers>
     <search>
-      <last-search>isPost</last-search>
+      <last-search>api</last-search>
       <last-offset />
-      <last-pattern>isPost</last-pattern>
+      <last-pattern>api</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>update</last-substitute>
       <last-dir>1</last-dir>
@@ -327,7 +327,6 @@
     </search>
     <history>
       <history-search>
-        <entry>入稿依頼詳細</entry>
         <entry>ステータス</entry>
         <entry>publish_status</entry>
         <entry>update</entry>
@@ -347,6 +346,7 @@
         <entry>showCreateForm</entry>
         <entry>index</entry>
         <entry>isPost</entry>
+        <entry>api</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

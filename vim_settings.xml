@@ -18,8 +18,8 @@
         <mark key="." line="15" column="12" />
         <mark key="^" line="15" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_client_online_order.php" timestamp="1604478527956">
-        <mark key="'" line="1014" column="13" />
+      <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_client_online_order.php" timestamp="1604479701609">
+        <mark key="'" line="946" column="55" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Routes/ClientRoutes.php" timestamp="1604312088796">
         <mark key="'" line="447" column="29" />
@@ -83,8 +83,8 @@
         <mark key="." line="306" column="155" />
         <mark key="^" line="306" column="155" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" timestamp="1604478713370">
-        <mark key="'" line="246" column="35" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" timestamp="1604479650473">
+        <mark key="'" line="395" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/ChainOfferController.php" timestamp="1603156750801">
         <mark key="'" line="157" column="59" />
@@ -94,6 +94,9 @@
         <mark key="." line="207" column="55" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Utility/ExcelIO.php" timestamp="1604477136577" />
+      <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_admin_online_order.php" timestamp="1604479711411">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/isucon_202010/app/views/index.phtml" timestamp="1603642899991">
         <mark key="'" line="41" column="41" />
         <mark key="[" line="72" column="0" />
@@ -133,15 +136,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="0" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Infrastructure/Repositories/Domain/Eloquent/UserRepositoryTest.php" />
-      <jump line="78" column="0" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Infrastructure/Repositories/Domain/Eloquent/UserRepositoryTest.php" />
-      <jump line="60" column="20" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Infrastructure/Repositories/Domain/Eloquent/UserRepositoryTest.php" />
-      <jump line="75" column="33" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Infrastructure/Repositories/Domain/Eloquent/UserRepositoryTest.php" />
-      <jump line="111" column="0" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Infrastructure/Repositories/Domain/Eloquent/UserRepositoryTest.php" />
-      <jump line="115" column="0" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Infrastructure/Repositories/Domain/Eloquent/UserRepositoryTest.php" />
-      <jump line="98" column="51" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Infrastructure/Repositories/Domain/Eloquent/UserRepositoryTest.php" />
-      <jump line="68" column="12" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Infrastructure/Repositories/Domain/Eloquent/UserRepositoryTest.php" />
-      <jump line="38" column="0" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Infrastructure/Repositories/Domain/Eloquent/UserRepositoryTest.php" />
       <jump line="114" column="0" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Infrastructure/Repositories/Domain/Eloquent/UserRepositoryTest.php" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sagooo_navi/config/user_scores.php" />
       <jump line="214" column="5" filename="$USER_HOME$/workspace/sagooo_navi/config/user_scores.php" />
@@ -233,6 +227,15 @@
       <jump line="1059" column="23" filename="$USER_HOME$/workspace/sagooo_works/config/const/const_client_online_order.php" />
       <jump line="1021" column="13" filename="$USER_HOME$/workspace/sagooo_works/config/const/const_client_online_order.php" />
       <jump line="1014" column="13" filename="$USER_HOME$/workspace/sagooo_works/config/const/const_client_online_order.php" />
+      <jump line="395" column="33" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
+      <jump line="1062" column="43" filename="$USER_HOME$/workspace/sagooo_works/config/const/const_client_online_order.php" />
+      <jump line="1029" column="0" filename="$USER_HOME$/workspace/sagooo_works/config/const/const_client_online_order.php" />
+      <jump line="951" column="20" filename="$USER_HOME$/workspace/sagooo_works/config/const/const_client_online_order.php" />
+      <jump line="969" column="34" filename="$USER_HOME$/workspace/sagooo_works/config/const/const_client_online_order.php" />
+      <jump line="950" column="55" filename="$USER_HOME$/workspace/sagooo_works/config/const/const_client_online_order.php" />
+      <jump line="1044" column="55" filename="$USER_HOME$/workspace/sagooo_works/config/const/const_client_online_order.php" />
+      <jump line="946" column="55" filename="$USER_HOME$/workspace/sagooo_works/config/const/const_client_online_order.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sagooo_works/config/const/const_admin_online_order.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -242,7 +245,7 @@
         <text>Veritrans</text>
       </register>
       <register name="/" type="4">
-        <text>DIRECTOR</text>
+        <text>PARAGRAPH_STATUS_LIST</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ+ODqeOCpOOCv+ODvOOBruaknOe0ouOBp1Pjg6njg7Pjgq/jgajjg57jgqTjg4rjg5PmnKroqZXkvqHjgpLmjIflrprjgZfjgabjgYTjgosnID0+IFsKICAgICAgICAgICAgICAgICdleHBlY3RlZCcgID0+ICIoZHRiX3dyaXRlcl9zY29yZXMubXluYXZpX3JhbmsgPSAnUycgb3IgZHRiX3dyaXRlcl9zY29yZXMubXluYXZpX3JhbmsgaXMgbnVsbCkiLAogICAgICAgICAgICAgICAgJ2RhdGEnICAgICAgPT4gWwogICAgICAgICAgICAgICAgICAgICd0b3RhbF9yYW5rJyAgICAgICAgPT4gWydTJywgJ25vbmUnXSwKICAgICAgICAgICAgICAgICAgICAndGFibGVfbmFtZScgICAgICAgID0+ICdkdGJfd3JpdGVyX3Njb3JlcycsCiAgICAgICAgICAgICAgICAgICAgJ3JvbGUnICAgICAgICAgICAgICA9PiAnd3JpdGVyJywKICAgICAgICAgICAgICAgICAgICAnaXNfbXluYXZpX3JhbmsnICAgID0+IHRydWUKICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgXSwKICAgICAgICAgICAgJ+ODqeOCpOOCv+ODvOOBruaknOe0ouOBp1Pjg6njg7Pjgq/jgahB44Op44Oz44Kv44KS5oyH5a6a44GX44Gm44GE44KLJyA9PiBbCiAgICAgICAgICAgICAgICAnZXhwZWN0ZWQnICA9PiAiKGR0Yl93cml0ZXJfc2NvcmVzLm15bmF2aV9yYW5rID0gJ1MnIG9yIGR0Yl93cml0ZXJfc2NvcmVzLm15bmF2aV9yYW5rID0gJ0EnKSIsCiAgICAgICAgICAgICAgICAnZGF0YScgICAgICA9PiBbCiAgICAgICAgICAgICAgICAgICAgJ3RvdGFsX3JhbmsnICAgICAgICA9PiBbJ1MnLCAnQSddLAogICAgICAgICAgICAgICAgICAgICd0YWJsZV9uYW1lJyAgICAgICAgPT4gJ2R0Yl93cml0ZXJfc2NvcmVzJywKICAgICAgICAgICAgICAgICAgICAncm9sZScgICAgICAgICAgICAgID0+ICd3cml0ZXInLAogICAgICAgICAgICAgICAgICAgICdpc19teW5hdmlfcmFuaycgICAgPT4gdHJ1ZQogICAgICAgICAgICAgICAgXQogICAgICAgICAgICBdLAogICAgICAgICAgICAn44Op44Kk44K/44O844Gu5qSc57Si44GnU+ODqeODs+OCr+OCkuaMh+WumuOBl+OBpuOBhOOCiycgPT4gWwogICAgICAgICAgICAgICAgJ2V4cGVjdGVkJyAgPT4gIihkdGJfd3JpdGVyX3Njb3Jlcy5teW5hdmlfcmFuayA9ICdTJykiLAogICAgICAgICAgICAgICAgJ2RhdGEnICAgICAgPT4gWwogICAgICAgICAgICAgICAgICAgICd0b3RhbF9yYW5rJyAgICAgICAgPT4gWydTJ10sCiAgICAgICAgICAgICAgICAgICAgJ3RhYmxlX25hbWUnICAgICAgICA9PiAnZHRiX3dyaXRlcl9zY29yZXMnLAogICAgICAgICAgICAgICAgICAgICdyb2xlJyAgICAgICAgICAgICAgPT4gJ3dyaXRlcicsCiAgICAgICAgICAgICAgICAgICAgJ2lzX215bmF2aV9yYW5rJyAgICA9PiB0cnVlCiAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgICfjg6njgqTjgr/jg7zjga7mpJzntKLjgafjg57jgqTjg4rjg5PmnKroqZXkvqHjgpLmjIflrprjgZfjgabjgYTjgosnID0+IFsKICAgICAgICAgICAgICAgICdleHBlY3RlZCcgID0+ICIoZHRiX3dyaXRlcl9zY29yZXMubXluYXZpX3JhbmsgaXMgbnVsbCkiLAogICAgICAgICAgICAgICAgJ2RhdGEnICAgICAgPT4gWwogICAgICAgICAgICAgICAgICAgICd0b3RhbF9yYW5rJyAgICAgICAgPT4gWydub25lJ10sCiAgICAgICAgICAgICAgICAgICAgJ3RhYmxlX25hbWUnICAgICAgICA9PiAnZHRiX3dyaXRlcl9zY29yZXMnLAogICAgICAgICAgICAgICAgICAgICdyb2xlJyAgICAgICAgICAgICAgPT4gJ3dyaXRlcicsCiAgICAgICAgICAgICAgICAgICAgJ2lzX215bmF2aV9yYW5rJyAgICA9PiB0cnVlCiAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgIF0sCg==</text>
@@ -332,9 +335,9 @@
       </register>
     </registers>
     <search>
-      <last-search>DIRECTOR</last-search>
+      <last-search>PARAGRAPH_STATUS_LIST</last-search>
       <last-offset />
-      <last-pattern>DIRECTOR</last-pattern>
+      <last-pattern>PARAGRAPH_STATUS_LIST</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>update</last-substitute>
       <last-dir>1</last-dir>
@@ -342,8 +345,6 @@
     </search>
     <history>
       <history-search>
-        <entry>rankScopedUserIds</entry>
-        <entry>ランクなし</entry>
         <entry>show</entry>
         <entry>s</entry>
         <entry>total_scores</entry>
@@ -362,6 +363,8 @@
         <entry>loadAndRangeToArray</entry>
         <entry>SPREAD</entry>
         <entry>DIRECTOR</entry>
+        <entry>PARAGRAPH_STATUS</entry>
+        <entry>PARAGRAPH_STATUS_LIST</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

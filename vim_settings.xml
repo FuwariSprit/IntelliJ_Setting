@@ -90,6 +90,7 @@
         <mark key="^" line="207" column="55" />
         <mark key="." line="207" column="55" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Utility/ExcelIO.php" timestamp="1604473294049" />
       <file name="$USER_HOME$/workspace/isucon_202010/app/views/index.phtml" timestamp="1603642899991">
         <mark key="'" line="41" column="41" />
         <mark key="[" line="72" column="0" />
@@ -237,7 +238,7 @@
         <text>Veritrans</text>
       </register>
       <register name="/" type="4">
-        <text>ajax</text>
+        <text>loadAndRangeToArray</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ+ODqeOCpOOCv+ODvOOBruaknOe0ouOBp1Pjg6njg7Pjgq/jgajjg57jgqTjg4rjg5PmnKroqZXkvqHjgpLmjIflrprjgZfjgabjgYTjgosnID0+IFsKICAgICAgICAgICAgICAgICdleHBlY3RlZCcgID0+ICIoZHRiX3dyaXRlcl9zY29yZXMubXluYXZpX3JhbmsgPSAnUycgb3IgZHRiX3dyaXRlcl9zY29yZXMubXluYXZpX3JhbmsgaXMgbnVsbCkiLAogICAgICAgICAgICAgICAgJ2RhdGEnICAgICAgPT4gWwogICAgICAgICAgICAgICAgICAgICd0b3RhbF9yYW5rJyAgICAgICAgPT4gWydTJywgJ25vbmUnXSwKICAgICAgICAgICAgICAgICAgICAndGFibGVfbmFtZScgICAgICAgID0+ICdkdGJfd3JpdGVyX3Njb3JlcycsCiAgICAgICAgICAgICAgICAgICAgJ3JvbGUnICAgICAgICAgICAgICA9PiAnd3JpdGVyJywKICAgICAgICAgICAgICAgICAgICAnaXNfbXluYXZpX3JhbmsnICAgID0+IHRydWUKICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgXSwKICAgICAgICAgICAgJ+ODqeOCpOOCv+ODvOOBruaknOe0ouOBp1Pjg6njg7Pjgq/jgahB44Op44Oz44Kv44KS5oyH5a6a44GX44Gm44GE44KLJyA9PiBbCiAgICAgICAgICAgICAgICAnZXhwZWN0ZWQnICA9PiAiKGR0Yl93cml0ZXJfc2NvcmVzLm15bmF2aV9yYW5rID0gJ1MnIG9yIGR0Yl93cml0ZXJfc2NvcmVzLm15bmF2aV9yYW5rID0gJ0EnKSIsCiAgICAgICAgICAgICAgICAnZGF0YScgICAgICA9PiBbCiAgICAgICAgICAgICAgICAgICAgJ3RvdGFsX3JhbmsnICAgICAgICA9PiBbJ1MnLCAnQSddLAogICAgICAgICAgICAgICAgICAgICd0YWJsZV9uYW1lJyAgICAgICAgPT4gJ2R0Yl93cml0ZXJfc2NvcmVzJywKICAgICAgICAgICAgICAgICAgICAncm9sZScgICAgICAgICAgICAgID0+ICd3cml0ZXInLAogICAgICAgICAgICAgICAgICAgICdpc19teW5hdmlfcmFuaycgICAgPT4gdHJ1ZQogICAgICAgICAgICAgICAgXQogICAgICAgICAgICBdLAogICAgICAgICAgICAn44Op44Kk44K/44O844Gu5qSc57Si44GnU+ODqeODs+OCr+OCkuaMh+WumuOBl+OBpuOBhOOCiycgPT4gWwogICAgICAgICAgICAgICAgJ2V4cGVjdGVkJyAgPT4gIihkdGJfd3JpdGVyX3Njb3Jlcy5teW5hdmlfcmFuayA9ICdTJykiLAogICAgICAgICAgICAgICAgJ2RhdGEnICAgICAgPT4gWwogICAgICAgICAgICAgICAgICAgICd0b3RhbF9yYW5rJyAgICAgICAgPT4gWydTJ10sCiAgICAgICAgICAgICAgICAgICAgJ3RhYmxlX25hbWUnICAgICAgICA9PiAnZHRiX3dyaXRlcl9zY29yZXMnLAogICAgICAgICAgICAgICAgICAgICdyb2xlJyAgICAgICAgICAgICAgPT4gJ3dyaXRlcicsCiAgICAgICAgICAgICAgICAgICAgJ2lzX215bmF2aV9yYW5rJyAgICA9PiB0cnVlCiAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgICfjg6njgqTjgr/jg7zjga7mpJzntKLjgafjg57jgqTjg4rjg5PmnKroqZXkvqHjgpLmjIflrprjgZfjgabjgYTjgosnID0+IFsKICAgICAgICAgICAgICAgICdleHBlY3RlZCcgID0+ICIoZHRiX3dyaXRlcl9zY29yZXMubXluYXZpX3JhbmsgaXMgbnVsbCkiLAogICAgICAgICAgICAgICAgJ2RhdGEnICAgICAgPT4gWwogICAgICAgICAgICAgICAgICAgICd0b3RhbF9yYW5rJyAgICAgICAgPT4gWydub25lJ10sCiAgICAgICAgICAgICAgICAgICAgJ3RhYmxlX25hbWUnICAgICAgICA9PiAnZHRiX3dyaXRlcl9zY29yZXMnLAogICAgICAgICAgICAgICAgICAgICdyb2xlJyAgICAgICAgICAgICAgPT4gJ3dyaXRlcicsCiAgICAgICAgICAgICAgICAgICAgJ2lzX215bmF2aV9yYW5rJyAgICA9PiB0cnVlCiAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgIF0sCg==</text>
@@ -327,9 +328,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ajax</last-search>
+      <last-search>loadAndRangeToArray</last-search>
       <last-offset />
-      <last-pattern>ajax</last-pattern>
+      <last-pattern>loadAndRangeToArray</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>update</last-substitute>
       <last-dir>1</last-dir>
@@ -337,7 +338,6 @@
     </search>
     <history>
       <history-search>
-        <entry>isLogin</entry>
         <entry>console.log(result.data);</entry>
         <entry>login</entry>
         <entry>rankScopedUserIds</entry>
@@ -357,6 +357,7 @@
         <entry>review</entry>
         <entry>Log</entry>
         <entry>ajax</entry>
+        <entry>loadAndRangeToArray</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

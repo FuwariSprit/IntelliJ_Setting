@@ -18,8 +18,8 @@
       <file name="$USER_HOME$/workspace/sagooo_works/src/Routes/ClientRoutes.php" timestamp="1604989893747">
         <mark key="'" line="1017" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" timestamp="1604989947353">
-        <mark key="'" line="14" column="28" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" timestamp="1605061110107">
+        <mark key="'" line="2516" column="66" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" timestamp="1604313042798">
         <mark key="'" line="43" column="13" />
@@ -39,7 +39,7 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" timestamp="1603699376174">
         <mark key="'" line="1463" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/SalesDeliveryController.php" timestamp="1604285213927">
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/SalesDeliveryController.php" timestamp="1605061656074">
         <mark key="'" line="1690" column="64" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/env/production/const_log_env.php" timestamp="1604467299094" />
@@ -103,9 +103,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1315" column="20" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
-      <jump line="32" column="19" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
-      <jump line="656" column="4" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
       <jump line="657" column="11" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
       <jump line="658" column="33" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
       <jump line="659" column="15" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
@@ -203,6 +200,9 @@
       <jump line="194" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="250" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="224" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
+      <jump line="2516" column="66" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" />
+      <jump line="374" column="9" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/SalesDeliveryController.php" />
+      <jump line="1690" column="64" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/SalesDeliveryController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -212,7 +212,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>step_panel</text>
+        <text>detail</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkcGFyYW1bJ293bmVyX2dyb3VwX2lkJ10gPSAkcmVxdWVzdC0+aW5wdXQoJ293bmVyX2dyb3VwX2lkJyk7Cg==</text>
@@ -249,9 +249,9 @@
       </register>
     </registers>
     <search>
-      <last-search>step_panel</last-search>
+      <last-search>detail</last-search>
       <last-offset />
-      <last-pattern>step_panel</last-pattern>
+      <last-pattern>detail</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>update</last-substitute>
       <last-dir>1</last-dir>
@@ -259,7 +259,6 @@
     </search>
     <history>
       <history-search>
-        <entry>review</entry>
         <entry>Log</entry>
         <entry>ajax</entry>
         <entry>loadAndRangeToArray</entry>
@@ -276,9 +275,10 @@
         <entry>newenti</entry>
         <entry>newEntity</entry>
         <entry>index</entry>
-        <entry>detail</entry>
         <entry>panel panel-primary</entry>
         <entry>step_panel</entry>
+        <entry>納品</entry>
+        <entry>detail</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

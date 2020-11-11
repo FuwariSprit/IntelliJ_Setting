@@ -21,8 +21,8 @@
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_client_online_order.php" timestamp="1604479701609">
         <mark key="'" line="946" column="55" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" timestamp="1604658596816">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" timestamp="1605057453894">
+        <mark key="'" line="224" column="0" />
         <mark key="[" line="1633" column="0" />
         <mark key="]" line="1633" column="0" />
         <mark key="." line="1633" column="0" />
@@ -68,6 +68,7 @@
         <mark key="'" line="1690" column="64" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/env/production/const_log_env.php" timestamp="1604467299094" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/interview.blade.php" timestamp="1605057624684" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" timestamp="1604481460946">
         <mark key="'" line="395" column="33" />
       </file>
@@ -106,27 +107,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1535" column="48" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
-      <jump line="246" column="35" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
-      <jump line="24" column="6" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbOnlineOrdersTable.php" />
-      <jump line="1496" column="40" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbOnlineOrdersTable.php" />
-      <jump line="1743" column="29" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbOnlineOrdersTable.php" />
-      <jump line="236" column="17" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/AppTable.php" />
-      <jump line="246" column="20" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/AppTable.php" />
-      <jump line="201" column="9" filename="$USER_HOME$/workspace/sagooo_navi/config/user_scores.php" />
-      <jump line="219" column="28" filename="$USER_HOME$/workspace/sagooo_navi/config/user_scores.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sagooo_works/config/const/env/production/app.php" />
-      <jump line="107" column="14" filename="$USER_HOME$/workspace/sagooo_works/config/const/env/production/app.php" />
-      <jump line="110" column="15" filename="$USER_HOME$/workspace/sagooo_works/config/const/env/production/app.php" />
-      <jump line="118" column="13" filename="$USER_HOME$/workspace/sagooo_works/config/const/env/production/app.php" />
-      <jump line="340" column="19" filename="$USER_HOME$/workspace/sagooo_works/config/const/env/production/app.php" />
-      <jump line="343" column="5" filename="$USER_HOME$/workspace/sagooo_works/config/const/env/production/app.php" />
-      <jump line="345" column="48" filename="$USER_HOME$/workspace/sagooo_works/config/const/env/production/app.php" />
-      <jump line="352" column="48" filename="$USER_HOME$/workspace/sagooo_works/config/const/env/production/app.php" />
-      <jump line="90" column="15" filename="$USER_HOME$/workspace/sagooo_works/config/const/env/production/app.php" />
-      <jump line="359" column="33" filename="$USER_HOME$/workspace/sagooo_works/config/const/env/production/app.php" />
-      <jump line="23" column="45" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
-      <jump line="655" column="20" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
       <jump line="1315" column="20" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
       <jump line="32" column="19" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
       <jump line="656" column="4" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
@@ -184,7 +164,6 @@
       <jump line="50" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Requests/Admin/WorkGroup/CheckAndUpdateInterviewNoRequest.php" />
       <jump line="34" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Requests/Admin/WorkGroup/CheckAndUpdateInterviewNoRequest.php" />
       <jump line="1198" column="54" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="16" column="11" filename="$USER_HOME$/workspace/sagooo_navi/docker/docker-compose.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sagooo_navi/docker/docker-compose.yml" />
       <jump line="699" column="17" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/ClientRoutes.php" />
@@ -206,6 +185,28 @@
       <jump line="704" column="18" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbClientsTable.php" />
       <jump line="735" column="36" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbClientsTable.php" />
       <jump line="17" column="6" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/AppTable.php" />
+      <jump line="1616" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
+      <jump line="126" column="59" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
+      <jump line="195" column="39" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
+      <jump line="3" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
+      <jump line="96" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
+      <jump line="124" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
+      <jump line="130" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
+      <jump line="149" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
+      <jump line="151" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
+      <jump line="158" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
+      <jump line="165" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
+      <jump line="169" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
+      <jump line="173" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
+      <jump line="177" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
+      <jump line="179" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
+      <jump line="186" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
+      <jump line="190" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
+      <jump line="194" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
+      <jump line="250" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
+      <jump line="224" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -215,7 +216,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>newEntity</text>
+        <text>detail</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkcGFyYW1bJ293bmVyX2dyb3VwX2lkJ10gPSAkcmVxdWVzdC0+aW5wdXQoJ293bmVyX2dyb3VwX2lkJyk7Cg==</text>
@@ -252,9 +253,9 @@
       </register>
     </registers>
     <search>
-      <last-search>newEntity</last-search>
+      <last-search>detail</last-search>
       <last-offset />
-      <last-pattern>newEntity</last-pattern>
+      <last-pattern>detail</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>update</last-substitute>
       <last-dir>1</last-dir>
@@ -262,8 +263,6 @@
     </search>
     <history>
       <history-search>
-        <entry>online_order</entry>
-        <entry>index</entry>
         <entry>findByTargetCondition</entry>
         <entry>writer</entry>
         <entry>review</entry>
@@ -282,6 +281,8 @@
         <entry>Entry</entry>
         <entry>newenti</entry>
         <entry>newEntity</entry>
+        <entry>index</entry>
+        <entry>detail</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

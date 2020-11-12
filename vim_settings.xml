@@ -38,6 +38,9 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/hs_upload_before_check.blade.php" timestamp="1605072961839">
         <mark key="[" line="0" column="41" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientOnlineOrder/OrderForm/base_form_entry.ctp" timestamp="1605143100298">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/step_edit_form.blade.php" timestamp="1605084625468">
         <mark key="'" line="9" column="16" />
         <mark key="[" line="7" column="18" />
@@ -51,7 +54,9 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" timestamp="1603699376174">
         <mark key="'" line="1463" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Client/ClientOnlineOrder/index.ctp" timestamp="1605085763732" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Client/ClientOnlineOrder/index.ctp" timestamp="1605143216232">
+        <mark key="'" line="163" column="75" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/SalesDeliveryController.php" timestamp="1605072222332">
         <mark key="'" line="1690" column="64" />
       </file>
@@ -96,8 +101,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2074" column="15" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
-      <jump line="1646" column="4" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="1634" column="4" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="1641" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="1655" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
@@ -196,6 +199,8 @@
       <jump line="114" column="0" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/制作担当にHSとアシカデータとの相違をチェックしてもらう.md" />
       <jump line="133" column="0" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/制作担当にHSとアシカデータとの相違をチェックしてもらう.md" />
       <jump line="116" column="0" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/制作担当にHSとアシカデータとの相違をチェックしてもらう.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientOnlineOrder/OrderForm/base_form_entry.ctp" />
+      <jump line="163" column="75" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Client/ClientOnlineOrder/index.ctp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -205,7 +210,7 @@
         <text>a</text>
       </register>
       <register name="/" type="4">
-        <text>saveEasyOnlineOrder</text>
+        <text>submitClass</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9IlNwYWNlciAtaDIwIj48L2Rpdj4K</text>
@@ -242,9 +247,9 @@
       </register>
     </registers>
     <search>
-      <last-search>saveEasyOnlineOrder</last-search>
+      <last-search>submitClass</last-search>
       <last-offset />
-      <last-pattern>saveEasyOnlineOrder</last-pattern>
+      <last-pattern>submitClass</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>update</last-substitute>
       <last-dir>1</last-dir>
@@ -252,8 +257,6 @@
     </search>
     <history>
       <history-search>
-        <entry>SPREAD</entry>
-        <entry>DIRECTOR</entry>
         <entry>PARAGRAPH_STATUS</entry>
         <entry>PARAGRAPH_STATUS_LIST</entry>
         <entry>入稿</entry>
@@ -272,6 +275,8 @@
         <entry>index</entry>
         <entry>regist</entry>
         <entry>saveEasyOnlineOrder</entry>
+        <entry>ジャンル</entry>
+        <entry>submitClass</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

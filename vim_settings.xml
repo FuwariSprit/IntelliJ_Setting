@@ -4,11 +4,11 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Eloquents/DtbPhotographerScore.php" timestamp="1605235846309" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/public/js/admin/works/detail.js" timestamp="1605250903893">
-        <mark key="[" line="400" column="76" />
-        <mark key="]" line="400" column="76" />
-        <mark key="^" line="394" column="12" />
-        <mark key="." line="400" column="76" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/public/js/admin/works/detail.js" timestamp="1605255485648">
+        <mark key="[" line="402" column="18" />
+        <mark key="]" line="402" column="18" />
+        <mark key="^" line="400" column="12" />
+        <mark key="." line="402" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/step_panel.blade.php" timestamp="1605243980697">
         <mark key="[" line="203" column="0" />
@@ -123,7 +123,7 @@
         <mark key="." line="134" column="0" />
         <mark key="^" line="17" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" timestamp="1605253249831">
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" timestamp="1605255788837">
         <mark key="'" line="428" column="61" />
       </file>
     </filemarks>
@@ -231,43 +231,45 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>detail</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJCh0aGlzKS5jbG9zZXN0KCIuanMtaHMtdXBsb2FkIikuc3VibWl0KCk7Cg==</text>
+      <register name="0" type="4">
+        <text>$(&quot;.js-hs-upload-before-check-modal-checkbox&quot;)</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="8">
+        <text>$
+$
+$</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJCgiLmpzLWhzLXVwbG9hZCIpLnN1Ym1pdCgpOwo=</text>
       </register>
-      <register name="2" type="8">
+      <register name="3" type="8">
         <text encoding="base64">KyAgICAgICAgCisgICAgICAgIAorICAgICAgICAKKyAgICAgICAgCisgICAgICAgIAogICAgICAgICsKICAgICAgICArCiAgICAgICAgKwogICAgICAgICsKICAgICAgICArCiAgICAgICAgKwogICAgICAgICsKICAgICsgICAgCiAgICArICAgIAorICAgICAgICA=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxidXR0b24gdHlwZT0ic3VibWl0IiBjbGFzcz0iYnRuIGJ0bi1zdWNjZXNzIGJ0bi1zbSI+6L+95YqgPC9idXR0b24+Cg==</text>
       </register>
-      <register name="4" type="8">
+      <register name="5" type="8">
         <text encoding="base64">IAogCiAKIAogCiAKIAogCiA=</text>
       </register>
-      <register name="5" type="8">
+      <register name="6" type="8">
         <text encoding="base64">IAogCiAKIAogCiAKIAog</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIEBpbmNsdWRlKCdwYXJ0aWFscy5hZG1pbi5kZXRhaWwud2lsbGdhdGUnKQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">PGJ1dHRvbiB0eXBlPSJzdWJtaXQiIGNsYXNzPSJidG4gYnRuLXN1Y2Nlc3MgYnRuLXNtIj7ov73liqA8L2J1dHRvbj4K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEBpbmNsdWRlKCdwYXJ0aWFscy5hZG1pbi5kZXRhaWwuY2xpZW50JykK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">KyAgICAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImJ0biBidG4tc3VjY2VzcyBidG4tc20ganMtaHMtdXBsb2FkLWJlZm9yZS1jaGVjay1tb2RhbC1idG4iPui/veWKoDwvYnV0dG9uPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEBpbmNsdWRlKCdwYXJ0aWFscy5hZG1pbi5kZXRhaWwuY2xpZW50JykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

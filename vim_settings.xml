@@ -3,16 +3,22 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/sagooo_navi/public/js/admin/works/detail.js" timestamp="1605516657596">
-        <mark key="[" line="395" column="70" />
-        <mark key="]" line="396" column="11" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/public/js/admin/works/detail.js" timestamp="1605520007067">
+        <mark key="[" line="391" column="0" />
+        <mark key="]" line="391" column="0" />
         <mark key="^" line="396" column="11" />
-        <mark key="." line="396" column="11" />
+        <mark key="." line="391" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/step_panel.blade.php" timestamp="1605243980697">
         <mark key="[" line="203" column="0" />
         <mark key="]" line="206" column="48" />
         <mark key="." line="203" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/sass/service/component/_HsUploadBeforeCheckModal.scss" timestamp="1605519231801">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="4" column="36" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" timestamp="1605491807750">
         <mark key="'" line="3223" column="18" />
@@ -25,13 +31,13 @@
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" timestamp="1605086178209">
         <mark key="'" line="498" column="2" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/hs_upload_before_check_modal.blade.php" timestamp="1605517282044">
-        <mark key="[" line="0" column="54" />
-        <mark key="]" line="0" column="64" />
-        <mark key="." line="0" column="64" />
-        <mark key="^" line="0" column="64" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Pages/Admin/AdminOnlineOrder/Detail/estimate.ctp" timestamp="1605505084709" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/sass/service/style.scss" timestamp="1605519899857">
+        <mark key="[" line="72" column="43" />
+        <mark key="]" line="72" column="42" />
+        <mark key="^" line="72" column="42" />
+        <mark key="." line="72" column="42" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/interview.blade.php" timestamp="1605515284899">
         <mark key="'" line="212" column="0" />
         <mark key="[" line="96" column="48" />
@@ -39,12 +45,12 @@
         <mark key="." line="96" column="60" />
         <mark key="^" line="96" column="60" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/制作担当にHSとアシカデータとの相違をチェックしてもらう.md" timestamp="1605516966189">
-        <mark key="'" line="29" column="8" />
-        <mark key="[" line="69" column="2" />
-        <mark key="]" line="69" column="5" />
-        <mark key="." line="69" column="5" />
-        <mark key="^" line="69" column="5" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/制作担当にHSとアシカデータとの相違をチェックしてもらう.md" timestamp="1605519922340">
+        <mark key="'" line="199" column="3" />
+        <mark key="[" line="205" column="0" />
+        <mark key="]" line="205" column="0" />
+        <mark key="." line="205" column="0" />
+        <mark key="^" line="205" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbDeliveryManagesTable.php" timestamp="1605491685560" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Eloquents/DtbPhotographerScore.php" timestamp="1605235846309" />
@@ -88,7 +94,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1773" column="55" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
       <jump line="1779" column="37" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
       <jump line="1857" column="37" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
       <jump line="2235" column="55" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
@@ -188,63 +193,63 @@
       <jump line="3288" column="51" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" />
       <jump line="2743" column="15" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" />
       <jump line="3223" column="18" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" />
+      <jump line="199" column="3" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/制作担当にHSとアシカデータとの相違をチェックしてもらう.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">KyAgICAgICBAaW5jbHVkZSgncGFydGlhbHMuYWRtaW4ud29ya3MuZGV0YWlsLmhzX3VwbG9hZF9iZWZvcmVfY2hlY2tfbW9kYWwnKQo=</text>
+        <text encoding="base64">CiAgICAvLyBoc+OBruebuOmBleODgeOCp+ODg+OCr+OBruODouODvOODgOODqwogICAgJCgiLmpzLWhzLXVwbG9hZC1iZWZvcmUtY2hlY2stbW9kYWwtYnRuIikuZWFjaChmdW5jdGlvbihpKSB7CiAgICAgICAgY29uc3QgbW9kYWwgPSAkKCIuanMtaHMtdXBsb2FkLWJlZm9yZS1jaGVjay1tb2RhbCIpLmVxKGkpOwoKICAgICAgICAkKHRoaXMpLm9uKCJjbGljayIsIGZ1bmN0aW9uKCkgewogICAgICAgICAgICBjb25zb2xlLmxvZygrICLjg5zjgr/jg7PmirzjgZfjgZ/jgogiKTsKICAgICAgICAgICAgaWYgKG1vZGFsLmZpbmQoIi5qcy1ocy11cGxvYWQtYmVmb3JlLWNoZWNrLW1vZGFsLWNoZWNrYm94IikucHJvcCgiY2hlY2tlZCIpKSB7CiAgICAgICAgICAgICAgICAkKHRoaXMpLmNsb3Nlc3QoIi5qcy1ocy11cGxvYWQiKS5zdWJtaXQoKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIG1vZGFsLmZpbmQoIi5qcy1ocy11cGxvYWQtYmVmb3JlLWNoZWNrLW1vZGFsLWNsaWVudCIpLnZhbCgkKHRoaXMpLmRhdGEoImNsaWVudCIpICsgIuOBruWPluadkOaDheWgsSIpOwogICAgICAgICAgICAgICAgbW9kYWwuZmluZCgiLmpzLWhzLXVwbG9hZC1iZWZvcmUtY2hlY2stbW9kYWwtaW50ZXJ2aWV3LWRhdGUiKS52YWwoJCh0aGlzKS5kYXRhKCJpbnRlcnZpZXctZGF0ZSIpKTsKICAgICAgICAgICAgICAgIG1vZGFsLmZpbmQoIi5qcy1ocy11cGxvYWQtYmVmb3JlLWNoZWNrLW1vZGFsLWludGVydmlldy1sb2NhdGlvbiIpLnZhbCgkKHRoaXMpLmRhdGEoImludGVydmlldy1sb2NhdGlvbiIpKTsKICAgICAgICAgICAgICAgIG1vZGFsLmZpbmQoIi5qcy1ocy11cGxvYWQtYmVmb3JlLWNoZWNrLW1vZGFsLXByb2R1Y3QiKS52YWwoJCh0aGlzKS5kYXRhKCJwcm9kdWN0IikpOwogICAgICAgICAgICAgICAgbW9kYWwuZmluZCgiLmpzLWhzLXVwbG9hZC1iZWZvcmUtY2hlY2stbW9kYWwiKS5tb2RhbCgpOwogICAgICAgICAgICB9CiAgICAgICAgfSk7CiAgICB9KTsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>見積り</text>
+        <text encoding="base64">XDxhc3NldHNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LSAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJzdWJtaXQiIGNsYXNzPSJidG4gYnRuLXN1Y2Nlc3MiIHZhbHVlPSLkuIroqJjjgpLnmbvpjLLjgZnjgosiPgo=</text>
+        <text encoding="base64">LkhzVXBsb2FkQmVmb3JlQ2hlY2tNb2RhbCB7CiAgY29sb3I6ICRjb2xvci1ibGFjazsKICBmb250LXdlaWdodDogbm9ybWFsOwp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KyAgICAgICBAaW5jbHVkZSgncGFydGlhbHMuYWRtaW4ud29ya3MuZGV0YWlsLmhzX3VwbG9hZF9iZWZvcmVfY2hlY2tfbW9kYWwnKQo=</text>
+        <text encoding="base64">CiAgICAvLyBoc+OBruebuOmBleODgeOCp+ODg+OCr+OBruODouODvOODgOODqwogICAgJCgiLmpzLWhzLXVwbG9hZC1iZWZvcmUtY2hlY2stbW9kYWwtYnRuIikuZWFjaChmdW5jdGlvbihpKSB7CiAgICAgICAgY29uc3QgbW9kYWwgPSAkKCIuanMtaHMtdXBsb2FkLWJlZm9yZS1jaGVjay1tb2RhbCIpLmVxKGkpOwoKICAgICAgICAkKHRoaXMpLm9uKCJjbGljayIsIGZ1bmN0aW9uKCkgewogICAgICAgICAgICBjb25zb2xlLmxvZygrICLjg5zjgr/jg7PmirzjgZfjgZ/jgogiKTsKICAgICAgICAgICAgaWYgKG1vZGFsLmZpbmQoIi5qcy1ocy11cGxvYWQtYmVmb3JlLWNoZWNrLW1vZGFsLWNoZWNrYm94IikucHJvcCgiY2hlY2tlZCIpKSB7CiAgICAgICAgICAgICAgICAkKHRoaXMpLmNsb3Nlc3QoIi5qcy1ocy11cGxvYWQiKS5zdWJtaXQoKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIG1vZGFsLmZpbmQoIi5qcy1ocy11cGxvYWQtYmVmb3JlLWNoZWNrLW1vZGFsLWNsaWVudCIpLnZhbCgkKHRoaXMpLmRhdGEoImNsaWVudCIpICsgIuOBruWPluadkOaDheWgsSIpOwogICAgICAgICAgICAgICAgbW9kYWwuZmluZCgiLmpzLWhzLXVwbG9hZC1iZWZvcmUtY2hlY2stbW9kYWwtaW50ZXJ2aWV3LWRhdGUiKS52YWwoJCh0aGlzKS5kYXRhKCJpbnRlcnZpZXctZGF0ZSIpKTsKICAgICAgICAgICAgICAgIG1vZGFsLmZpbmQoIi5qcy1ocy11cGxvYWQtYmVmb3JlLWNoZWNrLW1vZGFsLWludGVydmlldy1sb2NhdGlvbiIpLnZhbCgkKHRoaXMpLmRhdGEoImludGVydmlldy1sb2NhdGlvbiIpKTsKICAgICAgICAgICAgICAgIG1vZGFsLmZpbmQoIi5qcy1ocy11cGxvYWQtYmVmb3JlLWNoZWNrLW1vZGFsLXByb2R1Y3QiKS52YWwoJCh0aGlzKS5kYXRhKCJwcm9kdWN0IikpOwogICAgICAgICAgICAgICAgbW9kYWwuZmluZCgiLmpzLWhzLXVwbG9hZC1iZWZvcmUtY2hlY2stbW9kYWwiKS5tb2RhbCgpOwogICAgICAgICAgICB9CiAgICAgICAgfSk7CiAgICB9KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBpbmNsdWRlKCdwYXJ0aWFscy5hZG1pbi53b3Jrcy5kZXRhaWwuaHNfdXBsb2FkX2JlZm9yZV9jaGVja19tb2RhbCcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJCh0aGlzKS5kYXRhKCdjbGllbnQnKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRoPuWPluadkOaZgumWkzwvdGg+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJCh0aGlzKS5kYXRhKCdjbGllbnQnKSk7Cg==</text>
+        <text encoding="base64">ICBmb250LXdlaWdodDogbm9ybWFsOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PD9waHAK</text>
+        <text encoding="base64">ICBjb2xvcjogJGNvbG9yLWJsYWNrOwo=</text>
       </register>
-      <register name="6" type="8">
-        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAg</text>
+      <register name="6" type="2">
+        <text encoding="base64">KyAgICAgICBAaW5jbHVkZSgncGFydGlhbHMuYWRtaW4ud29ya3MuZGV0YWlsLmhzX3VwbG9hZF9iZWZvcmVfY2hlY2tfbW9kYWwnKQo=</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAogCiA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIEBpbmNsdWRlKCdwYXJ0aWFscy5hZG1pbi53b3Jrcy5kZXRhaWwuaHNfdXBsb2FkX2JlZm9yZV9jaGVja19tb2RhbCcpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KyAgICAgICAgICAgICAgICAgICAgICAgICAgIDxidXR0b24gdHlwZT0iYnV0dG9uIiBjbGFzcz0iYnRuIGJ0bi1zdWNjZXNzIGpzLWhzLXVwbG9hZC1iZWZvcmUtY2hlY2stbW9kYWwtYnRuIiB2YWx1ZT0i5LiK6KiY44KS55m76Yyy44GZ44KLIj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJCh0aGlzKS5kYXRhKCdjbGllbnQnKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWx1ZT0i5LiK6KiY44KS55m76Yyy44GZ44KLIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJCh0aGlzKS5kYXRhKCdjbGllbnQnKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>見積り</last-search>
+      <last-search encoding="base64">XDxhc3NldHNcPg==</last-search>
       <last-offset />
-      <last-pattern>見積り</last-pattern>
+      <last-pattern encoding="base64">XDxhc3NldHNcPg==</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>update</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>newEntity</entry>
         <entry>panel panel-primary</entry>
         <entry>step_panel</entry>
         <entry>納品</entry>
@@ -264,6 +269,7 @@
         <entry>ajaxCancelGroup</entry>
         <entry>社内納品</entry>
         <entry>見積り</entry>
+        <entry encoding="base64">XDxhc3NldHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

@@ -28,8 +28,8 @@
       <file name="$USER_HOME$/workspace/sagooo_works/src/Routes/ClientRoutes.php" timestamp="1605085529911">
         <mark key="'" line="445" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" timestamp="1605491059238">
-        <mark key="'" line="3059" column="15" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" timestamp="1605491807750">
+        <mark key="'" line="3223" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Entity/DtbPublishRequestGroupConnection.php" timestamp="1605491004174">
         <mark key="[" line="16" column="6" />
@@ -121,11 +121,9 @@
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" timestamp="1605255788837">
         <mark key="'" line="428" column="61" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbDeliveryManagesTable.php" timestamp="1605491685560" />
     </filemarks>
     <jumps>
-      <jump line="1290" column="24" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
-      <jump line="1737" column="33" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
-      <jump line="1757" column="33" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
       <jump line="1773" column="55" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
       <jump line="1779" column="37" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
       <jump line="1857" column="37" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
@@ -223,6 +221,9 @@
       <jump line="2321" column="13" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" />
       <jump line="3059" column="15" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" />
       <jump line="15" column="42" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/SalesRegulationPublishRequestController.php" />
+      <jump line="3288" column="51" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" />
+      <jump line="2743" column="15" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" />
+      <jump line="3223" column="18" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -232,7 +233,7 @@
         <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>ajaxCancelGroup</text>
+        <text>社内納品</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICQoIi5qcy1ocy11cGxvYWQtYmVmb3JlLWNoZWNrLW1vZGFsLWJ0biIpLm9uKCJjbGljayIsIGZ1bmN0aW9uKCkgewo=</text>
@@ -269,9 +270,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ajaxCancelGroup</last-search>
+      <last-search>社内納品</last-search>
       <last-offset />
-      <last-pattern>ajaxCancelGroup</last-pattern>
+      <last-pattern>社内納品</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>update</last-substitute>
       <last-dir>1</last-dir>
@@ -279,7 +280,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Entry</entry>
         <entry>newenti</entry>
         <entry>newEntity</entry>
         <entry>panel panel-primary</entry>
@@ -299,6 +299,7 @@
         <entry>detail</entry>
         <entry>入稿依頼</entry>
         <entry>ajaxCancelGroup</entry>
+        <entry>社内納品</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

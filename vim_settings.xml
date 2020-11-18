@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/sagooo_navi/public/js/admin/works/detail.js" timestamp="1605574224922">
+      <file name="$USER_HOME$/workspace/sagooo_navi/public/js/admin/works/detail.js" timestamp="1605662976755">
         <mark key="[" line="390" column="7" />
         <mark key="]" line="391" column="3" />
         <mark key="^" line="391" column="3" />
@@ -15,11 +15,6 @@
         <mark key="]" line="29" column="12" />
         <mark key="." line="29" column="12" />
         <mark key="^" line="29" column="12" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/step_panel.blade.php" timestamp="1605243980697">
-        <mark key="[" line="203" column="0" />
-        <mark key="]" line="206" column="48" />
-        <mark key="." line="203" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/config/user_scores.php" timestamp="1604464588840">
         <mark key="'" line="219" column="28" />
@@ -37,11 +32,6 @@
       <file name="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" timestamp="1605491807750">
         <mark key="'" line="3223" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Entity/DtbPublishRequestGroupConnection.php" timestamp="1605491004174">
-        <mark key="[" line="16" column="6" />
-        <mark key="]" line="16" column="7" />
-        <mark key="." line="16" column="7" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" timestamp="1605086178209">
         <mark key="'" line="498" column="2" />
       </file>
@@ -55,7 +45,7 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/work_groups/create.blade.php" timestamp="1605599080723">
         <mark key="'" line="336" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/hs_upload_before_check_modal.blade.php" timestamp="1605574144660">
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/hs_upload_before_check_modal.blade.php" timestamp="1605662957612">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="42" column="6" />
         <mark key="." line="0" column="0" />
@@ -73,12 +63,12 @@
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/SalesDeliveryController.php" timestamp="1605072222332">
         <mark key="'" line="1690" column="64" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/interview.blade.php" timestamp="1605573877057">
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/interview.blade.php" timestamp="1605663107189">
         <mark key="'" line="212" column="0" />
-        <mark key="[" line="123" column="24" />
-        <mark key="]" line="123" column="19" />
-        <mark key="." line="123" column="19" />
-        <mark key="^" line="123" column="19" />
+        <mark key="[" line="115" column="52" />
+        <mark key="]" line="115" column="73" />
+        <mark key="." line="115" column="73" />
+        <mark key="^" line="115" column="73" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_admin_online_order.php" timestamp="1604479711411">
         <mark key="'" line="0" column="0" />
@@ -101,6 +91,11 @@
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbDeliveryManagesTable.php" timestamp="1605491685560" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Eloquents/DtbPhotographerScore.php" timestamp="1605235846309" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/layout/admin/works/detail.blade.php" timestamp="1605663083194">
+        <mark key="'" line="194" column="34" />
+        <mark key="[" line="221" column="0" />
+        <mark key="]" line="221" column="43" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_client_online_order.php" timestamp="1604479701609">
         <mark key="'" line="946" column="55" />
       </file>
@@ -139,11 +134,11 @@
         <mark key="'" line="1203" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/detail/willgate.blade.php" timestamp="1605241584895" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/alert_regulation_sheet_panel.blade.php" timestamp="1605573660120">
-        <mark key="[" line="100" column="27" />
-        <mark key="]" line="100" column="23" />
-        <mark key="^" line="100" column="23" />
-        <mark key="." line="100" column="23" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/alert_regulation_sheet_panel.blade.php" timestamp="1605663116934">
+        <mark key="[" line="94" column="48" />
+        <mark key="]" line="94" column="69" />
+        <mark key="^" line="94" column="69" />
+        <mark key="." line="94" column="69" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Client/ClientOnlineOrder/index.ctp" timestamp="1605172814741">
         <mark key="'" line="124" column="117" />
@@ -164,8 +159,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3306" column="37" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
-      <jump line="3347" column="33" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
       <jump line="3374" column="33" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
       <jump line="84" column="20" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
       <jump line="43" column="13" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
@@ -264,16 +257,18 @@
       <jump line="380" column="13" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
       <jump line="395" column="13" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
       <jump line="195" column="39" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
+      <jump line="17" column="12" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/layout/admin/works/detail.blade.php" />
+      <jump line="194" column="34" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/layout/admin/works/detail.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>showCreate</text>
+        <text>企業名</text>
       </register>
       <register name="0" type="4">
         <text>.HsUploadBeforeCheckModal {
@@ -316,9 +311,9 @@
       </register>
     </registers>
     <search>
-      <last-search>showCreate</last-search>
+      <last-search>企業名</last-search>
       <last-offset />
-      <last-pattern>showCreate</last-pattern>
+      <last-pattern>企業名</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>update</last-substitute>
       <last-dir>1</last-dir>
@@ -326,7 +321,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ジャンル</entry>
         <entry>submitClass</entry>
         <entry>$error</entry>
         <entry>クリエイター</entry>
@@ -346,6 +340,7 @@
         <entry>企画</entry>
         <entry>案件入稿</entry>
         <entry>showCreate</entry>
+        <entry>企業名</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

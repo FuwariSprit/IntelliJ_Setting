@@ -120,7 +120,12 @@
         <mark key="^" line="8" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/detail/willgate.blade.php" timestamp="1605241584895" />
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/SalesDeliveryComponent.php" timestamp="1606373382414" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/SalesDeliveryComponent.php" timestamp="1606374872995">
+        <mark key="[" line="219" column="0" />
+        <mark key="]" line="219" column="0" />
+        <mark key="^" line="210" column="15" />
+        <mark key="." line="219" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/webroot_src/js/pages/Admin/SalesDelivery/detail.js" timestamp="1606369845221" />
       <file name="$USER_HOME$/workspace/sagooo_navi/.env.testing" timestamp="1606278371603" />
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/alert_regulation_sheet_panel.blade.php" timestamp="1605663116934">
@@ -139,6 +144,7 @@
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_work_manage.php" timestamp="1605582010618" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" timestamp="1605595850933" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/ApprovalOperator/TextApprovalController.php" timestamp="1606374424875" />
       <file name="$USER_HOME$/workspace/sagooo_navi/app/Providers/AuthServiceProvider.php" timestamp="1606278486638" />
       <file name="$USER_HOME$/workspace/sagooo_works/design/admin.sagooo/sales/regulation_sheet/draft/include/draft_table_other.php" timestamp="1606368982127" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" timestamp="1605255788837">
@@ -250,10 +256,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDku4rlubQgPD0gJHllYXIg44Gu5aC05ZCICiAgICAgICAgICAgIC8vIDQwNOOCkui/lOOBmQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>納品管理情報の取得に失敗しました</text>
@@ -262,31 +268,31 @@
         <text>config('app.env') === 'production'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDku4rlubQgPD0gJHllYXIg44Gu5aC05ZCICiAgICAgICAgICAgIC8vIDQwNOOCkui/lOOBmQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZihDYXJib246Om5vdygpLT5ndGUoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICR0aGlzLT5sb2dXcml0ZSgndGVzdCcpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDku4rlubQgPD0gJHllYXIg44Gu5aC05ZCICiAgICAgICAgICAgIC8vIDQwNOOCkui/lOOBmQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICAgICAgICAgICAgICAgICAgICDoqJjkuovjga7jgZTnmbrms6jlj5fku5jjgoTjgZTntI3lk4HjgIHjgZ3jga7ku5bjgYrllY/jgYTlkIjjgo/jgZvlhajoiKzjgavjgaTjgY3jgb7jgZfjgabjga8yMDIw5bm0MeaciDTml6XjgojjgorpoIbmrKHlr77lv5zjgYTjgZ/jgZfjgb7jgZnjgII8YnI+Cj4+Pj4+Pj4gZGV2ZWxvcAo=</text>
+        <text encoding="base64">ICAgICAgICBpZihDYXJib246Om5vdygpLT5ndGUoKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">PT09PT09PQogICAgICAgICAgICAgICAgICAgICAgICDoqJjkuovjga7jgZTnmbrms6jlj5fku5jjgoTjgZTntI3lk4HjgIHjgZ3jga7ku5bjgYrllY/jgYTlkIjjgo/jgZvlhajoiKzjgavjgaTjgY3jgb7jgZfjgabjga8yMDIw5bm0MeaciDTml6XjgojjgorpoIbmrKHlr77lv5zjgYTjgZ/jgZfjgb7jgZnjgII8YnI+Cj4+Pj4+Pj4gZGV2ZWxvcAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIGlmIChtb2RhbC5maW5kKCIuanMtaHMtdXBsb2FkLWJlZm9yZS1jaGVjay1tb2RhbC1jaGVja2JveCIpLnByb3AoImNoZWNrZWQiKSkgewogICAgICAgICAgICAgICAgJCh0aGlzKS5jbG9zZXN0KCIuanMtaHMtdXBsb2FkIikuc3VibWl0KCk7CiAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy99Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIC8vaWYgKG1vZGFsLmZpbmQoIi5qcy1ocy11cGxvYWQtYmVmb3JlLWNoZWNrLW1vZGFsLWNoZWNrYm94IikucHJvcCgiY2hlY2tlZCIpKSB7CiAgICAgICAgICAgIC8vICAgICQodGhpcykuY2xvc2VzdCgiLmpzLWhzLXVwbG9hZCIpLnN1Ym1pdCgpOwogICAgICAgICAgICAvL30gZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIGlmIChtb2RhbC5maW5kKCIuanMtaHMtdXBsb2FkLWJlZm9yZS1jaGVjay1tb2RhbC1jaGVja2JveCIpLnByb3AoImNoZWNrZWQiKSkgewogICAgICAgICAgICAgICAgJCh0aGlzKS5jbG9zZXN0KCIuanMtaHMtdXBsb2FkIikuc3VibWl0KCk7CiAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -74,7 +74,8 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/現ライターは前任ライターのチャット内容が見えたくない .md" timestamp="1606882475692" />
       <file name="$USER_HOME$/workspace/sagooo_works/webroot_src/js/pages/Admin/AdminOnlineOrder/detail.js" timestamp="1606783875560" />
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/work_groups/detail.blade.php" timestamp="1605243596559" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/PaymentReport/YearlyPaymentReport.php" timestamp="1606962448296">
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/PaymentReport/YearlyPaymentReport.php" timestamp="1606970865497">
+        <mark key="'" line="129" column="44" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="^" line="59" column="31" />
@@ -111,19 +112,20 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/クリエイターは公開された支払調書しか見ることが出来ない.md" timestamp="1606962686462">
-        <mark key="'" line="118" column="0" />
-        <mark key="[" line="285" column="0" />
-        <mark key="]" line="287" column="9" />
-        <mark key="." line="312" column="24" />
-        <mark key="^" line="312" column="24" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/クリエイターは公開された支払調書しか見ることが出来ない.md" timestamp="1606970161229">
+        <mark key="'" line="142" column="0" />
+        <mark key="[" line="327" column="12" />
+        <mark key="]" line="327" column="12" />
+        <mark key="." line="327" column="12" />
+        <mark key="^" line="327" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/entrypoints/admin/work_groups/create.js" timestamp="1605599158394" />
       <file name="$USER_HOME$/workspace/sawa_renewal/works/app/models/dtb_point.php" timestamp="1606795826613" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Aggregators/PaymentReport/PaymentReportAggregator.php" timestamp="1606266435701" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/database/migrations/2020_12_03_115300_add_foreign_keys_to_dtb_yearly_payment_report_publish_statuses_table.php" timestamp="1606968622851">
-        <mark key="[" line="15" column="94" />
-        <mark key="]" line="15" column="97" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/database/migrations/2020_12_03_115300_add_foreign_keys_to_dtb_yearly_payment_report_publish_statuses_table.php" timestamp="1606970012564">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="30" column="1" />
         <mark key="." line="15" column="97" />
         <mark key="^" line="15" column="97" />
       </file>
@@ -160,12 +162,12 @@
         <mark key="." line="199" column="49" />
         <mark key="^" line="194" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Models/PaymentReport/YearlyPaymentReportTest.php" timestamp="1606958814728">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="301" column="65" />
-        <mark key="]" line="302" column="19" />
-        <mark key="." line="302" column="19" />
-        <mark key="^" line="302" column="19" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Models/PaymentReport/YearlyPaymentReportTest.php" timestamp="1606974602816">
+        <mark key="'" line="89" column="21" />
+        <mark key="[" line="54" column="93" />
+        <mark key="]" line="54" column="93" />
+        <mark key="." line="54" column="93" />
+        <mark key="^" line="289" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Eloquents/DtbPhotographerScore.php" timestamp="1605235846309" />
       <file name="$USER_HOME$/workspace/sagooo_works/tests/TestCase/Model/Table/DtbPointDetailsTableTest.php" timestamp="1606795528624" />
@@ -181,7 +183,7 @@
         <mark key="[" line="221" column="0" />
         <mark key="]" line="221" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/UserRepository.php" timestamp="1606968851657">
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/UserRepository.php" timestamp="1606972972893">
         <mark key="'" line="2527" column="0" />
         <mark key="[" line="2542" column="33" />
         <mark key="]" line="2542" column="33" />
@@ -193,6 +195,12 @@
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/env/develop/const_mail_env.php" timestamp="1606451820105" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Pages/Admin/AdminOnlineOrder/detail.ctp" timestamp="1606783852042" />
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/env/local.docker/const_mail_env.php" timestamp="1606451916921" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/tests/Unit/UI/ViewModels/RewardIndexViewModelTest.php" timestamp="1606974216447">
+        <mark key="[" line="149" column="86" />
+        <mark key="]" line="150" column="60" />
+        <mark key="^" line="150" column="60" />
+        <mark key="." line="150" column="60" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/detail/client.blade.php" timestamp="1605573936002">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="9" column="78" />
@@ -240,26 +248,6 @@
       <file name="$USER_HOME$/workspace/sawa_renewal/works/app/views/sales_project/irregular_delivery.ctp" timestamp="1606366897896" />
     </filemarks>
     <jumps>
-      <jump line="2344" column="13" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
-      <jump line="2369" column="103" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
-      <jump line="2429" column="58" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
-      <jump line="2430" column="92" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
-      <jump line="2438" column="13" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
-      <jump line="2470" column="103" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
-      <jump line="2475" column="66" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
-      <jump line="2544" column="53" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
-      <jump line="2578" column="83" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
-      <jump line="2635" column="73" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
-      <jump line="2668" column="26" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
-      <jump line="2702" column="34" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
-      <jump line="2733" column="34" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
-      <jump line="2786" column="30" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
-      <jump line="2789" column="30" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
-      <jump line="268" column="87" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
-      <jump line="275" column="30" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
-      <jump line="291" column="30" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
-      <jump line="304" column="48" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
-      <jump line="308" column="106" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
       <jump line="315" column="82" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
       <jump line="332" column="94" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
       <jump line="342" column="90" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
@@ -282,15 +270,12 @@
       <jump line="888" column="42" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/OfferRepository.php" />
       <jump line="884" column="14" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/OfferRepository.php" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/OfferRepository.php" />
-      <jump line="71" column="4" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Models/PaymentReport/YearlyPaymentReportTest.php" />
       <jump line="74" column="0" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Models/PaymentReport/YearlyPaymentReportTest.php" />
       <jump line="79" column="0" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Models/PaymentReport/YearlyPaymentReportTest.php" />
       <jump line="305" column="0" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Models/PaymentReport/YearlyPaymentReportTest.php" />
       <jump line="307" column="0" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Models/PaymentReport/YearlyPaymentReportTest.php" />
       <jump line="295" column="0" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Models/PaymentReport/YearlyPaymentReportTest.php" />
       <jump line="306" column="0" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Models/PaymentReport/YearlyPaymentReportTest.php" />
-      <jump line="308" column="0" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Models/PaymentReport/YearlyPaymentReportTest.php" />
-      <jump line="317" column="0" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Models/PaymentReport/YearlyPaymentReportTest.php" />
       <jump line="533" column="0" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Models/PaymentReport/YearlyPaymentReportTest.php" />
       <jump line="288" column="13" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Models/PaymentReport/YearlyPaymentReportTest.php" />
       <jump line="81" column="12" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Models/PaymentReport/YearlyPaymentReportTest.php" />
@@ -340,55 +325,78 @@
       <jump line="2471" column="24" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/UserRepository.php" />
       <jump line="145" column="17" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/UserRepository.php" />
       <jump line="2527" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/UserRepository.php" />
+      <jump line="5" column="6" filename="$USER_HOME$/workspace/sagooo_navi/database/migrations/2020_12_03_115300_add_foreign_keys_to_dtb_yearly_payment_report_publish_statuses_table.php" />
+      <jump line="18" column="0" filename="$USER_HOME$/workspace/sagooo_navi/database/migrations/2020_12_03_115300_add_foreign_keys_to_dtb_yearly_payment_report_publish_statuses_table.php" />
+      <jump line="30" column="0" filename="$USER_HOME$/workspace/sagooo_navi/database/migrations/2020_12_03_115300_add_foreign_keys_to_dtb_yearly_payment_report_publish_statuses_table.php" />
+      <jump line="129" column="44" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/PaymentReport/YearlyPaymentReport.php" />
+      <jump line="37" column="0" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Models/PaymentReport/YearlyPaymentReportTest.php" />
+      <jump line="47" column="0" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Models/PaymentReport/YearlyPaymentReportTest.php" />
+      <jump line="56" column="0" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Models/PaymentReport/YearlyPaymentReportTest.php" />
+      <jump line="66" column="0" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Models/PaymentReport/YearlyPaymentReportTest.php" />
+      <jump line="70" column="0" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Models/PaymentReport/YearlyPaymentReportTest.php" />
+      <jump line="71" column="0" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Models/PaymentReport/YearlyPaymentReportTest.php" />
+      <jump line="72" column="0" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Models/PaymentReport/YearlyPaymentReportTest.php" />
+      <jump line="80" column="0" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Models/PaymentReport/YearlyPaymentReportTest.php" />
+      <jump line="317" column="0" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Models/PaymentReport/YearlyPaymentReportTest.php" />
+      <jump line="321" column="0" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Models/PaymentReport/YearlyPaymentReportTest.php" />
+      <jump line="324" column="0" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Models/PaymentReport/YearlyPaymentReportTest.php" />
+      <jump line="100" column="21" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Models/PaymentReport/YearlyPaymentReportTest.php" />
+      <jump line="308" column="0" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Models/PaymentReport/YearlyPaymentReportTest.php" />
+      <jump line="297" column="0" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Models/PaymentReport/YearlyPaymentReportTest.php" />
+      <jump line="291" column="36" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Models/PaymentReport/YearlyPaymentReportTest.php" />
+      <jump line="536" column="25" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Models/PaymentReport/YearlyPaymentReportTest.php" />
+      <jump line="742" column="25" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Models/PaymentReport/YearlyPaymentReportTest.php" />
+      <jump line="64" column="62" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Models/PaymentReport/YearlyPaymentReportTest.php" />
+      <jump line="89" column="21" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Models/PaymentReport/YearlyPaymentReportTest.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>point</text>
+        <text>totalWithholding</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTY2hlbWE6OmNyZWF0ZSgnZHRiX3llYXJseV9wYXltZW50X3JlcG9ydF9wdWJsaXNoX3N0YXR1c2VzJywgZnVuY3Rpb24gKEJsdWVwcmludCAkdGFibGUpIHsKICAgICAgICAgICAgJHRhYmxlLT5pbmNyZW1lbnRzKCd5ZWFybHlfcGF5bWVudF9yZXBvcnRfcHVibGlzaF9zdGF0dXNfaWQnKS0+Y29tbWVudCgn5Li744Kt44O8Jyk7CiAgICAgICAgICAgICR0YWJsZS0+dW5zaWduZWRJbnRlZ2VyKCd1c2VyX2lkJyktPmluZGV4KCd1c2VyX2lkJyktPmNvbW1lbnQoJ+OCr+ODquOCqOOCpOOCv+ODvElEKGZrLmR0Yl91c2Vycy51c2VyX2lkKScpOwogICAgICAgICAgICAkdGFibGUtPnVuc2lnbmVkSW50ZWdlcigneWVhcicpLT5jb21tZW50KCfmlK/miZXoqr/mm7jjga7nmbrooYzlubQnKTsKICAgICAgICAgICAgJHRhYmxlLT51bnNpZ25lZFRpbnlJbnRlZ2VyKCdpc19wdWJsaXNoJyktPmRlZmF1bHQoMCktPmluZGV4KCdpc19wdWJsaXNoJyktPmNvbW1lbnQoJzA66Z2e5YWs6ZaLLCAxOuWFrOmWiycpOwogICAgICAgICAgICAkdGFibGUtPnRpbWVzdGFtcHMoKTsKCiAgICAgICAgICAgICR0YWJsZS0+Zm9yZWlnbigndXNlcl9pZCcsICd5ZWFybHlfcGF5bWVudF9yZXBvcnRfcHVibGlzaF9zdGF0dXNfdXNlcl9pZCcpLT5yZWZlcmVuY2VkKCd1c2VyX2lkJyktPm9uKCdkdGJfdXNlcnMnKS0+b25VcGRhdGUoJ0NBU0NBREUnKS0+b25EZWxldGUoJ0NBU0NBREUnKTsKICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyDmlK/miZXoqr/mm7jjgavjga8yMDE55bm0fuS7iuW5tC0x5bm044Gu5pyf6ZaT44Gu54mp44GX44GL55m66KGM44Gn44GN44Gq44GE5Yi26ZmQ44GM44GC44KL44Gu44Gn44CB5LuK5bm044GM44GE44Gk44Gq44Gu44GL6Kit5a6a44GZ44KLCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGQoJHB1Ymxpc2hTdGF0dXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ3RvdGFsUGF5bWVudCcgPT4gMTMyMCwKICAgICAgICAgICAgICAgICAgICAgICAgJ3RvdGFsV2l0aGhvbGRpbmcnID0+IDEyMCwKICAgICAgICAgICAgICAgICAgICAgICAgJ2lzUHVibGlzaCcgPT4gdHJ1ZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTY2hlbWE6OnRhYmxlKCdkdGJfeWVhcmx5X3BheW1lbnRfcmVwb3J0X3B1Ymxpc2hfc3RhdHVzZXMnLCBmdW5jdGlvbihCbHVlcHJpbnQgJHRhYmxlKSB7CiAgICAgICAgICAgICR0YWJsZS0+ZHJvcEZvcmVpZ24oJ3llYXJseV9wYXltZW50X3JlcG9ydF9wdWJsaXNoX3N0YXR1c191c2VyX2lkJyk7CiAgICAgICAgfSk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyDmlK/miZXoqr/mm7jjga7nlJ/miJDjgavjga/ml6XjgavjgaHjga7liLbpmZDjgYzjgYLjgovjga7jgafjgIHnj77lnKjjga7ml6XjgavjgaHjgpLoqK3lrprjgZnjgosK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgU2NoZW1hOjp0YWJsZSgnZHRiX3llYXJseV9wYXltZW50X3JlcG9ydF9wdWJsaXNoX3N0YXR1c2VzJywgZnVuY3Rpb24gKEJsdWVwcmludCAkdGFibGUpIHsKICAgICAgICAgICAgJHRhYmxlLT5mb3JlaWduKCd1c2VyX2lkJywgJ3llYXJseV9wYXltZW50X3JlcG9ydF9wdWJsaXNoX3N0YXR1c191c2VyX2lkJyktPnJlZmVyZW5jZWQoJ3VzZXJfaWQnKS0+b24oJ2R0Yl91c2VycycpLT5vblVwZGF0ZSgnQ0FTQ0FERScpLT5vbkRlbGV0ZSgnQ0FTQ0FERScpOwogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyDmlK/miZXoqr/mm7jjga7nlJ/miJDjgavjga/ml6XjgavjgaHjga7liLbpmZDjgYzjgYLjgovjga7jgafjgIHnj77lnKjjga7ml6XjgavjgaHjgpLoqK3lrprjgZnjgosK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgU2NoZW1hOjpkcm9wSWZFeGlzdHMoJ2R0Yl95ZWFybHlfcGF5bWVudF9yZXBvcnRfcHVibGlzaF9zdGF0dXNlcycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyDmlK/miZXoqr/mm7jjga7nlJ/miJDjgavjga/ml6XjgavjgaHjga7liLbpmZDjgYzjgYLjgovjga7jgafjgIHnj77lnKjjga7ml6XjgavjgaHjgpLoqK3lrprjgZnjgosK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTY2hlbWE6OmNyZWF0ZSgnZHRiX3llYXJseV9wYXltZW50X3JlcG9ydF9wdWJsaXNoX3N0YXR1c2VzJywgZnVuY3Rpb24gKEJsdWVwcmludCAkdGFibGUpIHsKICAgICAgICAgICAgJHRhYmxlLT5pbmNyZW1lbnRzKCd5ZWFybHlfcGF5bWVudF9yZXBvcnRfcHVibGlzaF9zdGF0dXNfaWQnKS0+Y29tbWVudCgn5Li744Kt44O8Jyk7CiAgICAgICAgICAgICR0YWJsZS0+dW5zaWduZWRJbnRlZ2VyKCd1c2VyX2lkJyktPmluZGV4KCd1c2VyX2lkJyktPmNvbW1lbnQoJ+OCr+ODquOCqOOCpOOCv+ODvElEKGZrLmR0Yl91c2Vycy51c2VyX2lkKScpOwogICAgICAgICAgICAkdGFibGUtPnVuc2lnbmVkSW50ZWdlcigneWVhcicpLT5jb21tZW50KCfmlK/miZXoqr/mm7jjga7nmbrooYzlubQnKTsKICAgICAgICAgICAgJHRhYmxlLT51bnNpZ25lZFRpbnlJbnRlZ2VyKCdpc19wdWJsaXNoJyktPmRlZmF1bHQoMCktPmluZGV4KCdpc19wdWJsaXNoJyktPmNvbW1lbnQoJzA66Z2e5YWs6ZaLLCAxOuWFrOmWiycpOwogICAgICAgICAgICAkdGFibGUtPnRpbWVzdGFtcHMoKTsKICAgICAgICB9KTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDmlK/miZXoqr/mm7jjga7nlJ/miJDjgavjga/ml6XjgavjgaHjga7liLbpmZDjgYzjgYLjgovjga7jgafjgIHnj77lnKjjga7ml6XjgavjgaHjgpLoqK3lrprjgZnjgosK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICR0YWJsZS0+Zm9yZWlnbigndXNlcl9pZCcsICd5ZWFybHlfcGF5bWVudF9yZXBvcnRfcHVibGlzaF9zdGF0dXNfdXNlcl9pZCcpLT5yZWZlcmVuY2VkKCd1c2VyX2lkJyktPm9uKCdkdGJfdXNlcnMnKS0+b25VcGRhdGUoJ0NBU0NBREUnKS0+b25EZWxldGUoJ0NBU0NBREUnKTsK</text>
+        <text encoding="base64">ICAgICAgICBDYXJib246OnNldFRpbWVOb3coQ2FyYm9uOjpwYXJzZSgnMjAyMC0xMS0wMScpKTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">bmV3IENvbGxlY3Rpb24oWwogICAgICAgICAgICAgICAgICAgICduYW1lJyA9PiAn44OG44K544OIIOWkqumDjicsCiAgICAgICAgICAgICAgICAgICAgJ2FkZHJlc3MnID0+ICfmnbHkuqzpg73okZvpo77ljLrkuoDnhKExLTEg5LqA54Sh5YWs5ZyS5YmN5rS+5Ye65omAJywKICAgICAgICAgICAgICAgICAgICAneWVhcicgPT4gJ+S7pOWSjOWFg+W5tCcsCiAgICAgICAgICAgICAgICAgICAgJ3RvdGFsUGF5bWVudCcgPT4gMTMyMCwKICAgICAgICAgICAgICAgICAgICAndG90YWxXaXRoaG9sZGluZycgPT4gMTIwCiAgICAgICAgICAgICAgICBdKQ==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5pbmNyZW1lbnRzKCd5ZWFybHlfcGF5bWVudF9yZXBvcnRfcHVibGlzaF9zdGF0dXNfaWQnKS0+Y29tbWVudCgn5Li744Kt44O8Jyk7CiAgICAgICAgICAgICR0YWJsZS0+dW5zaWduZWRJbnRlZ2VyKCd1c2VyX2lkJyktPmluZGV4KCd1c2VyX2lkJyktPmNvbW1lbnQoJ+OCr+ODquOCqOOCpOOCv+ODvElEKGZrLmR0Yl91c2Vycy51c2VyX2lkKScpOwogICAgICAgICAgICAkdGFibGUtPnVuc2lnbmVkSW50ZWdlcigneWVhcicpLT5jb21tZW50KCfmlK/miZXoqr/mm7jjga7nmbrooYzlubQnKTsKICAgICAgICAgICAgJHRhYmxlLT51bnNpZ25lZFRpbnlJbnRlZ2VyKCdpc19wdWJsaXNoJyktPmRlZmF1bHQoMCktPmluZGV4KCdpc19wdWJsaXNoJyktPmNvbW1lbnQoJzA66Z2e5YWs6ZaLLCAxOuWFrOmWiycpOwogICAgICAgICAgICAkdGFibGUtPnRpbWVzdGFtcHMoKTsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">bmV3IENvbGxlY3Rpb24oWwogICAgICAgICAgICAgICAgICAgICduYW1lJyA9PiAn44OG44K544OIIOWkqumDjicsCiAgICAgICAgICAgICAgICAgICAgJ2FkZHJlc3MnID0+ICfmnbHkuqzpg73okZvpo77ljLrkuoDnhKExLTEg5LqA54Sh5YWs5ZyS5YmN5rS+5Ye65omAJywKICAgICAgICAgICAgICAgICAgICAneWVhcicgPT4gJ+S7pOWSjOWFg+W5tCcsCiAgICAgICAgICAgICAgICAgICAgJ3RvdGFsUGF5bWVudCcgPT4gMTMyMCwKICAgICAgICAgICAgICAgICAgICAndG90YWxXaXRoaG9sZGluZycgPT4gMTIwCiAgICAgICAgICAgICAgICBdKQ==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">dXNlIFNhZ29vb05hdmlcRG9tYWluXEV4Y2VwdGlvbnNcSW52YWxpZEFyZ3VtZW50RXhjZXB0aW9uOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">bmV3IENvbGxlY3Rpb24oWwogICAgICAgICAgICAnbmFtZScgPT4gJHllYXJseVBheW1lbnRSZXBvcnRFbnRpdHktPnVzZXIoKS0+ZGlzcGxheU5hbWUoKS0+ZnJvbnREaXNwbGF5TmFtZSgpLAogICAgICAgICAgICAnYWRkcmVzcycgPT4gJHllYXJseVBheW1lbnRSZXBvcnRFbnRpdHktPnVzZXIoKS0+YWRkcmVzcygpLT5fX3RvU3RyaW5nKCksCiAgICAgICAgICAgICd5ZWFyJyA9PiAkeWVhcmx5UGF5bWVudFJlcG9ydEVudGl0eS0+eWVhcigpLT5yZWl3YU9ubHlKYXBhbmVzZVN0eWxlKCksCiAgICAgICAgICAgICd0b3RhbFBheW1lbnQnID0+ICR5ZWFybHlQYXltZW50UmVwb3J0RW50aXR5LT50b3RhbFBheW1lbnQoKSw=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>point</last-search>
+      <last-search>totalWithholding</last-search>
       <last-offset />
-      <last-pattern>point</last-pattern>
+      <last-pattern>totalWithholding</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>update</last-substitute>
       <last-dir>1</last-dir>
@@ -396,7 +404,6 @@
     </search>
     <history>
       <history-search>
-        <entry>find</entry>
         <entry>findDate</entry>
         <entry>getDefaultStepDeliveryScheduledAt</entry>
         <entry>備考</entry>
@@ -416,6 +423,7 @@
         <entry>Carbon</entry>
         <entry>admin</entry>
         <entry>point</entry>
+        <entry>totalWithholding</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

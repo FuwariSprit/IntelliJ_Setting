@@ -188,7 +188,8 @@
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/env/develop/const_mail_env.php" timestamp="1606451820105" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Pages/Admin/AdminOnlineOrder/detail.ctp" timestamp="1606783852042" />
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/env/local.docker/const_mail_env.php" timestamp="1606451916921" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/tests/Unit/UI/ViewModels/RewardIndexViewModelTest.php" timestamp="1606976240433">
+      <file name="$USER_HOME$/workspace/sagooo_navi/tests/Unit/UI/ViewModels/RewardIndexViewModelTest.php" timestamp="1606976524020">
+        <mark key="'" line="141" column="21" />
         <mark key="[" line="162" column="28" />
         <mark key="]" line="162" column="28" />
         <mark key="^" line="161" column="24" />
@@ -241,7 +242,6 @@
       <file name="$USER_HOME$/workspace/sawa_renewal/works/app/views/sales_project/irregular_delivery.ctp" timestamp="1606366897896" />
     </filemarks>
     <jumps>
-      <jump line="428" column="61" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
       <jump line="1360" column="21" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
       <jump line="3774" column="15" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
       <jump line="904" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/OfferRepository.php" />
@@ -341,6 +341,7 @@
       <jump line="923" column="21" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Models/PaymentReport/YearlyPaymentReportTest.php" />
       <jump line="765" column="20" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Models/PaymentReport/YearlyPaymentReportTest.php" />
       <jump line="356" column="44" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Models/PaymentReport/YearlyPaymentReportTest.php" />
+      <jump line="141" column="21" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/UI/ViewModels/RewardIndexViewModelTest.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -350,7 +351,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>totalWithholding</text>
+        <text>2019年のデータと2020年のデータがあるときに、2020年を選択し0円じゃないのでtrueが返ってくること</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBDYXJib246OnNldFRlc3ROb3coQ2FyYm9uOjpwYXJzZSgnMjAxOS0xMi0wMScpKTsK</text>
@@ -387,9 +388,9 @@
       </register>
     </registers>
     <search>
-      <last-search>totalWithholding</last-search>
+      <last-search>2019年のデータと2020年のデータがあるときに、2020年を選択し0円じゃないのでtrueが返ってくること</last-search>
       <last-offset />
-      <last-pattern>totalWithholding</last-pattern>
+      <last-pattern>2019年のデータと2020年のデータがあるときに、2020年を選択し0円じゃないのでtrueが返ってくること</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>update</last-substitute>
       <last-dir>1</last-dir>
@@ -397,7 +398,6 @@
     </search>
     <history>
       <history-search>
-        <entry>findDate</entry>
         <entry>getDefaultStepDeliveryScheduledAt</entry>
         <entry>備考</entry>
         <entry>企画</entry>
@@ -417,6 +417,7 @@
         <entry>admin</entry>
         <entry>point</entry>
         <entry>totalWithholding</entry>
+        <entry>2019年のデータと2020年のデータがあるときに、2020年を選択し0円じゃないのでtrueが返ってくること</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

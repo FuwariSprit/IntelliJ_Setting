@@ -176,7 +176,7 @@
         <mark key="[" line="221" column="0" />
         <mark key="]" line="221" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/UserRepository.php" timestamp="1606972972893">
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/UserRepository.php" timestamp="1606977952670">
         <mark key="'" line="2527" column="0" />
         <mark key="[" line="2542" column="33" />
         <mark key="]" line="2542" column="33" />
@@ -188,12 +188,12 @@
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/env/develop/const_mail_env.php" timestamp="1606451820105" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Pages/Admin/AdminOnlineOrder/detail.ctp" timestamp="1606783852042" />
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/env/local.docker/const_mail_env.php" timestamp="1606451916921" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/tests/Unit/UI/ViewModels/RewardIndexViewModelTest.php" timestamp="1606976524020">
-        <mark key="'" line="141" column="21" />
-        <mark key="[" line="162" column="28" />
-        <mark key="]" line="162" column="28" />
-        <mark key="^" line="161" column="24" />
-        <mark key="." line="162" column="28" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/tests/Unit/UI/ViewModels/RewardIndexViewModelTest.php" timestamp="1606978015556">
+        <mark key="'" line="220" column="29" />
+        <mark key="[" line="222" column="88" />
+        <mark key="]" line="222" column="91" />
+        <mark key="^" line="222" column="91" />
+        <mark key="." line="222" column="91" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/detail/client.blade.php" timestamp="1605573936002">
         <mark key="[" line="10" column="0" />
@@ -212,11 +212,11 @@
         <mark key="^" line="8" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/OfferController.php" timestamp="1606710220783" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/UI/ViewModels/RewardIndexViewModel.php" timestamp="1606962621670">
-        <mark key="[" line="154" column="12" />
-        <mark key="]" line="154" column="12" />
-        <mark key="." line="154" column="12" />
-        <mark key="^" line="154" column="12" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/UI/ViewModels/RewardIndexViewModel.php" timestamp="1606978429239">
+        <mark key="[" line="154" column="0" />
+        <mark key="]" line="156" column="9" />
+        <mark key="." line="154" column="8" />
+        <mark key="^" line="154" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/database/migrations/2020_08_13_180000_add_foreign_keys_to_dtb_chain_offer_target_users_table.php" timestamp="1606901047265">
         <mark key="[" line="36" column="11" />
@@ -242,9 +242,6 @@
       <file name="$USER_HOME$/workspace/sawa_renewal/works/app/views/sales_project/irregular_delivery.ctp" timestamp="1606366897896" />
     </filemarks>
     <jumps>
-      <jump line="1360" column="21" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
-      <jump line="3774" column="15" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
-      <jump line="904" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/OfferRepository.php" />
       <jump line="906" column="32" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/OfferRepository.php" />
       <jump line="905" column="32" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/OfferRepository.php" />
       <jump line="900" column="37" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/OfferRepository.php" />
@@ -342,19 +339,22 @@
       <jump line="765" column="20" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Models/PaymentReport/YearlyPaymentReportTest.php" />
       <jump line="356" column="44" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Models/PaymentReport/YearlyPaymentReportTest.php" />
       <jump line="141" column="21" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/UI/ViewModels/RewardIndexViewModelTest.php" />
+      <jump line="221" column="29" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/UI/ViewModels/RewardIndexViewModelTest.php" />
+      <jump line="213" column="38" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/UI/ViewModels/RewardIndexViewModelTest.php" />
+      <jump line="220" column="29" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/UI/ViewModels/RewardIndexViewModelTest.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoISR0aGlzLT55ZWFybHlQYXltZW50UmVwb3J0c1skeWVhcl0tPmlzUHVibGlzaCgpKSB7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>2019年のデータと2020年のデータがあるときに、2020年を選択し0円じゃないのでtrueが返ってくること</text>
+        <text>shouldReceive</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBDYXJib246OnNldFRlc3ROb3coQ2FyYm9uOjpwYXJzZSgnMjAxOS0xMi0wMScpKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoISR0aGlzLT55ZWFybHlQYXltZW50UmVwb3J0c1skeWVhcl0tPmlzUHVibGlzaCgpKSB7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">bmV3IENvbGxlY3Rpb24oWwogICAgICAgICAgICAgICAgICAgICAgICAncmVwb3J0cycgPT4gIG5ldyBDb2xsZWN0aW9uKFsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBNb250aGx5UGF5bWVudFNoZWV0KAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDEyLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBVc2VySWQoMSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMjAxOCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAxMiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAxMDAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMTAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMTAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMTIwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBGaWxlKG5ldyBGaWxlTmFtZSgnJyksIG5ldyBGaWxlUGF0aCgnJykpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRydWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmV3IENyZWF0ZWRBdChuZXcgQ2FyYm9uKCcyMDIwLTAyLTI5IDAwOjAwOjAwJykpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbmV3IE1vbnRobHlQYXltZW50U2hlZXQoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuZXcgVXNlcklkKDEpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDIwMTksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAxMDAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMTAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMTAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMTIwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBGaWxlKG5ldyBGaWxlTmFtZSgnJyksIG5ldyBGaWxlUGF0aCgnJykpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRydWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmV3IENyZWF0ZWRBdChuZXcgQ2FyYm9uKCcyMDIwLTAxLTMxIDAwOjAwOjAwJykpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbmV3IE1vbnRobHlQYXltZW50U2hlZXQoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuZXcgVXNlcklkKDEpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDIwMTksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAxMDAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMTAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMTAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMTIwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBGaWxlKG5ldyBGaWxlTmFtZSgnJyksIG5ldyBGaWxlUGF0aCgnJykpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRydWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmV3IENyZWF0ZWRBdChuZXcgQ2FyYm9uKCcyMDIwLTAyLTI5IDAwOjAwOjAwJykpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbmV3IE1vbnRobHlQYXltZW50U2hlZXQoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuZXcgVXNlcklkKDEpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDIwMTksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAxMDAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMTAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMTAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMTIwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBGaWxlKG5ldyBGaWxlTmFtZSgnJyksIG5ldyBGaWxlUGF0aCgnJykpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRydWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmV3IENyZWF0ZWRBdChuZXcgQ2FyYm9uKCcyMDIwLTAyLTI5IDAwOjAwOjAwJykpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbmV3IE1vbnRobHlQYXltZW50U2hlZXQoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgNCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuZXcgVXNlcklkKDEpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDIwMTksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgNCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAxMDAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMTAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMTAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMTIwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBGaWxlKG5ldyBGaWxlTmFtZSgnJyksIG5ldyBGaWxlUGF0aCgnJykpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRydWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmV3IENyZWF0ZWRBdChuZXcgQ2FyYm9uKCcyMDIwLTAyLTI5IDAwOjAwOjAwJykpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbmV3IE1vbnRobHlQYXltZW50U2hlZXQoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgNSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuZXcgVXNlcklkKDEpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDIwMTksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgNSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAxMDAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMTAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMTAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMTIwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBGaWxlKG5ldyBGaWxlTmFtZSgnJyksIG5ldyBGaWxlUGF0aCgnJykpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRydWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmV3IENyZWF0ZWRBdChuZXcgQ2FyYm9uKCcyMDIwLTAyLTI5IDAwOjAwOjAwJykpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbmV3IE1vbnRobHlQYXltZW50U2hlZXQoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgNiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuZXcgVXNlcklkKDEpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDIwMTksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgNiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAxMDAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMTAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMTAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMTIwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBGaWxlKG5ldyBGaWxlTmFtZSgnJyksIG5ldyBGaWxlUGF0aCgnJykpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRydWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmV3IENyZWF0ZWRBdChuZXcgQ2FyYm9uKCcyMDIwLTAyLTI5IDAwOjAwOjAwJykpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbmV3IE1vbnRobHlQYXltZW50U2hlZXQoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgNywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuZXcgVXNlcklkKDEpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDIwMTksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgNywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAxMDAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMTAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMTAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMTIwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBGaWxlKG5ldyBGaWxlTmFtZSgnJyksIG5ldyBGaWxlUGF0aCgnJykpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRydWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmV3IENyZWF0ZWRBdChuZXcgQ2FyYm9uKCcyMDIwLTAyLTI5IDAwOjAwOjAwJykpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbmV3IE1vbnRobHlQYXltZW50U2hlZXQoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuZXcgVXNlcklkKDEpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDIwMTksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAxMDAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMTAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMTAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMTIwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBGaWxlKG5ldyBGaWxlTmFtZSgnJyksIG5ldyBGaWxlUGF0aCgnJykpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRydWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmV3IENyZWF0ZWRBdChuZXcgQ2FyYm9uKCcyMDIwLTAyLTI5IDAwOjAwOjAwJykpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbmV3IE1vbnRobHlQYXltZW50U2hlZXQoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuZXcgVXNlcklkKDEpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDIwMTksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAxMDAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMTAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMTAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMTIwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBGaWxlKG5ldyBGaWxlTmFtZSgnJyksIG5ldyBGaWxlUGF0aCgnJykpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRydWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmV3IENyZWF0ZWRBdChuZXcgQ2FyYm9uKCcyMDIwLTAyLTI5IDAwOjAwOjAwJykpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbmV3IE1vbnRobHlQYXltZW50U2hlZXQoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMTAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmV3IFVzZXJJZCgxKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAyMDE5LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDEwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDEwMCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAxMCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAxMCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAxMjAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmV3IEZpbGUobmV3IEZpbGVOYW1lKCcnKSwgbmV3IEZpbGVQYXRoKCcnKSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuZXcgQ3JlYXRlZEF0KG5ldyBDYXJib24oJzIwMjAtMDItMjkgMDA6MDA6MDAnKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBuZXcgTW9udGhseVBheW1lbnRTaGVldCgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAxMSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuZXcgVXNlcklkKDEpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDIwMTksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMTEsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMTAwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDEwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDEwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDEyMCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuZXcgRmlsZShuZXcgRmlsZU5hbWUoJycpLCBuZXcgRmlsZVBhdGgoJycpKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0cnVlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBDcmVhdGVkQXQobmV3IENhcmJvbignMjAyMC0wMi0yOSAwMDowMDowMCcpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICAgICAgICAgICAgXSksCiAgICAgICAgICAgICAgICAgICAgXSk=</text>
@@ -388,9 +388,9 @@
       </register>
     </registers>
     <search>
-      <last-search>2019年のデータと2020年のデータがあるときに、2020年を選択し0円じゃないのでtrueが返ってくること</last-search>
+      <last-search>shouldReceive</last-search>
       <last-offset />
-      <last-pattern>2019年のデータと2020年のデータがあるときに、2020年を選択し0円じゃないのでtrueが返ってくること</last-pattern>
+      <last-pattern>shouldReceive</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>update</last-substitute>
       <last-dir>1</last-dir>
@@ -398,7 +398,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getDefaultStepDeliveryScheduledAt</entry>
         <entry>備考</entry>
         <entry>企画</entry>
         <entry>案件入稿</entry>
@@ -418,6 +417,7 @@
         <entry>point</entry>
         <entry>totalWithholding</entry>
         <entry>2019年のデータと2020年のデータがあるときに、2020年を選択し0円じゃないのでtrueが返ってくること</entry>
+        <entry>shouldReceive</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

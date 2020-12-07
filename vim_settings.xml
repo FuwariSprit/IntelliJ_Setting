@@ -38,6 +38,7 @@
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbPointsTable.php" timestamp="1606805533782" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Year.php" timestamp="1606268702106" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/WGはクリエイターに正しい集計期間の支払調書を渡したい.md" timestamp="1607303985554" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Eloquents/DtbYearlyPaymentReportPublishStatus.php" timestamp="1606963457279">
         <mark key="'" line="57" column="0" />
         <mark key="[" line="54" column="4" />
@@ -148,8 +149,11 @@
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/entrypoints/admin/work_groups/create.js" timestamp="1605599158394" />
       <file name="$USER_HOME$/workspace/sawa_renewal/works/app/models/dtb_point.php" timestamp="1606795826613" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Aggregators/PaymentReport/PaymentReportAggregator.php" timestamp="1607068728392">
-        <mark key="]" line="61" column="11" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Aggregators/PaymentReport/PaymentReportAggregator.php" timestamp="1607305071354">
+        <mark key="[" line="49" column="45" />
+        <mark key="]" line="49" column="45" />
+        <mark key="^" line="49" column="45" />
+        <mark key="." line="49" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/database/migrations/2020_12_03_115300_add_foreign_keys_to_dtb_yearly_payment_report_publish_statuses_table.php" timestamp="1606970012564">
         <mark key="'" line="30" column="0" />
@@ -159,13 +163,13 @@
         <mark key="^" line="15" column="97" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/webroot/old/js/sales_project.js" timestamp="1606364812848" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Aggregator/PaymentReportAggregatorTest.php" timestamp="1607303674131">
+      <file name="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Aggregator/PaymentReportAggregatorTest.php" timestamp="1607304652722">
         <mark key="a" line="153" column="30" />
-        <mark key="'" line="82" column="0" />
-        <mark key="[" line="223" column="29" />
-        <mark key="]" line="223" column="29" />
-        <mark key="." line="223" column="29" />
-        <mark key="^" line="223" column="29" />
+        <mark key="'" line="196" column="0" />
+        <mark key="[" line="184" column="69" />
+        <mark key="]" line="184" column="69" />
+        <mark key="." line="184" column="69" />
+        <mark key="^" line="190" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Front/Writing/text.ctp" timestamp="1606983567770" />
       <file name="$USER_HOME$/workspace/sagooo_navi/docker/docker-compose.yml" timestamp="1607144129730">
@@ -325,8 +329,6 @@
       <file name="$USER_HOME$/workspace/sawa_renewal/works/app/views/sales_project/irregular_delivery.ctp" timestamp="1606366897896" />
     </filemarks>
     <jumps>
-      <jump line="54" column="0" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/クリエイターは公開された支払調書しか見ることが出来ない.md" />
-      <jump line="82" column="0" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/クリエイターは公開された支払調書しか見ることが出来ない.md" />
       <jump line="84" column="0" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/クリエイターは公開された支払調書しか見ることが出来ない.md" />
       <jump line="98" column="0" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/クリエイターは公開された支払調書しか見ることが出来ない.md" />
       <jump line="17" column="0" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/クリエイターは公開された支払調書しか見ることが出来ない.md" />
@@ -425,19 +427,21 @@
       <jump line="317" column="0" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Aggregator/PaymentReportAggregatorTest.php" />
       <jump line="91" column="0" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Aggregator/PaymentReportAggregatorTest.php" />
       <jump line="82" column="0" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Aggregator/PaymentReportAggregatorTest.php" />
+      <jump line="184" column="78" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Aggregator/PaymentReportAggregatorTest.php" />
+      <jump line="196" column="0" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Aggregator/PaymentReportAggregatorTest.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcChuZXcgQ29sbGVjdGlvbigkcGF5bWVudHNTaGVldHMpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>andRe</text>
       </register>
-      <register name="0" type="4">
-        <text>new Collection($paymentsSheets)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJzIwMjDlubTjga/jgIEyMDIw5bm0MeaciH4yMDIw5bm0MTLmnIjjga7mlK/miZXpgJrnn6Xmm7jkvb/jgaPjgabmlK/miZXoqr/mm7jjgavlv4XopoHjgarjg4fjg7zjgr/jgpLpm4boqIjjgZfjgabjgYTjgovjgZPjgagnID0+IFsKICAgICAgICAgICAgICAgICdleHBlY3RlZCcgPT4gbmV3IENvbGxlY3Rpb24oWwogICAgICAgICAgICAgICAgICAgICdyZXBvcnRzJyA9PiAkdGhpcy0+bWFrZVRvdGFsUGF5bWVudFNoZWV0cygnMjAyMC0wMScsICcyMDIwLTEyJyksCiAgICAgICAgICAgICAgICAgICAgJ3RvdGFsUGF5bWVudCcgPT4gMTMyMCwKICAgICAgICAgICAgICAgICAgICAndG90YWxXaXRoaG9sZGluZycgPT4gMTIwCiAgICAgICAgICAgICAgICBdKSwKICAgICAgICAgICAgICAgICdkYXRhJyA9PiBbCiAgICAgICAgICAgICAgICAgICAgJ3VzZXInID0+ICcnLAogICAgICAgICAgICAgICAgICAgICd5ZWFyJyA9PiAnJywKICAgICAgICAgICAgICAgICAgICAnbW9ja1RvdGFsUGF5bWVudFNoZWV0cycgPT4gJHRoaXMtPm1ha2VUb3RhbFBheW1lbnRTaGVldHMoJzIwMTktMTInLCAnMjAyMC0xMicpCiAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgIF0sCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB2YXJfZHVtcChuZXcgQ29sbGVjdGlvbigkcGF5bWVudHNTaGVldHMpKTsK</text>

@@ -15,8 +15,8 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/work_groups/create/InterviewFormItem.vue" timestamp="1605600881225" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/PaymentReport/GetYearlyPaymentReport.php" timestamp="1606267484489" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Common/Log.php" timestamp="1606377394436" />
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" timestamp="1605491807750">
-        <mark key="'" line="3223" column="18" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" timestamp="1607591044733">
+        <mark key="'" line="1873" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Work/WorkRepository.php" timestamp="1607574712045" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" timestamp="1606458330694">
@@ -189,8 +189,8 @@
         <mark key="'" line="21" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/[2019]アシカ4Q-7/クリエイターは支払調書へ遷移できる.md" timestamp="1606267788504" />
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/SalesDeliveryController.php" timestamp="1606378313579">
-        <mark key="'" line="1059" column="39" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/SalesDeliveryController.php" timestamp="1607590982476">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Shell/PointLostBeforeMailShell.php" timestamp="1606805466636" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/PaymentReportController.php" timestamp="1607328329810">
@@ -244,7 +244,7 @@
         <mark key="'" line="15" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/env/local.docker/const_mail_env.php" timestamp="1606451916921" />
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Email/text/Shell/online_first_notification.ctp" timestamp="1607565876761" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Email/text/Shell/online_first_notification.ctp" timestamp="1607590939338" />
       <file name="$USER_HOME$/workspace/sagooo_navi/tests/Unit/UI/ViewModels/RewardIndexViewModelTest.php" timestamp="1607302675405">
         <mark key="'" line="237" column="0" />
         <mark key="[" line="226" column="0" />
@@ -318,12 +318,6 @@
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbClientFavorsTable.php" timestamp="1607499498224" />
     </filemarks>
     <jumps>
-      <jump line="97" column="0" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/クリエイターは公開された支払調書しか見ることが出来ない.md" />
-      <jump line="107" column="0" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/クリエイターは公開された支払調書しか見ることが出来ない.md" />
-      <jump line="118" column="0" filename="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/クリエイターは公開された支払調書しか見ることが出来ない.md" />
-      <jump line="14" column="2" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Eloquents/DtbYearlyPaymentReportPublishStatus.php" />
-      <jump line="18" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Eloquents/DtbYearlyPaymentReportPublishStatus.php" />
-      <jump line="29" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Eloquents/DtbYearlyPaymentReportPublishStatus.php" />
       <jump line="39" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Eloquents/DtbYearlyPaymentReportPublishStatus.php" />
       <jump line="50" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Eloquents/DtbYearlyPaymentReportPublishStatus.php" />
       <jump line="58" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Eloquents/DtbYearlyPaymentReportPublishStatus.php" />
@@ -418,6 +412,12 @@
       <jump line="385" column="14" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/UserController.php" />
       <jump line="394" column="56" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/UserController.php" />
       <jump line="417" column="56" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/UserController.php" />
+      <jump line="1374" column="12" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/SalesDeliveryController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/SalesDeliveryController.php" />
+      <jump line="11" column="6" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" />
+      <jump line="1248" column="23" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" />
+      <jump line="1546" column="23" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" />
+      <jump line="1873" column="30" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -427,7 +427,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>detail</text>
+        <text>delivery</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8g44OG44K544OI55Kw5aKDIOOBi+OBpCAyMDIw5bm044Gu5pSv5omV6Kq/5pu444KS56K66KqN44GZ44KL5aC05ZCI44Gu44G/44CB54++5Zyo5pel5pmC44KSMjAyMeW5tDHmnIgx5pel44Gr6Kit5a6a44GZ44KLCiAgICAgICAgICAgIGlmICgoYXBwKCktPmVudmlyb25tZW50KCdsb2NhbCcpIHx8IGFwcCgpLT5lbnZpcm9ubWVudCgndGVzdGluZycpKSAmJiAkeWVhciA9PT0gMjAyMCkgewogICAgICAgICAgICAgICAgQ2FyYm9uOjpzZXRUZXN0Tm93KCcyMDIxLTAxLTAxJyk7CiAgICAgICAgICAgICAgICAkeWVhcmx5UGF5bWVudFJlcG9ydCA9ICR1c2VDYXNlKCR1c2VyLT51c2VySWQoKS0+dmFsdWUoKSwgJHllYXIpOwogICAgICAgICAgICAgICAgQ2FyYm9uOjpzZXRUZXN0Tm93KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAkeWVhcmx5UGF5bWVudFJlcG9ydCA9ICR1c2VDYXNlKCR1c2VyLT51c2VySWQoKS0+dmFsdWUoKSwgJHllYXIpOwogICAgICAgICAgICB9Cg==</text>
@@ -464,9 +464,9 @@
       </register>
     </registers>
     <search>
-      <last-search>detail</last-search>
+      <last-search>delivery</last-search>
       <last-offset />
-      <last-pattern>detail</last-pattern>
+      <last-pattern>delivery</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
       <last-dir>1</last-dir>
@@ -474,8 +474,6 @@
     </search>
     <history>
       <history-search>
-        <entry>download</entry>
-        <entry>payments</entry>
         <entry>支払調書</entry>
         <entry>更新に失敗しました</entry>
         <entry>納品管理情報の取得に失敗しました</entry>
@@ -494,6 +492,8 @@
         <entry>memo</entry>
         <entry>users</entry>
         <entry>detail</entry>
+        <entry>edit</entry>
+        <entry>delivery</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

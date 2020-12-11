@@ -154,14 +154,6 @@
         <mark key="^" line="15" column="97" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/webroot/old/js/sales_project.js" timestamp="1606364812848" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Aggregator/PaymentReportAggregatorTest.php" timestamp="1607329292977">
-        <mark key="a" line="153" column="30" />
-        <mark key="'" line="196" column="0" />
-        <mark key="[" line="171" column="0" />
-        <mark key="]" line="171" column="0" />
-        <mark key="." line="171" column="0" />
-        <mark key="^" line="91" column="11" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Front/Writing/text.ctp" timestamp="1606983567770" />
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/users/pr_memo.blade.php" timestamp="1607562978169" />
       <file name="$USER_HOME$/workspace/sagooo_navi/docker/docker-compose.yml" timestamp="1607144129730">
@@ -237,6 +229,9 @@
         <mark key="'" line="946" column="55" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/env/develop/app.php" timestamp="1606451279932" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbDeliveryDatasTable.php" timestamp="1607649309039">
+        <mark key="'" line="1046" column="37" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbOnlineOrderEstimatesTable.php" timestamp="1606450491135" />
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/env/develop/const_mail_env.php" timestamp="1606451820105" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Pages/Admin/AdminOnlineOrder/detail.ctp" timestamp="1606783852042" />
@@ -276,6 +271,9 @@
         <mark key="^" line="8" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/OfferController.php" timestamp="1606710220783" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbPublishRequestsTable.php" timestamp="1607649353069">
+        <mark key="'" line="1443" column="53" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/UI/ViewModels/RewardIndexViewModel.php" timestamp="1606981228460">
         <mark key="[" line="154" column="0" />
         <mark key="]" line="156" column="9" />
@@ -318,19 +316,6 @@
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbClientFavorsTable.php" timestamp="1607499498224" />
     </filemarks>
     <jumps>
-      <jump line="50" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Eloquents/DtbYearlyPaymentReportPublishStatus.php" />
-      <jump line="58" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Eloquents/DtbYearlyPaymentReportPublishStatus.php" />
-      <jump line="302" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/User/UserRepository.php" />
-      <jump line="2471" column="24" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/UserRepository.php" />
-      <jump line="145" column="17" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/UserRepository.php" />
-      <jump line="2527" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/UserRepository.php" />
-      <jump line="5" column="6" filename="$USER_HOME$/workspace/sagooo_navi/database/migrations/2020_12_03_115300_add_foreign_keys_to_dtb_yearly_payment_report_publish_statuses_table.php" />
-      <jump line="18" column="0" filename="$USER_HOME$/workspace/sagooo_navi/database/migrations/2020_12_03_115300_add_foreign_keys_to_dtb_yearly_payment_report_publish_statuses_table.php" />
-      <jump line="30" column="0" filename="$USER_HOME$/workspace/sagooo_navi/database/migrations/2020_12_03_115300_add_foreign_keys_to_dtb_yearly_payment_report_publish_statuses_table.php" />
-      <jump line="129" column="44" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/PaymentReport/YearlyPaymentReport.php" />
-      <jump line="37" column="0" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Models/PaymentReport/YearlyPaymentReportTest.php" />
-      <jump line="47" column="0" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Models/PaymentReport/YearlyPaymentReportTest.php" />
-      <jump line="56" column="0" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Models/PaymentReport/YearlyPaymentReportTest.php" />
       <jump line="66" column="0" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Models/PaymentReport/YearlyPaymentReportTest.php" />
       <jump line="70" column="0" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Models/PaymentReport/YearlyPaymentReportTest.php" />
       <jump line="71" column="0" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Models/PaymentReport/YearlyPaymentReportTest.php" />
@@ -418,6 +403,19 @@
       <jump line="1546" column="23" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" />
       <jump line="1873" column="30" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" />
       <jump line="270" column="30" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
+      <jump line="116" column="5" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbDeliveryDatasTable.php" />
+      <jump line="590" column="15" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbDeliveryDatasTable.php" />
+      <jump line="373" column="11" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbDeliveryDatasTable.php" />
+      <jump line="589" column="15" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbDeliveryDatasTable.php" />
+      <jump line="1044" column="7" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbDeliveryDatasTable.php" />
+      <jump line="1046" column="37" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbDeliveryDatasTable.php" />
+      <jump line="644" column="11" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbPublishRequestsTable.php" />
+      <jump line="1080" column="11" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbPublishRequestsTable.php" />
+      <jump line="1311" column="41" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbPublishRequestsTable.php" />
+      <jump line="1387" column="7" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbPublishRequestsTable.php" />
+      <jump line="1391" column="45" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbPublishRequestsTable.php" />
+      <jump line="1440" column="43" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbPublishRequestsTable.php" />
+      <jump line="1443" column="53" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbPublishRequestsTable.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -427,7 +425,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>develop</text>
+        <text>入稿依頼ID</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8g44OG44K544OI55Kw5aKDIOOBi+OBpCAyMDIw5bm044Gu5pSv5omV6Kq/5pu444KS56K66KqN44GZ44KL5aC05ZCI44Gu44G/44CB54++5Zyo5pel5pmC44KSMjAyMeW5tDHmnIgx5pel44Gr6Kit5a6a44GZ44KLCiAgICAgICAgICAgIGlmICgoYXBwKCktPmVudmlyb25tZW50KCdsb2NhbCcpIHx8IGFwcCgpLT5lbnZpcm9ubWVudCgndGVzdGluZycpKSAmJiAkeWVhciA9PT0gMjAyMCkgewogICAgICAgICAgICAgICAgQ2FyYm9uOjpzZXRUZXN0Tm93KCcyMDIxLTAxLTAxJyk7CiAgICAgICAgICAgICAgICAkeWVhcmx5UGF5bWVudFJlcG9ydCA9ICR1c2VDYXNlKCR1c2VyLT51c2VySWQoKS0+dmFsdWUoKSwgJHllYXIpOwogICAgICAgICAgICAgICAgQ2FyYm9uOjpzZXRUZXN0Tm93KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAkeWVhcmx5UGF5bWVudFJlcG9ydCA9ICR1c2VDYXNlKCR1c2VyLT51c2VySWQoKS0+dmFsdWUoKSwgJHllYXIpOwogICAgICAgICAgICB9Cg==</text>
@@ -464,9 +462,9 @@
       </register>
     </registers>
     <search>
-      <last-search>develop</last-search>
+      <last-search>入稿依頼ID</last-search>
       <last-offset />
-      <last-pattern>develop</last-pattern>
+      <last-pattern>入稿依頼ID</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
       <last-dir>1</last-dir>
@@ -474,9 +472,6 @@
     </search>
     <history>
       <history-search>
-        <entry>更新に失敗しました</entry>
-        <entry>納品管理情報の取得に失敗しました</entry>
-        <entry>form-control js-input-article-unit-price js-calculate-total js-validate-form validate[required]</entry>
         <entry>registrationOrder</entry>
         <entry>Carbon</entry>
         <entry>admin</entry>
@@ -494,6 +489,9 @@
         <entry>edit</entry>
         <entry>delivery</entry>
         <entry>develop</entry>
+        <entry>入稿依頼</entry>
+        <entry>ID</entry>
+        <entry>入稿依頼ID</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

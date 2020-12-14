@@ -118,18 +118,8 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" timestamp="1605595850933" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/CreateMonthlyPaymentSheet.php" timestamp="1607323880636" />
       <file name="$USER_HOME$/workspace/sagooo_navi/app/Providers/AuthServiceProvider.php" timestamp="1606278486638" />
-      <file name="$USER_HOME$/workspace/web_duplicate_check/crontab.production.txt" timestamp="1607409456696">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" timestamp="1606458693636">
         <mark key="'" line="395" column="33" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/database/migrations/2020_12_03_104700_create_dtb_yearly_payment_report_publish_statuses_table.php" timestamp="1606964028819">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/app/Console/Kernel.php" timestamp="1607908511696" />
       <file name="$USER_HOME$/workspace/sagooo_navi/config/user_scores.php" timestamp="1604464588840">
@@ -147,7 +137,7 @@
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/entrypoints/admin/work_groups/create.js" timestamp="1605599158394" />
       <file name="$USER_HOME$/workspace/sawa_renewal/works/app/models/dtb_point.php" timestamp="1606795826613" />
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbParagraphsTable.php" timestamp="1607921701009" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbParagraphsTable.php" timestamp="1607923319237" />
       <file name="$USER_HOME$/workspace/sagooo_navi/database/migrations/2020_12_03_115300_add_foreign_keys_to_dtb_yearly_payment_report_publish_statuses_table.php" timestamp="1606970012564">
         <mark key="'" line="30" column="0" />
         <mark key="[" line="5" column="0" />
@@ -282,6 +272,9 @@
         <mark key="." line="154" column="8" />
         <mark key="^" line="154" column="8" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbParagraphKeywordsTable.php" timestamp="1607923489016">
+        <mark key="'" line="16" column="6" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/database/migrations/2020_08_13_180000_add_foreign_keys_to_dtb_chain_offer_target_users_table.php" timestamp="1606901047265">
         <mark key="[" line="36" column="11" />
         <mark key="]" line="36" column="7" />
@@ -302,8 +295,8 @@
       <file name="$USER_HOME$/workspace/sagooo_works/src/Utility/SalesForce/Client.php" timestamp="1606376558679" />
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/users/total_evaluate.blade.php" timestamp="1607576504521" />
       <file name="$USER_HOME$/workspace/sagooo_works/design/admin.sagooo/sales/regulation_sheet/draft/include/draft_table_other.php" timestamp="1606368982127" />
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/AppTable.php" timestamp="1604990068328">
-        <mark key="'" line="17" column="6" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/AppTable.php" timestamp="1607923507046">
+        <mark key="'" line="490" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbOnlineOrdersTable.php" timestamp="1606452856223">
         <mark key="'" line="1743" column="29" />
@@ -318,8 +311,6 @@
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbClientFavorsTable.php" timestamp="1607499498224" />
     </filemarks>
     <jumps>
-      <jump line="66" column="0" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Models/PaymentReport/YearlyPaymentReportTest.php" />
-      <jump line="70" column="0" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Models/PaymentReport/YearlyPaymentReportTest.php" />
       <jump line="71" column="0" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Models/PaymentReport/YearlyPaymentReportTest.php" />
       <jump line="72" column="0" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Models/PaymentReport/YearlyPaymentReportTest.php" />
       <jump line="80" column="0" filename="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Models/PaymentReport/YearlyPaymentReportTest.php" />
@@ -418,6 +409,8 @@
       <jump line="1391" column="45" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbPublishRequestsTable.php" />
       <jump line="1440" column="43" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbPublishRequestsTable.php" />
       <jump line="1443" column="53" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbPublishRequestsTable.php" />
+      <jump line="16" column="6" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbParagraphKeywordsTable.php" />
+      <jump line="490" column="22" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/AppTable.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">

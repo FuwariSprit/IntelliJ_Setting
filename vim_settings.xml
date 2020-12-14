@@ -5,10 +5,19 @@
     <filemarks>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/MynaviEvaluate/Download.php" timestamp="1605773425563" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Email/text/Shell/point_lost_before.ctp" timestamp="1606806975132" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/sass/service/component/_HsUploadBeforeCheckModal.scss" timestamp="1605574333592">
+        <mark key="[" line="2" column="1" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1607927481305">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/SalesDelivery/detail.ctp" timestamp="1606369854416" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/SalesDelivery/detail.ctp" timestamp="1607931823940">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="69" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/work_groups/create/InterviewFormItem.vue" timestamp="1605600881225" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/PaymentReport/GetYearlyPaymentReport.php" timestamp="1606267484489" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Common/Log.php" timestamp="1606377394436" />
@@ -26,8 +35,24 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/hs_upload_before_check.blade.php" timestamp="1605072961839">
         <mark key="[" line="0" column="41" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/database/migrations/2020_08_13_160000_add_is_chain_offer_to_dtb_offers.php" timestamp="1606900167478">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="139" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Eloquents/DtbUser.php" timestamp="1606960990534">
+        <mark key="[" line="226" column="23" />
+        <mark key="]" line="226" column="23" />
+        <mark key="." line="226" column="23" />
+        <mark key="^" line="226" column="23" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbPointsTable.php" timestamp="1606805533782" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Year.php" timestamp="1606268702106" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/WGはクリエイターに正しい集計期間の支払調書を渡したい.md" timestamp="1607481423042">
+        <mark key="[" line="130" column="1" />
+        <mark key="]" line="130" column="6" />
+        <mark key="^" line="130" column="6" />
+        <mark key="." line="130" column="6" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Eloquents/DtbYearlyPaymentReportPublishStatus.php" timestamp="1606963457279">
         <mark key="'" line="57" column="0" />
         <mark key="[" line="54" column="4" />
@@ -44,6 +69,12 @@
         <mark key="." line="1514" column="112" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Admin/SalesRegulationPublishRequest/Detail/order_detail.ctp" timestamp="1606369025309" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/sass/service/style.scss" timestamp="1605574347803">
+        <mark key="[" line="72" column="43" />
+        <mark key="]" line="73" column="42" />
+        <mark key="^" line="73" column="42" />
+        <mark key="." line="73" column="42" />
+      </file>
       <file name="$USER_HOME$/workspace/web_duplicate_check/src/app/Console/Commands/ImportUrl.php" timestamp="1607409536857" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/DeliveryDetailsController.php" timestamp="1607928293365" />
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/interview.blade.php" timestamp="1605663107189">
@@ -63,6 +94,12 @@
         <mark key="'" line="14" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbDeliveryManagesTable.php" timestamp="1605491685560" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/[2019]アシカ4Q-4/WG経理は支払調書を確認できる.md" timestamp="1606184547715">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="172" />
+        <mark key="^" line="52" column="172" />
+        <mark key="." line="52" column="172" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/現ライターは前任ライターのチャット内容が見えたくない .md" timestamp="1606882475692" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/DeveloperController.php" timestamp="1607927614080">
         <mark key="[" line="11" column="5" />
@@ -78,7 +115,17 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" timestamp="1605235571108">
         <mark key="'" line="35" column="12" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Eloquents/DtbWriterScore.php" timestamp="1606960670353">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="15" column="42" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/detail/willgate.blade.php" timestamp="1605241584895" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/SalesDeliveryComponent.php" timestamp="1606374872995">
+        <mark key="[" line="219" column="0" />
+        <mark key="]" line="219" column="0" />
+        <mark key="^" line="210" column="15" />
+        <mark key="." line="219" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/WritingUtilComponent.php" timestamp="1606984239197" />
       <file name="$USER_HOME$/workspace/sagooo_works/webroot_src/js/pages/Admin/SalesDelivery/detail.js" timestamp="1606369845221" />
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/reward/index.blade.php" timestamp="1607309568772">
@@ -88,9 +135,19 @@
         <mark key="^" line="162" column="84" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/.env.testing" timestamp="1606278371603" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/alert_regulation_sheet_panel.blade.php" timestamp="1605663116934">
+        <mark key="[" line="94" column="48" />
+        <mark key="]" line="94" column="69" />
+        <mark key="^" line="94" column="69" />
+        <mark key="." line="94" column="69" />
+      </file>
       <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/SPL/SPL.php" timestamp="1606715238535" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/MynaviEvaluateController.php" timestamp="1605751375134">
         <mark key="'" line="14" column="6" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Eloquents/DtbMonthlyPaymentSheet.php" timestamp="1606895607838">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="81" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" timestamp="1605595850933" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/CreateMonthlyPaymentSheet.php" timestamp="1607323880636" />
@@ -131,6 +188,12 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/work_groups/create.blade.php" timestamp="1605857812333">
         <mark key="'" line="336" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/hs_upload_before_check_modal.blade.php" timestamp="1605682826319">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="36" column="124" />
+        <mark key="." line="32" column="111" />
+        <mark key="^" line="32" column="111" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/DevelopController.php" timestamp="1607927350153">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="3" />
@@ -139,6 +202,12 @@
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbSalesforceDeliveriesTable.php" timestamp="1606353927854" />
       <file name="$USER_HOME$/workspace/sawa_renewal/works/app/vendors/shells/point_lose.php" timestamp="1606811431536" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Pages/Admin/AdminOnlineOrder/Detail/estimate.ctp" timestamp="1606455086257">
+        <mark key="[" line="53" column="128" />
+        <mark key="]" line="53" column="127" />
+        <mark key="^" line="53" column="127" />
+        <mark key="." line="53" column="127" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientOnlineOrder/OrderForm/rough_estimate.ctp" timestamp="1606458234104" />
       <file name="$USER_HOME$/workspace/sagooo_works/cron/env/production/crontab.txt" timestamp="1606805283433">
         <mark key="'" line="21" column="23" />
@@ -220,6 +289,12 @@
         <mark key="^" line="166" column="28" />
         <mark key="." line="166" column="28" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/detail/client.blade.php" timestamp="1605573936002">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="9" column="78" />
+        <mark key="^" line="9" column="78" />
+        <mark key="." line="9" column="78" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbMemberPastAddressesTable.php" timestamp="1605496568285" />
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_salesforce.php" timestamp="1606371820866" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/OfferRepository.php" timestamp="1606709339614">
@@ -241,8 +316,20 @@
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbPublishRequestsTable.php" timestamp="1607649353069">
         <mark key="'" line="1443" column="53" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/UI/ViewModels/RewardIndexViewModel.php" timestamp="1606981228460">
+        <mark key="[" line="154" column="0" />
+        <mark key="]" line="156" column="9" />
+        <mark key="." line="154" column="8" />
+        <mark key="^" line="154" column="8" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbParagraphKeywordsTable.php" timestamp="1607923489016">
         <mark key="'" line="16" column="6" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/database/migrations/2020_08_13_180000_add_foreign_keys_to_dtb_chain_offer_target_users_table.php" timestamp="1606901047265">
+        <mark key="[" line="36" column="11" />
+        <mark key="]" line="36" column="7" />
+        <mark key="." line="36" column="7" />
+        <mark key="^" line="36" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Client/ClientOnlineOrder/index.ctp" timestamp="1606455982158">
         <mark key="'" line="124" column="117" />
@@ -257,6 +344,16 @@
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/ApprovalOperator/TextApprovalController.php" timestamp="1606374424875" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Utility/SalesForce/Client.php" timestamp="1606376558679" />
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/users/total_evaluate.blade.php" timestamp="1607576504521" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/SalesDelivery/edit.ctp" timestamp="1607931876554">
+        <mark key="[" line="21" column="4" />
+        <mark key="]" line="20" column="55" />
+        <mark key="." line="20" column="55" />
+        <mark key="^" line="20" column="55" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Eloquents/DtbOffer.php" timestamp="1606892836511">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="159" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/design/admin.sagooo/sales/regulation_sheet/draft/include/draft_table_other.php" timestamp="1606368982127" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/AppTable.php" timestamp="1607923507046">
         <mark key="'" line="490" column="22" />
@@ -376,44 +473,44 @@
       <jump line="1966" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/SalesDeliveryController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>update</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PD9waHAKbmFtZXNwYWNlIEFwcFxDb250cm9sbGVyXEFkbWluOwoKdXNlIEFwcFxDb21tb25cQ29uZjsKdXNlIEFwcFxDb21tb25cVGltZTsKdXNlIEFwcFxEb21haW5cU2FsZXNGb3JjZURlbGl2ZXJ5RGF0YTsKdXNlIENha2VcT1JNXFRhYmxlUmVnaXN0cnk7CnVzZSBDYWtlXFV0aWxpdHlcSGFzaDsKdXNlIEFwcFxFeGNlcHRpb25cQXBwRXhjZXB0aW9uOwp1c2UgQXdzXEV4Y2VwdGlvblxBd3NFeGNlcHRpb247CnVzZSBBd3NcU3FzXFNxc0NsaWVudDsKdXNlIENha2VcTmV0d29ya1xFeGNlcHRpb25cTm90Rm91bmRFeGNlcHRpb247CnVzZSBQc3JcTG9nXExvZ0xldmVsOwoKLyoqCiAqIFNhbGVzRGVsaXZlcnkgQ29udHJvbGxlcgogKi8KY2xhc3MgU2FsZXNEZWxpdmVyeUNvbnRyb2xsZXIgZXh0ZW5kcyBBcHBBZG1pbkNvbnRyb2xsZXIKewo=</text>
+        <text encoding="base64">ICAgIDw/cGhwIGVjaG8gJHRoaXMtPkZsYXNoLT5yZW5kZXIoJHRoaXMtPm5hbWUgLiAnLmRldGFpbCcpID8/ICcnOz8+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBkZWxldGUoKQogICAgewogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">ZWNobyAkdGhpcy0+SHRtbC0+c2NyaXB0KAogICAgWwogICAgICAgICcvanMvcGFnZXMvQWRtaW4vU2FsZXNEZWxpdmVyeS9kZXRhaWwnCiAgICBdLAogICAgWwogICAgICAgICdibG9jaycgPT4gdHJ1ZQogICAgXQopOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIC4uLgo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBkZWxldGUoKQogICAgewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICAgICAgICAgICAgICAgICd1c2VyJyA9PiBuZXcgVXNlcigKICAgICAgICAgICAgICAgICAgICAgICAgbmV3IFVzZXJJZCgxKSwKICAgICAgICAgICAgICAgICAgICAgICAgbmV3IFBhc3N3b3JkKCcnKSwKICAgICAgICAgICAgICAgICAgICAgICAgbmV3IFVzZXJOYW1lKCfjg4bjgrnjg4gg5aSq6YOOJyksCiAgICAgICAgICAgICAgICAgICAgICAgICcyMDE5LTAxLTAxIDAwOjAwOjAwJywKICAgICAgICAgICAgICAgICAgICAgICAgbmV3IEFjdGl2ZVN0YXR1cygxKSwKICAgICAgICAgICAgICAgICAgICAgICAgdHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgdHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgdHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgZmFsc2UsCiAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBSb2xlcyh0cnVlLCB0cnVlLCB0cnVlKSwKICAgICAgICAgICAgICAgICAgICAgICAgZmFsc2UsCiAgICAgICAgICAgICAgICAgICAgICAgIG51bGwsCiAgICAgICAgICAgICAgICAgICAgICAgIG51bGwsCiAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBEaXNwbGF5TmFtZSgobmV3IFVzZXJOYW1lKCfjg4bjgrnjg4gg5aSq6YOOJykpLT52YWx1ZSgpLCBbJ2ZpcnN0X2thbmFfbmFtZScgPT4gbmV3IEthdGFrYW5hKCfjgr/jg63jgqYnKSwgJ2xhc3Rfa2FuYV9uYW1lJyAgPT4gbmV3IEthdGFrYW5hKCfjg4bjgrnjg4gnKV0sIGZhbHNlLCBudWxsLCBudWxsLCBudWxsKSwKICAgICAgICAgICAgICAgICAgICAgICAgJ+WkqumDjicsCiAgICAgICAgICAgICAgICAgICAgICAgICfmiYvlt6Ppg70nLAogICAgICAgICAgICAgICAgICAgICAgICBuZXcgS2F0YWthbmEoJ+OCv+ODreOCpicpLAogICAgICAgICAgICAgICAgICAgICAgICBuZXcgS2F0YWthbmEoJ+ODhuOCueODiCcpLAogICAgICAgICAgICAgICAgICAgICAgICBuZXcgU2V4KDEpLAogICAgICAgICAgICAgICAgICAgICAgICAnMjAwMC0wMS0wMScsCiAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBNYWlsQWRkcmVzcygndGVzdEBob2dlLmNvLmpwJyksCiAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBUZWxlcGhvbmVOdW1iZXIoJzA5MC0xMjM0LTU2NzgnKSwKICAgICAgICAgICAgICAgICAgICAgICAgbmV3IFVzZXJJbWFnZSgnaG9nZScpLAogICAgICAgICAgICAgICAgICAgICAgICBuZXcgT3BlcmF0aW5nU3lzdGVtKDEpLAogICAgICAgICAgICAgICAgICAgICAgICBuZXcgQ29sbGVjdGlvbihbXSksCiAgICAgICAgICAgICAgICAgICAgICAgIG51bGwsCiAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBDb2xsZWN0aW9uKFtdKSwKICAgICAgICAgICAgICAgICAgICAgICAgbmV3IEJhbmtBY2NvdW50KG5ldyBCYW5rSWQoMSksICfmnbHkuqwnLCAn44G744GSJywgbmV3IEFjY291bnRUeXBlKDEpLCBuZXcgQWNjb3VudE51bWJlcignMTExLTExMTEnKSwgJ+ODhuOCueODiCDjgr/jg63jgqYnKSwKICAgICAgICAgICAgICAgICAgICAgICAgbmV3IEFkZHJlc3MobmV3IFBvc3RhbENvZGUoJzExMS0xMTExJyksIG5ldyBQcmVmZWN0dXJlKDEyKSwgJ+iRm+mjvuWMuicsICfkuoDnhKExLTEnLCAn5LqA54Sh5YWs5ZyS5YmN5rS+5Ye65omAJyksCiAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBDb2xsZWN0aW9uKCksCiAgICAgICAgICAgICAgICAgICAgICAgIG51bGwsCiAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBDYXJib24oJzIwMTktMDEtMDEgMDA6MDA6MDAnKSwKICAgICAgICAgICAgICAgICAgICAgICAgbmV3IENhcmJvbignMjAxOS0wMS0wMSAwMDowMDowMCcpLAogICAgICAgICAgICAgICAgICAgICAgICBudWxsLAogICAgICAgICAgICAgICAgICAgICAgICBudWxsLAogICAgICAgICAgICAgICAgICAgICAgICAwCiAgICAgICAgICAgICAgICAgICAgKSwKPj4+Pj4+PiBkZXZlbG9wCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICAgICAgICAgICAgICAgICd1c2VyJyA9PiBuZXcgVXNlcigKICAgICAgICAgICAgICAgICAgICAgICAgbmV3IFVzZXJJZCgxKSwKICAgICAgICAgICAgICAgICAgICAgICAgbmV3IFBhc3N3b3JkKCcnKSwKICAgICAgICAgICAgICAgICAgICAgICAgbmV3IFVzZXJOYW1lKCfjg4bjgrnjg4gg5aSq6YOOJyksCiAgICAgICAgICAgICAgICAgICAgICAgICcyMDE5LTAxLTAxIDAwOjAwOjAwJywKICAgICAgICAgICAgICAgICAgICAgICAgbmV3IEFjdGl2ZVN0YXR1cygxKSwKICAgICAgICAgICAgICAgICAgICAgICAgdHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgdHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgdHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgZmFsc2UsCiAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBSb2xlcyh0cnVlLCB0cnVlLCB0cnVlKSwKICAgICAgICAgICAgICAgICAgICAgICAgZmFsc2UsCiAgICAgICAgICAgICAgICAgICAgICAgIG51bGwsCiAgICAgICAgICAgICAgICAgICAgICAgIG51bGwsCiAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBEaXNwbGF5TmFtZSgobmV3IFVzZXJOYW1lKCfjg4bjgrnjg4gg5aSq6YOOJykpLT52YWx1ZSgpLCBbJ2ZpcnN0X2thbmFfbmFtZScgPT4gbmV3IEthdGFrYW5hKCfjgr/jg63jgqYnKSwgJ2xhc3Rfa2FuYV9uYW1lJyAgPT4gbmV3IEthdGFrYW5hKCfjg4bjgrnjg4gnKV0sIGZhbHNlLCBudWxsLCBudWxsLCBudWxsKSwKICAgICAgICAgICAgICAgICAgICAgICAgJ+WkqumDjicsCiAgICAgICAgICAgICAgICAgICAgICAgICfmiYvlt6Ppg70nLAogICAgICAgICAgICAgICAgICAgICAgICBuZXcgS2F0YWthbmEoJ+OCv+ODreOCpicpLAogICAgICAgICAgICAgICAgICAgICAgICBuZXcgS2F0YWthbmEoJ+ODhuOCueODiCcpLAogICAgICAgICAgICAgICAgICAgICAgICBuZXcgU2V4KDEpLAogICAgICAgICAgICAgICAgICAgICAgICAnMjAwMC0wMS0wMScsCiAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBNYWlsQWRkcmVzcygndGVzdEBob2dlLmNvLmpwJyksCiAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBUZWxlcGhvbmVOdW1iZXIoJzA5MC0xMjM0LTU2NzgnKSwKICAgICAgICAgICAgICAgICAgICAgICAgbmV3IFVzZXJJbWFnZSgnaG9nZScpLAogICAgICAgICAgICAgICAgICAgICAgICBuZXcgT3BlcmF0aW5nU3lzdGVtKDEpLAogICAgICAgICAgICAgICAgICAgICAgICBuZXcgQ29sbGVjdGlvbihbXSksCiAgICAgICAgICAgICAgICAgICAgICAgIG51bGwsCiAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBDb2xsZWN0aW9uKFtdKSwKICAgICAgICAgICAgICAgICAgICAgICAgbmV3IEJhbmtBY2NvdW50KG5ldyBCYW5rSWQoMSksICfmnbHkuqwnLCAn44G744GSJywgbmV3IEFjY291bnRUeXBlKDEpLCBuZXcgQWNjb3VudE51bWJlcignMTExLTExMTEnKSwgJ+ODhuOCueODiCDjgr/jg63jgqYnKSwKICAgICAgICAgICAgICAgICAgICAgICAgbmV3IEFkZHJlc3MobmV3IFBvc3RhbENvZGUoJzExMS0xMTExJyksIG5ldyBQcmVmZWN0dXJlKDEyKSwgJ+iRm+mjvuWMuicsICfkuoDnhKExLTEnLCAn5LqA54Sh5YWs5ZyS5YmN5rS+5Ye65omAJyksCiAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBDb2xsZWN0aW9uKCksCiAgICAgICAgICAgICAgICAgICAgICAgIG51bGwsCiAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBDYXJib24oJzIwMTktMDEtMDEgMDA6MDA6MDAnKSwKICAgICAgICAgICAgICAgICAgICAgICAgbmV3IENhcmJvbignMjAxOS0wMS0wMSAwMDowMDowMCcpLAogICAgICAgICAgICAgICAgICAgICAgICBudWxsLAogICAgICAgICAgICAgICAgICAgICAgICBudWxsLAogICAgICAgICAgICAgICAgICAgICAgICAwCiAgICAgICAgICAgICAgICAgICAgKSwKPj4+Pj4+PiBkZXZlbG9wCg==</text>
+        <text encoding="base64">dXNlIC4uLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -464,6 +561,7 @@
         <entry>wq</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>ws</entry>
         <entry>vs</entry>
         <entry>w</entry>
       </history-cmd>

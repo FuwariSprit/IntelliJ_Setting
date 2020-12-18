@@ -33,7 +33,7 @@
         <mark key="'" line="3774" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbOnlineOrderDetailsTable.php" timestamp="1606455487563" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/routes/web.php" timestamp="1608274600964">
+      <file name="$USER_HOME$/workspace/sagooo_navi/routes/web.php" timestamp="1608276499604">
         <mark key="'" line="645" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/hs_upload_before_check.blade.php" timestamp="1605072961839">
@@ -297,6 +297,9 @@
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_client_online_order.php" timestamp="1607402804206">
         <mark key="'" line="946" column="55" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" timestamp="1608276172869">
+        <mark key="'" line="1616" column="62" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/env/develop/app.php" timestamp="1606451279932" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbDeliveryDatasTable.php" timestamp="1607649309039">
         <mark key="'" line="1046" column="37" />
@@ -402,8 +405,6 @@
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbClientFavorsTable.php" timestamp="1607499498224" />
     </filemarks>
     <jumps>
-      <jump line="200" column="13" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/User/User.php" />
-      <jump line="277" column="17" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/User/User.php" />
       <jump line="349" column="23" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/User/User.php" />
       <jump line="337" column="31" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
       <jump line="516" column="46" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
@@ -502,6 +503,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/SalesDelivery/edit.ctp" />
       <jump line="6" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/SalesDelivery/edit.ctp" />
       <jump line="645" column="33" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
+      <jump line="1336" column="6" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
+      <jump line="1616" column="62" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -511,7 +514,7 @@
         <text>4</text>
       </register>
       <register name="/" type="4">
-        <text>経理</text>
+        <text>detail</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">MTIzNDYg</text>
@@ -548,9 +551,9 @@
       </register>
     </registers>
     <search>
-      <last-search>経理</last-search>
+      <last-search>detail</last-search>
       <last-offset />
-      <last-pattern>経理</last-pattern>
+      <last-pattern>detail</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
       <last-dir>1</last-dir>
@@ -572,12 +575,12 @@
         <entry>end()</entry>
         <entry>end</entry>
         <entry>納品</entry>
-        <entry>detail</entry>
         <entry>納品データ</entry>
         <entry encoding="base64">XDxtYjUwXD4=</entry>
         <entry>口座</entry>
         <entry>銀行</entry>
         <entry>経理</entry>
+        <entry>detail</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

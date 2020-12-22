@@ -225,11 +225,12 @@
         <mark key="'" line="21" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/[2019]アシカ4Q-7/クリエイターは支払調書へ遷移できる.md" timestamp="1606267788504" />
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/SalesDeliveryController.php" timestamp="1608605826722">
-        <mark key="'" line="1968" column="85" />
-        <mark key="]" line="1963" column="15" />
-        <mark key="." line="1963" column="15" />
-        <mark key="^" line="1963" column="15" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/SalesDeliveryController.php" timestamp="1608627131985">
+        <mark key="'" line="1971" column="20" />
+        <mark key="[" line="1996" column="66" />
+        <mark key="]" line="1998" column="18" />
+        <mark key="." line="1998" column="18" />
+        <mark key="^" line="1998" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Shell/PointLostBeforeMailShell.php" timestamp="1606805466636" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/PaymentReportController.php" timestamp="1607328329810">
@@ -391,8 +392,6 @@
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbClientFavorsTable.php" timestamp="1607499498224" />
     </filemarks>
     <jumps>
-      <jump line="116" column="5" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbDeliveryDatasTable.php" />
-      <jump line="590" column="15" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbDeliveryDatasTable.php" />
       <jump line="373" column="11" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbDeliveryDatasTable.php" />
       <jump line="589" column="15" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbDeliveryDatasTable.php" />
       <jump line="1044" column="7" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbDeliveryDatasTable.php" />
@@ -491,31 +490,33 @@
       <jump line="35" column="19" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/SalesDelivery/detail.ctp" />
       <jump line="340" column="18" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/SalesDelivery/detail.ctp" />
       <jump line="494" column="30" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/SalesDelivery/detail.ctp" />
+      <jump line="1370" column="30" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/SalesDeliveryController.php" />
+      <jump line="1964" column="20" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/SalesDeliveryController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>外</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
-        <text>account</text>
+        <text>edit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyA9PT09PT09PT09PT09PT09PT09PQogICAgICAgIC8vIOekvuWGhee0jeWTgeaXpeaZguOBjOekvuWklue0jeWTgeaXpeaZguOCkumBjuOBjuOBpuOBhOOBquOBhOOBiwogICAgICAgIC8vIOmBjuOBjuOBpuOBhOOCiyAtPiAn56S+5YaF57SN5ZOB5pel5pmC44GM56S+5aSW57SN5ZOB5pel5pmC44KS6YGO44GO44Gm44GE44G+44GZ44CCJyDjgajjgqjjg6njg7zjgpLov5TjgZkKICAgICAgICAvLyDpgY7jgY7jgabjgYTjgarjgYQgLT4g5Yem55CG57aa6KGMCiAgICAgICAgLy8gPT09PT09PT09PT09PT09PT09PT0K</text>
+        <text encoding="base64">ICAgICAgICAvLyA9PT09PT09PT09PT09PT09PT09PQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyA9PT09PT09PT09PT09PT09PT09PQogICAgICAgIC8vIOekvuWklue0jeWTgeaXpeaZguOBjOekvuWGhee0jeWTgeaXpeaZguOCkumBjuOBjuOBpuOBhOOBquOBhOOBiwogICAgICAgIC8vIOmBjuOBjuOBpuOBhOOCiyAtPiAn56S+5YaF57SN5ZOB5pel5pmC44GM56S+5aSW57SN5ZOB5pel5pmC44KS6YGO44GO44Gm44GE44G+44GZ44CCJyDjgajjgqjjg6njg7zjgpLov5TjgZkKICAgICAgICAvLyDpgY7jgY7jgabjgYTjgarjgYQgLT4g5Yem55CG57aa6KGMCiAgICAgICAgLy8gPT09PT09PT09PT09PT09PT09PT0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyA9PT09PT09PT09PT09PT09PT09PQogICAgICAgIC8vIOekvuWklue0jeWTgeaXpeaZguOBjOekvuWGhee0jeWTgeaXpeaZguOCkumBjuOBjuOBpuOBhOOBquOBhOOBiwogICAgICAgIC8vIOmBjuOBjuOBpuOBhOOCiyAtPiAn56S+5YaF57SN5ZOB5pel5pmC44GM56S+5aSW57SN5ZOB5pel5pmC44KS6YGO44GO44Gm44GE44G+44GZ44CCJyDjgajjgqjjg6njg7zjgpLov5TjgZkKICAgICAgICAvLyDpgY7jgY7jgabjgYTjgarjgYQgLT4g5Yem55CG57aa6KGMCiAgICAgICAgLy8gPT09PT09PT09PT09PT09PT09PT0K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -530,19 +531,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDjg63jg7zjg6vjg5Djg4Pjgq8KICAgICAgICAvLyDjgqjjg6njg7zjg63jgrDjga7lh7rlipsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDjg63jg7zjg6vjg5Djg4Pjgq8KICAgICAgICAvLyDjgqjjg6njg7zjg63jgrDjga7lh7rlipsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>account</last-search>
+      <last-search>edit</last-search>
       <last-offset />
-      <last-pattern>account</last-pattern>
+      <last-pattern>edit</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
       <last-dir>1</last-dir>
@@ -550,7 +551,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ID</entry>
         <entry>入稿依頼ID</entry>
         <entry>multi</entry>
         <entry>update</entry>
@@ -570,6 +570,7 @@
         <entry>ステータス</entry>
         <entry>納品データ</entry>
         <entry>account</entry>
+        <entry>edit</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

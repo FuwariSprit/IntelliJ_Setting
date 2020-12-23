@@ -25,12 +25,6 @@
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" timestamp="1606458330694">
         <mark key="'" line="3774" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/config/const/env/local.docker/app.php" timestamp="1608632105604">
-        <mark key="[" line="144" column="28" />
-        <mark key="]" line="144" column="31" />
-        <mark key="." line="144" column="31" />
-        <mark key="^" line="144" column="31" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbOnlineOrderDetailsTable.php" timestamp="1606455487563" />
       <file name="$USER_HOME$/workspace/sagooo_navi/routes/web.php" timestamp="1608278494794">
         <mark key="'" line="645" column="33" />
@@ -107,12 +101,6 @@
         <mark key="'" line="168" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/現ライターは前任ライターのチャット内容が見えたくない .md" timestamp="1606882475692" />
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/DeveloperController.php" timestamp="1607927614080">
-        <mark key="[" line="11" column="5" />
-        <mark key="]" line="9" column="3" />
-        <mark key="^" line="9" column="3" />
-        <mark key="." line="9" column="3" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/webroot_src/js/pages/Admin/AdminOnlineOrder/detail.js" timestamp="1606783875560" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Admin/AdminProgress/admin_record.ctp" timestamp="1608105908131">
         <mark key="[" line="99" column="0" />
@@ -127,6 +115,7 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" timestamp="1605235571108">
         <mark key="'" line="35" column="12" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/RegulationPublishRequestComponent.php" timestamp="1608711202383" />
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/detail/willgate.blade.php" timestamp="1605241584895" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/SalesDeliveryComponent.php" timestamp="1606374872995">
         <mark key="[" line="219" column="0" />
@@ -136,12 +125,6 @@
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/WritingUtilComponent.php" timestamp="1606984239197" />
       <file name="$USER_HOME$/workspace/sagooo_works/webroot_src/js/pages/Admin/SalesDelivery/detail.js" timestamp="1606369845221" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/reward/index.blade.php" timestamp="1607309568772">
-        <mark key="[" line="162" column="81" />
-        <mark key="]" line="162" column="84" />
-        <mark key="." line="162" column="84" />
-        <mark key="^" line="162" column="84" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/.env.testing" timestamp="1606278371603" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/AdminRewardHistory/edit_irregular.ctp" timestamp="1607995761050" />
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/alert_regulation_sheet_panel.blade.php" timestamp="1605663116934">
@@ -225,12 +208,6 @@
         <mark key="." line="32" column="111" />
         <mark key="^" line="32" column="111" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/DevelopController.php" timestamp="1607927350153">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="3" />
-        <mark key="." line="8" column="3" />
-        <mark key="^" line="8" column="3" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbSalesforceDeliveriesTable.php" timestamp="1606353927854" />
       <file name="$USER_HOME$/workspace/sawa_renewal/works/app/vendors/shells/point_lose.php" timestamp="1606811431536" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbGroupDeliveryManagesTable.php" timestamp="1608707120394" />
@@ -253,12 +230,6 @@
         <mark key="^" line="1987" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Shell/PointLostBeforeMailShell.php" timestamp="1606805466636" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/hs_upload_before_check_modal.php" timestamp="1605084973437">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="0" column="83" />
-        <mark key="." line="36" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/PaymentReportController.php" timestamp="1607328329810">
         <mark key="'" line="39" column="17" />
         <mark key="[" line="38" column="0" />
@@ -351,8 +322,12 @@
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Front/Writing/Index/work_list.ctp" timestamp="1606984207941" />
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/SalesRegulationPublishRequestController.php" timestamp="1608709206317">
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/SalesRegulationPublishRequestController.php" timestamp="1608711480782">
         <mark key="'" line="15" column="42" />
+        <mark key="[" line="997" column="20" />
+        <mark key="]" line="997" column="20" />
+        <mark key="^" line="997" column="20" />
+        <mark key="." line="997" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/チェーンオファー/Ph1/WGはクリエイターへチェーンオファーを出せる.md" timestamp="1606789922346" />
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/step_edit_form.blade.php" timestamp="1605245114382">
@@ -377,12 +352,6 @@
         <mark key="'" line="16" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/cron/env/develop/crontab.txt" timestamp="1608709107433" />
-      <file name="$USER_HOME$/workspace/sagooo_works/config/const/env/local.docker/const_admin_online_order_env.php" timestamp="1608631493312">
-        <mark key="[" line="8" column="108" />
-        <mark key="]" line="8" column="7" />
-        <mark key="^" line="8" column="7" />
-        <mark key="." line="8" column="7" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/database/migrations/2020_08_13_180000_add_foreign_keys_to_dtb_chain_offer_target_users_table.php" timestamp="1606901047265">
         <mark key="[" line="36" column="11" />
         <mark key="]" line="36" column="7" />
@@ -535,11 +504,11 @@
       <jump line="12" column="6" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/ClientRoutes.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcGFyYWdyYXBoSWQpO2V4aXQ7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>!</text>
       </register>
       <register name="-" type="4">
-        <text>よ</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text>regulation</text>

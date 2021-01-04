@@ -124,6 +124,12 @@
         <mark key="^" line="99" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/work_groups/detail.blade.php" timestamp="1605243596559" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/PaymentReport/YearlyPaymentReport.php" timestamp="1606982379627">
+        <mark key="'" line="129" column="44" />
+        <mark key="[" line="130" column="0" />
+        <mark key="]" line="130" column="0" />
+        <mark key="." line="130" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" timestamp="1605235571108">
         <mark key="'" line="35" column="12" />
       </file>
@@ -264,10 +270,11 @@
         <mark key="'" line="21" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/[2019]アシカ4Q-7/クリエイターは支払調書へ遷移できる.md" timestamp="1606267788504" />
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/SalesDeliveryController.php" timestamp="1609726156439">
-        <mark key="[" line="2036" column="0" />
-        <mark key="]" line="2036" column="72" />
-        <mark key="." line="2036" column="0" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/SalesDeliveryController.php" timestamp="1609729688452">
+        <mark key="[" line="2024" column="0" />
+        <mark key="]" line="2024" column="0" />
+        <mark key="^" line="2026" column="85" />
+        <mark key="." line="2024" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Shell/PointLostBeforeMailShell.php" timestamp="1606805466636" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Api/TextWorkManageApiController.php" timestamp="1608785151837" />
@@ -292,6 +299,12 @@
         <mark key="." line="199" column="49" />
         <mark key="^" line="194" column="10" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Models/PaymentReport/YearlyPaymentReportTest.php" timestamp="1607302154630">
+        <mark key="'" line="171" column="13" />
+        <mark key="[" line="165" column="0" />
+        <mark key="]" line="170" column="7" />
+        <mark key="." line="274" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Eloquents/DtbPhotographerScore.php" timestamp="1605235846309" />
       <file name="$USER_HOME$/workspace/sagooo_works/tests/TestCase/Model/Table/DtbPointDetailsTableTest.php" timestamp="1606795528624" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/User/UserRepository.php" timestamp="1606961228746">
@@ -313,8 +326,8 @@
         <mark key="'" line="946" column="55" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/env/develop/app.php" timestamp="1608632728266" />
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbDeliveryDatasTable.php" timestamp="1608862760166">
-        <mark key="'" line="297" column="32" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbDeliveryDatasTable.php" timestamp="1609729429895">
+        <mark key="'" line="287" column="0" />
         <mark key="[" line="287" column="0" />
         <mark key="]" line="287" column="0" />
         <mark key="." line="287" column="0" />
@@ -427,7 +440,6 @@
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbClientFavorsTable.php" timestamp="1607499498224" />
     </filemarks>
     <jumps>
-      <jump line="137" column="28" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/AppTable.php" />
       <jump line="138" column="13" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/AppTable.php" />
       <jump line="12" column="6" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/ClientRoutes.php" />
       <jump line="22" column="29" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbDeliveryDatasTable.php" />
@@ -527,10 +539,11 @@
       <jump line="2053" column="18" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/SalesDeliveryController.php" />
       <jump line="40" column="32" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/SalesDelivery/edit.ctp" />
       <jump line="182" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/SalesDelivery/edit.ctp" />
+      <jump line="287" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbDeliveryDatasTable.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkZXh0ZXJuYWxEZWxpdmVyeURhdGUsICRleHRlcm5hbERlbGl2ZXJ5RGF0ZXRpbWUpO2V4aXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkaG9nZSA9IG5ldyBcRGF0ZVRpbWUoJzAwMDAtMDAtMDAgMDA6MDA6MDAnKTsKICAgICAgICB2YXJfZHVtcCgkaG9nZS0+Zm9ybWF0KCdZLW0tZCBIOmk6cycpKTtleGl0OwoK</text>
       </register>
       <register name="-" type="4">
         <text>new \DateTime('0000-00-00')</text>
@@ -542,34 +555,34 @@
         <text encoding="base64">ICAgICAgICAgICAgLy8gdmlld+OBq+OCqOODqeODvOWGheWuueOCkui/lOOBmQogICAgICAgICAgICAkdGhpcy0+Rmxhc2gtPmVycm9yKCfln7rmnKzmg4XloLHjga7mm7TmlrDjgavlpLHmlZfjgZfjgb7jgZfjgZ/jgIInKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkZXh0ZXJuYWxEZWxpdmVyeURhdGUsICRleHRlcm5hbERlbGl2ZXJ5RGF0ZXRpbWUpO2V4aXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkaG9nZSA9IG5ldyBcRGF0ZVRpbWUoJzAwMDAtMDAtMDAgMDA6MDA6MDAnKTsKICAgICAgICB2YXJfZHVtcCgkaG9nZS0+Zm9ybWF0KCdZLW0tZCBIOmk6cycpKTtleGl0OwoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcChuZXcgXERhdGVUaW1lKCcwMDAwLTAwLTAwJykpO2V4aXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkZXh0ZXJuYWxEZWxpdmVyeURhdGUsICRleHRlcm5hbERlbGl2ZXJ5RGF0ZXRpbWUpO2V4aXQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkaG9nZSA9ICcnOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcChuZXcgXERhdGVUaW1lKCcwMDAwLTAwLTAwJykpO2V4aXQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly92YXJfZHVtcCgkZXh0ZXJuYWxEZWxpdmVyeURhdGUsICRleHRlcm5hbERlbGl2ZXJ5RGF0ZS0+Zm9ybWF0KCdZLW0tZCcpLCAkZXh0ZXJuYWxEZWxpdmVyeURhdGV0aW1lLT5mb3JtYXQoJ1ktbS1kIEg6aTpzJykpO2V4aXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkaG9nZSA9ICcnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly92YXJfZHVtcCgkZXh0ZXJuYWxEZWxpdmVyeURhdGUsICRleHRlcm5hbERlbGl2ZXJ5RGF0ZS0+Zm9ybWF0KCdZLW0tZCcpLCAkZXh0ZXJuYWxEZWxpdmVyeURhdGV0aW1lLT5mb3JtYXQoJ1ktbS1kIEg6aTpzJykpO2V4aXQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcGFyYW1zWyd3aXRoaW5fZGVsaXZlcnlfZGF0ZSddKTtleGl0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkZGVsaXZlcnlCYXNlRGF0YS0+RHRiU2FsZXNmb3JjZURlbGl2ZXJpZXNbJ29yZGVyX25vJ10pOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcGFyYW1zWyd3aXRoaW5fZGVsaXZlcnlfZGF0ZSddKTtleGl0Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPD9waHAgdmFyX2R1bXAoJGRlbGl2ZXJ5QmFzZURhdGEtPkR0YlB1Ymxpc2hSZXF1ZXN0c1snb3JkZXJfbm8nXSk7ID8+Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkZGVsaXZlcnlCYXNlRGF0YS0+RHRiU2FsZXNmb3JjZURlbGl2ZXJpZXNbJ29yZGVyX25vJ10pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ0R0YlNhbGVzZm9yY2VEZWxpdmVyaWVzLm9yZGVyX25vJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPD9waHAgdmFyX2R1bXAoJGRlbGl2ZXJ5QmFzZURhdGEtPkR0YlB1Ymxpc2hSZXF1ZXN0c1snb3JkZXJfbm8nXSk7ID8+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

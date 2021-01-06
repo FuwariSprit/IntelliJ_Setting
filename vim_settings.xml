@@ -264,12 +264,12 @@
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientOnlineOrder/OrderForm/rough_estimate.ctp" timestamp="1606458234104" />
       <file name="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/[2019]アシカ4Q-7/クリエイターは支払調書へ遷移できる.md" timestamp="1606267788504" />
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/SalesDeliveryController.php" timestamp="1609909004261">
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/SalesDeliveryController.php" timestamp="1609914876737">
         <mark key="'" line="2244" column="0" />
-        <mark key="[" line="2033" column="0" />
-        <mark key="]" line="2033" column="18" />
-        <mark key="^" line="2033" column="18" />
-        <mark key="." line="2033" column="18" />
+        <mark key="[" line="2026" column="37" />
+        <mark key="]" line="2026" column="42" />
+        <mark key="^" line="2026" column="42" />
+        <mark key="." line="2026" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Shell/PointLostBeforeMailShell.php" timestamp="1606805466636" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Api/TextWorkManageApiController.php" timestamp="1608785151837" />
@@ -386,9 +386,9 @@
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" timestamp="1608024233507" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/OfferController.php" timestamp="1606710220783" />
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbPublishRequestsTable.php" timestamp="1609836403221">
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbPublishRequestsTable.php" timestamp="1609914885526">
         <mark key="'" line="1599" column="29" />
-        <mark key="[" line="1594" column="22" />
+        <mark key="[" line="1609" column="31" />
         <mark key="]" line="1594" column="22" />
         <mark key="^" line="1594" column="22" />
         <mark key="." line="1594" column="22" />
@@ -566,8 +566,8 @@
       <jump line="2244" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/SalesDeliveryController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8g5pW05b2i5Yem55CGCg==</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
@@ -579,34 +579,34 @@
         <text>$linkedPublishRequestDetail</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g5pW05b2i5Yem55CGCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAvLyA9PT09PT09PT09PT09PT09PT09PQogICAgICAgIC8vIER0YlB1Ymxpc2hSZXF1ZXN0c+OCkuWPluW+l+OBmeOCiwogICAgICAgIC8vID09PT09PT09PT09PT09PT09PT09Cg==</text>
       </register>
-      <register name="5" type="8">
+      <register name="6" type="8">
         <text encoding="base64">ICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAvLyAgICAgICAgICAgICAgICAgICAgICAgICAgJ2RlbGl2ZXJ5RGF0YUlkJyA9PiAkZGVsaXZlcnlEYXRhSWQsCiAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgICAgICAgICdwdWJsaXNoUmVxdWVzdElkJyA9PiDjg6rjgq/jgqjjgrnjg4jjg5Hjg6njg6Hjg7zjgr/jg7xbJ3B1Ymxpc2hfcmVxdWVzdF9pZCddCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAvLyDmnKzmnaXjga/ln7rmnKzmg4XloLHkv67mraPjga7pg6jliIbjgaDjgYzlhaXnqL/kvp3poLzntJDku5jjgZHjgosK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvL10K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPnJlZGlyZWN0KAogICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAnY29udHJvbGxlcicgPT4gJ0FkbWluL1NhbGVzRGVsaXZlcnknLAogICAgICAgICAgICAgICAgJ2FjdGlvbicgPT4gJ2VkaXQnLAogICAgICAgICAgICAgICAgJGRlbGl2ZXJ5RGF0YUlkLAogICAgICAgICAgICBdCiAgICAgICAgKTsK</text>
+        <text encoding="base64">ICAgICAgICAvL10K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

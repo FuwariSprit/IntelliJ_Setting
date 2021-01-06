@@ -14,8 +14,8 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/work_groups/create/InterviewFormItem.vue" timestamp="1605600881225" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/PaymentReport/GetYearlyPaymentReport.php" timestamp="1606267484489" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Common/Log.php" timestamp="1606377394436" />
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" timestamp="1608777037822">
-        <mark key="'" line="3134" column="17" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" timestamp="1609899073112">
+        <mark key="'" line="2877" column="0" />
         <mark key="[" line="2884" column="17" />
         <mark key="]" line="2884" column="17" />
         <mark key="^" line="2883" column="42" />
@@ -464,22 +464,6 @@
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbClientFavorsTable.php" timestamp="1607499498224" />
     </filemarks>
     <jumps>
-      <jump line="505" column="23" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" />
-      <jump line="513" column="18" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" />
-      <jump line="516" column="37" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" />
-      <jump line="524" column="18" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" />
-      <jump line="527" column="37" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" />
-      <jump line="532" column="23" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" />
-      <jump line="542" column="23" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" />
-      <jump line="762" column="18" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" />
-      <jump line="765" column="37" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" />
-      <jump line="774" column="18" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" />
-      <jump line="777" column="37" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" />
-      <jump line="799" column="18" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" />
-      <jump line="802" column="37" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" />
-      <jump line="845" column="18" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" />
-      <jump line="848" column="37" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" />
-      <jump line="871" column="18" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" />
       <jump line="874" column="37" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" />
       <jump line="896" column="18" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" />
       <jump line="899" column="37" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" />
@@ -564,6 +548,22 @@
       <jump line="1599" column="29" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbPublishRequestsTable.php" />
       <jump line="143" column="11" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="329" column="39" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
+      <jump line="2933" column="13" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" />
+      <jump line="3265" column="15" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" />
+      <jump line="2780" column="15" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" />
+      <jump line="2793" column="15" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" />
+      <jump line="3271" column="15" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" />
+      <jump line="3509" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" />
+      <jump line="3489" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" />
+      <jump line="3475" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" />
+      <jump line="3462" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" />
+      <jump line="3451" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" />
+      <jump line="3363" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" />
+      <jump line="3349" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" />
+      <jump line="3111" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" />
+      <jump line="3079" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" />
+      <jump line="2891" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" />
+      <jump line="2877" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -573,7 +573,7 @@
         <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>create</text>
+        <text>納品詳細</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvLyA9PT09PT09PT09PT09PT09PT09PQo=</text>
@@ -613,9 +613,9 @@
       </register>
     </registers>
     <search>
-      <last-search>create</last-search>
+      <last-search>納品詳細</last-search>
       <last-offset />
-      <last-pattern>create</last-pattern>
+      <last-pattern>納品詳細</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
       <last-dir>1</last-dir>
@@ -623,8 +623,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ajax_entry</entry>
-        <entry>getNextIdList</entry>
         <entry>get</entry>
         <entry>primary</entry>
         <entry>getLatestId</entry>
@@ -643,6 +641,8 @@
         <entry>pagenate</entry>
         <entry>getDetail</entry>
         <entry>create</entry>
+        <entry>納品データ</entry>
+        <entry>納品詳細</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

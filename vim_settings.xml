@@ -386,12 +386,12 @@
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" timestamp="1608024233507" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/OfferController.php" timestamp="1606710220783" />
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbPublishRequestsTable.php" timestamp="1609916464124">
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbPublishRequestsTable.php" timestamp="1609917954214">
         <mark key="'" line="1599" column="29" />
-        <mark key="[" line="1632" column="9" />
-        <mark key="]" line="1631" column="13" />
-        <mark key="^" line="1631" column="13" />
-        <mark key="." line="1631" column="13" />
+        <mark key="[" line="1636" column="58" />
+        <mark key="]" line="1636" column="61" />
+        <mark key="^" line="1636" column="61" />
+        <mark key="." line="1636" column="61" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/UI/ViewModels/RewardIndexViewModel.php" timestamp="1606981228460">
         <mark key="[" line="154" column="0" />
@@ -423,7 +423,7 @@
         <mark key="^" line="112" column="58" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/users/work_history.blade.php" timestamp="1607563204568" />
-      <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_work_manage.php" timestamp="1609833762944" />
+      <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_work_manage.php" timestamp="1609917960474" />
       <file name="$USER_HOME$/workspace/web_duplicate_check/src/app/Services/WebDuplicateCheck.php" timestamp="1607410086244" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Entity/DtbDeliveryData.php" timestamp="1608786148822" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/ApprovalOperator/TextApprovalController.php" timestamp="1608784735532">
@@ -566,47 +566,47 @@
       <jump line="2244" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/SalesDeliveryController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLiBDb25mOjpyKCdDT05TVC5XT1JLLk1BTkFHRS5ERUxJVkVSWV9QT1NTSUJMRScpIC4gJywgJwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>納品詳細</text>
       </register>
-      <register name="0" type="4">
-        <text>$linkedPublishRequestDetail</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLiBDb25mOjpyKCdDT05TVC5XT1JLLk1BTkFHRS5ERUxJVkVSWV9QT1NTSUJMRScpIC4gJywgJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g5pW05b2i5Yem55CGCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLiAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLiAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g5pW05b2i5Yem55CGCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyA9PT09PT09PT09PT09PT09PT09PQogICAgICAgIC8vIER0YlB1Ymxpc2hSZXF1ZXN0c+OCkuWPluW+l+OBmeOCiwogICAgICAgIC8vID09PT09PT09PT09PT09PT09PT09Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="6" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgICAgICAgICAgICAgICAgICAgJ2RlbGl2ZXJ5RGF0YUlkJyA9PiAkZGVsaXZlcnlEYXRhSWQsCiAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgICAgICAgICdwdWJsaXNoUmVxdWVzdElkJyA9PiDjg6rjgq/jgqjjgrnjg4jjg5Hjg6njg6Hjg7zjgr/jg7xbJ3B1Ymxpc2hfcmVxdWVzdF9pZCddCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyA9PT09PT09PT09PT09PT09PT09PQogICAgICAgIC8vIER0YlB1Ymxpc2hSZXF1ZXN0c+OCkuWPluW+l+OBmeOCiwogICAgICAgIC8vID09PT09PT09PT09PT09PT09PT09Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDmnKzmnaXjga/ln7rmnKzmg4XloLHkv67mraPjga7pg6jliIbjgaDjgYzlhaXnqL/kvp3poLzntJDku5jjgZHjgosK</text>
+      <register name="8" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL10K</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgICAgICAgICAgICAgICAgICAgJ2RlbGl2ZXJ5RGF0YUlkJyA9PiAkZGVsaXZlcnlEYXRhSWQsCiAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgICAgICAgICdwdWJsaXNoUmVxdWVzdElkJyA9PiDjg6rjgq/jgqjjgrnjg4jjg5Hjg6njg6Hjg7zjgr/jg7xbJ3B1Ymxpc2hfcmVxdWVzdF9pZCddCg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

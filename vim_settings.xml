@@ -143,7 +143,7 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" timestamp="1605235571108">
         <mark key="'" line="35" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/RegulationPublishRequestComponent.php" timestamp="1610002649397">
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/RegulationPublishRequestComponent.php" timestamp="1610004546102">
         <mark key="'" line="1710" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/detail/willgate.blade.php" timestamp="1605241584895" />
@@ -312,8 +312,8 @@
         <mark key="]" line="170" column="7" />
         <mark key="." line="274" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbWorkGroupsTable.php" timestamp="1610003743033">
-        <mark key="'" line="155" column="31" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbWorkGroupsTable.php" timestamp="1610004637651">
+        <mark key="'" line="5078" column="62" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Eloquents/DtbPhotographerScore.php" timestamp="1605235846309" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Front/WritingController.php" timestamp="1606980169485">
@@ -476,19 +476,6 @@
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbClientFavorsTable.php" timestamp="1607499498224" />
     </filemarks>
     <jumps>
-      <jump line="431" column="49" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbDeliveryDatasTable.php" />
-      <jump line="436" column="19" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbDeliveryDatasTable.php" />
-      <jump line="437" column="34" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbDeliveryDatasTable.php" />
-      <jump line="439" column="49" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbDeliveryDatasTable.php" />
-      <jump line="613" column="22" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbDeliveryDatasTable.php" />
-      <jump line="614" column="20" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbDeliveryDatasTable.php" />
-      <jump line="627" column="31" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbDeliveryDatasTable.php" />
-      <jump line="676" column="34" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbDeliveryDatasTable.php" />
-      <jump line="677" column="101" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbDeliveryDatasTable.php" />
-      <jump line="679" column="32" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbDeliveryDatasTable.php" />
-      <jump line="680" column="99" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbDeliveryDatasTable.php" />
-      <jump line="690" column="31" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbDeliveryDatasTable.php" />
-      <jump line="89" column="24" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbDeliveryDatasTable.php" />
       <jump line="92" column="24" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbDeliveryDatasTable.php" />
       <jump line="273" column="13" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbDeliveryDatasTable.php" />
       <jump line="274" column="13" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbDeliveryDatasTable.php" />
@@ -576,6 +563,19 @@
       <jump line="6025" column="31" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbWorkGroupsTable.php" />
       <jump line="154" column="20" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbWorkGroupsTable.php" />
       <jump line="155" column="31" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbWorkGroupsTable.php" />
+      <jump line="153" column="8" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbWorkGroupsTable.php" />
+      <jump line="1932" column="20" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbWorkGroupsTable.php" />
+      <jump line="1935" column="9" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbWorkGroupsTable.php" />
+      <jump line="1936" column="19" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbWorkGroupsTable.php" />
+      <jump line="1938" column="37" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbWorkGroupsTable.php" />
+      <jump line="1950" column="9" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbWorkGroupsTable.php" />
+      <jump line="1954" column="17" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbWorkGroupsTable.php" />
+      <jump line="1959" column="55" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbWorkGroupsTable.php" />
+      <jump line="1961" column="31" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbWorkGroupsTable.php" />
+      <jump line="1964" column="37" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbWorkGroupsTable.php" />
+      <jump line="5043" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbWorkGroupsTable.php" />
+      <jump line="5557" column="26" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbWorkGroupsTable.php" />
+      <jump line="5078" column="62" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbWorkGroupsTable.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -585,7 +585,7 @@
         <text>。</text>
       </register>
       <register name="/" type="4">
-        <text>end_date</text>
+        <text>delivery_complete_date</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gdmlld+OBq+OCqOODqeODvOWGheWuueOCkui/lOOBmQogICAgICAgICAgICAkdGhpcy0+Rmxhc2gtPmVycm9yKCfml6LjgavlhaXnqL/kvp3poLzjga/ntJDjgaTjgYTjgabjgYTjgb7jgZnjgIInKTsKCiAgICAgICAgICAgIC8vIOe0jeWTgeODh+ODvOOCv+S/ruato+eUu+mdouOBuOODquODgOOCpOODrOOCr+ODiOOBmeOCiwogICAgICAgICAgICByZXR1cm4gJHRoaXMtPnJlZGlyZWN0KAogICAgICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgICAgICdjb250cm9sbGVyJyA9PiAnQWRtaW4vU2FsZXNEZWxpdmVyeScsCiAgICAgICAgICAgICAgICAgICAgJ2FjdGlvbicgPT4gJ2VkaXQnLAogICAgICAgICAgICAgICAgICAgICRkZWxpdmVyeURhdGFJZCwKICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgKTsK</text>
@@ -625,9 +625,9 @@
       </register>
     </registers>
     <search>
-      <last-search>end_date</last-search>
+      <last-search>delivery_complete_date</last-search>
       <last-offset />
-      <last-pattern>end_date</last-pattern>
+      <last-pattern>delivery_complete_date</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
       <last-dir>1</last-dir>
@@ -635,8 +635,6 @@
     </search>
     <history>
       <history-search>
-        <entry>update</entry>
-        <entry>external_delivery_date</entry>
         <entry>within_delivery_datetime</entry>
         <entry>within_delivery_date</entry>
         <entry>pagenate</entry>
@@ -653,8 +651,10 @@
         <entry>var_dump</entry>
         <entry>追加</entry>
         <entry>DtbWorkGroups登録処理に失敗しました。</entry>
+        <entry>save</entry>
         <entry>saveDataForPublishRequest</entry>
         <entry>end_date</entry>
+        <entry>delivery_complete_date</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

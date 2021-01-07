@@ -312,8 +312,8 @@
         <mark key="]" line="170" column="7" />
         <mark key="." line="274" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbWorkGroupsTable.php" timestamp="1610002704366">
-        <mark key="'" line="19" column="21" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbWorkGroupsTable.php" timestamp="1610003743033">
+        <mark key="'" line="155" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Eloquents/DtbPhotographerScore.php" timestamp="1605235846309" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Front/WritingController.php" timestamp="1606980169485">
@@ -384,7 +384,7 @@
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Front/Writing/Index/work_list.ctp" timestamp="1606984207941" />
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/SalesRegulationPublishRequestController.php" timestamp="1609996897969">
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/SalesRegulationPublishRequestController.php" timestamp="1610003896430">
         <mark key="'" line="1248" column="15" />
         <mark key="[" line="1274" column="0" />
         <mark key="]" line="1274" column="0" />
@@ -476,14 +476,6 @@
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbClientFavorsTable.php" timestamp="1607499498224" />
     </filemarks>
     <jumps>
-      <jump line="182" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/SalesDelivery/edit.ctp" />
-      <jump line="287" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbDeliveryDatasTable.php" />
-      <jump line="28" column="23" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbDeliveryDatasTable.php" />
-      <jump line="709" column="22" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbDeliveryDatasTable.php" />
-      <jump line="16" column="72" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbDeliveryDatasTable.php" />
-      <jump line="275" column="13" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbDeliveryDatasTable.php" />
-      <jump line="428" column="19" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbDeliveryDatasTable.php" />
-      <jump line="429" column="34" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbDeliveryDatasTable.php" />
       <jump line="431" column="49" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbDeliveryDatasTable.php" />
       <jump line="436" column="19" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbDeliveryDatasTable.php" />
       <jump line="437" column="34" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbDeliveryDatasTable.php" />
@@ -576,6 +568,14 @@
       <jump line="291" column="39" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/SalesDelivery/edit.ctp" />
       <jump line="1710" column="20" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/RegulationPublishRequestComponent.php" />
       <jump line="19" column="21" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbWorkGroupsTable.php" />
+      <jump line="5044" column="14" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbWorkGroupsTable.php" />
+      <jump line="5081" column="58" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbWorkGroupsTable.php" />
+      <jump line="5655" column="31" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbWorkGroupsTable.php" />
+      <jump line="5813" column="31" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbWorkGroupsTable.php" />
+      <jump line="5824" column="31" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbWorkGroupsTable.php" />
+      <jump line="6025" column="31" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbWorkGroupsTable.php" />
+      <jump line="154" column="20" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbWorkGroupsTable.php" />
+      <jump line="155" column="31" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbWorkGroupsTable.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -585,7 +585,7 @@
         <text>。</text>
       </register>
       <register name="/" type="4">
-        <text>saveDataForPublishRequest</text>
+        <text>end_date</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gdmlld+OBq+OCqOODqeODvOWGheWuueOCkui/lOOBmQogICAgICAgICAgICAkdGhpcy0+Rmxhc2gtPmVycm9yKCfml6LjgavlhaXnqL/kvp3poLzjga/ntJDjgaTjgYTjgabjgYTjgb7jgZnjgIInKTsKCiAgICAgICAgICAgIC8vIOe0jeWTgeODh+ODvOOCv+S/ruato+eUu+mdouOBuOODquODgOOCpOODrOOCr+ODiOOBmeOCiwogICAgICAgICAgICByZXR1cm4gJHRoaXMtPnJlZGlyZWN0KAogICAgICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgICAgICdjb250cm9sbGVyJyA9PiAnQWRtaW4vU2FsZXNEZWxpdmVyeScsCiAgICAgICAgICAgICAgICAgICAgJ2FjdGlvbicgPT4gJ2VkaXQnLAogICAgICAgICAgICAgICAgICAgICRkZWxpdmVyeURhdGFJZCwKICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgKTsK</text>
@@ -625,9 +625,9 @@
       </register>
     </registers>
     <search>
-      <last-search>saveDataForPublishRequest</last-search>
+      <last-search>end_date</last-search>
       <last-offset />
-      <last-pattern>saveDataForPublishRequest</last-pattern>
+      <last-pattern>end_date</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
       <last-dir>1</last-dir>
@@ -635,7 +635,6 @@
     </search>
     <history>
       <history-search>
-        <entry>注文</entry>
         <entry>update</entry>
         <entry>external_delivery_date</entry>
         <entry>within_delivery_datetime</entry>
@@ -655,6 +654,7 @@
         <entry>追加</entry>
         <entry>DtbWorkGroups登録処理に失敗しました。</entry>
         <entry>saveDataForPublishRequest</entry>
+        <entry>end_date</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

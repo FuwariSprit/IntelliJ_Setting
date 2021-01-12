@@ -466,8 +466,8 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/config/user_register_items.php" timestamp="1608097482313" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Utility/SalesForce/Client.php" timestamp="1606376558679" />
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/users/total_evaluate.blade.php" timestamp="1607576504521" />
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/SalesDelivery/edit.ctp" timestamp="1610412677280">
-        <mark key="'" line="299" column="47" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/SalesDelivery/edit.ctp" timestamp="1610427889791">
+        <mark key="'" line="27" column="59" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/AppTable.php" timestamp="1609924145801">
         <mark key="'" line="138" column="13" />
@@ -572,63 +572,63 @@
       <jump line="215" column="37" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/SalesDelivery/edit.ctp" />
       <jump line="268" column="41" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/SalesDelivery/edit.ctp" />
       <jump line="280" column="75" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/SalesDelivery/edit.ctp" />
-      <jump line="27" column="78" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/SalesDelivery/edit.ctp" />
       <jump line="308" column="47" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/SalesDelivery/edit.ctp" />
       <jump line="552" column="43" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/ClientRoutes.php" />
       <jump line="26" column="28" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Pages/Client/ClientMypage/index.ctp" />
       <jump line="49" column="72" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Pages/Client/ClientMypage/index.ctp" />
+      <jump line="27" column="59" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/SalesDelivery/edit.ctp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0iYWxlcnQgYWxlcnQtd2FybmluZyIgcm9sZT0iYWxlcnQiPgogICAgPHNtYWxsPuKAu+aXouOBq+eZuuazqOODl+ODqeODs+WwgueUqOODleOCqeODvOODoOOBi+OCieahiOS7tuOBruOBlOS+nemgvOOCkuOBl+OBpuOBhOOCi+WgtOWQiOOBr+OAgeOCquODs+ODqeOCpOODs+eZuuazqOips+e0sOeUu+mdouOBruODoeODg+OCu+ODvOOCuOS4iuOBq+OBpuOBiuWVj+OBhOWQiOOCj+OBm+OCkuOBiumhmOOBhOOBhOOBn+OBl+OBvuOBmeOAgjwvc21hbGw+CjwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJGRlbGl2ZXJ5RGF0YUlkLAo=</text>
       </register>
       <register name="-" type="4">
         <text>p</text>
       </register>
       <register name="/" type="4">
-        <text>お問い合わせ</text>
+        <text>解除</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvLyAgICAgICAgICAnZGVsaXZlcnlEYXRhSWQnICAgICAgICAgICAgICA9PiAkZGVsaXZlcnlEYXRhSWQsCiAgICAgICAgLy8gICAgICAgICAgJ2RlbGl2ZXJ5RGF0YVN0YXR1cycgICAgICAgICAgPT4gJHBhcmFtc1snZGVsaXZlcnlfZGF0YV9zdGF0dXMnXSwKICAgICAgICAvLyAgICAgICAgICAncHJpY2UnICAgICAgICAgICAgICAgICAgICAgICA9PiAkcGFyYW1zWydwcmljZSddLAogICAgICAgIC8vICAgICAgICAgICd3aXRoaW5EZWxpdmVyeURhdGUnICAgICAgICAgID0+ICR3aXRoaW5EZWxpdmVyeURhdGUsCiAgICAgICAgLy8gICAgICAgICAgJ3dpdGhpbkRlbGl2ZXJ5RGF0ZXRpbWUnICAgICAgPT4gJHdpdGhpbkRlbGl2ZXJ5RGF0ZXRpbWUsCiAgICAgICAgLy8gICAgICAgICAgJ2V4dGVybmFsRGVsaXZlcnlEYXRlJyAgICAgICAgPT4gJGV4dGVybmFsRGVsaXZlcnlEYXRlLAogICAgICAgIC8vICAgICAgICAgICdleHRlcm5hbERlbGl2ZXJ5RGF0ZXRpbWUnICAgID0+ICRleHRlcm5hbERlbGl2ZXJ5RGF0ZXRpbWUsCiAgICAgICAgLy8gICAgICAgICAgJ2lycmVndWxhckZsZycgICAgICAgICAgICAgICAgPT4gJHBhcmFtc1snaXJyZWd1bGFyX2ZsZyddLAogICAgICAgIC8vICAgICAgICAgICdhcnRpY2xlQ291bnQnICAgICAgICAgICAgICAgID0+ICRwYXJhbXNbJ2FydGljbGVfY291bnQnXSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0iYWxlcnQgYWxlcnQtd2FybmluZyIgcm9sZT0iYWxlcnQiPgogICAgPHNtYWxsPuKAu+aXouOBq+eZuuazqOODl+ODqeODs+WwgueUqOODleOCqeODvOODoOOBi+OCieahiOS7tuOBruOBlOS+nemgvOOCkuOBl+OBpuOBhOOCi+WgtOWQiOOBr+OAgeOCquODs+ODqeOCpOODs+eZuuazqOips+e0sOeUu+mdouOBruODoeODg+OCu+ODvOOCuOS4iuOBq+OBpuOBiuWVj+OBhOWQiOOCj+OBm+OCkuOBiumhmOOBhOOBhOOBn+OBl+OBvuOBmeOAgjwvc21hbGw+CjwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJGRlbGl2ZXJ5RGF0YUlkLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImFsZXJ0IGFsZXJ0LXdhcm5pbmciIHJvbGU9ImFsZXJ0Ij4KICAgICAgICA8c21hbGw+4oC75pei44Gr55m65rOo44OX44Op44Oz5bCC55So44OV44Kp44O844Og44GL44KJ5qGI5Lu244Gu44GU5L6d6aC844KS44GX44Gm44GE44KL5aC05ZCI44Gv44CB44Kq44Oz44Op44Kk44Oz55m65rOo6Kmz57Sw55S76Z2i44Gu44Oh44OD44K744O844K45LiK44Gr44Gm44GK5ZWP44GE5ZCI44KP44Gb44KS44GK6aGY44GE44GE44Gf44GX44G+44GZ44CCPC9zbWFsbD4KICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJhbGVydCBhbGVydC13YXJuaW5nIiByb2xlPSJhbGVydCI+CiAgICAgICAgICAgIDxzbWFsbD7igLvml6Ljgavnmbrms6jjg5fjg6njg7PlsILnlKjjg5Xjgqnjg7zjg6DjgYvjgonmoYjku7bjga7jgZTkvp3poLzjgpLjgZfjgabjgYTjgovloLTlkIjjga/jgIHjgqrjg7Pjg6njgqTjg7Pnmbrms6joqbPntLDnlLvpnaLjga7jg6Hjg4Pjgrvjg7zjgrjkuIrjgavjgabjgYrllY/jgYTlkIjjgo/jgZvjgpLjgYrpoZjjgYTjgYTjgZ/jgZfjgb7jgZnjgII8L3NtYWxsPgogICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0iYWxlcnQgYWxlcnQtd2FybmluZyIgcm9sZT0iYWxlcnQiPgogICAgPHNtYWxsPuKAu+aXouOBq+eZuuazqOODl+ODqeODs+WwgueUqOODleOCqeODvOODoOOBi+OCieahiOS7tuOBruOBlOS+nemgvOOCkuOBl+OBpuOBhOOCi+WgtOWQiOOBr+OAgeOCquODs+ODqeOCpOODs+eZuuazqOips+e0sOeUu+mdouOBruODoeODg+OCu+ODvOOCuOS4iuOBq+OBpuOBiuWVj+OBhOWQiOOCj+OBm+OCkuOBiumhmOOBhOOBhOOBn+OBl+OBvuOBmeOAgjwvc21hbGw+CjwvZGl2Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iYWxlcnQgYWxlcnQtd2FybmluZyIgcm9sZT0iYWxlcnQiPgogICAgICAgICAgICAgICAgPHNtYWxsPuKAu+aXouOBq+eZuuazqOODl+ODqeODs+WwgueUqOODleOCqeODvOODoOOBi+OCieahiOS7tuOBruOBlOS+nemgvOOCkuOBl+OBpuOBhOOCi+WgtOWQiOOBr+OAgeOCquODs+ODqeOCpOODs+eZuuazqOips+e0sOeUu+mdouOBruODoeODg+OCu+ODvOOCuOS4iuOBq+OBpuOBiuWVj+OBhOWQiOOCj+OBm+OCkuOBiumhmOOBhOOBhOOBn+OBl+OBvuOBmeOAgjwvc21hbGw+CiAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImFsZXJ0IGFsZXJ0LXdhcm5pbmciIHJvbGU9ImFsZXJ0Ij4KICAgICAgICA8c21hbGw+4oC75pei44Gr55m65rOo44OX44Op44Oz5bCC55So44OV44Kp44O844Og44GL44KJ5qGI5Lu244Gu44GU5L6d6aC844KS44GX44Gm44GE44KL5aC05ZCI44Gv44CB44Kq44Oz44Op44Kk44Oz55m65rOo6Kmz57Sw55S76Z2i44Gu44Oh44OD44K744O844K45LiK44Gr44Gm44GK5ZWP44GE5ZCI44KP44Gb44KS44GK6aGY44GE44GE44Gf44GX44G+44GZ44CCPC9zbWFsbD4KICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJhbGVydCBhbGVydC13YXJuaW5nIiByb2xlPSJhbGVydCI+CiAgICAgICAgICAgIDxzbWFsbD7igLvml6Ljgavnmbrms6jjg5fjg6njg7PlsILnlKjjg5Xjgqnjg7zjg6DjgYvjgonmoYjku7bjga7jgZTkvp3poLzjgpLjgZfjgabjgYTjgovloLTlkIjjga/jgIHjgqrjg7Pjg6njgqTjg7Pnmbrms6joqbPntLDnlLvpnaLjga7jg6Hjg4Pjgrvjg7zjgrjkuIrjgavjgabjgYrllY/jgYTlkIjjgo/jgZvjgpLjgYrpoZjjgYTjgYTjgZ/jgZfjgb7jgZnjgII8L3NtYWxsPgogICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNtYWxsPuKAu+aXouOBq+eZuuazqOODl+ODqeODs+WwgueUqOODleOCqeODvOODoOOBi+OCieahiOS7tuOBruOBlOS+nemgvOOCkuOBl+OBpuOBhOOCi+WgtOWQiOOBr+OAgeOCquODs+ODqeOCpOODs+eZuuazqOips+e0sOeUu+mdouOBruODoeODg+OCu+ODvOOCuOS4iuOBq+OBpuOBiuWVj+OBhOWQiOOCj+OBm+OCkuOBiumhmOOBhOOBhOOBn+OBl+OBvuOBmeOAgjwvc21hbGw+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iYWxlcnQgYWxlcnQtd2FybmluZyIgcm9sZT0iYWxlcnQiPgogICAgICAgICAgICAgICAgPHNtYWxsPuKAu+aXouOBq+eZuuazqOODl+ODqeODs+WwgueUqOODleOCqeODvOODoOOBi+OCieahiOS7tuOBruOBlOS+nemgvOOCkuOBl+OBpuOBhOOCi+WgtOWQiOOBr+OAgeOCquODs+ODqeOCpOODs+eZuuazqOips+e0sOeUu+mdouOBruODoeODg+OCu+ODvOOCuOS4iuOBq+OBpuOBiuWVj+OBhOWQiOOCj+OBm+OCkuOBiumhmOOBhOOBhOOBn+OBl+OBvuOBmeOAgjwvc21hbGw+CiAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHA+4oC75pei44Gr55m65rOo44OX44Op44Oz5bCC55So44OV44Kp44O844Og44GL44KJ5qGI5Lu244Gu44GU5L6d6aC844KS44GX44Gm44GE44KL5aC05ZCI44Gv44CB44Kq44Oz44Op44Kk44Oz55m65rOo6Kmz57Sw55S76Z2i44Gu44Oh44OD44K744O844K45LiK44Gr44Gm44GK5ZWP44GE5ZCI44KP44Gb44KS44GK6aGY44GE44GE44Gf44GX44G+44GZ44CCPC9wPgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHNtYWxsPuKAu+aXouOBq+eZuuazqOODl+ODqeODs+WwgueUqOODleOCqeODvOODoOOBi+OCieahiOS7tuOBruOBlOS+nemgvOOCkuOBl+OBpuOBhOOCi+WgtOWQiOOBr+OAgeOCquODs+ODqeOCpOODs+eZuuazqOips+e0sOeUu+mdouOBruODoeODg+OCu+ODvOOCuOS4iuOBq+OBpuOBiuWVj+OBhOWQiOOCj+OBm+OCkuOBiumhmOOBhOOBhOOBn+OBl+OBvuOBmeOAgjwvc21hbGw+Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGRkZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHA+4oC75pei44Gr55m65rOo44OX44Op44Oz5bCC55So44OV44Kp44O844Og44GL44KJ5qGI5Lu244Gu44GU5L6d6aC844KS44GX44Gm44GE44KL5aC05ZCI44Gv44CB44Kq44Oz44Op44Kk44Oz55m65rOo6Kmz57Sw55S76Z2i44Gu44Oh44OD44K744O844K45LiK44Gr44Gm44GK5ZWP44GE5ZCI44KP44Gb44KS44GK6aGY44GE44GE44Gf44GX44G+44GZ44CCPC9wPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>お問い合わせ</last-search>
+      <last-search>解除</last-search>
       <last-offset />
-      <last-pattern>お問い合わせ</last-pattern>
+      <last-pattern>解除</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
       <last-dir>1</last-dir>
@@ -649,13 +649,13 @@
         <entry>create</entry>
         <entry>sales</entry>
         <entry>entry</entry>
-        <entry>解除</entry>
         <entry>getDetailCon</entry>
         <entry>入稿依頼</entry>
         <entry>client_mypage</entry>
         <entry encoding="base64">PHNwYW4gY2xhc3M9ImdseXBoaWNvbiBnbHlwaGljb24tZW52ZWxvcGUiIGFyaWEtaGlkZGVuPSJ0cnVlIj48</entry>
         <entry encoding="base64">PHNwYW4gY2xhc3M9ImdseXBoaWNvbiBnbHlwaGljb24tZW52ZWxvcGUi</entry>
         <entry>お問い合わせ</entry>
+        <entry>解除</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

@@ -4,6 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Email/text/Shell/point_lost_before.ctp" timestamp="1606806975132" />
+      <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_url.php" timestamp="1610933856067" />
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/sass/service/component/_HsUploadBeforeCheckModal.scss" timestamp="1605574333592">
         <mark key="[" line="2" column="1" />
         <mark key="]" line="3" column="0" />
@@ -112,15 +113,10 @@
         <mark key="." line="51" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/app/Console/Kernel.php" timestamp="1610675129629" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/step_panel.blade.php" timestamp="1605243980697">
-        <mark key="[" line="203" column="0" />
-        <mark key="]" line="206" column="48" />
-        <mark key="." line="203" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/config/user_scores.php" timestamp="1604464588840">
         <mark key="'" line="219" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Routes/ClientRoutes.php" timestamp="1610415190732">
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Routes/ClientRoutes.php" timestamp="1610934205017">
         <mark key="'" line="552" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/tests/Fixture/DtbPublishRequestsFixture.php" timestamp="1609996556819">
@@ -183,11 +179,6 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
         <mark key="^" line="30" column="62" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientLandingPage/a8.ctp" timestamp="1610610025962">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Front/WritingController.php" timestamp="1606980169485">
         <mark key="'" line="609" column="9" />
@@ -338,6 +329,7 @@
         <mark key="." line="9" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/webroot_src/js/pages/Admin/AdminOnlineOrder/detail.js" timestamp="1606783875560" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientLoginController.php" timestamp="1610933877406" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientOnlineOrder/OrderForm/base_form_entry.ctp" timestamp="1605143100298">
         <mark key="'" line="0" column="0" />
       </file>
@@ -361,6 +353,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/SPL/SPL.php" timestamp="1606715238535" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Routes/FrontRoutes.php" timestamp="1610933691707">
+        <mark key="'" line="64" column="18" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" timestamp="1610701890243">
         <mark key="'" line="2008" column="133" />
       </file>
@@ -381,11 +376,6 @@
         <mark key="]" line="79" column="63" />
         <mark key="." line="79" column="63" />
         <mark key="^" line="79" column="63" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Entity/DtbPublishRequestGroupConnection.php" timestamp="1605491004174">
-        <mark key="[" line="16" column="6" />
-        <mark key="]" line="16" column="7" />
-        <mark key="." line="16" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/RewardController.php" timestamp="1608524675048">
         <mark key="'" line="118" column="18" />
@@ -523,10 +513,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="154" column="20" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbWorkGroupsTable.php" />
-      <jump line="155" column="31" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbWorkGroupsTable.php" />
-      <jump line="153" column="8" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbWorkGroupsTable.php" />
-      <jump line="1932" column="20" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbWorkGroupsTable.php" />
       <jump line="1935" column="9" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbWorkGroupsTable.php" />
       <jump line="1936" column="19" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbWorkGroupsTable.php" />
       <jump line="1938" column="37" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbWorkGroupsTable.php" />
@@ -623,6 +609,10 @@
       <jump line="800" column="38" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" />
       <jump line="1691" column="34" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" />
       <jump line="2008" column="133" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" />
+      <jump line="12" column="6" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/FrontRoutes.php" />
+      <jump line="22" column="11" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/FrontRoutes.php" />
+      <jump line="26" column="18" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/FrontRoutes.php" />
+      <jump line="64" column="18" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/FrontRoutes.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="8">
@@ -638,7 +628,7 @@
         <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>cancel</text>
+        <text>login</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZChjb25maWcoJ29yZGVyX3JlcXVlc3RfY2FuY2VsX2ZlZS4xLmZ1bGxfcGFpZC5vcmRlcl9jYW5jZWxfZmVlJykpOwo=</text>
@@ -684,9 +674,9 @@
       </register>
     </registers>
     <search>
-      <last-search>cancel</last-search>
+      <last-search>login</last-search>
       <last-offset />
-      <last-pattern>cancel</last-pattern>
+      <last-pattern>login</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
       <last-dir>1</last-dir>
@@ -694,7 +684,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ajaxPlanGroupEntryDone</entry>
         <entry>create</entry>
         <entry>sales</entry>
         <entry>entry</entry>
@@ -714,6 +703,7 @@
         <entry>dd</entry>
         <entry>ウィルゲートのSEO</entry>
         <entry>cancel</entry>
+        <entry>login</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

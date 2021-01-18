@@ -407,8 +407,8 @@
         <mark key="^" line="53" column="127" />
         <mark key="." line="53" column="127" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/cron/env/production/crontab.txt" timestamp="1610522864205">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/sagooo_works/cron/env/production/crontab.txt" timestamp="1610946816596">
+        <mark key="'" line="104" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/[2019]アシカ4Q-7/クリエイターは支払調書へ遷移できる.md" timestamp="1606267788504" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/SalesRegulationController.php" timestamp="1610080083853">
@@ -503,6 +503,7 @@
         <mark key="." line="36" column="7" />
         <mark key="^" line="36" column="7" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Shell/CheckTextDbMatchShell.php" timestamp="1610946807787" />
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_work_manage.php" timestamp="1610097061772" />
       <file name="$USER_HOME$/workspace/web_duplicate_check/src/app/Services/WebDuplicateCheck.php" timestamp="1607410086244" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Entity/DtbDeliveryData.php" timestamp="1608786148822" />
@@ -514,7 +515,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1935" column="9" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbWorkGroupsTable.php" />
       <jump line="1936" column="19" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbWorkGroupsTable.php" />
       <jump line="1938" column="37" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbWorkGroupsTable.php" />
       <jump line="1950" column="9" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbWorkGroupsTable.php" />
@@ -614,6 +614,7 @@
       <jump line="22" column="11" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/FrontRoutes.php" />
       <jump line="26" column="18" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/FrontRoutes.php" />
       <jump line="64" column="18" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/FrontRoutes.php" />
+      <jump line="104" column="43" filename="$USER_HOME$/workspace/sagooo_works/cron/env/production/crontab.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="8">
@@ -629,7 +630,7 @@
         <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>login</text>
+        <text>check_text_db_match</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZChjb25maWcoJ29yZGVyX3JlcXVlc3RfY2FuY2VsX2ZlZS4xLmZ1bGxfcGFpZC5vcmRlcl9jYW5jZWxfZmVlJykpOwo=</text>
@@ -675,9 +676,9 @@
       </register>
     </registers>
     <search>
-      <last-search>login</last-search>
+      <last-search>check_text_db_match</last-search>
       <last-offset />
-      <last-pattern>login</last-pattern>
+      <last-pattern>check_text_db_match</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
       <last-dir>1</last-dir>
@@ -685,7 +686,6 @@
     </search>
     <history>
       <history-search>
-        <entry>create</entry>
         <entry>sales</entry>
         <entry>entry</entry>
         <entry>getDetailCon</entry>
@@ -705,6 +705,7 @@
         <entry>ウィルゲートのSEO</entry>
         <entry>cancel</entry>
         <entry>login</entry>
+        <entry>check_text_db_match</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

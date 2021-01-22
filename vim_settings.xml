@@ -151,7 +151,9 @@
         <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/app/Console/Kernel.php" timestamp="1611299476510" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Score/TotalScore.php" timestamp="1611125514599" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Score/TotalScore.php" timestamp="1611304615883">
+        <mark key="'" line="54" column="31" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/step_panel.blade.php" timestamp="1611104585309">
         <mark key="[" line="203" column="0" />
         <mark key="]" line="206" column="48" />
@@ -584,15 +586,12 @@
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Entity/DtbDeliveryData.php" timestamp="1608786148822" />
       <file name="$USER_HOME$/workspace/sagooo_navi/config/user_register_items.php" timestamp="1608097482313" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Utility/SalesForce/Client.php" timestamp="1606376558679" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/users/total_evaluate.blade.php" timestamp="1607576504521" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/users/total_evaluate.blade.php" timestamp="1611304408648" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/SalesDelivery/edit.ctp" timestamp="1610427889791">
         <mark key="'" line="27" column="59" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="174" column="26" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbPublishRequestsTable.php" />
-      <jump line="340" column="20" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbPublishRequestsTable.php" />
-      <jump line="341" column="24" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbPublishRequestsTable.php" />
       <jump line="342" column="19" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbPublishRequestsTable.php" />
       <jump line="537" column="20" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbPublishRequestsTable.php" />
       <jump line="538" column="24" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbPublishRequestsTable.php" />
@@ -690,6 +689,9 @@
       <jump line="15" column="0" filename="$USER_HOME$/workspace/sagooo_navi/database/migrations/2021_01_20_181900_change_default_values_to_dtb_photographer_scores_table.php" />
       <jump line="24" column="0" filename="$USER_HOME$/workspace/sagooo_navi/database/migrations/2021_01_20_181900_change_default_values_to_dtb_photographer_scores_table.php" />
       <jump line="37" column="6" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/UserController.php" />
+      <jump line="31" column="20" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Score/TotalScore.php" />
+      <jump line="50" column="31" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Score/TotalScore.php" />
+      <jump line="54" column="31" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Score/TotalScore.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -699,7 +701,7 @@
         <text>r</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">PGIgY2xhc3M9Im1yMTAiPue3j+WQiOipleS+oe+8mg==</text>
+        <text>name</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICR1c2VyUmVjb3JkID0gJHRoaXMtPndyaXRlclNjb3JlRWxvcXVlbnQtPmZpbmQoJHVzZXJbJ3VzZXJfaWQnXSk7CgogICAgICAgICAgICAgICAgLy8gZHRiX3dyaXRlcl9zY29yZXPjgavjg6zjgrPjg7zjg4njgYzjgarjgYvjgaPjgZ/jgonmlrDopo/jgafkvZzmiJDjgZnjgosKICAgICAgICAgICAgICAgIGlmIChlbXB0eSgkdXNlclJlY29yZCkpIHsKICAgICAgICAgICAgICAgICAgICAkdGhpcy0+d3JpdGVyU2NvcmVFbG9xdWVudC0+Y3JlYXRlKFsKICAgICAgICAgICAgICAgICAgICAgICAgJ3VzZXJfaWQnICAgICAgICAgICA9PiAkdXNlclsndXNlcl9pZCddLAogICAgICAgICAgICAgICAgICAgICAgICAndG90YWxfc2NvcmUnICAgICAgID0+IDAsCiAgICAgICAgICAgICAgICAgICAgICAgICdteW5hdmlfcmFuaycgICAgICAgPT4gJHVzZXJbJ215bmF2aV9yYW5rJ10sCiAgICAgICAgICAgICAgICAgICAgICAgICdtYW5uZXJfc2NvcmUnICAgICAgPT4gMCwKICAgICAgICAgICAgICAgICAgICAgICAgJ3F1YWxpdHlfc2NvcmUnICAgICA9PiAwLAogICAgICAgICAgICAgICAgICAgICAgICAnaW50ZXJ2aWV3X3NraWxsJyAgID0+IDAsCiAgICAgICAgICAgICAgICAgICAgICAgICdmYWNpbGl0YXRvcl9za2lsbCcgPT4gMCwKICAgICAgICAgICAgICAgICAgICBdKTsKICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgJHRoaXMtPndyaXRlclNjb3JlRWxvcXVlbnQtPnVwZGF0ZSgKICAgICAgICAgICAgICAgICAgICAgICAgJHVzZXJbJ3VzZXJfaWQnXSwKICAgICAgICAgICAgICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgICAgICAgICAgICAgJ215bmF2aV9yYW5rJyA9PiAkdXNlclsnbXluYXZpX3JhbmsnXSwKICAgICAgICAgICAgICAgICAgICAgICAgXQogICAgICAgICAgICAgICAgICAgICk7CiAgICAgICAgICAgICAgICB9Cg==</text>
@@ -739,9 +741,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">PGIgY2xhc3M9Im1yMTAiPue3j+WQiOipleS+oe+8mg==</last-search>
+      <last-search>name</last-search>
       <last-offset />
-      <last-pattern encoding="base64">PGIgY2xhc3M9Im1yMTAiPue3j+WQiOipleS+oe+8mg==</last-pattern>
+      <last-pattern>name</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
       <last-dir>1</last-dir>
@@ -749,7 +751,6 @@
     </search>
     <history>
       <history-search>
-        <entry>入稿依頼</entry>
         <entry>client_mypage</entry>
         <entry encoding="base64">PHNwYW4gY2xhc3M9ImdseXBoaWNvbiBnbHlwaGljb24tZW52ZWxvcGUiIGFyaWEtaGlkZGVuPSJ0cnVlIj48</entry>
         <entry encoding="base64">PHNwYW4gY2xhc3M9ImdseXBoaWNvbiBnbHlwaGljb24tZW52ZWxvcGUi</entry>
@@ -769,6 +770,7 @@
         <entry>createUserEvaluateScore</entry>
         <entry>detail</entry>
         <entry encoding="base64">PGIgY2xhc3M9Im1yMTAiPue3j+WQiOipleS+oe+8mg==</entry>
+        <entry>name</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

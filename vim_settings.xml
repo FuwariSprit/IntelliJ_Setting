@@ -303,8 +303,8 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/User/User.php" timestamp="1607563065581">
         <mark key="'" line="349" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/UserController.php" timestamp="1611307534830">
-        <mark key="'" line="275" column="0" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/UserController.php" timestamp="1611539263542">
+        <mark key="'" line="212" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sawa_renewal/works/app/views/sales_project/irregular_delivery.ctp" timestamp="1606366897896" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbClientFavorsTable.php" timestamp="1607499498224" />
@@ -590,11 +590,11 @@
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Entity/DtbDeliveryData.php" timestamp="1608786148822" />
       <file name="$USER_HOME$/workspace/sagooo_navi/config/user_register_items.php" timestamp="1608097482313" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Utility/SalesForce/Client.php" timestamp="1606376558679" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/users/total_evaluate.blade.php" timestamp="1611307328990">
-        <mark key="[" line="81" column="32" />
-        <mark key="]" line="81" column="39" />
-        <mark key="." line="81" column="39" />
-        <mark key="^" line="81" column="39" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/users/total_evaluate.blade.php" timestamp="1611539678099">
+        <mark key="[" line="34" column="27" />
+        <mark key="]" line="34" column="34" />
+        <mark key="." line="34" column="34" />
+        <mark key="^" line="34" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/SalesDelivery/edit.ctp" timestamp="1610427889791">
         <mark key="'" line="27" column="59" />
@@ -698,7 +698,6 @@
       <jump line="199" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/UserController.php" />
       <jump line="204" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/UserController.php" />
       <jump line="210" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/UserController.php" />
-      <jump line="212" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/UserController.php" />
       <jump line="237" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/UserController.php" />
       <jump line="275" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/UserController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/users/search.blade.php" />
@@ -707,13 +706,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/users/table.blade.php" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/offer/user_list.blade.php" />
       <jump line="86" column="8" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/chain_offer/priority_order_list.blade.php" />
+      <jump line="212" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/UserController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRvdGFsU2NvcmUgPSAkc2NvcmUtPnRvdGFsU2NvcmUoKS0+dmFsdWUoKSA+IDAuMCA/ICRzY29yZS0+dG90YWxTY29yZSgpLT5uYW1lKCkgOiAnLSc7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>y</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>総合</text>
@@ -781,10 +781,10 @@
         <entry>login</entry>
         <entry>check_text_db_match</entry>
         <entry>createUserEvaluateScore</entry>
-        <entry>detail</entry>
         <entry encoding="base64">PGIgY2xhc3M9Im1yMTAiPue3j+WQiOipleS+oe+8mg==</entry>
         <entry>name</entry>
         <entry>search</entry>
+        <entry>detail</entry>
         <entry>総合</entry>
       </history-search>
       <history-cmd>

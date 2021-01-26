@@ -31,8 +31,8 @@
         <mark key="^" line="194" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbOnlineOrderDetailsTable.php" timestamp="1610960066410" />
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminProgressController.php" timestamp="1611567286306">
-        <mark key="'" line="13" column="6" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminProgressController.php" timestamp="1611635335151">
+        <mark key="'" line="51" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Eloquents/DtbUser.php" timestamp="1606960990534">
         <mark key="[" line="226" column="23" />
@@ -338,7 +338,7 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/config/admin_detail_items.php" timestamp="1610688199543" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/PaymentReport/GetYearlyPaymentReport.php" timestamp="1606267484489" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Common/Log.php" timestamp="1606377394436" />
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" timestamp="1610087712519">
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" timestamp="1611635327131">
         <mark key="'" line="2893" column="46" />
         <mark key="[" line="2906" column="60" />
         <mark key="]" line="2906" column="60" />
@@ -531,7 +531,7 @@
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientLandingPage/Element/reason.ctp" timestamp="1610610172714">
         <mark key="'" line="30" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/AdminNewProgress/work_manage_list.ctp" timestamp="1611567071608">
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/AdminNewProgress/work_manage_list.ctp" timestamp="1611635510827">
         <mark key="[" line="179" column="21" />
         <mark key="]" line="182" column="18" />
         <mark key="^" line="182" column="18" />
@@ -672,7 +672,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2228" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/SalesDeliveryController.php" />
       <jump line="2231" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/SalesDeliveryController.php" />
       <jump line="2238" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/SalesDeliveryController.php" />
       <jump line="2234" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/SalesDeliveryController.php" />
@@ -772,6 +771,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/users/total_evaluate.blade.php" />
       <jump line="34" column="35" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/users/total_evaluate.blade.php" />
       <jump line="13" column="6" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminProgressController.php" />
+      <jump line="51" column="36" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminProgressController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -781,7 +781,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>workManage</text>
+        <text>workManageList</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHt7ICFpc19udWxsKCR1c2VyU2NvcmUtPnRvdGFsU2NvcmUoKS0+dmFsdWUoKSkgPyAkdXNlclNjb3JlLT50b3RhbFNjb3JlKCktPm5hbWUoJ3VzZXInKSA6ICctJyB9fQo=</text>
@@ -821,9 +821,9 @@
       </register>
     </registers>
     <search>
-      <last-search>workManage</last-search>
+      <last-search>workManageList</last-search>
       <last-offset />
-      <last-pattern>workManage</last-pattern>
+      <last-pattern>workManageList</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
       <last-dir>1</last-dir>
@@ -831,7 +831,6 @@
     </search>
     <history>
       <history-search>
-        <entry>お問い合わせ</entry>
         <entry>解除</entry>
         <entry>企画</entry>
         <entry>案件</entry>
@@ -851,6 +850,7 @@
         <entry>detail</entry>
         <entry>総合</entry>
         <entry>workManage</entry>
+        <entry>workManageList</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

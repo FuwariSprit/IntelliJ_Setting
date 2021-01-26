@@ -23,15 +23,8 @@
         <mark key="." line="94" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/database/migrations/2018_07_02_212625_change_column_dtb_writer_scores.php" timestamp="1611211709157" />
-      <file name="$USER_HOME$/workspace/sagooo_works/config/const/env/local.docker/app.php" timestamp="1609987636444">
-        <mark key="'" line="120" column="23" />
-        <mark key="[" line="196" column="27" />
-        <mark key="]" line="196" column="27" />
-        <mark key="." line="196" column="27" />
-        <mark key="^" line="194" column="23" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbOnlineOrderDetailsTable.php" timestamp="1610960066410" />
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminProgressController.php" timestamp="1611635335151">
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminProgressController.php" timestamp="1611636236657">
         <mark key="'" line="51" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Eloquents/DtbUser.php" timestamp="1606960990534">
@@ -98,13 +91,6 @@
         <mark key="^" line="99" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/work_groups/detail.blade.php" timestamp="1605243596559" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/database/migrations/2021_01_20_181900_change_default_values_to_dtb_photographer_scores_table.php" timestamp="1611215378383">
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="14" column="56" />
-        <mark key="]" line="14" column="56" />
-        <mark key="." line="14" column="56" />
-        <mark key="^" line="14" column="56" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Score/OverallInterviewSkill.php" timestamp="1611031295558" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" timestamp="1611126433704">
         <mark key="'" line="831" column="76" />
@@ -286,6 +272,7 @@
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/env/local.docker/const_mail_env.php" timestamp="1606451916921" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Eloquents/DtbStepReview.php" timestamp="1608024177337" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Layout/admin_sidebar.ctp" timestamp="1611636222154" />
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_salesforce.php" timestamp="1606371820866" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Front/Writing/Index/work_list.ctp" timestamp="1606984207941" />
       <file name="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/チェーンオファー/Ph1/WGはクリエイターへチェーンオファーを出せる.md" timestamp="1606789922346" />
@@ -461,13 +448,6 @@
       <file name="$USER_HOME$/workspace/sagooo_works/tests/TestCase/Controller/Admin/SalesRegulationPublishRequestControllerTest.php" timestamp="1609993560199" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminArticleEntryController.php" timestamp="1608690792063" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/View/Helper/AdminIconHelper.php" timestamp="1608600255217" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Requests/Admin/WorkGroup/CheckAndUpdateInterviewNoRequest.php" timestamp="1604658227463">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="29" column="12" />
-        <mark key="]" line="29" column="12" />
-        <mark key="." line="29" column="12" />
-        <mark key="^" line="29" column="12" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_admin_delivery_data_status.php" timestamp="1608773123074">
         <mark key="[" line="14" column="1" />
         <mark key="]" line="14" column="1" />
@@ -531,11 +511,8 @@
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientLandingPage/Element/reason.ctp" timestamp="1610610172714">
         <mark key="'" line="30" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/AdminNewProgress/work_manage_list.ctp" timestamp="1611635510827">
-        <mark key="[" line="179" column="21" />
-        <mark key="]" line="182" column="18" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/AdminNewProgress/work_manage_list.ctp" timestamp="1611635635154">
         <mark key="^" line="182" column="18" />
-        <mark key="." line="182" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/chain_offer/priority_order_list.blade.php" timestamp="1611558112659">
         <mark key="'" line="86" column="8" />
@@ -612,11 +589,11 @@
         <mark key="]" line="1274" column="0" />
         <mark key="." line="1274" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbTextWorkManagesTable.php" timestamp="1611567709255">
-        <mark key="[" line="254" column="13" />
-        <mark key="]" line="282" column="56" />
-        <mark key="^" line="282" column="56" />
-        <mark key="." line="282" column="56" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbTextWorkManagesTable.php" timestamp="1611635911140">
+        <mark key="[" line="282" column="29" />
+        <mark key="]" line="282" column="49" />
+        <mark key="^" line="282" column="49" />
+        <mark key="." line="282" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/step_edit_form.blade.php" timestamp="1605245114382">
         <mark key="'" line="38" column="98" />
@@ -774,11 +751,11 @@
       <jump line="51" column="36" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminProgressController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmICgkdXNlclNjb3Jlc1sndG90YWxfc2NvcmUnXS0+dmFsdWUoKSA9PT0gMC4wICYmIGVtcHR5KCR1c2VyU2NvcmVzWyd0b3RhbF9zY29yZSddLT5uYW1lKCd1c2VyJykpKSB7CiAgICAgICAgJHRvdGFsU2NvcmUgPSAnLSc7Cgo=</text>
+      <register name="&quot;" type="4">
+        <text>レコード数が多いので、直近1ヶ月分だけ取得するようにする</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>レコード数が多いので、直近1ヶ月分だけ取得するようにする</text>
       </register>
       <register name="/" type="4">
         <text>workManageList</text>
@@ -787,34 +764,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHt7ICFpc19udWxsKCR1c2VyU2NvcmUtPnRvdGFsU2NvcmUoKS0+dmFsdWUoKSkgPyAkdXNlclNjb3JlLT50b3RhbFNjb3JlKCktPm5hbWUoJ3VzZXInKSA6ICctJyB9fQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmICgkdXNlclNjb3Jlc1sndG90YWxfc2NvcmUnXS0+dmFsdWUoKSA9PT0gMC4wICYmIGVtcHR5KCR1c2VyU2NvcmVzWyd0b3RhbF9zY29yZSddLT5uYW1lKCd1c2VyJykpKSB7CiAgICAgICAgJHRvdGFsU2NvcmUgPSAnLSc7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLSBb6L+95YqgXUlQ44Ki44OJ44Os44K5IC0tPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmICgkdXNlclNjb3Jlc1sndG90YWxfc2NvcmUnXS0+dmFsdWUoKSA9PT0gMC4wICYmIGVtcHR5KCR1c2VyU2NvcmVzWyd0b3RhbF9zY29yZSddLT5uYW1lKCd1c2VyJykpKSB7Cg==</text>
+        <text encoding="base64">ICAgIGlmICgkdXNlclNjb3Jlc1sndG90YWxfc2NvcmUnXS0+dmFsdWUoKSA9PT0gMC4wICYmIGVtcHR5KCR1c2VyU2NvcmVzWyd0b3RhbF9zY29yZSddLT5uYW1lKCd1c2VyJykpKSB7CiAgICAgICAgJHRvdGFsU2NvcmUgPSAnLSc7Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGlmICgkdXNlclNjb3Jlc1sndG90YWxfc2NvcmUnXS0+dmFsdWUoKSA9PT0gMC4wICYmIGVtcHR5KCR1c2VyU2NvcmVzWyd0b3RhbF9zY29yZSddLT5uYW1lKCd1c2VyJykpKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvL2RkKCR0aGlzLT52YWx1ZSwgJHRoaXMtPm15bmF2aVJhbmssICRyYW5rVHlwZSk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHt7ICFpc19udWxsKCR1c2VyU2NvcmUtPnRvdGFsU2NvcmUoKS0+dmFsdWUoKSkgPyAkdXNlclNjb3JlLT50b3RhbFNjb3JlKCktPm5hbWUoJ3VzZXInKSA6ICctJyB9fQo=</text>
+        <text encoding="base64">ICAgICAgICAvL2RkKCR0aGlzLT52YWx1ZSwgJHRoaXMtPm15bmF2aVJhbmssICRyYW5rVHlwZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+dmFsdWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHt7ICFpc19udWxsKCR1c2VyU2NvcmUtPnRvdGFsU2NvcmUoKS0+dmFsdWUoKSkgPyAkdXNlclNjb3JlLT50b3RhbFNjb3JlKCktPm5hbWUoJ3VzZXInKSA6ICctJyB9fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCghZW1wdHkoJHRoaXMtPm15bmF2aVJhbmspKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+dmFsdWUpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBAZGQoJHVzZXJTY29yZS0+dG90YWxTY29yZSgpLT5uYW1lKCd1c2VyJykpCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCghZW1wdHkoJHRoaXMtPm15bmF2aVJhbmspKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBAZGQoJHVzZXJTY29yZS0+dG90YWxTY29yZSgpLT5uYW1lKCd1c2VyJykpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

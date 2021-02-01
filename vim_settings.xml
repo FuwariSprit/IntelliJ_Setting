@@ -195,6 +195,12 @@
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Shell/PointLostBeforeMailShell.php" timestamp="1606805466636" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Api/TextWorkManageApiController.php" timestamp="1608785151837" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientOnlineOrder/OrderForm/detail_simple_form.ctp" timestamp="1612148219741">
+        <mark key="[" line="195" column="198" />
+        <mark key="]" line="195" column="198" />
+        <mark key="." line="195" column="198" />
+        <mark key="^" line="195" column="198" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/PaymentReportController.php" timestamp="1607328329810">
         <mark key="'" line="39" column="17" />
         <mark key="[" line="38" column="0" />
@@ -219,8 +225,8 @@
         <mark key="." line="2038" column="0" />
         <mark key="^" line="2035" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_client_online_order.php" timestamp="1610612854221">
-        <mark key="'" line="946" column="55" />
+      <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_client_online_order.php" timestamp="1612147189321">
+        <mark key="'" line="15" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminCsvDraftController.php" timestamp="1608689326537">
         <mark key="[" line="725" column="12" />
@@ -503,7 +509,6 @@
       <file name="$USER_HOME$/workspace/sagooo_works/src/Utility/SalesForce/Client.php" timestamp="1606376558679" />
     </filemarks>
     <jumps>
-      <jump line="2234" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/SalesDeliveryController.php" />
       <jump line="261" column="19" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/SalesDelivery/edit.ctp" />
       <jump line="183" column="16" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/SalesDelivery/edit.ctp" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/SalesDelivery/edit.ctp" />
@@ -603,58 +608,59 @@
       <jump line="51" column="36" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminProgressController.php" />
       <jump line="457" column="48" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbDeliveryManagesTable.php" />
       <jump line="408" column="20" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbDeliveryManagesTable.php" />
+      <jump line="15" column="13" filename="$USER_HOME$/workspace/sagooo_works/config/const/const_client_online_order.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8P3BocAogICAgICAgIGVjaG8gJHRoaXMtPkh0bWwtPmxpbmsoCiAgICAgICAgICAgICfmib/oqo3jg5rjg7zjgrjlk4Hos6rlkJHkuIrjgqLjg7PjgrHjg7zjg4jjga7jgYrpoZjjgYQnLAogICAgICAgICAgICBDb25mOjpyKCdDT05TVC5VUkxfRU5WLkFQUFJPVkFMX09QRVJBVE9SX0VOUVVFVEVfVVJMJykgLiAkbG9naW5Vc2VyRGF0YVsnRHRiQXBwT3BlcmF0b3JzJ11bJ2FwcF9vcGVyYXRvcl9pZCddLAogICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAnc3R5bGUnID0+ICd3aWR0aDogMjAwcHg7YmFja2dyb3VuZDogI0YwM0UwMjt0ZXh0LWFsaWduOiBjZW50ZXI7Y29sb3I6ICNmZmY7cGFkZGluZzogMTBweCAyNXB4O2JvcmRlci1yYWRpdXM6IDVweDttYXJnaW4tbGVmdDogMzBweDtib3JkZXI6IDFweCBzb2xpZCAjZmZmOycsCiAgICAgICAgICAgICAgICAnX2Z1bGwnID0+IHRydWUKICAgICAgICAgICAgXQogICAgICAgICk7CiAgICAgICAgPz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvL3x8ICFlbXB0eSgkZWFzeU1vZGUpKSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>getDeliveryData</text>
+        <text>INTRODUCTION_STATUS</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmFsaWFzRmllbGQoJ3B1Ymxpc2hfcmVxdWVzdF9pZCcpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8P3BocAogICAgICAgIGVjaG8gJHRoaXMtPkh0bWwtPmxpbmsoCiAgICAgICAgICAgICfmib/oqo3jg5rjg7zjgrjlk4Hos6rlkJHkuIrjgqLjg7PjgrHjg7zjg4jjga7jgYrpoZjjgYQnLAogICAgICAgICAgICBDb25mOjpyKCdDT05TVC5VUkxfRU5WLkFQUFJPVkFMX09QRVJBVE9SX0VOUVVFVEVfVVJMJykgLiAkbG9naW5Vc2VyRGF0YVsnRHRiQXBwT3BlcmF0b3JzJ11bJ2FwcF9vcGVyYXRvcl9pZCddLAogICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAnc3R5bGUnID0+ICd3aWR0aDogMjAwcHg7YmFja2dyb3VuZDogI0YwM0UwMjt0ZXh0LWFsaWduOiBjZW50ZXI7Y29sb3I6ICNmZmY7cGFkZGluZzogMTBweCAyNXB4O2JvcmRlci1yYWRpdXM6IDVweDttYXJnaW4tbGVmdDogMzBweDtib3JkZXI6IDFweCBzb2xpZCAjZmZmOycsCiAgICAgICAgICAgICAgICAnX2Z1bGwnID0+IHRydWUKICAgICAgICAgICAgXQogICAgICAgICk7CiAgICAgICAgPz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvL3x8ICFlbXB0eSgkZWFzeU1vZGUpKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgLy8g5aeU6KiX6ICF55So44Gu5om/6KqN44Oa44O844K45ZOB6LOq5ZCR5LiK44Ki44Oz44Kx44O844OIVVJMCiAgICAgICAgJ0FQUFJPVkFMX09QRVJBVE9SX0VOUVVFVEVfVVJMJyA9PiAnaHR0cHM6Ly9kb2NzLmdvb2dsZS5jb20vZm9ybXMvZC9lLzFGQUlwUUxTZVRZUDhxbGY5N2Q3MS12cVhXa21SMzlXblMwVlFHY1h1RlVrX3pYcF9nSHl5My1nL3ZpZXdmb3JtP3VzcD1wcF91cmwmZW50cnkuNTQ1NDkzMjU9Jwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRpbnRyb2R1Y3Rpb25TdGF0dXMsICRjaGVja2VkLCAoJGludHJvZHVjdGlvblN0YXR1cyA9PT0gQ29uZjo6cignQ09OU1QuQ0xJRU5UX09OTElORV9PUkRFUi5JTlRST0RVQ1RJT05fU1RBVFVTLlJFUVVJUkVEJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgLy8g5aeU6KiX6ICF55So44Gu5om/6KqN44Oa44O844K45ZOB6LOq5ZCR5LiK44Ki44Oz44Kx44O844OIVVJMCiAgICAgICAgJ0FQUFJPVkFMX09QRVJBVE9SX0VOUVVFVEVfVVJMJyA9PiAnaHR0cHM6Ly9kb2NzLmdvb2dsZS5jb20vZm9ybXMvZC9lLzFGQUlwUUxTZVRZUDhxbGY5N2Q3MS12cVhXa21SMzlXblMwVlFHY1h1RlVrX3pYcF9nSHl5My1nL3ZpZXdmb3JtP3VzcD1wcF91cmwmZW50cnkuNTQ1NDkzMjU9Jwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8fCAhZW1wdHkoJGVhc3lNb2RlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgLy8g5aeU6KiX6ICF55So44Gu5om/6KqN44Oa44O844K45ZOB6LOq5ZCR5LiK44Ki44Oz44Kx44O844OIVVJMCiAgICAgICAgJ0FQUFJPVkFMX09QRVJBVE9SX0VOUVVFVEVfVVJMJyA9PiAnaHR0cHM6Ly9kb2NzLmdvb2dsZS5jb20vZm9ybXMvZC9lLzFGQUlwUUxTZTV6VWhRMHBFSW1MVTROanFyWnlIeHdSczR6ZXpOSm40eWRVcG82OGRULTJPZnR3L3ZpZXdmb3JtP3VzcD1wcF91cmwmZW50cnkuNTQ1NDkzMjU9Jwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfHwgIWVtcHR5KCRlYXN5TW9kZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgLy8g5aeU6KiX6ICF55So44Gu5om/6KqN44Oa44O844K45ZOB6LOq5ZCR5LiK44Ki44Oz44Kx44O844OIVVJMCiAgICAgICAgJ0FQUFJPVkFMX09QRVJBVE9SX0VOUVVFVEVfVVJMJyA9PiAnaHR0cHM6Ly9kb2NzLmdvb2dsZS5jb20vZm9ybXMvZC9lLzFGQUlwUUxTZVRZUDhxbGY5N2Q3MS12cVhXa21SMzlXblMwVlFHY1h1RlVrX3pYcF9nSHl5My1nL3ZpZXdmb3JtP3VzcD1wcF91cmwmZW50cnkuNTQ1NDkzMjU9Jwo=</text>
+        <text encoding="base64">ICAgICAgICA8P3BocAogICAgICAgIGVjaG8gJHRoaXMtPkh0bWwtPmxpbmsoCiAgICAgICAgICAgICfmib/oqo3jg5rjg7zjgrjlk4Hos6rlkJHkuIrjgqLjg7PjgrHjg7zjg4jjga7jgYrpoZjjgYQnLAogICAgICAgICAgICBDb25mOjpyKCdDT05TVC5VUkxfRU5WLkFQUFJPVkFMX09QRVJBVE9SX0VOUVVFVEVfVVJMJykgLiAkbG9naW5Vc2VyRGF0YVsnRHRiQXBwT3BlcmF0b3JzJ11bJ2FwcF9vcGVyYXRvcl9pZCddLAogICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAnc3R5bGUnID0+ICd3aWR0aDogMjAwcHg7YmFja2dyb3VuZDogI0YwM0UwMjt0ZXh0LWFsaWduOiBjZW50ZXI7Y29sb3I6ICNmZmY7cGFkZGluZzogMTBweCAyNXB4O2JvcmRlci1yYWRpdXM6IDVweDttYXJnaW4tbGVmdDogMzBweDtib3JkZXI6IDFweCBzb2xpZCAjZmZmOycsCiAgICAgICAgICAgICAgICAnX2Z1bGwnID0+IHRydWUKICAgICAgICAgICAgXQogICAgICAgICk7CiAgICAgICAgPz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CiAgICAgICAgLy8g5aeU6KiX6ICF55So44Gu5om/6KqN44Oa44O844K45ZOB6LOq5ZCR5LiK44Ki44Oz44Kx44O844OIVVJMCiAgICAgICAgJ0FQUFJPVkFMX09QRVJBVE9SX0VOUVVFVEVfVVJMJyA9PiAnaHR0cHM6Ly9kb2NzLmdvb2dsZS5jb20vZm9ybXMvZC9lLzFGQUlwUUxTZVRZUDhxbGY5N2Q3MS12cVhXa21SMzlXblMwVlFHY1h1RlVrX3pYcF9nSHl5My1nL3ZpZXdmb3JtP3VzcD1wcF91cmwmZW50cnkuNTQ1NDkzMjU9Jwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8YSBocmVmPSJodHRwczovL2RvY3MuZ29vZ2xlLmNvbS9mb3Jtcy9kL2UvMUZBSXBRTFNlVFlQOHFsZjk3ZDcxLXZxWFdrbVIzOVduUzBWUUdjWHVGVWtfelhwX2dIeXkzLWcvdmlld2Zvcm0/dXNwPXBwX3VybCZlbnRyeS41NDU0OTMyNT176Ieq5YuV44Gn5YWl44KL44KIfSIgdGFyZ2V0PSJfYmxhbmsiPgogICAgICAgICAgICA8ZGl2IHN0eWxlPSIKICAgIGRpc3BsYXk6IGlubGluZTsKICAgIHdpZHRoOiAyMDBweDsKICAgIGJhY2tncm91bmQ6ICNGMDNFMDI7CiAgICB0ZXh0LWFsaWduOiBjZW50ZXI7CiAgICBjb2xvcjogI2ZmZjsKICAgIHBhZGRpbmc6IDEwcHggMjVweDsKICAgIGJvcmRlci1yYWRpdXM6IDVweDsKICAgIG1hcmdpbi1sZWZ0OiAzMHB4OwogICAgYm9yZGVyOiAxcHggc29saWQgI2ZmZjsKICAgICI+5om/6KqN44Oa44O844K45ZOB6LOq5ZCR5LiK44Ki44Oz44Kx44O844OI44Gu44GK6aGY44GEPC9kaXY+CiAgICAgICAgPC9hPgo=</text>
+        <text encoding="base64">CiAgICAgICAgLy8g5aeU6KiX6ICF55So44Gu5om/6KqN44Oa44O844K45ZOB6LOq5ZCR5LiK44Ki44Oz44Kx44O844OIVVJMCiAgICAgICAgJ0FQUFJPVkFMX09QRVJBVE9SX0VOUVVFVEVfVVJMJyA9PiAnaHR0cHM6Ly9kb2NzLmdvb2dsZS5jb20vZm9ybXMvZC9lLzFGQUlwUUxTZVRZUDhxbGY5N2Q3MS12cVhXa21SMzlXblMwVlFHY1h1RlVrX3pYcF9nSHl5My1nL3ZpZXdmb3JtP3VzcD1wcF91cmwmZW50cnkuNTQ1NDkzMjU9Jwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxhIGhyZWY9Imh0dHBzOi8vZG9jcy5nb29nbGUuY29tL2Zvcm1zL2QvZS8xRkFJcFFMU2VIWFB6UkV0ekZfT3ZLcnJfUU5lRjZhdkxXYTJsRUs5cVJ0QTBLcm4tdVBLNlJVQS92aWV3Zm9ybT9lbnRyeS41NDU0OTMyNT08P3BocCBlY2hvICgkbG9naW5Vc2VyRGF0YVsnRHRiQ2xpZW50QWNjb3VudCddWydjbGllbnRfYWNjb3VudF9pZCddKTsgPz4gIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImJ0biBidG4taW5mb3BpbmsgbXQtMyBtYi00Ij4KICAgICAgICDlk4Hos6rlkJHkuIrjgqLjg7PjgrHjg7zjg4jjgas8YnI+CiAgICAgICAg44GU5Y2U5Yqb44GP44Gg44GV44GECiAgICA8L2E+Cg==</text>
+        <text encoding="base64">CiAgICAgICAgLy8g5aeU6KiX6ICF55So44Gu5om/6KqN44Oa44O844K45ZOB6LOq5ZCR5LiK44Ki44Oz44Kx44O844OIVVJMCiAgICAgICAgJ0FQUFJPVkFMX09QRVJBVE9SX0VOUVVFVEVfVVJMJyA9PiAnaHR0cHM6Ly9kb2NzLmdvb2dsZS5jb20vZm9ybXMvZC9lLzFGQUlwUUxTZTV6VWhRMHBFSW1MVTROanFyWnlIeHdSczR6ZXpOSm40eWRVcG82OGRULTJPZnR3L3ZpZXdmb3JtP3VzcD1wcF91cmwmZW50cnkuNTQ1NDkzMjU9Jwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgLy8g5aeU6KiX6ICF55So44Gu5om/6KqN44Oa44O844K45ZOB6LOq5ZCR5LiK44Ki44Oz44Kx44O844OIVVJMCiAgICAgICAgJ0FQUFJPVkFMX09QRVJBVE9SX0VOUVVFVEVfVVJMJyA9PiAnaHR0cHM6Ly9kb2NzLmdvb2dsZS5jb20vZm9ybXMvZC9lLzFGQUlwUUxTZVRZUDhxbGY5N2Q3MS12cVhXa21SMzlXblMwVlFHY1h1RlVrX3pYcF9nSHl5My1nL3ZpZXdmb3JtP3VzcD1wcF91cmwmZW50cnkuNTQ1NDkzMjU9Jwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>getDeliveryData</last-search>
+      <last-search>INTRODUCTION_STATUS</last-search>
       <last-offset />
-      <last-pattern>getDeliveryData</last-pattern>
+      <last-pattern>INTRODUCTION_STATUS</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
       <last-dir>1</last-dir>
@@ -662,7 +668,6 @@
     </search>
     <history>
       <history-search>
-        <entry>企画</entry>
         <entry>案件</entry>
         <entry>キャンセル</entry>
         <entry>anser</entry>
@@ -682,6 +687,7 @@
         <entry>workManage</entry>
         <entry>workManageList</entry>
         <entry>getDeliveryData</entry>
+        <entry>INTRODUCTION_STATUS</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

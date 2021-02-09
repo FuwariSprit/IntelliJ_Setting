@@ -4,6 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Email/text/Shell/point_lost_before.ctp" timestamp="1606806975132" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Admin/SalesWriter/detail_tab_area_check_summary.ctp" timestamp="1612834999826" />
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_url.php" timestamp="1610933856067" />
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/sass/service/component/_HsUploadBeforeCheckModal.scss" timestamp="1605574333592">
         <mark key="[" line="2" column="1" />
@@ -218,11 +219,6 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="30" column="62" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientLandingPage/a8.ctp" timestamp="1610610025962">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/tests/TestCase/Model/Table/DtbPointDetailsTableTest.php" timestamp="1606795528624" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Shell/OnlineOrderApprovalNotificationShell.php" timestamp="1610523302288" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/User/UserRepository.php" timestamp="1606961228746">
@@ -379,11 +375,6 @@
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/AdminProgress/list.ctp" timestamp="1611723667171">
         <mark key="'" line="168" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/offers/chain_offer_target_users/create.blade.php" timestamp="1611308871209">
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="0" />
-        <mark key="." line="116" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/MynaviEvaluate/Upload.php" timestamp="1612514001121" />
       <file name="$USER_HOME$/workspace/sagooo_works/webroot_src/js/pages/Admin/AdminOnlineOrder/detail.js" timestamp="1606783875560" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientLoginController.php" timestamp="1610934567103" />
@@ -398,14 +389,14 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/detail/willgate.blade.php" timestamp="1605241584895" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/WritingUtilComponent.php" timestamp="1606984239197" />
       <file name="$USER_HOME$/workspace/sagooo_navi/.env.testing" timestamp="1606278371603" />
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/AdminRewardHistory/edit_irregular.ctp" timestamp="1607995761050" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/AdminRewardHistory/edit_irregular.ctp" timestamp="1612834816999" />
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/alert_regulation_sheet_panel.blade.php" timestamp="1605663116934">
         <mark key="[" line="94" column="48" />
         <mark key="]" line="94" column="69" />
         <mark key="^" line="94" column="69" />
         <mark key="." line="94" column="69" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminRewardHistoryController.php" timestamp="1612489063523">
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminRewardHistoryController.php" timestamp="1612835527803">
         <mark key="'" line="19" column="6" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/SPL/SPL.php" timestamp="1606715238535" />
@@ -435,11 +426,6 @@
         <mark key="]" line="79" column="63" />
         <mark key="." line="79" column="63" />
         <mark key="^" line="79" column="63" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Entity/DtbPublishRequestGroupConnection.php" timestamp="1605491004174">
-        <mark key="[" line="16" column="6" />
-        <mark key="]" line="16" column="7" />
-        <mark key="." line="16" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/routes/api.php" timestamp="1612332469279" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Admin/SalesRegulationPublishRequest/Detail/article_request.ctp" timestamp="1610426051621" />
@@ -504,11 +490,6 @@
         <mark key="]" line="92" column="18" />
         <mark key="." line="92" column="18" />
         <mark key="^" line="92" column="18" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/database/migrations/2021_02_05_144300_add_column_dtb_reviewer_scores_table_mynavi_rank.php" timestamp="1612503899054">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbOnlineOrderEstimatesTable.php" timestamp="1606450491135" />
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/env/develop/const_mail_env.php" timestamp="1606451820105" />
@@ -682,7 +663,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>make</text>
+        <text>未確定</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBNeW5hdmlSYW5rCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBteW5hdmlSYW5rKCk6IE15bmF2aVJhbmsKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPm15bmF2aVJhbms7CiAgICB9Cg==</text>
@@ -722,9 +703,9 @@
       </register>
     </registers>
     <search>
-      <last-search>make</last-search>
+      <last-search>未確定</last-search>
       <last-offset />
-      <last-pattern>make</last-pattern>
+      <last-pattern>未確定</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
       <last-dir>1</last-dir>
@@ -732,7 +713,6 @@
     </search>
     <history>
       <history-search>
-        <entry>createUserEvaluateScore</entry>
         <entry encoding="base64">PGIgY2xhc3M9Im1yMTAiPue3j+WQiOipleS+oe+8mg==</entry>
         <entry>name</entry>
         <entry>detail</entry>
@@ -752,6 +732,7 @@
         <entry>index</entry>
         <entry>target_users</entry>
         <entry>make</entry>
+        <entry>未確定</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

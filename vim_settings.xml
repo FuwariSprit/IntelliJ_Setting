@@ -73,6 +73,9 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="9" column="2" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/AdminRewardHistory/index.ctp" timestamp="1612836341180">
+        <mark key="'" line="82" column="30" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Shell/OnlineOrderFirstNotificationShell.php" timestamp="1610522802734" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Pages/Client/ClientMypageOrder/order_list_table.ctp" timestamp="1610611518706" />
       <file name="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/[2019]アシカ4Q-4/WG経理は支払調書を確認できる.md" timestamp="1606184547715">
@@ -285,6 +288,7 @@
         <mark key="[" line="23" column="0" />
         <mark key="]" line="159" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Shell/RewardHistoryLogic/TextRewardHistoryLogic.php" timestamp="1612837112110" />
       <file name="$USER_HOME$/workspace/sagooo_works/design/admin.sagooo/sales/regulation_sheet/draft/include/draft_table_other.php" timestamp="1606368982127" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbOnlineOrdersTable.php" timestamp="1610523133974">
         <mark key="'" line="1743" column="29" />
@@ -388,6 +392,7 @@
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/detail/willgate.blade.php" timestamp="1605241584895" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/WritingUtilComponent.php" timestamp="1606984239197" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Domain/GiveTaxDiffForAppOperatorService.php" timestamp="1612836723297" />
       <file name="$USER_HOME$/workspace/sagooo_navi/.env.testing" timestamp="1606278371603" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/AdminRewardHistory/edit_irregular.ctp" timestamp="1612834816999" />
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/alert_regulation_sheet_panel.blade.php" timestamp="1605663116934">
@@ -405,11 +410,6 @@
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/CreateMonthlyPaymentSheet.php" timestamp="1607323880636" />
       <file name="$USER_HOME$/workspace/sagooo_navi/app/Providers/AuthServiceProvider.php" timestamp="1606278486638" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/docker/web/php.ini" timestamp="1612512630194">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/tests/TestCase/Controller/Admin/SalesRegulationPublishRequestControllerTest.php" timestamp="1609993560199" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Eloquents/DtbReviewerScore.php" timestamp="1612762181028">
         <mark key="[" line="71" column="100" />
@@ -440,7 +440,7 @@
         <mark key="^" line="53" column="127" />
         <mark key="." line="53" column="127" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/cron/env/production/crontab.txt" timestamp="1610946816596">
+      <file name="$USER_HOME$/workspace/sagooo_works/cron/env/production/crontab.txt" timestamp="1612836772089">
         <mark key="'" line="104" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/[2019]アシカ4Q-7/クリエイターは支払調書へ遷移できる.md" timestamp="1606267788504" />
@@ -554,12 +554,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1350" column="59" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="2671" column="94" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="2685" column="59" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="2764" column="59" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="4519" column="21" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="588" column="36" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
       <jump line="589" column="48" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
       <jump line="750" column="95" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
       <jump line="101" column="25" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/work_groups/cancel.blade.php" />
@@ -654,6 +648,12 @@
       <jump line="1662" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" />
       <jump line="2508" column="21" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/UserRepository.php" />
       <jump line="2370" column="5" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/UserRepository.php" />
+      <jump line="176" column="23" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/AdminRewardHistory/index.ctp" />
+      <jump line="9" column="22" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/AdminRewardHistory/index.ctp" />
+      <jump line="25" column="34" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/AdminRewardHistory/index.ctp" />
+      <jump line="40" column="34" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/AdminRewardHistory/index.ctp" />
+      <jump line="56" column="34" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/AdminRewardHistory/index.ctp" />
+      <jump line="82" column="30" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/AdminRewardHistory/index.ctp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -663,7 +663,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>未確定</text>
+        <text>Form</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBNeW5hdmlSYW5rCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBteW5hdmlSYW5rKCk6IE15bmF2aVJhbmsKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPm15bmF2aVJhbms7CiAgICB9Cg==</text>
@@ -703,9 +703,9 @@
       </register>
     </registers>
     <search>
-      <last-search>未確定</last-search>
+      <last-search>Form</last-search>
       <last-offset />
-      <last-pattern>未確定</last-pattern>
+      <last-pattern>Form</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
       <last-dir>1</last-dir>
@@ -713,7 +713,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">PGIgY2xhc3M9Im1yMTAiPue3j+WQiOipleS+oe+8mg==</entry>
         <entry>name</entry>
         <entry>detail</entry>
         <entry>総合</entry>
@@ -733,6 +732,7 @@
         <entry>target_users</entry>
         <entry>make</entry>
         <entry>未確定</entry>
+        <entry>Form</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

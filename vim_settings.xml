@@ -176,11 +176,11 @@
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_salesforce.php" timestamp="1606371820866" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/SagoooS3Table.php" timestamp="1612935993025" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Front/Writing/Index/work_list.ctp" timestamp="1606984207941" />
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/RewardHistoryComponent.php" timestamp="1613364206032">
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/RewardHistoryComponent.php" timestamp="1613364961906">
         <mark key="'" line="233" column="30" />
-        <mark key="[" line="280" column="9" />
-        <mark key="]" line="218" column="55" />
-        <mark key="." line="218" column="55" />
+        <mark key="[" line="282" column="0" />
+        <mark key="]" line="282" column="0" />
+        <mark key="." line="282" column="0" />
         <mark key="^" line="218" column="55" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/チェーンオファー/Ph1/WGはクリエイターへチェーンオファーを出せる.md" timestamp="1606789922346" />
@@ -194,7 +194,7 @@
         <mark key="^" line="112" column="58" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/users/work_history.blade.php" timestamp="1607563204568" />
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Shell/RewardHistoryLogic/TextRewardHistoryLogic.php" timestamp="1613096149419" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Shell/RewardHistoryLogic/TextRewardHistoryLogic.php" timestamp="1613364829319" />
       <file name="$USER_HOME$/workspace/sagooo_works/design/admin.sagooo/sales/regulation_sheet/draft/include/draft_table_other.php" timestamp="1606368982127" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbOnlineOrdersTable.php" timestamp="1610523133974">
         <mark key="'" line="1743" column="29" />
@@ -522,55 +522,55 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>updateStatus</text>
+        <text>getReward</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAtPmdldCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBdCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBdCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkYmFua051bWJlciA9ICcqKioqJyAuIHN1YnN0cigkc2hlZXRbJ3VzZXInXS0+YmFua0FjY291bnQoKS0+YWNjb3VudE51bWJlcigpLT52YWx1ZSgpLCA0LCAzKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJ+atouOBvuOBo+OBpuOCi+OCiCcpO2V4aXQ7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAkYmFua051bWJlciA9ICcqKioqJyAuIHN1YnN0cigkc2hlZXRbJ3VzZXInXS0+YmFua0FjY291bnQoKS0+YWNjb3VudE51bWJlcigpLT52YWx1ZSgpLCA0LCAzKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJ+atouOBvuOBo+OBpuOCi+OCiCcpO2V4aXQ7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCREdGJSZXdhcmRIaXN0b3JpZXMpO2V4aXQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search>updateStatus</last-search>
+      <last-search>getReward</last-search>
       <last-offset />
-      <last-pattern>updateStatus</last-pattern>
+      <last-pattern>getReward</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
       <last-dir>1</last-dir>
@@ -578,7 +578,6 @@
     </search>
     <history>
       <history-search>
-        <entry>workManageList</entry>
         <entry>getDeliveryData</entry>
         <entry encoding="base64">cmVxdWVzdC0+c2Vzc2lvbigpLT5yZWFk</entry>
         <entry>var_dump</entry>
@@ -598,6 +597,7 @@
         <entry>total_scores</entry>
         <entry>合計報酬額</entry>
         <entry>updateStatus</entry>
+        <entry>getReward</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>
@@ -613,8 +613,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>ws</entry>
         <entry>q</entry>
-        <entry>vs</entry>
         <entry>w</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />

@@ -559,6 +559,7 @@
         <mark key="." line="71" column="58" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminArticleEntryController.php" timestamp="1608690792063" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Eloquents/DtbStep.php" timestamp="1614766129617" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/View/Helper/AdminIconHelper.php" timestamp="1608600255217" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Requests/Admin/WorkGroup/CheckAndUpdateInterviewNoRequest.php" timestamp="1604658227463">
         <mark key="'" line="34" column="0" />
@@ -686,8 +687,8 @@
         <mark key="^" line="56" column="33" />
         <mark key="." line="56" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" timestamp="1614750150420">
-        <mark key="'" line="164" column="26" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" timestamp="1614765730275">
+        <mark key="'" line="686" column="61" />
         <mark key="[" line="860" column="51" />
         <mark key="]" line="860" column="63" />
         <mark key="^" line="860" column="63" />
@@ -813,13 +814,6 @@
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbTextHistoriesTable.php" timestamp="1613717287678" />
     </filemarks>
     <jumps>
-      <jump line="237" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/UserController.php" />
-      <jump line="275" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/UserController.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/users/search.blade.php" />
-      <jump line="222" column="73" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/users/search.blade.php" />
-      <jump line="71" column="58" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/users/search.blade.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/users/table.blade.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/offer/user_list.blade.php" />
       <jump line="86" column="8" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/chain_offer/priority_order_list.blade.php" />
       <jump line="212" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/UserController.php" />
       <jump line="79" column="59" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/users/total_evaluate.blade.php" />
@@ -913,6 +907,13 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sagooo_navi/bitbucket-pipelines.yml" />
       <jump line="163" column="42" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="164" column="26" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
+      <jump line="515" column="8" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
+      <jump line="571" column="61" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
+      <jump line="593" column="61" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
+      <jump line="617" column="61" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
+      <jump line="639" column="61" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
+      <jump line="661" column="61" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
+      <jump line="686" column="61" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -922,7 +923,7 @@
         <text>7</text>
       </register>
       <register name="/" type="4">
-        <text>step</text>
+        <text>detail</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChhcHAoKS0+ZW52aXJvbm1lbnQoJ3Byb2R1Y3Rpb24nKSkgewo=</text>
@@ -962,9 +963,9 @@
       </register>
     </registers>
     <search>
-      <last-search>step</last-search>
+      <last-search>detail</last-search>
       <last-offset />
-      <last-pattern>step</last-pattern>
+      <last-pattern>detail</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
       <last-dir>1</last-dir>
@@ -972,8 +973,6 @@
     </search>
     <history>
       <history-search>
-        <entry>make</entry>
-        <entry>未確定</entry>
         <entry>Form</entry>
         <entry>createUserEvaluateScore</entry>
         <entry>total_scores</entry>
@@ -992,6 +991,8 @@
         <entry>aws</entry>
         <entry>pip</entry>
         <entry>step</entry>
+        <entry>detai</entry>
+        <entry>detail</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

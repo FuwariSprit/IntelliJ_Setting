@@ -4,6 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Email/text/Shell/point_lost_before.ctp" timestamp="1606806975132" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Pages/Admin/AdminOnlineOrder/Common/group.ctp" timestamp="1616463460428" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Admin/SalesWriter/detail_tab_area_check_summary.ctp" timestamp="1612834999826" />
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_url.php" timestamp="1610933856067" />
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/sass/service/component/_HsUploadBeforeCheckModal.scss" timestamp="1605574333592">
@@ -157,7 +158,7 @@
         <mark key="." line="216" column="68" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepositoryTest.php" timestamp="1611208401340" />
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" timestamp="1610612494367">
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" timestamp="1616464011033">
         <mark key="'" line="395" column="33" />
         <mark key="[" line="886" column="0" />
         <mark key="]" line="886" column="0" />
@@ -287,7 +288,8 @@
         <mark key="." line="1839" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/Assign/CreateOfferAssign.php" timestamp="1616041997256" />
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Pages/Admin/AdminOnlineOrder/detail.ctp" timestamp="1608633481571">
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Pages/Admin/AdminOnlineOrder/detail.ctp" timestamp="1616463402880">
+        <mark key="'" line="465" column="84" />
         <mark key="[" line="521" column="0" />
         <mark key="]" line="521" column="0" />
         <mark key="^" line="521" column="27" />
@@ -606,7 +608,7 @@
         <mark key="." line="199" column="49" />
         <mark key="^" line="194" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbWorkGroupsTable.php" timestamp="1610004637651">
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbWorkGroupsTable.php" timestamp="1616464023814">
         <mark key="'" line="5078" column="62" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Eloquents/DtbPhotographerScore.php" timestamp="1605235846309" />
@@ -716,8 +718,6 @@
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbTextHistoriesTable.php" timestamp="1613717287678" />
     </filemarks>
     <jumps>
-      <jump line="386" column="63" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Layout/admin_sidebar.ctp" />
-      <jump line="60" column="20" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/AppTable.php" />
       <jump line="12" column="6" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/FrontRoutes.php" />
       <jump line="123" column="5" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbContactRoomsTable.php" />
       <jump line="142" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbContactRoomsTable.php" />
@@ -816,6 +816,8 @@
       <jump line="10" column="12" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/CreateAssign.php" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
       <jump line="23" column="6" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
+      <jump line="282" column="32" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Pages/Admin/AdminOnlineOrder/detail.ctp" />
+      <jump line="465" column="84" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Pages/Admin/AdminOnlineOrder/detail.ctp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -825,7 +827,7 @@
         <text>SagoooNavi\Infrastructure\Repositories\Domain</text>
       </register>
       <register name="/" type="4">
-        <text>textDown</text>
+        <text>グループ情報</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLT5hZGQoCiAgICAgICAgICAgICAgICAnb3ZlcnZpZXcnLAogICAgICAgICAgICAgICAgJ2N1c3RvbScsCiAgICAgICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAgICAgJ3J1bGUnID0+IGZ1bmN0aW9uICgkdmFsdWUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgJHN0ciA9IHN0cl9yZXBsYWNlKCJcclxuIiwgIlxuIiwgJHZhbHVlKTsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIFZhbGlkYXRpb246Om1heExlbmd0aCgkc3RyLCBDb25mOjpyKCdDT05TVC5DTElFTlRfT05MSU5FX09SREVSLk1BWF9MRU5HVEhfT1ZFUlZJRVcnKSk7CiAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAnbWVzc2FnZScgPT4gJ+iomOS6i+OBruWGheWuueOBrycgLiBDb25mOjpyKCdDT05TVC5DTElFTlRfT05MSU5FX09SREVSLk1BWF9MRU5HVEhfT1ZFUlZJRVcnKSAuICfmloflrZfku6XkuIvjgavjgZfjgabjgY/jgaDjgZXjgYTjgIInCiAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICk7Cg==</text>
@@ -865,9 +867,9 @@
       </register>
     </registers>
     <search>
-      <last-search>textDown</last-search>
+      <last-search>グループ情報</last-search>
       <last-offset />
-      <last-pattern>textDown</last-pattern>
+      <last-pattern>グループ情報</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
       <last-dir>1</last-dir>
@@ -875,9 +877,6 @@
     </search>
     <history>
       <history-search>
-        <entry>room-list</entry>
-        <entry>lea</entry>
-        <entry>aws</entry>
         <entry>pip</entry>
         <entry>step</entry>
         <entry>detai</entry>
@@ -895,6 +894,9 @@
         <entry>直接</entry>
         <entry>公募</entry>
         <entry>textDown</entry>
+        <entry>見積り</entry>
+        <entry>進捗</entry>
+        <entry>グループ情報</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

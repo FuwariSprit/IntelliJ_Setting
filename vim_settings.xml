@@ -800,7 +800,7 @@
         <text>V</text>
       </register>
       <register name="/" type="4">
-        <text>create</text>
+        <text>この取材への応募</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLT5hZGQoCiAgICAgICAgICAgICAgICAnb3ZlcnZpZXcnLAogICAgICAgICAgICAgICAgJ2N1c3RvbScsCiAgICAgICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAgICAgJ3J1bGUnID0+IGZ1bmN0aW9uICgkdmFsdWUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgJHN0ciA9IHN0cl9yZXBsYWNlKCJcclxuIiwgIlxuIiwgJHZhbHVlKTsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIFZhbGlkYXRpb246Om1heExlbmd0aCgkc3RyLCBDb25mOjpyKCdDT05TVC5DTElFTlRfT05MSU5FX09SREVSLk1BWF9MRU5HVEhfT1ZFUlZJRVcnKSk7CiAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAnbWVzc2FnZScgPT4gJ+iomOS6i+OBruWGheWuueOBrycgLiBDb25mOjpyKCdDT05TVC5DTElFTlRfT05MSU5FX09SREVSLk1BWF9MRU5HVEhfT1ZFUlZJRVcnKSAuICfmloflrZfku6XkuIvjgavjgZfjgabjgY/jgaDjgZXjgYTjgIInCiAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICk7Cg==</text>
@@ -840,9 +840,9 @@
       </register>
     </registers>
     <search>
-      <last-search>create</last-search>
+      <last-search>この取材への応募</last-search>
       <last-offset />
-      <last-pattern>create</last-pattern>
+      <last-pattern>この取材への応募</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
       <last-dir>1</last-dir>
@@ -850,7 +850,6 @@
     </search>
     <history>
       <history-search>
-        <entry>600</entry>
         <entry>sales</entry>
         <entry>現場同行なし</entry>
         <entry>show</entry>
@@ -870,6 +869,7 @@
         <entry>参考</entry>
         <entry>contact</entry>
         <entry>create</entry>
+        <entry>この取材への応募</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

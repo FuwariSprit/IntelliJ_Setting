@@ -78,6 +78,7 @@
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbClientsTable.php" timestamp="1604990018790">
         <mark key="'" line="735" column="36" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/config/filesystems.php" timestamp="1617263188646" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/AdminRewardHistory/index.ctp" timestamp="1612836341180">
         <mark key="'" line="82" column="30" />
       </file>
@@ -137,6 +138,7 @@
         <mark key="^" line="216" column="68" />
         <mark key="." line="216" column="68" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Work/StepUpload/StepUploadRepository.php" timestamp="1617264587444" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" timestamp="1616464011033">
         <mark key="'" line="395" column="33" />
         <mark key="[" line="886" column="0" />
@@ -150,6 +152,7 @@
         <mark key="^" line="51" column="13" />
         <mark key="." line="51" column="13" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Requests/Account/RegisterUserProfileDataRequest.php" timestamp="1617263732310" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminContactRoomController.php" timestamp="1613720579439">
         <mark key="[" line="92" column="48" />
         <mark key="]" line="92" column="48" />
@@ -162,7 +165,7 @@
         <mark key="^" line="191" column="34" />
         <mark key="." line="191" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/_ide_helper.php" timestamp="1617260225412" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/_ide_helper.php" timestamp="1617262619120" />
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/work_groups/steps/create/StepFormItem.vue" timestamp="1615533536242">
         <mark key="[" line="332" column="9" />
         <mark key="]" line="335" column="45" />
@@ -375,11 +378,12 @@
         <mark key="." line="115" column="73" />
         <mark key="^" line="115" column="73" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/AwsS3/FileRepository.php" timestamp="1617260019511">
-        <mark key="[" line="112" column="9" />
-        <mark key="]" line="111" column="21" />
-        <mark key="." line="111" column="21" />
-        <mark key="^" line="111" column="21" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/AwsS3/FileRepository.php" timestamp="1617266309360">
+        <mark key="'" line="11" column="15" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="116" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/users/picture.blade.php" timestamp="1617184294927" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Domain/SalseForceContractInformationData.php" timestamp="1616654349713">
@@ -447,6 +451,7 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" timestamp="1616998143317">
         <mark key="'" line="2008" column="133" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/AwsS3/StepUploadRepository.php" timestamp="1617265129855" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Eloquents/DtbReviewerScore.php" timestamp="1612762181028">
         <mark key="[" line="71" column="100" />
         <mark key="]" line="71" column="58" />
@@ -473,11 +478,10 @@
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/RegulationEstimateComponent.php" timestamp="1610008455150">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/config/anti_virus_check_scan_status.php" timestamp="1617259831900">
-        <mark key="[" line="6" column="17" />
-        <mark key="]" line="6" column="16" />
-        <mark key="^" line="6" column="16" />
-        <mark key="." line="6" column="16" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/config/anti_virus_check_scan_status.php" timestamp="1617263679987">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_regulation_publish_request.php" timestamp="1616744937040">
         <mark key="[" line="824" column="29" />
@@ -569,6 +573,7 @@
         <mark key="^" line="9" column="78" />
         <mark key="." line="9" column="78" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/operators/edit.blade.php" timestamp="1617263720738" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/OfferRepository.php" timestamp="1606709339614">
         <mark key="'" line="0" column="0" />
       </file>
@@ -628,7 +633,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="706" column="29" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientOnlineOrder/OrderForm/base_form_entry.ctp" />
       <jump line="707" column="25" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientOnlineOrder/OrderForm/base_form_entry.ctp" />
       <jump line="708" column="32" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientOnlineOrder/OrderForm/base_form_entry.ctp" />
       <jump line="733" column="29" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientOnlineOrder/OrderForm/base_form_entry.ctp" />
@@ -728,66 +732,66 @@
       <jump line="325" column="33" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/User/User.php" />
       <jump line="580" column="20" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/User/User.php" />
       <jump line="40" column="109" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/accounts/settings/profile/edit.blade.php" />
+      <jump line="11" column="15" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/AwsS3/FileRepository.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKi8K</text>
+        <text encoding="base64">dXNlIEF3c1xDb21tb25cQ3JlZGVudGlhbHNcQ3JlZGVudGlhbHNJbnRlcmZhY2U7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>G</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
-        <text>img</text>
+        <text encoding="base64">XDxGaWxlUmVwb3NpdG9yeVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLT5hZGQoCiAgICAgICAgICAgICAgICAnb3ZlcnZpZXcnLAogICAgICAgICAgICAgICAgJ2N1c3RvbScsCiAgICAgICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAgICAgJ3J1bGUnID0+IGZ1bmN0aW9uICgkdmFsdWUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgJHN0ciA9IHN0cl9yZXBsYWNlKCJcclxuIiwgIlxuIiwgJHZhbHVlKTsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIFZhbGlkYXRpb246Om1heExlbmd0aCgkc3RyLCBDb25mOjpyKCdDT05TVC5DTElFTlRfT05MSU5FX09SREVSLk1BWF9MRU5HVEhfT1ZFUlZJRVcnKSk7CiAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAnbWVzc2FnZScgPT4gJ+iomOS6i+OBruWGheWuueOBrycgLiBDb25mOjpyKCdDT05TVC5DTElFTlRfT05MSU5FX09SREVSLk1BWF9MRU5HVEhfT1ZFUlZJRVcnKSAuICfmloflrZfku6XkuIvjgavjgZfjgabjgY/jgaDjgZXjgYTjgIInCiAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKi8K</text>
+        <text encoding="base64">dXNlIEF3c1xDb21tb25cQ3JlZGVudGlhbHNcQ3JlZGVudGlhbHNJbnRlcmZhY2U7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdrZXknICAgID0+IGVudignQVdTX0FDQ0VTU19LRVlfSUQnKSwKICAgICAgICAgICAgICAgICdzZWNyZXQnID0+IGVudignQVdTX1NFQ1JFVF9BQ0NFU1NfS0VZJyksCiAgICAgICAgICAgIF0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICdTQ0FOTklORycgPT4gMCwKICAgICdDSEVDS0VEJyAgPT4gMSwKICAgICdJTkZFQ1RFRCcgPT4gMiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB2aXJ1c0NoZWNrU3RhdHVzKCk6IGludAogICAgewogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">ICAgIF0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxoMyBjbGFzcz0ic3ViamVjdC1zdWJfbWluIHRleHQtZGFuZ2VyIj7ms6jmhI88L2gzPgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgID4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2J1Y2tldCcK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PHA+5LiL6KiY44Gr6KiY6LyJ44GV44KM44Gm44GE44KL77yc5Y+W5p2Q5pel5pmC77ye77yc5Y+W5p2Q5aC05omA77ye77yc5LyB55S777ye44Go44CB44OS44Ki44Oq44Oz44Kw44K344O844OI44Gu6KiY6LyJ5LqL6aCF44Gr55u46YGV44GM44Gq44GE44GL44GU56K66KqN44GP44Gg44GV44GE44CC55u46YGV44GM44GC44KL5aC05ZCI44Gv44CB55m65rOo5ouF5b2T44Gu5pa544KS6YCa44GX44Gm44CB44Ki44K344Kr6YGL5Za25LqL5YuZ5bGA44G+44Gn44GU6YCj57Wh44GP44Gg44GV44GE44CCPC9wPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iU3BhY2VyIC1oMjAiPjwvZGl2PgogICAgICAgICAgICAgICAgPGgzIGNsYXNzPSJzdWJqZWN0LXN1Yl9taW4ganMtaHMtdXBsb2FkLWJlZm9yZS1jaGVjay1tb2RhbC1jbGllbnQiPjwvaDM+CiAgICAgICAgICAgICAgICA8dGFibGUgY2xhc3M9InRhYmxlIHRhYmxlLWxlZnQtaGVhZCI+CiAgICAgICAgICAgICAgICAgICAgPHRib2R5PgogICAgICAgICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgICAgICAgICAgPHRoPuWPluadkOaZgumWkzwvdGg+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0ianMtaHMtdXBsb2FkLWJlZm9yZS1jaGVjay1tb2RhbC1pbnRlcnZpZXctZGF0ZSI+PC90ZD4KICAgICAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgICAgICAgICAgPHRoPuWgtOaJgDwvdGg+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0ianMtaHMtdXBsb2FkLWJlZm9yZS1jaGVjay1tb2RhbC1pbnRlcnZpZXctbG9jYXRpb24iPjwvdGQ+CiAgICAgICAgICAgICAgICAgICAgPC90cj4KICAgICAgICAgICAgICAgICAgICA8dHI+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0aD7kvIHnlLs8L3RoPgogICAgICAgICAgICAgICAgICAgICAgICA8dGQgY2xhc3M9ImpzLWhzLXVwbG9hZC1iZWZvcmUtY2hlY2stbW9kYWwtcHJvZHVjdCI+PC90ZD4KICAgICAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgICAgICAgIDwvdGJvZHk+CiAgICAgICAgICAgICAgICA8L3RhYmxlPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iU3BhY2VyIC1oMjAiPjwvZGl2</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ2J1Y2tldCcgPT4gZW52KCdBV1NfQlVDS0VUJyksCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>img</last-search>
+      <last-search encoding="base64">XDxGaWxlUmVwb3NpdG9yeVw+</last-search>
       <last-offset />
-      <last-pattern>img</last-pattern>
+      <last-pattern encoding="base64">XDxGaWxlUmVwb3NpdG9yeVw+</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>グループ情報</entry>
         <entry>pixta</entry>
         <entry>download</entry>
         <entry>detail</entry>
@@ -807,6 +811,7 @@
         <entry>userId</entry>
         <entry>favoriteGenres</entry>
         <entry>img</entry>
+        <entry encoding="base64">XDxGaWxlUmVwb3NpdG9yeVw+</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

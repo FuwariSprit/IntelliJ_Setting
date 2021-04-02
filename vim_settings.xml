@@ -162,7 +162,12 @@
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Front/WritingController.php" timestamp="1613372193171">
         <mark key="'" line="609" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/Assign/CreateOfferAssign.php" timestamp="1617326744030" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/Assign/CreateOfferAssign.php" timestamp="1617327561885">
+        <mark key="[" line="64" column="8" />
+        <mark key="]" line="64" column="8" />
+        <mark key="." line="64" column="8" />
+        <mark key="^" line="64" column="8" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/database/migrations/2018_10_11_101239_create_dtb_monthly_payment_sheets_table.php" timestamp="1607323708379">
         <mark key="'" line="15" column="24" />
       </file>
@@ -254,10 +259,10 @@
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/AdminProgress/list.ctp" timestamp="1611723667171">
         <mark key="'" line="168" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/.env" timestamp="1617268901494">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/.env" timestamp="1617328113668">
+        <mark key="[" line="58" column="11" />
+        <mark key="]" line="58" column="11" />
+        <mark key="." line="58" column="11" />
         <mark key="^" line="58" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/RegulationPublishRequestComponent.php" timestamp="1616733207434">
@@ -327,12 +332,12 @@
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/env/production/app.php" timestamp="1604467231526">
         <mark key="'" line="359" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/Assign/CreateAssign.php" timestamp="1617326726488">
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/Assign/CreateAssign.php" timestamp="1617327718115">
         <mark key="'" line="56" column="8" />
-        <mark key="[" line="50" column="8" />
-        <mark key="]" line="50" column="8" />
-        <mark key="." line="50" column="8" />
-        <mark key="^" line="50" column="8" />
+        <mark key="[" line="51" column="12" />
+        <mark key="]" line="51" column="11" />
+        <mark key="." line="51" column="11" />
+        <mark key="^" line="51" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbWorkGroupsTable.php" timestamp="1616742135407">
         <mark key="'" line="5078" column="62" />
@@ -384,8 +389,12 @@
         <mark key="." line="36" column="7" />
         <mark key="^" line="36" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/CreateAssign.php" timestamp="1616042170664">
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/CreateAssign.php" timestamp="1617327575062">
         <mark key="'" line="10" column="12" />
+        <mark key="[" line="59" column="8" />
+        <mark key="]" line="59" column="8" />
+        <mark key="." line="59" column="8" />
+        <mark key="^" line="59" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Sftp/AssignSyncRepository.php" timestamp="1614572809086">
         <mark key="[" line="37" column="9" />
@@ -501,10 +510,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>assica.testing</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>assica.testing</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGaWxlUmVwb3NpdG9yeVw+</text>
@@ -543,7 +552,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICdrZXknICAgID0+IGVudignQVdTX0FDQ0VTU19LRVlfSUQnKSwKICAgICAgICAgICAgICAgICdzZWNyZXQnID0+IGVudignQVdTX1NFQ1JFVF9BQ0NFU1NfS0VZJyksCiAgICAgICAgICAgIF0sCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -591,9 +600,9 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>ws</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>vs</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />

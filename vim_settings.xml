@@ -10,6 +10,27 @@
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminProgressController.php" timestamp="1611636236657">
         <mark key="'" line="51" column="36" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Eloquents/DtbYearlyPaymentReportPublishStatus.php" timestamp="1606963457279">
+        <mark key="'" line="57" column="0" />
+        <mark key="[" line="54" column="4" />
+        <mark key="]" line="55" column="7" />
+        <mark key="." line="55" column="7" />
+        <mark key="^" line="55" column="7" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/offer/user_list.blade.php" timestamp="1611558144589">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="145" column="60" />
+        <mark key="]" line="145" column="60" />
+        <mark key="^" line="145" column="64" />
+        <mark key="." line="145" column="60" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Commands/User/CreateLastMonthPaymentSheet.php" timestamp="1613110754583">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="207" column="9" />
+        <mark key="]" line="207" column="32" />
+        <mark key="^" line="207" column="32" />
+        <mark key="." line="207" column="32" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbTmpParagraphKeywordsTable.php" timestamp="1608691925229">
         <mark key="'" line="189" column="35" />
       </file>
@@ -26,7 +47,28 @@
         <mark key="^" line="124" column="62" />
         <mark key="." line="124" column="62" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" timestamp="1613098650475">
+        <mark key="'" line="831" column="76" />
+        <mark key="[" line="456" column="17" />
+        <mark key="]" line="456" column="17" />
+        <mark key="." line="456" column="17" />
+        <mark key="^" line="456" column="17" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/navbar.blade.php" timestamp="1613528153790">
+        <mark key="'" line="199" column="85" />
+        <mark key="[" line="216" column="62" />
+        <mark key="]" line="216" column="68" />
+        <mark key="^" line="216" column="68" />
+        <mark key="." line="216" column="68" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Work/StepUpload/StepUploadRepository.php" timestamp="1617264587444" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" timestamp="1616464011033">
+        <mark key="'" line="395" column="33" />
+        <mark key="[" line="886" column="0" />
+        <mark key="]" line="886" column="0" />
+        <mark key="^" line="886" column="35" />
+        <mark key="." line="886" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Requests/Account/RegisterUserProfileDataRequest.php" timestamp="1617263732310" />
       <file name="$USER_HOME$/workspace/sagooo_navi/_ide_helper.php" timestamp="1617262619120" />
       <file name="$USER_HOME$/workspace/sagooo_navi/config/user_scores.php" timestamp="1612926503487">
@@ -34,6 +76,20 @@
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Routes/ClientRoutes.php" timestamp="1610934205017">
         <mark key="'" line="552" column="43" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/クリエイターは公開された支払調書しか見ることが出来ない.md" timestamp="1607481408288">
+        <mark key="'" line="142" column="0" />
+        <mark key="[" line="366" column="15" />
+        <mark key="]" line="366" column="114" />
+        <mark key="." line="366" column="114" />
+        <mark key="^" line="366" column="114" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/database/migrations/2020_12_03_115300_add_foreign_keys_to_dtb_yearly_payment_report_publish_statuses_table.php" timestamp="1611134841375">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="45" />
+        <mark key="." line="15" column="97" />
+        <mark key="^" line="15" column="97" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/docker/docker-compose.yml" timestamp="1617338721972">
         <mark key="'" line="0" column="0" />
@@ -44,9 +100,44 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/accounts/settings/profile/edit.blade.php" timestamp="1617184577107">
         <mark key="'" line="40" column="109" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientOnlineOrder/OrderForm/detail_simple_form.ctp" timestamp="1615367012242">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="209" column="82" />
+        <mark key="]" line="209" column="82" />
+        <mark key="." line="209" column="82" />
+        <mark key="^" line="209" column="82" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/PaymentReportController.php" timestamp="1607328329810">
+        <mark key="'" line="39" column="17" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="30" column="62" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/config/admin_login.php" timestamp="1617259651972" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Front/WritingController.php" timestamp="1613372193171">
         <mark key="'" line="609" column="9" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/User/UserRepository.php" timestamp="1606961228746">
+        <mark key="'" line="302" column="0" />
+        <mark key="[" line="302" column="0" />
+        <mark key="]" line="302" column="0" />
+        <mark key="." line="302" column="0" />
+        <mark key="^" line="302" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/UserRepository.php" timestamp="1612753565129">
+        <mark key="'" line="2370" column="5" />
+        <mark key="[" line="2400" column="100" />
+        <mark key="]" line="2400" column="92" />
+        <mark key="^" line="2400" column="92" />
+        <mark key="." line="2400" column="92" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_client_online_order.php" timestamp="1615269253240">
+        <mark key="'" line="10" column="65" />
+        <mark key="[" line="1839" column="9" />
+        <mark key="]" line="1839" column="27" />
+        <mark key="^" line="1839" column="35" />
+        <mark key="." line="1839" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/Assign/CreateOfferAssign.php" timestamp="1617343037456">
         <mark key="'" line="87" column="0" />
@@ -54,6 +145,13 @@
         <mark key="]" line="54" column="8" />
         <mark key="." line="54" column="8" />
         <mark key="^" line="54" column="8" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Pages/Admin/AdminOnlineOrder/detail.ctp" timestamp="1616463402880">
+        <mark key="'" line="465" column="84" />
+        <mark key="[" line="521" column="0" />
+        <mark key="]" line="521" column="0" />
+        <mark key="^" line="521" column="27" />
+        <mark key="." line="521" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/database/migrations/2018_10_11_101239_create_dtb_monthly_payment_sheets_table.php" timestamp="1607323708379">
         <mark key="'" line="15" column="24" />
@@ -64,11 +162,25 @@
         <mark key="." line="74" column="0" />
         <mark key="^" line="93" column="7" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_admin_text.php" timestamp="1617582823781">
+        <mark key="'" line="194" column="12" />
+        <mark key="[" line="216" column="0" />
+        <mark key="]" line="216" column="0" />
+        <mark key="." line="216" column="0" />
+        <mark key="^" line="216" column="62" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Layout/admin_sidebar.ctp" timestamp="1613710124474">
         <mark key="'" line="386" column="63" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Shell/RewardHistoryLogic/AbstractRewardHistoryLogic.php" timestamp="1613365295815">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/RewardHistoryComponent.php" timestamp="1613454717298">
+        <mark key="'" line="233" column="30" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="21" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/work_groups/steps/create.blade.php" timestamp="1615532071247">
         <mark key="'" line="39" column="0" />
@@ -76,6 +188,13 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/composer.lock" timestamp="1617260375795" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbParagraphKeywordsTable.php" timestamp="1607923489016">
         <mark key="'" line="16" column="6" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Client/ClientOnlineOrder/index.ctp" timestamp="1615273275172">
+        <mark key="'" line="101" column="24" />
+        <mark key="[" line="124" column="56" />
+        <mark key="]" line="124" column="56" />
+        <mark key="." line="124" column="56" />
+        <mark key="^" line="124" column="56" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/users/search.blade.php" timestamp="1611307566691">
         <mark key="'" line="71" column="58" />
@@ -89,6 +208,20 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/UserController.php" timestamp="1612426413020">
         <mark key="'" line="444" column="56" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" timestamp="1616652517163">
+        <mark key="'" line="1753" column="73" />
+        <mark key="[" line="2906" column="60" />
+        <mark key="]" line="2906" column="60" />
+        <mark key="^" line="2906" column="60" />
+        <mark key="." line="2906" column="60" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" timestamp="1615339615428">
+        <mark key="'" line="3777" column="15" />
+        <mark key="[" line="220" column="28" />
+        <mark key="]" line="220" column="52" />
+        <mark key="." line="219" column="22" />
+        <mark key="^" line="219" column="22" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/routes/web.php" timestamp="1616562112409">
         <mark key="'" line="478" column="72" />
       </file>
@@ -96,16 +229,51 @@
         <mark key="'" line="28" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/User/UserImage.php" timestamp="1617183530106" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" timestamp="1612762584651">
+        <mark key="'" line="1661" column="0" />
+        <mark key="[" line="1703" column="19" />
+        <mark key="]" line="1703" column="27" />
+        <mark key="." line="1703" column="27" />
+        <mark key="^" line="1703" column="27" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/interview.blade.php" timestamp="1617005615293">
+        <mark key="'" line="148" column="20" />
+        <mark key="[" line="115" column="52" />
+        <mark key="]" line="115" column="73" />
+        <mark key="." line="115" column="73" />
+        <mark key="^" line="115" column="73" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/AwsS3/FileRepository.php" timestamp="1617269767527" />
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/users/picture.blade.php" timestamp="1617184294927" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Domain/SalseForceContractInformationData.php" timestamp="1616654349713">
         <mark key="'" line="29" column="19" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbContactRoomsTable.php" timestamp="1613720613454">
+        <mark key="'" line="253" column="0" />
+        <mark key="[" line="237" column="23" />
+        <mark key="]" line="237" column="23" />
+        <mark key="." line="237" column="23" />
+        <mark key="^" line="237" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/SalesDelivery/index.ctp" timestamp="1607935966024">
         <mark key="'" line="353" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminClientController.php" timestamp="1604990088303">
         <mark key="'" line="14" column="6" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/database/migrations/2021_01_20_181900_change_default_values_to_dtb_writer_scores_table.php" timestamp="1611215394996">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="48" column="56" />
+        <mark key="]" line="48" column="56" />
+        <mark key="." line="48" column="56" />
+        <mark key="^" line="48" column="56" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbDeliveryManagesTable.php" timestamp="1611818953065">
+        <mark key="'" line="408" column="20" />
+        <mark key="[" line="415" column="31" />
+        <mark key="]" line="415" column="46" />
+        <mark key="." line="415" column="46" />
+        <mark key="^" line="415" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/config/database.php" timestamp="1617339233000">
         <mark key="'" line="15" column="22" />
@@ -120,12 +288,26 @@
         <mark key="." line="56" column="11" />
         <mark key="^" line="56" column="11" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientOnlineOrder/OrderForm/base_form_entry.ctp" timestamp="1615367578234">
+        <mark key="'" line="126" column="27" />
+        <mark key="[" line="483" column="64" />
+        <mark key="]" line="484" column="15" />
+        <mark key="." line="484" column="15" />
+        <mark key="^" line="484" column="15" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/RegulationPublishRequestComponent.php" timestamp="1616733207434">
         <mark key="'" line="1694" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/.env.testing" timestamp="1617268886857" />
       <file name="$USER_HOME$/workspace/sawa_renewal/works/app/controllers/admin/admin_survey_controller.php" timestamp="1610514059011">
         <mark key="'" line="3302" column="22" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminRewardHistoryController.php" timestamp="1613372273546">
+        <mark key="'" line="182" column="68" />
+        <mark key="[" line="381" column="109" />
+        <mark key="]" line="381" column="109" />
+        <mark key="." line="381" column="109" />
+        <mark key="^" line="381" column="109" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Routes/FrontRoutes.php" timestamp="1613718037323">
         <mark key="'" line="12" column="6" />
@@ -139,6 +321,20 @@
         <mark key="]" line="13" column="28" />
         <mark key="." line="13" column="28" />
         <mark key="^" line="13" column="28" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientOnlineOrder/OrderForm/entry_easy.ctp" timestamp="1615367505392">
+        <mark key="'" line="579" column="33" />
+        <mark key="[" line="329" column="40" />
+        <mark key="]" line="329" column="25" />
+        <mark key="." line="329" column="25" />
+        <mark key="^" line="329" column="25" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/work_groups/cancel.blade.php" timestamp="1610689348897">
+        <mark key="'" line="57" column="38" />
+        <mark key="[" line="79" column="70" />
+        <mark key="]" line="79" column="63" />
+        <mark key="." line="79" column="63" />
+        <mark key="^" line="79" column="63" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/RewardController.php" timestamp="1608524675048">
         <mark key="'" line="118" column="18" />
@@ -160,8 +356,29 @@
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientLandingPage/Element/reason.ctp" timestamp="1610610172714">
         <mark key="'" line="30" column="36" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/chain_offer/priority_order_list.blade.php" timestamp="1617184116785">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="97" column="60" />
+        <mark key="]" line="97" column="60" />
+        <mark key="." line="97" column="60" />
+        <mark key="^" line="83" column="14" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_admin_online_order.php" timestamp="1616742326307">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="390" column="32" />
+        <mark key="]" line="390" column="0" />
+        <mark key="." line="390" column="0" />
+        <mark key="^" line="390" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/env/production/app.php" timestamp="1604467231526">
         <mark key="'" line="359" column="33" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/制作担当にHSとアシカデータとの相違をチェックしてもらう.md" timestamp="1605750668104">
+        <mark key="'" line="31" column="30" />
+        <mark key="[" line="199" column="49" />
+        <mark key="]" line="199" column="49" />
+        <mark key="." line="199" column="49" />
+        <mark key="^" line="194" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/Assign/CreateAssign.php" timestamp="1617342922258">
         <mark key="'" line="54" column="8" />
@@ -173,8 +390,29 @@
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbWorkGroupsTable.php" timestamp="1616742135407">
         <mark key="'" line="5078" column="62" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" timestamp="1617012561005">
+        <mark key="'" line="347" column="37" />
+        <mark key="[" line="860" column="51" />
+        <mark key="]" line="860" column="63" />
+        <mark key="^" line="860" column="63" />
+        <mark key="." line="860" column="63" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/env/develop/app.php" timestamp="1609987466075">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbDeliveryDatasTable.php" timestamp="1609811312157">
+        <mark key="'" line="272" column="13" />
+        <mark key="[" line="92" column="17" />
+        <mark key="]" line="92" column="18" />
+        <mark key="." line="92" column="18" />
+        <mark key="^" line="92" column="18" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/tests/Unit/UI/ViewModels/RewardIndexViewModelTest.php" timestamp="1607302675405">
+        <mark key="'" line="237" column="0" />
+        <mark key="[" line="226" column="0" />
+        <mark key="]" line="258" column="5" />
+        <mark key="^" line="166" column="28" />
+        <mark key="." line="166" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/operators/edit.blade.php" timestamp="1617263720738" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/OfferRepository.php" timestamp="1606709339614">
@@ -182,6 +420,13 @@
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/GetWorkDetail.php" timestamp="1617012724354">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/step_edit_form.blade.php" timestamp="1605245114382">
+        <mark key="'" line="38" column="98" />
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="8" column="23" />
+        <mark key="." line="8" column="23" />
+        <mark key="^" line="8" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" timestamp="1617006091144">
         <mark key="'" line="1336" column="11" />
@@ -196,13 +441,25 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Shell/CheckTextDbMatchShell.php" timestamp="1617582847738">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="442" column="57" />
+        <mark key="]" line="443" column="118" />
+        <mark key="^" line="443" column="118" />
+        <mark key="." line="443" column="118" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/SalesDelivery/edit.ctp" timestamp="1610427889791">
         <mark key="'" line="27" column="59" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/AdminContactRoom/index.ctp" timestamp="1613719986999">
+        <mark key="'" line="125" column="28" />
+        <mark key="[" line="46" column="63" />
+        <mark key="]" line="46" column="60" />
+        <mark key="." line="46" column="60" />
+        <mark key="^" line="46" column="60" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="27" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientOnlineOrder/OrderForm/base_form_entry.ctp" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientOnlineOrder/OrderForm/detail_simple_form.ctp" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sagooo_works/cron/env/production/crontab.txt" />
       <jump line="95" column="39" filename="$USER_HOME$/workspace/sagooo_works/cron/env/production/crontab.txt" />
       <jump line="113" column="33" filename="$USER_HOME$/workspace/sagooo_works/cron/env/production/crontab.txt" />
@@ -301,13 +558,15 @@
       <jump line="64" column="10" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/Assign/CreateOfferAssign.php" />
       <jump line="82" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/Assign/CreateOfferAssign.php" />
       <jump line="87" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/Assign/CreateOfferAssign.php" />
+      <jump line="194" column="12" filename="$USER_HOME$/workspace/sagooo_works/config/const/const_admin_text.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Shell/CheckTextDbMatchShell.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvL2lmICgkYXNzaWduZWREYXRhWydvd25lciddLT5vd25lckNsaWVudC0+b3duZXJDbGllbnRJZCgpLT52YWx1ZSgpID09PSBjb25maWcoJ29wZXJhdG9yLnR5cGUubXlfbmF2aScpKSB7CiAgICAgICAgLy8gICAgLy8g5qCh5q2j6ICF44KS44Ki44K144Kk44Oz44GX44Gf5pmC44Gr44Gv6YCa55+l44KS6YCB44KJ44Gq44GECiAgICAgICAgLy8gICAgaWYgKCRzdGVwLT5zdGVwVGFyZ2V0SWQoKS0+aWQoKSAhPT0gY29uZmlnKCd1c2VyX3JlZ2lzdGVyX2l0ZW1zLndvcmtlcl90eXBlLnJldmlld2VyLmlkJykpIHsKICAgICAgICAvLyAgICAgICAgLy8g44Kq44Oa44Os44O844K/44G444Gu6YCa55+lCiAgICAgICAgLy8gICAgICAgIGZvcmVhY2ggKCRhc3NpZ25lZERhdGFbJ29wZXJhdG9ycyddIGFzICRvcGVyYXRvcikgewogICAgICAgIC8vICAgICAgICAgICAgXE5vdGlmaWNhdGlvbjo6cm91dGUoCiAgICAgICAgLy8gICAgICAgICAgICAgICAgJ21haWwnLAogICAgICAgIC8vICAgICAgICAgICAgICAgICRvcGVyYXRvci0+bWFpbEFkZHJlc3MoKS0+dmFsdWUoKQogICAgICAgIC8vICAgICAgICAgICAgKQogICAgICAgIC8vICAgICAgICAgICAgLT5ub3RpZnkobmV3IE9wZXJhdG9yQXNzaWduTm90aWZ5KAogICAgICAgIC8vICAgICAgICAgICAgICAgICRhc3NpZ25lZERhdGFbJ3VzZXInXSwKICAgICAgICAvLyAgICAgICAgICAgICAgICAkYXNzaWduZWREYXRhWyd3b3JrJ10sCiAgICAgICAgLy8gICAgICAgICAgICAgICAgJHN0ZXAsCiAgICAgICAgLy8gICAgICAgICAgICAgICAgJGFzc2lnbmVkRGF0YVsnb3duZXInXQogICAgICAgIC8vICAgICAgICAgICAgKSk7CiAgICAgICAgLy8gICAgICAgIH0KICAgICAgICAvLyAgICB9CiAgICAgICAgLy99Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>assica.testing</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>DB_CONNECTION</text>
@@ -316,34 +575,34 @@
         <text encoding="base64">ICAgICAgICAgICAgY2FzZSAnZnVnYScgOgogICAgICAgICAgICAgICAgJHN0YXR1cyA9IGNvbmZpZygnYW50aV92aXJ1c19jaGVja19zY2FuLnN0YXR1cy5jaGVja2VkJyk7CiAgICAgICAgICAgICAgICBicmVhazsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL2lmICgkYXNzaWduZWREYXRhWydvd25lciddLT5vd25lckNsaWVudC0+b3duZXJDbGllbnRJZCgpLT52YWx1ZSgpID09PSBjb25maWcoJ29wZXJhdG9yLnR5cGUubXlfbmF2aScpKSB7CiAgICAgICAgLy8gICAgLy8g5qCh5q2j6ICF44KS44Ki44K144Kk44Oz44GX44Gf5pmC44Gr44Gv6YCa55+l44KS6YCB44KJ44Gq44GECiAgICAgICAgLy8gICAgaWYgKCRzdGVwLT5zdGVwVGFyZ2V0SWQoKS0+aWQoKSAhPT0gY29uZmlnKCd1c2VyX3JlZ2lzdGVyX2l0ZW1zLndvcmtlcl90eXBlLnJldmlld2VyLmlkJykpIHsKICAgICAgICAvLyAgICAgICAgLy8g44Kq44Oa44Os44O844K/44G444Gu6YCa55+lCiAgICAgICAgLy8gICAgICAgIGZvcmVhY2ggKCRhc3NpZ25lZERhdGFbJ29wZXJhdG9ycyddIGFzICRvcGVyYXRvcikgewogICAgICAgIC8vICAgICAgICAgICAgXE5vdGlmaWNhdGlvbjo6cm91dGUoCiAgICAgICAgLy8gICAgICAgICAgICAgICAgJ21haWwnLAogICAgICAgIC8vICAgICAgICAgICAgICAgICRvcGVyYXRvci0+bWFpbEFkZHJlc3MoKS0+dmFsdWUoKQogICAgICAgIC8vICAgICAgICAgICAgKQogICAgICAgIC8vICAgICAgICAgICAgLT5ub3RpZnkobmV3IE9wZXJhdG9yQXNzaWduTm90aWZ5KAogICAgICAgIC8vICAgICAgICAgICAgICAgICRhc3NpZ25lZERhdGFbJ3VzZXInXSwKICAgICAgICAvLyAgICAgICAgICAgICAgICAkYXNzaWduZWREYXRhWyd3b3JrJ10sCiAgICAgICAgLy8gICAgICAgICAgICAgICAgJHN0ZXAsCiAgICAgICAgLy8gICAgICAgICAgICAgICAgJGFzc2lnbmVkRGF0YVsnb3duZXInXQogICAgICAgIC8vICAgICAgICAgICAgKSk7CiAgICAgICAgLy8gICAgICAgIH0KICAgICAgICAvLyAgICB9CiAgICAgICAgLy99Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL2lmICgkYXNzaWduZWREYXRhWydvd25lciddLT5vd25lckNsaWVudC0+b3duZXJDbGllbnRJZCgpLT52YWx1ZSgpID09PSBjb25maWcoJ29wZXJhdG9yLnR5cGUubXlfbmF2aScpKSB7CiAgICAgICAgLy8gICAgLy8g5qCh5q2j6ICF44KS44Ki44K144Kk44Oz44GX44Gf5pmC44Gr44Gv6YCa55+l44KS6YCB44KJ44Gq44GECiAgICAgICAgLy8gICAgaWYgKCRzdGVwLT5zdGVwVGFyZ2V0SWQoKS0+aWQoKSAhPT0gY29uZmlnKCd1c2VyX3JlZ2lzdGVyX2l0ZW1zLndvcmtlcl90eXBlLnJldmlld2VyLmlkJykpIHsKICAgICAgICAvLyAgICAgICAgLy8g44Kq44Oa44Os44O844K/44G444Gu6YCa55+lCiAgICAgICAgLy8gICAgICAgIGZvcmVhY2ggKCRhc3NpZ25lZERhdGFbJ29wZXJhdG9ycyddIGFzICRvcGVyYXRvcikgewogICAgICAgIC8vICAgICAgICAgICAgXE5vdGlmaWNhdGlvbjo6cm91dGUoCiAgICAgICAgLy8gICAgICAgICAgICAgICAgJ21haWwnLAogICAgICAgIC8vICAgICAgICAgICAgICAgICRvcGVyYXRvci0+bWFpbEFkZHJlc3MoKS0+dmFsdWUoKQogICAgICAgIC8vICAgICAgICAgICAgKQogICAgICAgIC8vICAgICAgICAgICAgLT5ub3RpZnkobmV3IE9wZXJhdG9yQXNzaWduTm90aWZ5KAogICAgICAgIC8vICAgICAgICAgICAgICAgICRhc3NpZ25lZERhdGFbJ3VzZXInXSwKICAgICAgICAvLyAgICAgICAgICAgICAgICAkYXNzaWduZWREYXRhWyd3b3JrJ10sCiAgICAgICAgLy8gICAgICAgICAgICAgICAgJHN0ZXAsCiAgICAgICAgLy8gICAgICAgICAgICAgICAgJGFzc2lnbmVkRGF0YVsnb3duZXInXQogICAgICAgIC8vICAgICAgICAgICAgKSk7CiAgICAgICAgLy8gICAgICAgIH0KICAgICAgICAvLyAgICB9CiAgICAgICAgLy99Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvL2lmICgkYXNzaWduZWRSZXN1bHRbJ293bmVyJ10tPm93bmVyQ2xpZW50KCktPm93bmVyQ2xpZW50SWQoKS0+dmFsdWUoKSA9PT0gY29uZmlnKCdvcGVyYXRvci50eXBlLm15X25hdmknKSkgewogICAgICAgIC8vICAgIC8vIOagoeato+iAheOCkuOCouOCteOCpOODs+OBl+OBn+aZguOBq+OBr+mAmuefpeOCkumAgeOCieOBquOBhAogICAgICAgIC8vICAgIGlmICgkYXNzaWduZWRSZXN1bHRbJ3N0ZXAnXS0+c3RlcFRhcmdldElkKCktPmlkKCkgIT09IGNvbmZpZygndXNlcl9yZWdpc3Rlcl9pdGVtcy53b3JrZXJfdHlwZS5yZXZpZXdlci5pZCcpKSB7CiAgICAgICAgLy8gICAgICAgIC8vIOOCquODmuODrOODvOOCv+OBuOOBrumAmuefpQogICAgICAgIC8vICAgICAgICBmb3JlYWNoICgkYXNzaWduZWRSZXN1bHRbJ29wZXJhdG9ycyddIGFzICRvcGVyYXRvcikgewogICAgICAgIC8vICAgICAgICAgICAgXE5vdGlmaWNhdGlvbjo6cm91dGUoCiAgICAgICAgLy8gICAgICAgICAgICAgICAgJ21haWwnLAogICAgICAgIC8vICAgICAgICAgICAgICAgICRvcGVyYXRvci0+bWFpbEFkZHJlc3MoKS0+dmFsdWUoKQogICAgICAgIC8vICAgICAgICAgICAgKQogICAgICAgIC8vICAgICAgICAgICAgLT5ub3RpZnkobmV3IE9wZXJhdG9yQXNzaWduTm90aWZ5KAogICAgICAgIC8vICAgICAgICAgICAgICAgICRhc3NpZ25lZFJlc3VsdFsnYXNzaWduZWRVc2VyJ10sCiAgICAgICAgLy8gICAgICAgICAgICAgICAgJGFzc2lnbmVkUmVzdWx0Wyd3b3JrJ10sCiAgICAgICAgLy8gICAgICAgICAgICAgICAgJGFzc2lnbmVkUmVzdWx0WydzdGVwJ10sCiAgICAgICAgLy8gICAgICAgICAgICAgICAgJGFzc2lnbmVkUmVzdWx0Wydvd25lciddCiAgICAgICAgLy8gICAgICAgICAgICApKTsKICAgICAgICAvLyAgICAgICAgfQogICAgICAgIC8vICAgIH0KICAgICAgICAvL30K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvL2lmICgkcmVwb3NpdG9yeVJlc3VsdFsnb3duZXInXS0+b3duZXJDbGllbnQtPm93bmVyQ2xpZW50SWQoKS0+dmFsdWUoKSA9PT0gY29uZmlnKCdvcGVyYXRvci50eXBlLm15X25hdmknKSkgewogICAgICAgIC8vICAgIC8vIOagoeato+iAheOCkuOCouOCteOCpOODs+OBl+OBn+aZguOBq+OBr+mAmuefpeOCkumAgeOCieOBquOBhAogICAgICAgIC8vICAgIGlmICgkcmVwb3NpdG9yeVJlc3VsdFsnc3RlcCddLT5zdGVwVGFyZ2V0SWQoKS0+aWQoKSAhPT0gY29uZmlnKCd1c2VyX3JlZ2lzdGVyX2l0ZW1zLndvcmtlcl90eXBlLnJldmlld2VyLmlkJykpIHsKICAgICAgICAvLyAgICAgICAgLy8g44Kq44Oa44Os44O844K/44G444Gu6YCa55+lCiAgICAgICAgLy8gICAgICAgIGZvcmVhY2ggKCRyZXBvc2l0b3J5UmVzdWx0WydvcGVyYXRvcnMnXSBhcyAkb3BlcmF0b3IpIHsKICAgICAgICAvLyAgICAgICAgICAgIFxOb3RpZmljYXRpb246OnJvdXRlKAogICAgICAgIC8vICAgICAgICAgICAgICAgICdtYWlsJywKICAgICAgICAvLyAgICAgICAgICAgICAgICAkb3BlcmF0b3ItPm1haWxBZGRyZXNzKCktPnZhbHVlKCkKICAgICAgICAvLyAgICAgICAgICAgICkKICAgICAgICAvLyAgICAgICAgICAgIC0+bm90aWZ5KG5ldyBPcGVyYXRvckFzc2lnbk5vdGlmeSgKICAgICAgICAvLyAgICAgICAgICAgICAgICAkcmVwb3NpdG9yeVJlc3VsdFsndXNlciddLAogICAgICAgIC8vICAgICAgICAgICAgICAgICRyZXBvc2l0b3J5UmVzdWx0Wyd3b3JrJ10sCiAgICAgICAgLy8gICAgICAgICAgICAgICAgJHJlcG9zaXRvcnlSZXN1bHRbJ3N0ZXAnXSwKICAgICAgICAvLyAgICAgICAgICAgICAgICAkcmVwb3NpdG9yeVJlc3VsdFsnb3duZXInXQogICAgICAgIC8vICAgICAgICAgICAgKSk7CiAgICAgICAgLy8gICAgICAgIH0KICAgICAgICAvLyAgICB9CiAgICAgICAgLy99Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL2lmICgkYXNzaWduZWRSZXN1bHRbJ293bmVyJ10tPm93bmVyQ2xpZW50KCktPm93bmVyQ2xpZW50SWQoKS0+dmFsdWUoKSA9PT0gY29uZmlnKCdvcGVyYXRvci50eXBlLm15X25hdmknKSkgewogICAgICAgIC8vICAgIC8vIOagoeato+iAheOCkuOCouOCteOCpOODs+OBl+OBn+aZguOBq+OBr+mAmuefpeOCkumAgeOCieOBquOBhAogICAgICAgIC8vICAgIGlmICgkYXNzaWduZWRSZXN1bHRbJ3N0ZXAnXS0+c3RlcFRhcmdldElkKCktPmlkKCkgIT09IGNvbmZpZygndXNlcl9yZWdpc3Rlcl9pdGVtcy53b3JrZXJfdHlwZS5yZXZpZXdlci5pZCcpKSB7CiAgICAgICAgLy8gICAgICAgIC8vIOOCquODmuODrOODvOOCv+OBuOOBrumAmuefpQogICAgICAgIC8vICAgICAgICBmb3JlYWNoICgkYXNzaWduZWRSZXN1bHRbJ29wZXJhdG9ycyddIGFzICRvcGVyYXRvcikgewogICAgICAgIC8vICAgICAgICAgICAgXE5vdGlmaWNhdGlvbjo6cm91dGUoCiAgICAgICAgLy8gICAgICAgICAgICAgICAgJ21haWwnLAogICAgICAgIC8vICAgICAgICAgICAgICAgICRvcGVyYXRvci0+bWFpbEFkZHJlc3MoKS0+dmFsdWUoKQogICAgICAgIC8vICAgICAgICAgICAgKQogICAgICAgIC8vICAgICAgICAgICAgLT5ub3RpZnkobmV3IE9wZXJhdG9yQXNzaWduTm90aWZ5KAogICAgICAgIC8vICAgICAgICAgICAgICAgICRhc3NpZ25lZFJlc3VsdFsnYXNzaWduZWRVc2VyJ10sCiAgICAgICAgLy8gICAgICAgICAgICAgICAgJGFzc2lnbmVkUmVzdWx0Wyd3b3JrJ10sCiAgICAgICAgLy8gICAgICAgICAgICAgICAgJGFzc2lnbmVkUmVzdWx0WydzdGVwJ10sCiAgICAgICAgLy8gICAgICAgICAgICAgICAgJGFzc2lnbmVkUmVzdWx0Wydvd25lciddCiAgICAgICAgLy8gICAgICAgICAgICApKTsKICAgICAgICAvLyAgICAgICAgfQogICAgICAgIC8vICAgIH0KICAgICAgICAvL30K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgLy9pZiAoJGRhdGFbJ293bmVyJ10tPm93bmVyQ2xpZW50LT5vd25lckNsaWVudElkKCktPnZhbHVlKCkgPT09IGNvbmZpZygnb3BlcmF0b3IudHlwZS5teV9uYXZpJykpIHsKICAgICAgICAvLyAgICAvLyDmoKHmraPogIXjgpLjgqLjgrXjgqTjg7PjgZfjgZ/mmYLjgavjga/pgJrnn6XjgpLpgIHjgonjgarjgYQKICAgICAgICAvLyAgICBpZiAoJGRhdGFbJ3N0ZXAnXS0+c3RlcFRhcmdldElkKCktPmlkKCkgIT09IGNvbmZpZygndXNlcl9yZWdpc3Rlcl9pdGVtcy53b3JrZXJfdHlwZS5yZXZpZXdlci5pZCcpKSB7CiAgICAgICAgLy8gICAgICAgIC8vIOOCquODmuODrOODvOOCv+OBuOOBrumAmuefpQogICAgICAgIC8vICAgICAgICBmb3JlYWNoICgkZGF0YVsnb3BlcmF0b3JzJ10gYXMgJG9wZXJhdG9yKSB7CiAgICAgICAgLy8gICAgICAgICAgICBcTm90aWZpY2F0aW9uOjpyb3V0ZSgKICAgICAgICAvLyAgICAgICAgICAgICAgICAnbWFpbCcsCiAgICAgICAgLy8gICAgICAgICAgICAgICAgJG9wZXJhdG9yLT5tYWlsQWRkcmVzcygpLT52YWx1ZSgpCiAgICAgICAgLy8gICAgICAgICAgICApCiAgICAgICAgLy8gICAgICAgICAgICAtPm5vdGlmeShuZXcgT3BlcmF0b3JBc3NpZ25DYW5jZWxOb3RpZnkoCiAgICAgICAgLy8gICAgICAgICAgICAgICAgJGRhdGFbJ3VzZXInXSwKICAgICAgICAvLyAgICAgICAgICAgICAgICAkZGF0YVsnd29yayddLAogICAgICAgIC8vICAgICAgICAgICAgICAgICRkYXRhWydzdGVwJ10sCiAgICAgICAgLy8gICAgICAgICAgICAgICAgJGRhdGFbJ293bmVyJ10KICAgICAgICAvLyAgICAgICAgICAgICkpOwogICAgICAgIC8vICAgICAgICB9CiAgICAgICAgLy8gICAgfQogICAgICAgIC8vfQo=</text>
+        <text encoding="base64">ICAgICAgICAvL2lmICgkcmVwb3NpdG9yeVJlc3VsdFsnb3duZXInXS0+b3duZXJDbGllbnQtPm93bmVyQ2xpZW50SWQoKS0+dmFsdWUoKSA9PT0gY29uZmlnKCdvcGVyYXRvci50eXBlLm15X25hdmknKSkgewogICAgICAgIC8vICAgIC8vIOagoeato+iAheOCkuOCouOCteOCpOODs+OBl+OBn+aZguOBq+OBr+mAmuefpeOCkumAgeOCieOBquOBhAogICAgICAgIC8vICAgIGlmICgkcmVwb3NpdG9yeVJlc3VsdFsnc3RlcCddLT5zdGVwVGFyZ2V0SWQoKS0+aWQoKSAhPT0gY29uZmlnKCd1c2VyX3JlZ2lzdGVyX2l0ZW1zLndvcmtlcl90eXBlLnJldmlld2VyLmlkJykpIHsKICAgICAgICAvLyAgICAgICAgLy8g44Kq44Oa44Os44O844K/44G444Gu6YCa55+lCiAgICAgICAgLy8gICAgICAgIGZvcmVhY2ggKCRyZXBvc2l0b3J5UmVzdWx0WydvcGVyYXRvcnMnXSBhcyAkb3BlcmF0b3IpIHsKICAgICAgICAvLyAgICAgICAgICAgIFxOb3RpZmljYXRpb246OnJvdXRlKAogICAgICAgIC8vICAgICAgICAgICAgICAgICdtYWlsJywKICAgICAgICAvLyAgICAgICAgICAgICAgICAkb3BlcmF0b3ItPm1haWxBZGRyZXNzKCktPnZhbHVlKCkKICAgICAgICAvLyAgICAgICAgICAgICkKICAgICAgICAvLyAgICAgICAgICAgIC0+bm90aWZ5KG5ldyBPcGVyYXRvckFzc2lnbk5vdGlmeSgKICAgICAgICAvLyAgICAgICAgICAgICAgICAkcmVwb3NpdG9yeVJlc3VsdFsndXNlciddLAogICAgICAgIC8vICAgICAgICAgICAgICAgICRyZXBvc2l0b3J5UmVzdWx0Wyd3b3JrJ10sCiAgICAgICAgLy8gICAgICAgICAgICAgICAgJHJlcG9zaXRvcnlSZXN1bHRbJ3N0ZXAnXSwKICAgICAgICAvLyAgICAgICAgICAgICAgICAkcmVwb3NpdG9yeVJlc3VsdFsnb3duZXInXQogICAgICAgIC8vICAgICAgICAgICAgKSk7CiAgICAgICAgLy8gICAgICAgIH0KICAgICAgICAvLyAgICB9CiAgICAgICAgLy99Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">TE9HX1NMQUNLX1VTRVJOQU1FPQoKTk9USUZZX1NMQUNLX1dFQkhPT0tfVVJMPWh0dHBzOi8vaG9va3Muc2xhY2suY29tL3NlcnZpY2VzL1QwMjlVSkcwMS9CMDE0QThUUkxCSC9pMUkzb0RmTmdPQUlqNEdycEdwbEJSeUwKTk9USUZZX1NMQUNLX1VTRVJOQU1FPeOCouOCteOCpOODs+OCreODo+ODs+OCu+ODq+OCkuefpeOCieOBm+OCi+OBj+OCkwoKREJfQ09OTkVDVElPTj1teXNxbApEQl9IT1NUPW15c3FsCkRCX1BPUlQ9MzMwNgpEQl9EQVRBQkFTRT1zYWdvb29fbmF2aQpEQl9VU0VSTkFNRT1zYWdvb29fbmF2aQpEQl9QQVNTV09SRD1qUDJBNnpTdwoKQlJPQURDQVNUX0RSSVZFUj1sb2cKQ0FDSEVfRFJJVkVSPWZpbGUKQ0FDSEVfUFJFRklYPXNnbnYKU0VTU0lPTl9EUklWRVI9ZmlsZQpTRVNTSU9OX0xJRkVUSU1FPTI0MApTRVNTSU9OX0NPT0tJRT1zZ252X2Nvb2tpZQpRVUVVRV9EUklWRVI9c3luYwoKUkVESVNfSE9TVD0xMjcuMC4wLjEKUkVESVNfUEFTU1dPUkQ9bnVsbApSRURJU19QT1JUPTYzNzkKCk1BSUxfRFJJVkVSPXNtdHAKTUFJTF9IT1NUPXNzbDovL3NtdHAuZ21haWwuY29tCk1BSUxfUE9SVD00NjUKTUFJTF9VU0VSTkFNRT10YWtlZGEueXVraUB3aWxsZ2F0ZS5jby5qcApNQUlMX1BBU1NXT1JEPVdpbGxnYXRlMTIzCk1BSUxfRU5DUllQVElPTj1udWxsCk1BSUxfRlJPTV9BRERSRVNTPW5vcmVwbHlAYXNzaWNhLm5ldApNQUlMX0ZST01fTkFNRT0iW2xvY2FsXeWPluadkOOCouOCt+OCueODiOOCt+OCueODhuODoCDjgqLjgrfjgqsiCgpTVVBFUl9VU0VSX01BSUxfQUREUkVTUz1hc3NpY2Etc3VwZXJ1c2VyQHdpbGxnYXRlLmNvLmpwCk9QRVJBVE9SX01BSUxfQUREUkVTUz1kZXYtYXNzaWNhK29wZXJhdG9yQHdpbGxnYXRlLmNvLmpwCktFSVJJX01BSUxfQUREUkVTUz1kZXYtYXNzaWNhK2tlaXJpQHdpbGxnYXRlLmNvLmpwCkRFVl9NTD1kZXYtYXNzaWNhK2Rldl9tbEB3aWxsZ2F0ZS5jby5qcApNWU5BVklfTUFJTF9BRERSRVNTPXRha2VkYS55dWtpK215bmF2aUB3aWxsZ2F0ZS5jby5qcAoKU0VTX1JFR0lPTj0KClBVU0hFUl9BUFBfSUQ9ClBVU0hFUl9BUFBfS0VZPQpQVVNIRVJfQVBQX1NFQ1JFVD0KUFVTSEVSX0FQUF9DTFVTVEVSPW10MQoKTUlYX1BVU0hFUl9BUFBfS0VZPSIke1BVU0hFUl9BUFBfS0VZfSIKTUlYX1BVU0hFUl9BUFBfQ0xVU1RFUj0iJHtQVVNIRVJfQVBQX0NMVVNURVJ9IgoKQVdTX0RFRkFVTFRfUkVHSU9OPQpBV1NfQlVDS0VUPQo=</text>
+        <text encoding="base64">CiAgICAgICAgLy9pZiAoJGRhdGFbJ293bmVyJ10tPm93bmVyQ2xpZW50LT5vd25lckNsaWVudElkKCktPnZhbHVlKCkgPT09IGNvbmZpZygnb3BlcmF0b3IudHlwZS5teV9uYXZpJykpIHsKICAgICAgICAvLyAgICAvLyDmoKHmraPogIXjgpLjgqLjgrXjgqTjg7PjgZfjgZ/mmYLjgavjga/pgJrnn6XjgpLpgIHjgonjgarjgYQKICAgICAgICAvLyAgICBpZiAoJGRhdGFbJ3N0ZXAnXS0+c3RlcFRhcmdldElkKCktPmlkKCkgIT09IGNvbmZpZygndXNlcl9yZWdpc3Rlcl9pdGVtcy53b3JrZXJfdHlwZS5yZXZpZXdlci5pZCcpKSB7CiAgICAgICAgLy8gICAgICAgIC8vIOOCquODmuODrOODvOOCv+OBuOOBrumAmuefpQogICAgICAgIC8vICAgICAgICBmb3JlYWNoICgkZGF0YVsnb3BlcmF0b3JzJ10gYXMgJG9wZXJhdG9yKSB7CiAgICAgICAgLy8gICAgICAgICAgICBcTm90aWZpY2F0aW9uOjpyb3V0ZSgKICAgICAgICAvLyAgICAgICAgICAgICAgICAnbWFpbCcsCiAgICAgICAgLy8gICAgICAgICAgICAgICAgJG9wZXJhdG9yLT5tYWlsQWRkcmVzcygpLT52YWx1ZSgpCiAgICAgICAgLy8gICAgICAgICAgICApCiAgICAgICAgLy8gICAgICAgICAgICAtPm5vdGlmeShuZXcgT3BlcmF0b3JBc3NpZ25DYW5jZWxOb3RpZnkoCiAgICAgICAgLy8gICAgICAgICAgICAgICAgJGRhdGFbJ3VzZXInXSwKICAgICAgICAvLyAgICAgICAgICAgICAgICAkZGF0YVsnd29yayddLAogICAgICAgIC8vICAgICAgICAgICAgICAgICRkYXRhWydzdGVwJ10sCiAgICAgICAgLy8gICAgICAgICAgICAgICAgJGRhdGFbJ293bmVyJ10KICAgICAgICAvLyAgICAgICAgICAgICkpOwogICAgICAgIC8vICAgICAgICB9CiAgICAgICAgLy8gICAgfQogICAgICAgIC8vfQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">TE9HX1NMQUNLX1VTRVJOQU1FPQoKTk9USUZZX1NMQUNLX1dFQkhPT0tfVVJMPWh0dHBzOi8vaG9va3Muc2xhY2suY29tL3NlcnZpY2VzL1QwMjlVSkcwMS9CMDE0QThUUkxCSC9pMUkzb0RmTmdPQUlqNEdycEdwbEJSeUwKTk9USUZZX1NMQUNLX1VTRVJOQU1FPeOCouOCteOCpOODs+OCreODo+ODs+OCu+ODq+OCkuefpeOCieOBm+OCi+OBj+OCkwoKREJfQ09OTkVDVElPTj1teXNxbApEQl9IT1NUPW15c3FsCkRCX1BPUlQ9MzMwNgpEQl9EQVRBQkFTRT1zYWdvb29fbmF2aQpEQl9VU0VSTkFNRT1zYWdvb29fbmF2aQpEQl9QQVNTV09SRD1qUDJBNnpTdwoKQlJPQURDQVNUX0RSSVZFUj1sb2cKQ0FDSEVfRFJJVkVSPWZpbGUKQ0FDSEVfUFJFRklYPXNnbnYKU0VTU0lPTl9EUklWRVI9ZmlsZQpTRVNTSU9OX0xJRkVUSU1FPTI0MApTRVNTSU9OX0NPT0tJRT1zZ252X2Nvb2tpZQpRVUVVRV9EUklWRVI9c3luYwoKUkVESVNfSE9TVD0xMjcuMC4wLjEKUkVESVNfUEFTU1dPUkQ9bnVsbApSRURJU19QT1JUPTYzNzkKCk1BSUxfRFJJVkVSPXNtdHAKTUFJTF9IT1NUPXNzbDovL3NtdHAuZ21haWwuY29tCk1BSUxfUE9SVD00NjUKTUFJTF9VU0VSTkFNRT10YWtlZGEueXVraUB3aWxsZ2F0ZS5jby5qcApNQUlMX1BBU1NXT1JEPVdpbGxnYXRlMTIzCk1BSUxfRU5DUllQVElPTj1udWxsCk1BSUxfRlJPTV9BRERSRVNTPW5vcmVwbHlAYXNzaWNhLm5ldApNQUlMX0ZST01fTkFNRT0iW2xvY2FsXeWPluadkOOCouOCt+OCueODiOOCt+OCueODhuODoCDjgqLjgrfjgqsiCgpTVVBFUl9VU0VSX01BSUxfQUREUkVTUz1hc3NpY2Etc3VwZXJ1c2VyQHdpbGxnYXRlLmNvLmpwCk9QRVJBVE9SX01BSUxfQUREUkVTUz1kZXYtYXNzaWNhK29wZXJhdG9yQHdpbGxnYXRlLmNvLmpwCktFSVJJX01BSUxfQUREUkVTUz1kZXYtYXNzaWNhK2tlaXJpQHdpbGxnYXRlLmNvLmpwCkRFVl9NTD1kZXYtYXNzaWNhK2Rldl9tbEB3aWxsZ2F0ZS5jby5qcApNWU5BVklfTUFJTF9BRERSRVNTPXRha2VkYS55dWtpK215bmF2aUB3aWxsZ2F0ZS5jby5qcAoKU0VTX1JFR0lPTj0KClBVU0hFUl9BUFBfSUQ9ClBVU0hFUl9BUFBfS0VZPQpQVVNIRVJfQVBQX1NFQ1JFVD0KUFVTSEVSX0FQUF9DTFVTVEVSPW10MQoKTUlYX1BVU0hFUl9BUFBfS0VZPSIke1BVU0hFUl9BUFBfS0VZfSIKTUlYX1BVU0hFUl9BUFBfQ0xVU1RFUj0iJHtQVVNIRVJfQVBQX0NMVVNURVJ9IgoKQVdTX0RFRkFVTFRfUkVHSU9OPQpBV1NfQlVDS0VUPQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyDjg5fjg63jgrjjgqfjgq/jg4jlkI0KQ09NUE9TRV9QUk9KRUNUX05BTUU9YXNzaWNhCgojIOiHquWIhuOBp+S9v+OBhuWApOOBq+ioreWumuOBmeOCiwpTU0xfUE9SVD0xMDQ0MwpNWVNRTF9QT1JUPTEzMzA2CgojIOOCouODl+ODquOCseODvOOCt+ODp+ODs+OBriAuZW52IOOBruioreWumuOBqOWQiOOCj+OBm+OCi++8iOOCu+OCreODpeOCouOBquODkeOCueODr+ODvOODieOCkuS9v+OBhuOBk+OBqO+8ge+8iQpNWVNRTF9EQVRBQkFTRT1zYWdvb29fbmF2aQpNWVNRTF9VU0VSPXNhZ29vb19uYXZpCk1ZU1FMX1BBU1NXT1JEPQoKIyDoh6rliIbjgafkvb/jgYblgKTjgavoqK3lrprjgZnjgovvvIjjgrvjgq3jg6XjgqLjgarjg5Hjgrnjg6/jg7zjg4njgpLkvb/jgYbjgZPjgajvvIHvvIkKTVlTUUxfUk9PVF9QQVNTV09SRD0K</text>
+        <text encoding="base64">TE9HX1NMQUNLX1VTRVJOQU1FPQoKTk9USUZZX1NMQUNLX1dFQkhPT0tfVVJMPWh0dHBzOi8vaG9va3Muc2xhY2suY29tL3NlcnZpY2VzL1QwMjlVSkcwMS9CMDE0QThUUkxCSC9pMUkzb0RmTmdPQUlqNEdycEdwbEJSeUwKTk9USUZZX1NMQUNLX1VTRVJOQU1FPeOCouOCteOCpOODs+OCreODo+ODs+OCu+ODq+OCkuefpeOCieOBm+OCi+OBj+OCkwoKREJfQ09OTkVDVElPTj1teXNxbApEQl9IT1NUPW15c3FsCkRCX1BPUlQ9MzMwNgpEQl9EQVRBQkFTRT1zYWdvb29fbmF2aQpEQl9VU0VSTkFNRT1zYWdvb29fbmF2aQpEQl9QQVNTV09SRD1qUDJBNnpTdwoKQlJPQURDQVNUX0RSSVZFUj1sb2cKQ0FDSEVfRFJJVkVSPWZpbGUKQ0FDSEVfUFJFRklYPXNnbnYKU0VTU0lPTl9EUklWRVI9ZmlsZQpTRVNTSU9OX0xJRkVUSU1FPTI0MApTRVNTSU9OX0NPT0tJRT1zZ252X2Nvb2tpZQpRVUVVRV9EUklWRVI9c3luYwoKUkVESVNfSE9TVD0xMjcuMC4wLjEKUkVESVNfUEFTU1dPUkQ9bnVsbApSRURJU19QT1JUPTYzNzkKCk1BSUxfRFJJVkVSPXNtdHAKTUFJTF9IT1NUPXNzbDovL3NtdHAuZ21haWwuY29tCk1BSUxfUE9SVD00NjUKTUFJTF9VU0VSTkFNRT10YWtlZGEueXVraUB3aWxsZ2F0ZS5jby5qcApNQUlMX1BBU1NXT1JEPVdpbGxnYXRlMTIzCk1BSUxfRU5DUllQVElPTj1udWxsCk1BSUxfRlJPTV9BRERSRVNTPW5vcmVwbHlAYXNzaWNhLm5ldApNQUlMX0ZST01fTkFNRT0iW2xvY2FsXeWPluadkOOCouOCt+OCueODiOOCt+OCueODhuODoCDjgqLjgrfjgqsiCgpTVVBFUl9VU0VSX01BSUxfQUREUkVTUz1hc3NpY2Etc3VwZXJ1c2VyQHdpbGxnYXRlLmNvLmpwCk9QRVJBVE9SX01BSUxfQUREUkVTUz1kZXYtYXNzaWNhK29wZXJhdG9yQHdpbGxnYXRlLmNvLmpwCktFSVJJX01BSUxfQUREUkVTUz1kZXYtYXNzaWNhK2tlaXJpQHdpbGxnYXRlLmNvLmpwCkRFVl9NTD1kZXYtYXNzaWNhK2Rldl9tbEB3aWxsZ2F0ZS5jby5qcApNWU5BVklfTUFJTF9BRERSRVNTPXRha2VkYS55dWtpK215bmF2aUB3aWxsZ2F0ZS5jby5qcAoKU0VTX1JFR0lPTj0KClBVU0hFUl9BUFBfSUQ9ClBVU0hFUl9BUFBfS0VZPQpQVVNIRVJfQVBQX1NFQ1JFVD0KUFVTSEVSX0FQUF9DTFVTVEVSPW10MQoKTUlYX1BVU0hFUl9BUFBfS0VZPSIke1BVU0hFUl9BUFBfS0VZfSIKTUlYX1BVU0hFUl9BUFBfQ0xVU1RFUj0iJHtQVVNIRVJfQVBQX0NMVVNURVJ9IgoKQVdTX0RFRkFVTFRfUkVHSU9OPQpBV1NfQlVDS0VUPQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QVBQX05BTUU9QVNTSUNBCkFQUF9FTlY9bG9jYWwKQVBQX0tFWT0KQVBQX0RFQlVHPXRydWUKQVBQX1VSTD1odHRwOi8vPHlvdXIudmhvc3QubmFtZT4KCkxPR19DSEFOTkVMPXN0YWNrCkxPR19TTEFDS19XRUJIT09LX1VSTD0KTE9HX1NMQUNLX1VTRVJOQU1FPQoKTk9USUZZX1NMQUNLX1dFQkhPT0tfVVJMPWh0dHBzOi8vaG9va3Muc2xhY2suY29tL3NlcnZpY2VzL1QwMjlVSkcwMS9CMDE0QThUUkxCSC9pMUkzb0RmTmdPQUlqNEdycEdwbEJSeUwKTk9USUZZX1NMQUNLX1VTRVJOQU1FPeOCouOCteOCpOODs+OCreODo+ODs+OCu+ODq+OCkuefpeOCieOBm+OCi+OBj+OCkwoKREJfQ09OTkVDVElPTj1teXNxbApEQl9IT1NUPW15c3FsCkRCX1BPUlQ9MzMwNgpEQl9EQVRBQkFTRT1zYWdvb29fbmF2aQpEQl9VU0VSTkFNRT0KREJfUEFTU1dPUkQ9CgpCUk9BRENBU1RfRFJJVkVSPWxvZwpDQUNIRV9EUklWRVI9ZmlsZQpDQUNIRV9QUkVGSVg9c2dudgpTRVNTSU9OX0RSSVZFUj1maWxlClNFU1NJT05fTElGRVRJTUU9MjQwClNFU1NJT05fQ09PS0lFPXNnbnZfY29va2llClFVRVVFX0RSSVZFUj1zeW5jCgpSRURJU19IT1NUPTEyNy4wLjAuMQpSRURJU19QQVNTV09SRD1udWxsClJFRElTX1BPUlQ9NjM3OQoKTUFJTF9EUklWRVI9c210cApNQUlMX0hPU1Q9c3NsOi8vc210cC5nbWFpbC5jb20KTUFJTF9QT1JUPTQ2NQpNQUlMX1VTRVJOQU1FPTx5b3VyLWFjY291bnQtbmFtZT5Ad2lsbGdhdGUuY28uanAKTUFJTF9QQVNTV09SRD08eW91ci1zZWNyZXQtcGFzc3dvcmQ+Ck1BSUxfRU5DUllQVElPTj1udWxsCk1BSUxfRlJPTV9BRERSRVNTPW5vcmVwbHlAYXNzaWNhLm5ldApNQUlMX0ZST01fTkFNRT0iW2xvY2FsLTx5b3VyLW5hbWU+XeWPluadkOOCouOCt+OCueODiOOCt+OCueODhuODoCDjgqLjgrfjgqsiCgpTVVBFUl9VU0VSX01BSUxfQUREUkVTUz1hc3NpY2Etc3VwZXJ1c2VyQHdpbGxnYXRlLmNvLmpwCk9QRVJBVE9SX01BSUxfQUREUkVTUz1kZXYtYXNzaWNhK29wZXJhdG9yQHdpbGxnYXRlLmNvLmpwCktFSVJJX01BSUxfQUREUkVTUz1kZXYtYXNzaWNhK2tlaXJpQHdpbGxnYXRlLmNvLmpwCkRFVl9NTD1kZXYtYXNzaWNhK2Rldl9tbEB3aWxsZ2F0ZS5jby5qcApNWU5BVklfTUFJTF9BRERSRVNTPTx5b3VyLWFjY291bnQtbmFtZT4rbXluYXZpQHdpbGxnYXRlLmNvLmpwCgpTRVNfUkVHSU9OPQoKUFVTSEVSX0FQUF9JRD0KUFVTSEVSX0FQUF9LRVk9ClBVU0hFUl9BUFBfU0VDUkVUPQpQVVNIRVJfQVBQX0NMVVNURVI9bXQxCgpNSVhfUFVTSEVSX0FQUF9LRVk9IiR7UFVTSEVSX0FQUF9LRVl9IgpNSVhfUFVTSEVSX0FQUF9DTFVTVEVSPSIke1BVU0hFUl9BUFBfQ0xVU1RFUn0iCgpBV1NfREVGQVVMVF9SRUdJT049CkFXU19CVUNLRVQ9Cg==</text>
+        <text encoding="base64">IyDjg5fjg63jgrjjgqfjgq/jg4jlkI0KQ09NUE9TRV9QUk9KRUNUX05BTUU9YXNzaWNhCgojIOiHquWIhuOBp+S9v+OBhuWApOOBq+ioreWumuOBmeOCiwpTU0xfUE9SVD0xMDQ0MwpNWVNRTF9QT1JUPTEzMzA2CgojIOOCouODl+ODquOCseODvOOCt+ODp+ODs+OBriAuZW52IOOBruioreWumuOBqOWQiOOCj+OBm+OCi++8iOOCu+OCreODpeOCouOBquODkeOCueODr+ODvOODieOCkuS9v+OBhuOBk+OBqO+8ge+8iQpNWVNRTF9EQVRBQkFTRT1zYWdvb29fbmF2aQpNWVNRTF9VU0VSPXNhZ29vb19uYXZpCk1ZU1FMX1BBU1NXT1JEPQoKIyDoh6rliIbjgafkvb/jgYblgKTjgavoqK3lrprjgZnjgovvvIjjgrvjgq3jg6XjgqLjgarjg5Hjgrnjg6/jg7zjg4njgpLkvb/jgYbjgZPjgajvvIHvvIkKTVlTUUxfUk9PVF9QQVNTV09SRD0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

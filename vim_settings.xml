@@ -352,7 +352,7 @@
         <mark key="." line="115" column="73" />
         <mark key="^" line="115" column="73" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/AwsS3/FileRepository.php" timestamp="1617609533016">
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/AwsS3/FileRepository.php" timestamp="1617614505203">
         <mark key="[" line="144" column="21" />
         <mark key="]" line="145" column="62" />
         <mark key="." line="145" column="62" />
@@ -416,7 +416,12 @@
         <mark key="^" line="381" column="109" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/AwsS3/StepUploadRepository.php" timestamp="1617590858981" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/File.php" timestamp="1617609694552" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/File.php" timestamp="1617615248905">
+        <mark key="[" line="25" column="112" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_delivery_manages.php" timestamp="1617603293272" />
       <file name="$USER_HOME$/workspace/sagooo_navi/docker/.env" timestamp="1617338836098">
         <mark key="[" line="0" column="0" />
@@ -686,7 +691,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKi8KICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IC4gJy8nIC4gJHBhdGgs</text>
@@ -698,36 +703,36 @@
         <text encoding="base64">ICAgICAgICAkcmVzdWx0ID0gJHMzLT5nZXRPYmplY3RUYWdnaW5nKFsKICAgICAgICAgICAgLy8nQnVja2V0JyA9PiBlbnYoJ0FXU19CVUNLRVQnKSAuICcvJyAuICRwYXRoLAogICAgICAgICAgICAnQnVja2V0JyA9PiAnYXNzaWNhLnRlc3QudGFrZWRhJyAuICcvJyAuICRwYXRoLAogICAgICAgICAgICAnS2V5JyAgICA9PiBjb25maWcoJ2FudGlfdmlydXNfY2hlY2tfc2Nhbi5rZXknKSwKICAgICAgICBdKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKi8KICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">dXNlIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKi8KICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIC8qCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>*
      * @var 
      */</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzdWx0ID0gJHMzLT5nZXRPYmplY3QoWwogICAgICAgICAgICAvLydCdWNrZXQnID0+IGVudignQVdTX0JVQ0tFVCcpIC4gJy8nIC4gJHBhdGgsCiAgICAgICAgICAgICdCdWNrZXQnID0+ICdhc3NpY2EudGVzdC50YWtlZGEnLAogICAgICAgICAgICAnS2V5JyAgICA9PiAkcGF0aAogICAgICAgIF0pOwoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmVzdWx0KTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygkcmVzdWx0KTsK</text>
+        <text encoding="base64">ICAgICAgICAkcmVzdWx0ID0gJHMzLT5nZXRPYmplY3QoWwogICAgICAgICAgICAvLydCdWNrZXQnID0+IGVudignQVdTX0JVQ0tFVCcpIC4gJy8nIC4gJHBhdGgsCiAgICAgICAgICAgICdCdWNrZXQnID0+ICdhc3NpY2EudGVzdC50YWtlZGEnLAogICAgICAgICAgICAnS2V5JyAgICA9PiAkcGF0aAogICAgICAgIF0pOwoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ0tleScgICAgPT4gY29uZmlnKCdhbnRpX3ZpcnVzX2NoZWNrX3NjYW4ua2V5JyksCg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmVzdWx0KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

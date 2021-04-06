@@ -603,6 +603,13 @@
         <mark key="." line="52" column="11" />
         <mark key="^" line="52" column="11" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/app/Rules/ValidateInterviewEndAtFuture.php" timestamp="1617684813426">
+        <mark key="'" line="26" column="9" />
+        <mark key="[" line="28" column="7" />
+        <mark key="]" line="12" column="18" />
+        <mark key="." line="12" column="18" />
+        <mark key="^" line="12" column="15" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbWorkGroupsTable.php" timestamp="1616742135407">
         <mark key="'" line="5078" column="62" />
       </file>
@@ -706,11 +713,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="33" filename="$USER_HOME$/workspace/sagooo_works/cron/env/production/crontab.txt" />
-      <jump line="92" column="39" filename="$USER_HOME$/workspace/sagooo_works/cron/env/production/crontab.txt" />
-      <jump line="116" column="32" filename="$USER_HOME$/workspace/sagooo_works/cron/env/production/crontab.txt" />
-      <jump line="18" column="0" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/work_groups/steps/create.blade.php" />
-      <jump line="22" column="0" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/work_groups/steps/create.blade.php" />
       <jump line="36" column="0" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/work_groups/steps/create.blade.php" />
       <jump line="39" column="0" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/work_groups/steps/create.blade.php" />
       <jump line="358" column="65" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
@@ -806,19 +808,24 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
       <jump line="102" column="6" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="331" column="39" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
+      <jump line="34" column="11" filename="$USER_HOME$/workspace/sagooo_navi/app/Rules/ValidateInterviewEndAtFuture.php" />
+      <jump line="37" column="0" filename="$USER_HOME$/workspace/sagooo_navi/app/Rules/ValidateInterviewEndAtFuture.php" />
+      <jump line="58" column="0" filename="$USER_HOME$/workspace/sagooo_navi/app/Rules/ValidateInterviewEndAtFuture.php" />
+      <jump line="55" column="0" filename="$USER_HOME$/workspace/sagooo_navi/app/Rules/ValidateInterviewEndAtFuture.php" />
+      <jump line="24" column="9" filename="$USER_HOME$/workspace/sagooo_navi/app/Rules/ValidateInterviewEndAtFuture.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>を定義</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC4gJy8nIC4gJHBhdGgs</text>
+        <text>を定義</text>
       </register>
       <register name="/" type="4">
-        <text>create</text>
+        <text encoding="base64">XDxpbnRlcnZpZXdFbmREYXRlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzdWx0ID0gJHMzLT5nZXRPYmplY3RUYWdnaW5nKFsKICAgICAgICAgICAgLy8nQnVja2V0JyA9PiBlbnYoJ0FXU19CVUNLRVQnKSAuICcvJyAuICRwYXRoLAogICAgICAgICAgICAnQnVja2V0JyA9PiAnYXNzaWNhLnRlc3QudGFrZWRhJyAuICcvJyAuICRwYXRoLAogICAgICAgICAgICAnS2V5JyAgICA9PiBjb25maWcoJ2FudGlfdmlydXNfY2hlY2tfc2Nhbi5rZXknKSwKICAgICAgICBdKTsK</text>
+        <text encoding="base64">ICAgIC8vIOWPluadkOS6iOWumuaXpeaZguOBrumWi+Wni+aXpeaZguOCkuS/neaMgeOBmeOCi+WkieaVsOOCkuWumue+qQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -827,47 +834,44 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIAo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQ3JlYXRlIGEgbmV3IHJ1bGUgaW5zdGFuY2UuCiAgICAgKgogICAgICogQHJldHVybiB2b2lkCiAgICAgKi8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKi8KICAgIAo=</text>
+        <text encoding="base64">ICAgICAqCiAgICAgKiBAcmV0dXJuIHZvaWQKICAgICAqLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>*
-     * @var 
-     */</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBhcnJheQogICAgICovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCAkc3RlcHMgPSBbXTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZW1wdHkoJHRoaXMtPnN0ZXBzKSkgewogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQoKICAgICAgICBmb3JlYWNoICgkdGhpcy0+c3RlcHMgYXMgJHN0ZXBJbmRleCA9PiAkc3RlcCkgewogICAgICAgICAgICBpZiAoZW1wdHkoJHN0ZXBbJ3Byb2R1Y3RzJ10pKSB7CiAgICAgICAgICAgICAgICAvLyDnlbDluLjns7vjgILkvIHnlLvjga7mg4XloLHjgYzkvZXjgoLjgarjgYvjgaPjgZ/jgonjg5Djg6rjg4fjg7zjgrfjg6fjg7Pjgqjjg6njg7zjgajjgZnjgosKICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgfQogICAgICAgICAgICAkZG9lc250SGF2ZVByb2R1Y3QgPSB0cnVlOwogICAgICAgICAgICBmb3JlYWNoICgkc3RlcFsncHJvZHVjdHMnXSBhcyAkc3RlcFByb2R1Y3RJbmRleCA9PiAkcHJvZHVjdCkgewogICAgICAgICAgICAgICAgaWYgKCFlbXB0eSgkcHJvZHVjdFsncHJvZHVjdElkJ10pKSB7CiAgICAgICAgICAgICAgICAgICAgLy8g5q2j5bi457O744CC5LyB55S744Gu5oOF5aCx44GMMeOBpOOBp+OCguOBguOCjOOBsE9LCiAgICAgICAgICAgICAgICAgICAgJGRvZXNudEhhdmVQcm9kdWN0ID0gZmFsc2U7CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKCRkb2VzbnRIYXZlUHJvZHVjdCkgewogICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzdWx0ID0gJHMzLT5nZXRPYmplY3QoWwogICAgICAgICAgICAvLydCdWNrZXQnID0+IGVudignQVdTX0JVQ0tFVCcpIC4gJy8nIC4gJHBhdGgsCiAgICAgICAgICAgICdCdWNrZXQnID0+ICdhc3NpY2EudGVzdC50YWtlZGEnLAogICAgICAgICAgICAnS2V5JyAgICA9PiAkcGF0aAogICAgICAgIF0pOwoK</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmVzdWx0KTsK</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBhcnJheSAkc3RlcHMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>create</last-search>
+      <last-search encoding="base64">XDxpbnRlcnZpZXdFbmREYXRlXD4=</last-search>
       <last-offset />
-      <last-pattern>create</last-pattern>
+      <last-pattern encoding="base64">XDxpbnRlcnZpZXdFbmREYXRlXD4=</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ヒアリング</entry>
         <entry>interviews</entry>
         <entry>__client</entry>
         <entry>参考</entry>
@@ -887,6 +891,7 @@
         <entry>saveDataForPublishRequest</entry>
         <entry>案件入稿</entry>
         <entry>create</entry>
+        <entry encoding="base64">XDxpbnRlcnZpZXdFbmREYXRlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

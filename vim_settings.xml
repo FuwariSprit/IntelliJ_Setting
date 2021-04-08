@@ -116,12 +116,12 @@
         <mark key="^" line="145" column="64" />
         <mark key="." line="145" column="60" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/interview.blade.php" timestamp="1617005615293">
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/interview.blade.php" timestamp="1617866142328">
         <mark key="'" line="148" column="20" />
-        <mark key="[" line="115" column="52" />
-        <mark key="]" line="115" column="73" />
-        <mark key="." line="115" column="73" />
-        <mark key="^" line="115" column="73" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="14" column="9" />
+        <mark key="." line="13" column="27" />
+        <mark key="^" line="13" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/AwsS3/FileRepository.php" timestamp="1617780328793">
         <mark key="[" line="144" column="21" />
@@ -447,6 +447,12 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Commands/Transport/AssignedUserCsvTransport.php" timestamp="1617860797920" />
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/accounts/settings/profile/edit.blade.php" timestamp="1617184577107">
         <mark key="'" line="40" column="109" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/basic_info.blade.php" timestamp="1617866468723">
+        <mark key="[" line="23" column="24" />
+        <mark key="]" line="23" column="47" />
+        <mark key="." line="23" column="47" />
+        <mark key="^" line="23" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientOnlineOrder/OrderForm/detail_simple_form.ctp" timestamp="1615367012242">
         <mark key="'" line="0" column="0" />
@@ -805,47 +811,47 @@
       <jump line="32" column="12" filename="$USER_HOME$/workspace/sagooo_navi/app/Rules/ValidateInterviewEndAtFuture.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIEFwcFxSdWxlc1xWYWxpZGF0ZUludGVydmlld0VuZEF0RnV0dXJlOwo=</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnRlcnZpZXdFbmREYXRlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dXNlIEFwcFxSdWxlc1xWYWxpZGF0ZUludGVydmlld0VuZEF0RnV0dXJlOwo=</text>
+        <text encoding="base64">ICAgIDx0cj4KICAgICAgICA8dGggc3R5bGU9IndpZHRoOjE0MHB4OyI+5aqS5L2T5ZCNPC90aD4KICAgICAgICA8dGQ+44Oe44Kk44OK44OT5Yi25L2c54mpPC90ZD4KICAgIDwvdHI+CiAgICA8dHI+CiAgICAgICAgPHRoIHN0eWxlPSJ3aWR0aDoxNDBweDsiPuS8geeUuzwvdGg+CiAgICAgICAgPHRkPuS8muekvuamguimgeODu+aOoeeUqOODh+ODvOOCv+OAgOWPluadkOaSruW9seiyuzwvdGQ+CiAgICA8L3RyPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gJ2ludGVydmlld19lbmRfZGF0ZScg44GrIFZhbGlkYXRlSW50ZXJ2aWV3RW5kQXRGdXR1cmUg44Gu44Or44O844Or44KS6YGp55So44GZ44KLCg==</text>
+        <text encoding="base64">ICAgIDx0cj4KICAgICAgICA8dGggc3R5bGU9IndpZHRoOjE0MHB4OyI+5LyB55S7PC90aD4KICAgICAgICA8dGQ+5Lya56S+5qaC6KaB44O75o6h55So44OH44O844K/44CA5Y+W5p2Q5pKu5b2x6LK7PC90ZD4KICAgIDwvdHI+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gIC0g5Y+W5p2Q5LqI5a6a5pel5pmC44Gu6ZaL5aeL5pel5pmC44Go57WC5LqG5pel5pmC44KS5byV5pWw44Go44GX44Gm5rih44GZCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gJ2ludGVydmlld19lbmRfZGF0ZScg44GrIFZhbGlkYXRlSW50ZXJ2aWV3RW5kQXRGdXR1cmUg44Gu44Or44O844Or44KS6YGp55So44GZ44KLCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gIC0g5Y+W5p2Q5LqI5a6a5pel5pmC44Gu6ZaL5aeL5pel5pmC44Go57WC5LqG5pel5pmC44KS5byV5pWw44Go44GX44Gm5rih44GZCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAi5Y+W5p2Q5LqI5a6a5pel5pmC44Gu57WC5LqG5pel5pmC44Gv6ZaL5aeL5pel5pmC44KI44KK44KC5b6M44Gr44GX44Gm44GP44Gg44GV44GEIiDjgpLov5TjgZkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBmYWxzZeOCkui/lOOBmQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyAi5Y+W5p2Q5LqI5a6a5pel5pmC44Gu57WC5LqG5pel5pmC44Gv6ZaL5aeL5pel5pmC44KI44KK44KC5b6M44Gr44GX44Gm44GP44Gg44GV44GEIiDjgpLov5TjgZkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdHJ1ZeOCkui/lOOBmQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBmYWxzZeOCkui/lOOBmQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDntYLkuobml6XmmYIgPSAkaW50ZXJ2aWV3RW5kRGF0ZSwgJGludGVydmlld0VuZFRpbWUg44GL44KJ57WC5LqG5pel5pmC44KS5L2c5oiQCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdHJ1ZeOCkui/lOOBmQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDplovlp4vml6XmmYIgPSAkaW50ZXJ2aWV3U3RhcnREYXRlLCAkaW50ZXJ2aWV3U3RhcnRUaW1lIOOBi+OCiemWi+Wni+aXpeaZguOCkuS9nOaIkAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyDntYLkuobml6XmmYIgPSAkaW50ZXJ2aWV3RW5kRGF0ZSwgJGludGVydmlld0VuZFRpbWUg44GL44KJ57WC5LqG5pel5pmC44KS5L2c5oiQCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIOe1guS6huaXpeaZggo=</text>
+        <text encoding="base64">ICAgICAgICAvLyDplovlp4vml6XmmYIgPSAkaW50ZXJ2aWV3U3RhcnREYXRlLCAkaW50ZXJ2aWV3U3RhcnRUaW1lIOOBi+OCiemWi+Wni+aXpeaZguOCkuS9nOaIkAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

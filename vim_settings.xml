@@ -106,10 +106,6 @@
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/works/interview_info.blade.php" timestamp="1618476841494">
         <mark key="'" line="11" column="0" />
-        <mark key="[" line="117" column="95" />
-        <mark key="]" line="117" column="95" />
-        <mark key="." line="117" column="95" />
-        <mark key="^" line="117" column="95" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" timestamp="1612762584651">
         <mark key="'" line="1661" column="0" />
@@ -136,13 +132,6 @@
         <mark key="]" line="145" column="60" />
         <mark key="^" line="145" column="64" />
         <mark key="." line="145" column="60" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/interview.blade.php" timestamp="1618474108447">
-        <mark key="'" line="113" column="19" />
-        <mark key="[" line="170" column="0" />
-        <mark key="]" line="170" column="52" />
-        <mark key="." line="170" column="52" />
-        <mark key="^" line="170" column="131" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/AwsS3/FileRepository.php" timestamp="1618379519667">
         <mark key="[" line="7" column="50" />
@@ -186,10 +175,10 @@
         <mark key="." line="52" column="172" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Work/Interview/ReferenceFile/ReferenceFile.php" timestamp="1618476882903">
-        <mark key="[" line="93" column="36" />
-        <mark key="]" line="93" column="20" />
-        <mark key="^" line="93" column="20" />
-        <mark key="." line="93" column="20" />
+        <mark key="[" line="4" column="36" />
+        <mark key="]" line="4" column="20" />
+        <mark key="^" line="4" column="20" />
+        <mark key="." line="4" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/public/js/admin/mynavi_evaluate/index.js" timestamp="1612517838791">
         <mark key="[" line="58" column="20" />
@@ -227,6 +216,12 @@
         <mark key="]" line="95" column="33" />
         <mark key="." line="95" column="33" />
         <mark key="^" line="95" column="77" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Eloquents/DtbStepPhotoList.php" timestamp="1618479209270">
+        <mark key="[" line="80" column="21" />
+        <mark key="]" line="80" column="15" />
+        <mark key="^" line="80" column="15" />
+        <mark key="." line="80" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/AntiVirusCheckScanStatus.php" timestamp="1618476954654">
         <mark key="[" line="29" column="15" />
@@ -296,12 +291,6 @@
         <mark key="." line="216" column="68" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Shell/ClientFavorNotifyRegisterShell.php" timestamp="1618276842046" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" timestamp="1618476838000">
-        <mark key="[" line="1190" column="69" />
-        <mark key="]" line="1190" column="113" />
-        <mark key="." line="1190" column="113" />
-        <mark key="^" line="1190" column="113" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/File.php" timestamp="1617615248905">
         <mark key="[" line="25" column="112" />
         <mark key="]" line="21" column="0" />
@@ -321,6 +310,7 @@
         <mark key="^" line="51" column="13" />
         <mark key="." line="51" column="13" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Work/StepPhotoList/StepPhotoList.php" timestamp="1618479071417" />
       <file name="$USER_HOME$/workspace/sagooo_navi/docker/.env" timestamp="1617338836098">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="13" column="28" />

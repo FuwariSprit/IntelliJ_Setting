@@ -11,9 +11,6 @@
         <mark key="." line="22" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/webroot_src/js/module/image-get-api.js" timestamp="1620630072995" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/works/interview_info.blade.php" timestamp="1618476841494">
-        <mark key="'" line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/AwsS3/FileRepository.php" timestamp="1619084751734">
         <mark key="'" line="155" column="0" />
         <mark key="[" line="120" column="0" />
@@ -21,7 +18,7 @@
         <mark key="^" line="7" column="53" />
         <mark key="." line="7" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_image_get_api.php" timestamp="1620265193811" />
+      <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_image_get_api.php" timestamp="1620631774980" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Requests/Admin/WorkGroup/CreateGroupRequest.php" timestamp="1619414771320" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Work/Interview/RegulationSheet/RegulationSheet.php" timestamp="1620365051122">
         <mark key="'" line="53" column="122" />
@@ -37,7 +34,8 @@
         <mark key="." line="134" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_admin.php" timestamp="1620351595403" />
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Front/ImageGetController.php" timestamp="1620630390623">
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Routes/ApiRoutes.php" timestamp="1620631784600" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Front/ImageGetController.php" timestamp="1620631743220">
         <mark key="'" line="71" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/User/UserImageRepository.php" timestamp="1619136249679">
@@ -50,7 +48,7 @@
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Traits/WritingTrait.php" timestamp="1619060452878" />
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/works/writer_waitng_for_delivery.blade.php" timestamp="1619074216926" />
       <file name="$USER_HOME$/workspace/sagooo_navi/app/Console/Kernel.php" timestamp="1619086208401" />
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/PixtaApiComponent.php" timestamp="1620264351105" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/PixtaApiComponent.php" timestamp="1620632261513" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbOperatorsTable.php" timestamp="1620351135659" />
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/works/reviewer_work_before.blade.php" timestamp="1619083002906">
         <mark key="[" line="187" column="0" />
@@ -96,9 +94,6 @@
         <mark key="." line="109" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/database/migrations/2018_05_14_104008_create_dtb_work_groups_table.php" timestamp="1619426766221" />
-      <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_online_order.php" timestamp="1618818605892">
-        <mark key="'" line="203" column="55" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbWorkSummariesTable.php" timestamp="1619060368126" />
     </filemarks>
     <jumps>

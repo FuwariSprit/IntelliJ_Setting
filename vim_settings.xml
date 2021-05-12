@@ -70,11 +70,11 @@
         <mark key="^" line="55" column="25" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/User/UserImage.php" timestamp="1620792870170">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="33" column="20" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/User/UserImage.php" timestamp="1620794015623">
+        <mark key="[" line="33" column="8" />
+        <mark key="]" line="33" column="7" />
+        <mark key="." line="33" column="7" />
+        <mark key="^" line="33" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/users/search.blade.php" timestamp="1620724343246">
         <mark key="]" line="3" column="8" />
@@ -534,6 +534,7 @@
         <mark key="." line="25" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/database/migrations/2018_05_14_104008_create_dtb_work_groups_table.php" timestamp="1619426766221" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/User/User.php" timestamp="1620793667771" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbWorkSummariesTable.php" timestamp="1619060368126" />
     </filemarks>
     <jumps>
@@ -639,11 +640,11 @@
       <jump line="759" column="26" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDjgZPjgZPnhKHpmZDjg6vjg7zjg5fjgZfjgabjgosK</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>$data['contactSheetAntiVirusCheckStatus'] = null;</text>

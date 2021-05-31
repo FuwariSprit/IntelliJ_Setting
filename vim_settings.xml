@@ -422,7 +422,8 @@
         <mark key="^" line="11" column="44" />
         <mark key="." line="11" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/View/Helper/ApprovalHelper.php" timestamp="1622096121071">
+      <file name="$USER_HOME$/workspace/sagooo_works/src/View/Helper/ApprovalHelper.php" timestamp="1622424856664">
+        <mark key="'" line="793" column="31" />
         <mark key="[" line="793" column="8" />
         <mark key="]" line="793" column="9" />
         <mark key="^" line="793" column="9" />
@@ -643,7 +644,6 @@
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbWorkSummariesTable.php" timestamp="1619060368126" />
     </filemarks>
     <jumps>
-      <jump line="18" column="1" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/index.blade.php" />
       <jump line="15" column="0" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/index.blade.php" />
       <jump line="17" column="0" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/index.blade.php" />
       <jump line="115" column="0" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/index.blade.php" />
@@ -743,6 +743,7 @@
       <jump line="99" column="31" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Admin/TextApproval/article.ctp" />
       <jump line="25" column="31" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Admin/TextApproval/article.ctp" />
       <jump line="458" column="55" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Admin/TextApproval/article.ctp" />
+      <jump line="793" column="31" filename="$USER_HOME$/workspace/sagooo_works/src/View/Helper/ApprovalHelper.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -752,7 +753,7 @@
         <text>$</text>
       </register>
       <register name="/" type="4">
-        <text>$articleDetail</text>
+        <text>mb_convert_kana</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QVdTX1NES19WRVJTSU9OPQo=</text>
@@ -792,9 +793,9 @@
       </register>
     </registers>
     <search>
-      <last-search>$articleDetail</last-search>
+      <last-search>mb_convert_kana</last-search>
       <last-offset />
-      <last-pattern>$articleDetail</last-pattern>
+      <last-pattern>mb_convert_kana</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
       <last-dir>1</last-dir>
@@ -802,7 +803,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getWorkDeta</entry>
         <entry>getWork</entry>
         <entry>getAdminWork</entry>
         <entry>あああああ</entry>
@@ -822,6 +822,7 @@
         <entry>table_body</entry>
         <entry>$body</entry>
         <entry>$articleDetail</entry>
+        <entry>mb_convert_kana</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

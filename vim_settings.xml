@@ -419,11 +419,11 @@
         <mark key="." line="22" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/env/local.example/const_mail_env.php" timestamp="1621585356893" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/routes/web.php" timestamp="1623138158115">
+      <file name="$USER_HOME$/workspace/sagooo_navi/routes/web.php" timestamp="1623230163729">
         <mark key="[" line="102" column="34" />
-        <mark key="]" line="102" column="39" />
+        <mark key="]" line="102" column="34" />
         <mark key="^" line="102" column="39" />
-        <mark key="." line="102" column="39" />
+        <mark key="." line="102" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_anti_virus_check_scan_status.php" timestamp="1617255046059">
         <mark key="[" line="12" column="1" />
@@ -883,11 +883,11 @@
       <jump line="12" column="6" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/FrontRoutes.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LyoqCiAqIENsYXNzIEhlYWx0aENoZWNrQ29udHJvbGxlcgogKiBAcGFja2FnZSBBcHBcQ29udHJvbGxlclxGcm9udAogKi8K</text>
+      <register name="&quot;" type="4">
+        <text>\</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text>showStep</text>

@@ -905,7 +905,7 @@
         <text>\</text>
       </register>
       <register name="/" type="4">
-        <text>showStep</text>
+        <text>reseach</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvLyDmrbvmtLvnm6PoppbnlKgKICAgICAgICBSb3V0ZXI6OnNjb3BlKCcvJywgZnVuY3Rpb24gKFJvdXRlQnVpbGRlciAkcm91dGVzKSB7CiAgICAgICAgICAgICRyb3V0ZXMtPmNvbm5lY3QoCiAgICAgICAgICAgICAgICAnL2hlYWx0aF9jaGVjaycsCiAgICAgICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAgICAgJ2NvbnRyb2xsZXInID0+IHNlbGY6OkRJUl9QUkVGSVggLiAnSGVhbHRoQ2hlY2snLAogICAgICAgICAgICAgICAgICAgICdhY3Rpb24nICAgICA9PiAnaW5kZXgnLAogICAgICAgICAgICAgICAgXQogICAgICAgICAgICApOwogICAgICAgIH0pOwo=</text>
@@ -945,9 +945,9 @@
       </register>
     </registers>
     <search>
-      <last-search>showStep</last-search>
+      <last-search>reseach</last-search>
       <last-offset />
-      <last-pattern>showStep</last-pattern>
+      <last-pattern>reseach</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
       <last-dir>1</last-dir>
@@ -955,7 +955,6 @@
     </search>
     <history>
       <history-search>
-        <entry>$articleDetail</entry>
         <entry>mb_convert_kana</entry>
         <entry>keywords_research</entry>
         <entry>serps_analysis</entry>
@@ -975,6 +974,7 @@
         <entry>login</entry>
         <entry>function login</entry>
         <entry>showStep</entry>
+        <entry>reseach</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

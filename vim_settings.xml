@@ -165,7 +165,7 @@
         <mark key="^" line="347" column="32" />
         <mark key="." line="347" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/docker/docker-compose.yml" timestamp="1623892192043">
+      <file name="$USER_HOME$/workspace/sagooo_works/docker/docker-compose.yml" timestamp="1623970883503">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
@@ -350,7 +350,7 @@
         <text>STRICT_TRANS_TABLES,</text>
       </register>
       <register name="/" type="4">
-        <text>createOffer</text>
+        <text>新規</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ3BvcnQnID0+ICczMzA2JywK</text>
@@ -390,9 +390,9 @@
       </register>
     </registers>
     <search>
-      <last-search>createOffer</last-search>
+      <last-search>新規</last-search>
       <last-offset />
-      <last-pattern>createOffer</last-pattern>
+      <last-pattern>新規</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
       <last-dir>1</last-dir>
@@ -400,8 +400,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Serps分析画面に遷移する</entry>
-        <entry>public function getSERPsKeywordListTest($testData, int $an</entry>
         <entry>CreateAssignRequest</entry>
         <entry>advice_main.png</entry>
         <entry>初心者はみんなダイアモンドの原石です</entry>
@@ -420,6 +418,8 @@
         <entry>createTargetUsers</entry>
         <entry>create</entry>
         <entry>createOffer</entry>
+        <entry>新規登録</entry>
+        <entry>新規</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

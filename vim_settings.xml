@@ -9,6 +9,9 @@
         <mark key="^" line="52" column="78" />
         <mark key="." line="52" column="78" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/SalesDelivery/detail.ctp" timestamp="1621312036396">
+        <mark key="'" line="48" column="72" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/index_form.blade.php" timestamp="1619507133820">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="41" />
@@ -27,6 +30,9 @@
         <mark key="^" line="102" column="39" />
         <mark key="." line="102" column="34" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/User/UserImage.php" timestamp="1621214604452">
+        <mark key="'" line="89" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/HealthCheckController.php" timestamp="1623139136895">
         <mark key="[" line="23" column="21" />
         <mark key="]" line="23" column="21" />
@@ -39,6 +45,10 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/AssignController.php" timestamp="1622617886085">
+        <mark key="'" line="6" column="49" />
+      </file>
+      <file name="$USER_HOME$/workspace/web_duplicate_check/src/app/Console/Commands/ImportUrl.php" timestamp="1623896720819" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Email/text/platinum_test_pass.ctp" timestamp="1622088730396">
         <mark key="[" line="2" column="30" />
         <mark key="]" line="5" column="18" />
@@ -115,6 +125,12 @@
         <mark key="." line="8" column="88" />
         <mark key="^" line="8" column="88" />
       </file>
+      <file name="$USER_HOME$/workspace/tact/app/Http/Controllers/SeoImprovement/RankFactorAnalysis/KeywordComparisonController.php" timestamp="1622542381247">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Admin/AdminApproval/article_detail_paragraph_approval.ctp" timestamp="1622090685975">
+        <mark key="'" line="484" column="38" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_admin_online_order.php" timestamp="1622442660868">
         <mark key="[" line="810" column="60" />
         <mark key="]" line="811" column="81" />
@@ -132,6 +148,9 @@
         <mark key="]" line="127" column="19" />
         <mark key="^" line="127" column="19" />
         <mark key="." line="127" column="19" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Front/WritingController.php" timestamp="1623316437036">
+        <mark key="'" line="695" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/CurlComponent.php" timestamp="1620637420465">
         <mark key="[" line="347" column="0" />
@@ -186,6 +205,9 @@
         <mark key="." line="46" column="44" />
         <mark key="^" line="46" column="44" />
       </file>
+      <file name="$USER_HOME$/workspace/web_duplicate_check/src/app/Services/WebDuplicateCheck.php" timestamp="1623896861124">
+        <mark key="'" line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/AwsS3/UserImageRepository.php" timestamp="1620975005889">
         <mark key="[" line="86" column="9" />
         <mark key="]" line="87" column="7" />
@@ -198,6 +220,9 @@
         <mark key="." line="21" column="7" />
         <mark key="^" line="21" column="7" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_online_order.php" timestamp="1618818605892">
+        <mark key="'" line="203" column="55" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/works/writer_proofreeding.blade.php" timestamp="1621414016688">
         <mark key="[" line="394" column="111" />
         <mark key="]" line="394" column="118" />
@@ -206,8 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="253" column="31" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Admin/TextApproval/article.ctp" />
-      <jump line="242" column="31" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Admin/TextApproval/article.ctp" />
       <jump line="191" column="34" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Admin/TextApproval/article.ctp" />
       <jump line="188" column="44" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Admin/TextApproval/article.ctp" />
       <jump line="187" column="27" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Admin/TextApproval/article.ctp" />
@@ -306,6 +329,8 @@
       <jump line="1174" column="27" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Front/WritingController.php" />
       <jump line="33" column="48" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Front/WritingController.php" />
       <jump line="695" column="25" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Front/WritingController.php" />
+      <jump line="29" column="21" filename="$USER_HOME$/workspace/web_duplicate_check/src/app/Services/WebDuplicateCheck.php" />
+      <jump line="22" column="0" filename="$USER_HOME$/workspace/web_duplicate_check/src/app/Services/WebDuplicateCheck.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">

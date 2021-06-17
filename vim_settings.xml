@@ -24,7 +24,7 @@
         <mark key="^" line="315" column="32" />
         <mark key="." line="321" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/routes/web.php" timestamp="1623922180368">
+      <file name="$USER_HOME$/workspace/sagooo_navi/routes/web.php" timestamp="1623923798891">
         <mark key="[" line="102" column="34" />
         <mark key="]" line="102" column="34" />
         <mark key="^" line="102" column="39" />
@@ -45,8 +45,8 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/AssignController.php" timestamp="1622617886085">
-        <mark key="'" line="6" column="49" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/AssignController.php" timestamp="1623923883165">
+        <mark key="'" line="29" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/web_duplicate_check/src/app/Console/Commands/ImportUrl.php" timestamp="1623896720819" />
       <file name="$USER_HOME$/workspace/sagooo_navi/public/js/admin/offers/target_users/create.js" timestamp="1623916505130" />
@@ -241,7 +241,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="31" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Admin/TextApproval/article.ctp" />
       <jump line="25" column="31" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Admin/TextApproval/article.ctp" />
       <jump line="458" column="55" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Admin/TextApproval/article.ctp" />
       <jump line="793" column="31" filename="$USER_HOME$/workspace/sagooo_works/src/View/Helper/ApprovalHelper.php" />
@@ -341,6 +340,7 @@
       <jump line="33" column="6" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/OfferController.php" />
       <jump line="26" column="6" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/OfferController.php" />
       <jump line="108" column="57" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/OfferController.php" />
+      <jump line="29" column="37" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/AssignController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -350,7 +350,7 @@
         <text>STRICT_TRANS_TABLES,</text>
       </register>
       <register name="/" type="4">
-        <text>create</text>
+        <text>createOffer</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ3BvcnQnID0+ICczMzA2JywK</text>
@@ -390,9 +390,9 @@
       </register>
     </registers>
     <search>
-      <last-search>create</last-search>
+      <last-search>createOffer</last-search>
       <last-offset />
-      <last-pattern>create</last-pattern>
+      <last-pattern>createOffer</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
       <last-dir>1</last-dir>
@@ -400,7 +400,6 @@
     </search>
     <history>
       <history-search>
-        <entry>vueData.serpsAnalysisTopEndpoint = PHP_VARS.serpsAnalysisTopEndpoint;</entry>
         <entry>Serps分析画面に遷移する</entry>
         <entry>public function getSERPsKeywordListTest($testData, int $an</entry>
         <entry>CreateAssignRequest</entry>
@@ -420,6 +419,7 @@
         <entry>work(</entry>
         <entry>createTargetUsers</entry>
         <entry>create</entry>
+        <entry>createOffer</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

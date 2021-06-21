@@ -48,15 +48,18 @@
         <mark key="^" line="315" column="32" />
         <mark key="." line="321" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/routes/web.php" timestamp="1623923798891">
+      <file name="$USER_HOME$/workspace/sagooo_navi/routes/web.php" timestamp="1624244297334">
+        <mark key="'" line="568" column="16" />
         <mark key="[" line="102" column="34" />
         <mark key="]" line="102" column="34" />
         <mark key="^" line="102" column="39" />
         <mark key="." line="102" column="34" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/Offer/CreateOffer.php" timestamp="1624243034485" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/User/UserImage.php" timestamp="1621214604452">
         <mark key="'" line="89" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/CreateAppealMessage.php" timestamp="1624244383926" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/HealthCheckController.php" timestamp="1623139136895">
         <mark key="[" line="23" column="21" />
         <mark key="]" line="23" column="21" />
@@ -69,7 +72,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/AssignController.php" timestamp="1623923883165">
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/AssignController.php" timestamp="1624244009310">
         <mark key="'" line="29" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Traits/AdminApprovalTrait.php" timestamp="1623973096697">
@@ -140,12 +143,14 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Requests/Admin/Assign/CreateOfferAssignRequest.php" timestamp="1624243984000" />
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/works/photographer_proofreeding.blade.php" timestamp="1621414658047">
         <mark key="[" line="398" column="111" />
         <mark key="]" line="398" column="118" />
         <mark key="^" line="398" column="118" />
         <mark key="." line="398" column="118" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/Assign/CreateOfferAssign.php" timestamp="1624244096107" />
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/detail/client.blade.php" timestamp="1621392259560">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="9" column="78" />
@@ -170,7 +175,7 @@
         <mark key="." line="89" column="45" />
         <mark key="^" line="89" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/OfferController.php" timestamp="1623922200268">
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/OfferController.php" timestamp="1624244336731">
         <mark key="'" line="108" column="57" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/docker/services/database57/config/works.cnf" timestamp="1623830689936">
@@ -184,9 +189,10 @@
         <mark key="." line="26" column="25" />
         <mark key="^" line="26" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/OfferController.php" timestamp="1623917194669">
-        <mark key="'" line="33" column="6" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/OfferController.php" timestamp="1624243343947">
+        <mark key="'" line="97" column="74" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" timestamp="1624244596864" />
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/operators/index.blade.php" timestamp="1622101272979">
         <mark key="[" line="46" column="71" />
         <mark key="]" line="46" column="44" />
@@ -220,6 +226,8 @@
         <mark key="." line="22" column="29" />
         <mark key="^" line="22" column="29" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Notifications/OfferTargetUserNotify.php" timestamp="1624243507474" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/Offer/CreateTargetUser.php" timestamp="1624243701529" />
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_online_order.php" timestamp="1618818605892">
         <mark key="'" line="203" column="55" />
       </file>
@@ -237,9 +245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="31" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Admin/TextApproval/article.ctp" />
-      <jump line="458" column="55" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Admin/TextApproval/article.ctp" />
-      <jump line="793" column="31" filename="$USER_HOME$/workspace/sagooo_works/src/View/Helper/ApprovalHelper.php" />
       <jump line="277" column="5" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/OperatorRepository.php" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/tact/routes/web.php" />
       <jump line="812" column="29" filename="$USER_HOME$/workspace/tact/routes/web.php" />
@@ -337,6 +342,9 @@
       <jump line="26" column="6" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/OfferController.php" />
       <jump line="108" column="57" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/OfferController.php" />
       <jump line="29" column="37" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/AssignController.php" />
+      <jump line="207" column="65" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
+      <jump line="97" column="74" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/OfferController.php" />
+      <jump line="568" column="16" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -346,7 +354,7 @@
         <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>新規</text>
+        <text>createTargetUsers</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ3BvcnQnID0+ICczMzA2JywK</text>
@@ -386,9 +394,9 @@
       </register>
     </registers>
     <search>
-      <last-search>新規</last-search>
+      <last-search>createTargetUsers</last-search>
       <last-offset />
-      <last-pattern>新規</last-pattern>
+      <last-pattern>createTargetUsers</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
       <last-dir>1</last-dir>
@@ -411,11 +419,11 @@
         <entry>reseach</entry>
         <entry>work (</entry>
         <entry>work(</entry>
-        <entry>createTargetUsers</entry>
         <entry>create</entry>
         <entry>createOffer</entry>
         <entry>新規登録</entry>
         <entry>新規</entry>
+        <entry>createTargetUsers</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

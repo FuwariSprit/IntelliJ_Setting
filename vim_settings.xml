@@ -4,12 +4,12 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Shell/CategoryUpdateFixShell.php" timestamp="1624318371653" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/work_groups/steps/create/StepFormList.vue" timestamp="1624521009565">
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/work_groups/steps/create/StepFormList.vue" timestamp="1624521894056">
         <mark key="'" line="43" column="20" />
-        <mark key="[" line="288" column="38" />
-        <mark key="]" line="288" column="38" />
-        <mark key="^" line="288" column="38" />
-        <mark key="." line="288" column="38" />
+        <mark key="[" line="285" column="50" />
+        <mark key="]" line="285" column="54" />
+        <mark key="." line="285" column="54" />
+        <mark key="^" line="285" column="54" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/work_groups/steps/create/StepFormItem.vue" timestamp="1624438145378">
         <mark key="'" line="346" column="32" />
@@ -167,10 +167,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>f</text>
+        <text>this.workerTypeReviewerId;</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>this.workerTypeReviewerId;</text>
       </register>
       <register name="/" type="4">
         <text>@remove</text>
@@ -179,34 +179,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAodmFsdWUuZGlzYWJsZWQpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHByZWdTdHJpbmcpO2V4aXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJldmlld2Vycyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJG1hdGNoTGlzdCk7ZXhpdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHByZWdTdHJpbmcpO2V4aXQ7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJG1hdGNoTGlzdCk7ZXhpdDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGV4dERhdGFJZCwgJGxhc3RQb3N0RGF0ZXRpbWUpO2V4aXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJG1hdGNoTGlzdCk7ZXhpdDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGV4dERhdGFJZCwgJGxhc3RQb3N0RGF0ZXRpbWUpO2V4aXQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkYm9keSk7ZXhpdDsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3NjaGVkdWxlZF9kZWxpdmVyeV9hdCcgPT4gJHdvcmstPnN0YXR1cy0+dG9Eb21haW4oKS0+c2NoZWR1bGVkRGVsaXZlcnlBdCgpLAo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkYm9keSk7ZXhpdDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3NjaGVkdWxlZF9kZWxpdmVyeV9hdCcgPT4gJHdvcmstPnN0YXR1cy0+dG9Eb21haW4oKS0+c2NoZWR1bGVkRGVsaXZlcnlBdCgpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

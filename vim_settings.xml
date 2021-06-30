@@ -5,9 +5,11 @@
     <filemarks>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Shell/CategoryUpdateFixShell.php" timestamp="1624318371653" />
       <file name="$USER_HOME$/workspace/sagooo_works/webroot_src/js/module/writing-work-validation.js" timestamp="1625013280615" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/work_groups/steps/create/StepFormList.vue" timestamp="1624523163313">
-        <mark key="'" line="43" column="20" />
-        <mark key="^" line="292" column="15" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/work_groups/steps/create/StepFormList.vue" timestamp="1625031367446">
+        <mark key="'" line="75" column="22" />
+        <mark key="]" line="11" column="8" />
+        <mark key="^" line="11" column="8" />
+        <mark key="." line="11" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/PixtaApiComponent.php" timestamp="1620637558246">
         <mark key="[" line="56" column="0" />
@@ -282,8 +284,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2212" column="0" filename="$USER_HOME$/workspace/tact/app/Services/SeoImprovement/RankFactorAnalysis/AnalysisLoader.php" />
-      <jump line="2219" column="0" filename="$USER_HOME$/workspace/tact/app/Services/SeoImprovement/RankFactorAnalysis/AnalysisLoader.php" />
       <jump line="2226" column="0" filename="$USER_HOME$/workspace/tact/app/Services/SeoImprovement/RankFactorAnalysis/AnalysisLoader.php" />
       <jump line="2237" column="0" filename="$USER_HOME$/workspace/tact/app/Services/SeoImprovement/RankFactorAnalysis/AnalysisLoader.php" />
       <jump line="2240" column="0" filename="$USER_HOME$/workspace/tact/app/Services/SeoImprovement/RankFactorAnalysis/AnalysisLoader.php" />
@@ -382,6 +382,8 @@
       <jump line="25" column="0" filename="$USER_HOME$/workspace/sagooo_works/cron/env/production/crontab.txt" />
       <jump line="29" column="0" filename="$USER_HOME$/workspace/sagooo_works/cron/env/production/crontab.txt" />
       <jump line="32" column="0" filename="$USER_HOME$/workspace/sagooo_works/cron/env/production/crontab.txt" />
+      <jump line="11" column="8" filename="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/work_groups/steps/create/StepFormList.vue" />
+      <jump line="75" column="22" filename="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/work_groups/steps/create/StepFormList.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -391,7 +393,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>textDownload</text>
+        <text>削除</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPD9waHAgaWYgKHN0cnRvdGltZShkYXRlKCJZL20vZCBIOmk6cyIpKSA8PSBzdHJ0b3RpbWUoJzIwMjEtMDUtMDUgMjM6NTk6NTknKSk6ID8+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJhbGVydCBhbGVydC1pbmZvIj4KICAgICAgICAgICAgICAgICAgICA8cD48Yj7jgrTjg7zjg6vjg4fjg7PjgqbjgqPjg7zjgq/kuK3jga7llrbmpa3jgavjgaTjgYTjgabjgYrnn6XjgonjgZs8L2I+PC9wPgogICAgICAgICAgICAgICAgICAgIDxwPgogICAgICAgICAgICAgICAgICAgICAgICDoqqDjgavli53miYvjgarjgYzjgonjgIEyMDIx5bm0NeaciDHml6XvvZ4yMDIx5bm0NeaciDXml6Xjga7jgrTjg7zjg6vjg4fjg7PjgqbjgqPjg7zjgq/jgavjgaTjgYTjgabjga/kvJHmpa3jgajjgZXjgZvjgabjgYTjgZ/jgaDjgY3jgb7jgZk8YnI+CiAgICAgICAgICAgICAgICAgICAgICAgIOiomOS6i+OBruOBlOeZuuazqOWPl+S7mOODu+OBiuimi+epjeOCiuOAgeOBneOBruS7luOBiuWVj+OBhOWQiOOCj+OBm+WFqOiIrOOBq+OBpOOBjeOBvuOBl+OBpuOBrzIwMjHlubQ15pyINuaXpeOCiOOCiumghuasoeWvvuW/nOiHtOOBl+OBvuOBmeOAgjxicj4KICAgICAgICAgICAgICAgICAgICAgICAg44G+44Gf5L6d6aC854q25rOB44Gr44KI44Gj44Gm44Gv44CB5LyR5qWt5YmN44Gr44GU5L6d6aC844KS6aCC44GE44Gf5aC05ZCI44Gn44KC44K044O844Or44OH44Oz44Km44Kj44O844Kv5LyR5pqH5Lul6ZmN44Gu5a++5b+c44Go44Gq44KL44GT44Go44KC44GU44GW44GE44G+44GZ44Gu44Gn44CB5LqI44KB44GU5LqG5om/44KS44GK6aGY44GE6Ie044GX44G+44GZ44CCPGJyPgogICAgICAgICAgICAgICAgICAgICAgICA8c21hbGw+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICDigLvkvJHmpa3liY3jgavmoYjku7bjga7li5/pm4bjgpLplovlp4vjgZXjgozjgZ/jgYTloLTlkIjjga/jgIE05pyIMjfml6Xjgb7jgafjgpLnm67lh6bjgavjgZTlhaXph5Hjgb7jgaflrozkuobpoILjgZHjgb7jgZnjgajlubjjgYTjgafjgZnjgII8YnI+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvc21hbGw+CiAgICAgICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDw/cGhwIGVuZGlmOyA/Pgo=</text>
@@ -453,9 +455,9 @@
       </register>
     </registers>
     <search>
-      <last-search>textDownload</last-search>
+      <last-search>削除</last-search>
       <last-offset />
-      <last-pattern>textDownload</last-pattern>
+      <last-pattern>削除</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
       <last-dir>1</last-dir>
@@ -477,12 +479,12 @@
         <entry>新規登録</entry>
         <entry>新規</entry>
         <entry>createTargetUsers</entry>
-        <entry>削除</entry>
         <entry>追加</entry>
         <entry>@remove</entry>
         <entry>order</entry>
         <entry>text_download</entry>
         <entry>textDownload</entry>
+        <entry>削除</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

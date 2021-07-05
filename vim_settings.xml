@@ -47,6 +47,9 @@
         <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/web_duplicate_check/src/routes/api.php" timestamp="1624258950511" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/AssignController.php" timestamp="1624244009310">
+        <mark key="'" line="29" column="37" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Traits/AdminApprovalTrait.php" timestamp="1623973096697">
         <mark key="[" line="2355" column="0" />
         <mark key="]" line="2355" column="0" />
@@ -88,6 +91,9 @@
       <file name="$USER_HOME$/workspace/sagooo_works/src/Routes/FrontRoutes.php" timestamp="1624577239932">
         <mark key="'" line="338" column="24" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/OfferController.php" timestamp="1624243343947">
+        <mark key="'" line="97" column="74" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Shell/DeliveryDataShell.php" timestamp="1624319113478" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" timestamp="1625450402856" />
       <file name="$USER_HOME$/workspace/sagooo_works/design/works.sagooo/client/contact_input/index.html" timestamp="1624589992874" />
@@ -126,7 +132,9 @@
         <mark key="." line="96" column="62" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Shell/CategoryUpdateFixShell.php" timestamp="1624318371653" />
-      <file name="$USER_HOME$/workspace/sagooo_works/webroot_src/js/module/writing-work-validation.js" timestamp="1625208215581" />
+      <file name="$USER_HOME$/workspace/sagooo_works/webroot_src/js/module/writing-work-validation.js" timestamp="1625465289398">
+        <mark key="'" line="640" column="8" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/PixtaApiComponent.php" timestamp="1620637558246">
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="0" />
@@ -138,6 +146,9 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="4" column="8" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/work_groups/steps/create/StepFormItem.vue" timestamp="1624438145378">
+        <mark key="'" line="346" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Front/Writing/work.ctp" timestamp="1625011580254" />
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_title.php" timestamp="1622695091645">
@@ -265,6 +276,9 @@
         <mark key="^" line="89" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" timestamp="1624512437811" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/OfferController.php" timestamp="1624244336731">
+        <mark key="'" line="108" column="57" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/cron/env/develop/crontab.txt" timestamp="1624318244539" />
       <file name="$USER_HOME$/workspace/sawa_renewal/works/app/config/const/const_item.php" timestamp="1625118698517" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/GetUserList.php" timestamp="1623136578010">
@@ -284,6 +298,9 @@
         <mark key="]" line="46" column="44" />
         <mark key="." line="46" column="44" />
         <mark key="^" line="46" column="44" />
+      </file>
+      <file name="$USER_HOME$/workspace/web_duplicate_check/src/app/Services/WebDuplicateCheck.php" timestamp="1624346162284">
+        <mark key="'" line="22" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/web_duplicate_check/src/resources/views/front/articles/entry.blade.php" timestamp="1624254360326" />
       <file name="$USER_HOME$/workspace/sagooo_works/webroot/maintenance.php" timestamp="1624958128638">
@@ -316,7 +333,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="415" column="18" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Front/TopStaticPage/advice.ctp" />
       <jump line="516" column="18" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Front/TopStaticPage/advice.ctp" />
       <jump line="619" column="18" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Front/TopStaticPage/advice.ctp" />
       <jump line="349" column="46" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Front/TopStaticPage/advice.ctp" />
@@ -416,6 +432,7 @@
       <jump line="348" column="20" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="550" column="45" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="568" column="20" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
+      <jump line="640" column="8" filename="$USER_HOME$/workspace/sagooo_works/webroot_src/js/module/writing-work-validation.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -425,7 +442,7 @@
         <text>GetUserList</text>
       </register>
       <register name="/" type="4">
-        <text>create(</text>
+        <text>__validateMessages</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGEgc3R5bGU9Im1hcmdpbjo1cHggNXB4OyIgY2xhc3M9ImJ0biBidG4tZGVmYXVsdCIgaHJlZj0iaHR0cHM6Ly9qb2IubXluYXZpLmpwLzIxL3BjL3NlYXJjaC9jb3Jwe3sgJGNsaWVudC0+T3duZXJDbGllbnRDb2RlKCktPnZhbHVlKCkgfX0vb3V0bGluZS5odG1sIiB0YXJnZXQ9Il9ibGFuayI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAyMDIx44Oa44O844K4IDxzcGFuIGNsYXNzPSJnbHlwaGljb24gZ2x5cGhpY29uLW5ldy13aW5kb3ciIGFyaWEtaGlkZGVuPSJ0cnVlIj48L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4K</text>
@@ -465,9 +482,9 @@
       </register>
     </registers>
     <search>
-      <last-search>create(</last-search>
+      <last-search>__validateMessages</last-search>
       <last-offset />
-      <last-pattern>create(</last-pattern>
+      <last-pattern>__validateMessages</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
       <last-dir>1</last-dir>
@@ -475,7 +492,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getUserList</entry>
         <entry>login</entry>
         <entry>function login</entry>
         <entry>showStep</entry>
@@ -495,6 +511,7 @@
         <entry>create</entry>
         <entry>create (</entry>
         <entry>create(</entry>
+        <entry>__validateMessages</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

@@ -3,26 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_url.php" timestamp="1621937309502">
-        <mark key="[" line="52" column="78" />
-        <mark key="]" line="52" column="78" />
-        <mark key="^" line="52" column="78" />
-        <mark key="." line="52" column="78" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/View/Helper/ClientLandingHelper.php" timestamp="1625122044827" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" timestamp="1625469358538" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/index_form.blade.php" timestamp="1619507133820">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="41" />
-        <mark key="^" line="22" column="40" />
-        <mark key="." line="22" column="40" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/config/const/env/local.docker/app.php" timestamp="1623715918656">
-        <mark key="[" line="321" column="0" />
-        <mark key="]" line="321" column="29" />
-        <mark key="^" line="315" column="32" />
-        <mark key="." line="321" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/routes/web.php" timestamp="1624589554991">
         <mark key="'" line="568" column="16" />
         <mark key="[" line="102" column="34" />
@@ -32,6 +14,7 @@
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/Offer/CreateOffer.php" timestamp="1624243034485" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/GetMstProducts.php" timestamp="1625450365768" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Validation/IsExistUploadImageValidation.php" timestamp="1625650693510" />
       <file name="$USER_HOME$/workspace/sagooo_works/webroot_src/js/sg-front.js" timestamp="1625011842264" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/HealthCheckController.php" timestamp="1625450751103">
         <mark key="[" line="5" column="0" />
@@ -39,37 +22,13 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="18" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/health_check/index.blade.php" timestamp="1623137073503">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/web_duplicate_check/src/routes/api.php" timestamp="1624258950511" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/AssignController.php" timestamp="1624244009310">
         <mark key="'" line="29" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Traits/AdminApprovalTrait.php" timestamp="1623973096697">
-        <mark key="[" line="2355" column="0" />
-        <mark key="]" line="2355" column="0" />
-        <mark key="^" line="2355" column="53" />
-        <mark key="." line="2355" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/WorkGroupController.php" timestamp="1624589533513" />
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Email/text/platinum_test_pass.ctp" timestamp="1622088730396">
-        <mark key="[" line="2" column="30" />
-        <mark key="]" line="5" column="18" />
-        <mark key="^" line="5" column="18" />
-        <mark key="." line="5" column="18" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/Assign/AddAssignSync.php" timestamp="1624512150088" />
       <file name="$USER_HOME$/workspace/web_duplicate_check/src/app/Http/Requests/Api/ArticlesRequest.php" timestamp="1624255144871" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Work/Interview/ReferenceFile/ReferenceFile.php" timestamp="1622537498316">
-        <mark key="[" line="60" column="9" />
-        <mark key="]" line="61" column="7" />
-        <mark key="^" line="61" column="7" />
-        <mark key="." line="61" column="7" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_api.php" timestamp="1625189501399">
         <mark key="[" line="32" column="32" />
         <mark key="]" line="32" column="32" />
@@ -83,11 +42,12 @@
       <file name="$USER_HOME$/workspace/sawa_renewal/works/app/controllers/api/api_controller.php" timestamp="1625120026717" />
       <file name="$USER_HOME$/workspace/sawa_renewal/member/app/controllers/components/api.php" timestamp="1625120605988" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" timestamp="1624511866868" />
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/WritingUtilComponent.php" timestamp="1625647575155">
-        <mark key="[" line="597" column="79" />
-        <mark key="]" line="597" column="78" />
-        <mark key="^" line="597" column="78" />
-        <mark key="." line="597" column="78" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/WritingUtilComponent.php" timestamp="1625653047061">
+        <mark key="'" line="1511" column="0" />
+        <mark key="[" line="766" column="0" />
+        <mark key="]" line="766" column="0" />
+        <mark key="^" line="624" column="127" />
+        <mark key="." line="766" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/web_duplicate_check/src/app/Http/Requests/Api/ReportsContentRequest.php" timestamp="1624258917573" />
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_admin.php" timestamp="1625525691070" />
@@ -107,19 +67,7 @@
         <mark key="^" line="32" column="1" />
         <mark key="." line="32" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Work/StepPhotoList/StepPhotoList.php" timestamp="1621403004897">
-        <mark key="[" line="97" column="36" />
-        <mark key="]" line="97" column="19" />
-        <mark key="." line="97" column="19" />
-        <mark key="^" line="97" column="19" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Traits/WritingTrait.php" timestamp="1625468712213" />
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/HealthCheckController.php" timestamp="1623228477848">
-        <mark key="[" line="22" column="24" />
-        <mark key="]" line="22" column="29" />
-        <mark key="." line="22" column="29" />
-        <mark key="^" line="22" column="29" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/layout/works/work_detail.blade.php" timestamp="1625130001621">
         <mark key="[" line="192" column="28" />
         <mark key="]" line="192" column="31" />
@@ -130,12 +78,6 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/app/Console/Kernel.php" timestamp="1624512254939" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Eloquents/MstProductGroup.php" timestamp="1625449799412" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/Offer/CreateTargetUser.php" timestamp="1624243701529" />
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/EmailComponent.php" timestamp="1621992222563">
-        <mark key="[" line="96" column="61" />
-        <mark key="]" line="96" column="62" />
-        <mark key="^" line="96" column="62" />
-        <mark key="." line="96" column="62" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Shell/CategoryUpdateFixShell.php" timestamp="1624318371653" />
       <file name="$USER_HOME$/workspace/sagooo_works/webroot_src/js/module/writing-work-validation.js" timestamp="1625646718838">
         <mark key="'" line="938" column="0" />
@@ -144,28 +86,10 @@
         <mark key="^" line="967" column="57" />
         <mark key="." line="347" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/PixtaApiComponent.php" timestamp="1620637558246">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="^" line="56" column="53" />
-        <mark key="." line="56" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Front/HealthCheck/index.php" timestamp="1623142840618">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="4" column="8" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/work_groups/steps/create/StepFormItem.vue" timestamp="1624438145378">
         <mark key="'" line="346" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Front/Writing/work.ctp" timestamp="1625011580254" />
-      <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_title.php" timestamp="1622695091645">
-        <mark key="[" line="97" column="46" />
-        <mark key="]" line="97" column="63" />
-        <mark key="." line="97" column="63" />
-        <mark key="^" line="97" column="63" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/layout/works/offer_detail.blade.php" timestamp="1625130156785">
         <mark key="[" line="49" column="104" />
         <mark key="]" line="51" column="31" />
@@ -174,12 +98,6 @@
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Routes/ClientRoutes.php" timestamp="1624577279617" />
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_all.php" timestamp="1625125899810" />
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientLandingPage/Element/faq.ctp" timestamp="1625122181326">
-        <mark key="[" line="69" column="43" />
-        <mark key="]" line="69" column="47" />
-        <mark key="^" line="69" column="47" />
-        <mark key="." line="69" column="47" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/CreateAppealMessage.php" timestamp="1624244383926" />
       <file name="$USER_HOME$/workspace/sagooo_works/cron/env/production/crontab.txt" timestamp="1624957378746">
         <mark key="[" line="0" column="0" />
@@ -194,25 +112,14 @@
         <mark key="^" line="2013" column="8" />
         <mark key="." line="2013" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/LocalFileStorage/FileRepository.php" timestamp="1619084783903">
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="119" column="5" />
-        <mark key="." line="8" column="88" />
-        <mark key="^" line="8" column="88" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Shell/PointLostBeforeMailShell.php" timestamp="1624317986953" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Commands/Transport/AssignedUserCsvTransport.php" timestamp="1624512498729" />
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Validator/DtbTextParagraphDatasValidator.php" timestamp="1625647602904">
-        <mark key="[" line="34" column="21" />
-        <mark key="]" line="34" column="21" />
-        <mark key="^" line="34" column="21" />
-        <mark key="." line="34" column="21" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_admin_online_order.php" timestamp="1622442660868">
-        <mark key="[" line="810" column="60" />
-        <mark key="]" line="811" column="81" />
-        <mark key="^" line="811" column="81" />
-        <mark key="." line="811" column="81" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Validator/DtbTextParagraphDatasValidator.php" timestamp="1625652990124">
+        <mark key="'" line="289" column="20" />
+        <mark key="[" line="69" column="30" />
+        <mark key="]" line="69" column="30" />
+        <mark key="^" line="39" column="16" />
+        <mark key="." line="69" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/View/Helper/ApprovalHelper.php" timestamp="1624802677467">
         <mark key="[" line="791" column="0" />
@@ -221,18 +128,6 @@
         <mark key="^" line="793" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/sawa_renewal/works/app/config/routes/routes_api.php" timestamp="1625119969266" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Operator/OperatorRepository.php" timestamp="1623043873995">
-        <mark key="[" line="127" column="15" />
-        <mark key="]" line="127" column="19" />
-        <mark key="^" line="127" column="19" />
-        <mark key="." line="127" column="19" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/CurlComponent.php" timestamp="1620637420465">
-        <mark key="[" line="347" column="0" />
-        <mark key="]" line="347" column="0" />
-        <mark key="^" line="347" column="32" />
-        <mark key="." line="347" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Shell/DeliveryManageShell.php" timestamp="1624318744336" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Commands/Aggregate/CreateUserEvaluateScore.php" timestamp="1624492717069" />
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/layout/admin/works/detail.blade.php" timestamp="1625041632955">
@@ -247,12 +142,6 @@
         <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/web_duplicate_check/src/app/Http/Requests/Api/JobsRequest.php" timestamp="1624257545169" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/works/photographer_proofreeding.blade.php" timestamp="1621414658047">
-        <mark key="[" line="398" column="111" />
-        <mark key="]" line="398" column="118" />
-        <mark key="^" line="398" column="118" />
-        <mark key="." line="398" column="118" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/Assign/CreateOfferAssign.php" timestamp="1624244096107" />
       <file name="$USER_HOME$/workspace/sawa_renewal/works/app/config/api_bootstrap.php" timestamp="1625461509014">
         <mark key="[" line="15" column="30" />
@@ -260,53 +149,17 @@
         <mark key="." line="15" column="30" />
         <mark key="^" line="15" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/detail/client.blade.php" timestamp="1621392259560">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="9" column="78" />
-        <mark key="^" line="9" column="78" />
-        <mark key="." line="9" column="78" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Work/StepUpload/StepUpload.php" timestamp="1621417500103">
-        <mark key="[" line="178" column="36" />
-        <mark key="]" line="178" column="19" />
-        <mark key="^" line="178" column="19" />
-        <mark key="." line="178" column="19" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/delivery_writer_modal.blade.php" timestamp="1621386326830">
-        <mark key="[" line="100" column="270" />
-        <mark key="]" line="101" column="57" />
-        <mark key="^" line="101" column="57" />
-        <mark key="." line="101" column="57" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/works/photo_list.blade.php" timestamp="1622610134070">
-        <mark key="[" line="89" column="42" />
-        <mark key="]" line="89" column="45" />
-        <mark key="." line="89" column="45" />
-        <mark key="^" line="89" column="45" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" timestamp="1624512437811" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/OfferController.php" timestamp="1624244336731">
         <mark key="'" line="108" column="57" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/cron/env/develop/crontab.txt" timestamp="1624318244539" />
       <file name="$USER_HOME$/workspace/sawa_renewal/works/app/config/const/const_item.php" timestamp="1625118698517" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/GetUserList.php" timestamp="1623136578010">
-        <mark key="[" line="26" column="25" />
-        <mark key="]" line="26" column="25" />
-        <mark key="." line="26" column="25" />
-        <mark key="^" line="26" column="25" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Client/ClientOnlineOrder/index.ctp" timestamp="1624802957121">
         <mark key="[" line="113" column="32" />
         <mark key="]" line="113" column="32" />
         <mark key="." line="113" column="32" />
         <mark key="^" line="113" column="32" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/operators/index.blade.php" timestamp="1622101272979">
-        <mark key="[" line="46" column="71" />
-        <mark key="]" line="46" column="44" />
-        <mark key="." line="46" column="44" />
-        <mark key="^" line="46" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/web_duplicate_check/src/app/Services/WebDuplicateCheck.php" timestamp="1624346162284">
         <mark key="'" line="22" column="0" />
@@ -318,50 +171,16 @@
         <mark key="." line="2" column="39" />
         <mark key="^" line="2" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/AwsS3/UserImageRepository.php" timestamp="1620975005889">
-        <mark key="[" line="86" column="9" />
-        <mark key="]" line="87" column="7" />
-        <mark key="^" line="87" column="7" />
-        <mark key="." line="87" column="7" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/SalesDelivery/edit.ctp" timestamp="1625469608242" />
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/HealthCheckController.php" timestamp="1623633297094">
-        <mark key="[" line="20" column="44" />
-        <mark key="]" line="21" column="7" />
-        <mark key="." line="21" column="7" />
-        <mark key="^" line="21" column="7" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Validation/ZenkakuValidation.php" timestamp="1625647569250">
-        <mark key="[" line="19" column="19" />
-        <mark key="]" line="19" column="58" />
-        <mark key="^" line="19" column="58" />
-        <mark key="." line="19" column="58" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Validation/ZenkakuValidation.php" timestamp="1625653023580">
+        <mark key="[" line="26" column="9" />
+        <mark key="]" line="28" column="19" />
+        <mark key="." line="28" column="19" />
+        <mark key="^" line="28" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/sawa_renewal/capistrano/production/works/app/config/api_bootstrap_env.php" timestamp="1625114115123" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/works/writer_proofreeding.blade.php" timestamp="1621414016688">
-        <mark key="[" line="394" column="111" />
-        <mark key="]" line="394" column="118" />
-        <mark key="." line="394" column="118" />
-        <mark key="^" line="394" column="118" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="448" column="26" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AppAdminController.php" />
-      <jump line="453" column="27" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AppAdminController.php" />
-      <jump line="18" column="12" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AppAdminController.php" />
-      <jump line="38" column="17" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AppAdminController.php" />
-      <jump line="42" column="17" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AppAdminController.php" />
-      <jump line="40" column="42" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AppAdminController.php" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" />
-      <jump line="3517" column="24" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" />
-      <jump line="727" column="11" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
-      <jump line="12" column="6" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/FrontRoutes.php" />
-      <jump line="15" column="10" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/FrontRoutes.php" />
-      <jump line="19" column="6" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Front/WritingController.php" />
-      <jump line="1174" column="27" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Front/WritingController.php" />
-      <jump line="33" column="48" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Front/WritingController.php" />
-      <jump line="695" column="25" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Front/WritingController.php" />
-      <jump line="29" column="21" filename="$USER_HOME$/workspace/web_duplicate_check/src/app/Services/WebDuplicateCheck.php" />
       <jump line="22" column="0" filename="$USER_HOME$/workspace/web_duplicate_check/src/app/Services/WebDuplicateCheck.php" />
       <jump line="33" column="6" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/OfferController.php" />
       <jump line="26" column="6" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/OfferController.php" />
@@ -446,58 +265,74 @@
       <jump line="29" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Validation/ZenkakuValidation.php" />
       <jump line="25" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Validation/ZenkakuValidation.php" />
       <jump line="17" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Validation/ZenkakuValidation.php" />
+      <jump line="1505" column="21" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/WritingUtilComponent.php" />
+      <jump line="1485" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/WritingUtilComponent.php" />
+      <jump line="1490" column="12" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/WritingUtilComponent.php" />
+      <jump line="1492" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/WritingUtilComponent.php" />
+      <jump line="1495" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/WritingUtilComponent.php" />
+      <jump line="1511" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/WritingUtilComponent.php" />
+      <jump line="18" column="20" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Validator/DtbTextParagraphDatasValidator.php" />
+      <jump line="7" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Validator/DtbTextParagraphDatasValidator.php" />
+      <jump line="2" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Validator/DtbTextParagraphDatasValidator.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Validator/DtbTextParagraphDatasValidator.php" />
+      <jump line="181" column="32" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Validator/DtbTextParagraphDatasValidator.php" />
+      <jump line="268" column="21" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Validator/DtbTextParagraphDatasValidator.php" />
+      <jump line="272" column="57" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Validator/DtbTextParagraphDatasValidator.php" />
+      <jump line="274" column="20" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Validator/DtbTextParagraphDatasValidator.php" />
+      <jump line="275" column="16" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Validator/DtbTextParagraphDatasValidator.php" />
+      <jump line="289" column="20" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Validator/DtbTextParagraphDatasValidator.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Z</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcGFyYWdyYXBoVmFsaWRhdGlvbkVycm9ycyk7ZXhpdDsK</text>
       </register>
       <register name="-" type="4">
-        <text>Z</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>__validateMessages</text>
+        <text>textData</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICog5YWo6KeS6Iux5pWw5a2X44GM5YWl44Gj44Gm44GE44Gq44GE44GL56K66KqN44GZ44KLCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnaGFzTm90WmVua2FrdScgPT4gWwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogIOWFqOinkuiLseaVsOWtl+OBjOWFpeOBo+OBpuOBhOOBquOBhOOBi+eiuuiqjeOBmeOCiwogKiAK</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcGFyYWdyYXBoVmFsaWRhdGlvbkVycm9ycyk7ZXhpdDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkd29yZFZhbHVlKTtleGl0Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">dXNlIEFwcFxDb21tb25cQ29uZjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICog5YWo6KeS6Iux5pWw5a2X44GM5YWl44Gj44Gm44GE44Gq44GE44GL56K66KqN44GZ44KLCiAqCiAqIENsYXNzIFplbmtha3VWYWxpZGF0aW9uCiAqIEBwYWNrYWdlIEFwcFxNb2RlbFxWYWxpZGF0aW9uCiAqLwo=</text>
+        <text encoding="base64">dXNlIENha2VcRmlsZXN5c3RlbVxGb2xkZXI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">dXNlIFxaaXBBcmNoaXZlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDlhaXlipvjgYzjgarjgYTjgIF6aXDjg5XjgqHjgqTjg6vjgafjgarjgYTjgajjgY3jga90cnVlCiAgICAgICAgaWYgKGVtcHR5KCR6aXBGaWxlWyd0bXBfbmFtZSddKSB8fCBlbXB0eSgkZXh0ZW5zaW9uTGlzdCkgfHwKICAgICAgICAgICAgcGF0aGluZm8oJHppcEZpbGVbJ25hbWUnXSwgUEFUSElORk9fRVhURU5TSU9OKSAhPT0gJ3ppcCcpIHsKICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgfQoKICAgICAgICAkemlwID0gbmV3IFppcEFyY2hpdmUoKTsKICAgICAgICAvLyB6aXDkuIDmmYLlsZXplovlhYgKICAgICAgICAkemlwRXh0cmFjdERpciA9IENvbmY6OnIoJ0NPTlNULldSSVRJTkcuRklMRV9VUExPQURfT1BFTl9ESVJFQ1RPUlknKSAuIHRpbWUoKSAuIERTOwoKICAgICAgICBpZiAoJHppcC0+b3BlbigkemlwRmlsZVsndG1wX25hbWUnXSkgIT09IHRydWUpIHsKICAgICAgICAgICAgLy8g6ZaL44GR44Gq44GE44Go44GNCiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9CgogICAgICAgIC8vIHppcOOBruS4rei6q+OCkuWxlemWi+OBl+OBpuOAgemWieOBmOOCiwogICAgICAgIGlmICgkemlwLT5leHRyYWN0VG8oJHppcEV4dHJhY3REaXIpICE9PSB0cnVlKSB7CiAgICAgICAgICAgIC8vIOWxlemWi+OBp+OBjeOBquOBhOOBqOOBjQogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQogICAgICAgICR6aXAtPmNsb3NlKCk7CgogICAgICAgICRyZXN1bHQgPSB0cnVlOwogICAgICAgICRmaWxlQ2hlY2tDb3VudCA9IDA7CgogICAgICAgIC8vIOODh+OCo+ODrOOCr+ODiOODquOBruODkeOCuQogICAgICAgICRjaGVja0RpcmVjdG9yaWVzID0gWyR6aXBFeHRyYWN0RGlyXTsKICAgICAgICB3aGlsZSAoJGNoZWNrRGlyZWN0b3JpZXMpIHsKICAgICAgICAgICAgJGRpclBhdGggPSAkY2hlY2tEaXJlY3Rvcmllc1swXTsKICAgICAgICAgICAgLy8g44OH44Kj44Os44Kv44OI44Oq5YaF44Gu5aC05ZCI44Gu5o6i57SiCiAgICAgICAgICAgIGlmIChpc19kaXIoJGRpclBhdGgpICYmICRoYW5kbGUgPSBvcGVuZGlyKCRkaXJQYXRoKSkgewogICAgICAgICAgICAgICAgd2hpbGUgKCgkZmlsZSA9IHJlYWRkaXIoJGhhbmRsZSkpICE9PSBmYWxzZSkgewogICAgICAgICAgICAgICAgICAgIC8vIOODgeOCp+ODg+OCr+WvvuixoeOBp+OBquOBhOWgtOWQiOOBr+OCueOCreODg+ODlwogICAgICAgICAgICAgICAgICAgIGlmIChpbl9hcnJheSgkZmlsZSwgWyIuIiwgIi4uIl0pICE9PSBmYWxzZSkgewogICAgICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgICRwYXRoID0gcnRyaW0oJGRpclBhdGgsICIvIikgLiBEUyAuICRmaWxlOwoKICAgICAgICAgICAgICAgICAgICAvLyDjg4fjgqPjg6zjgq/jg4jjg6rjga7jgajjgY3jga/jg5HjgrnjgpLjgrvjg4Pjg4jjgZnjgosKICAgICAgICAgICAgICAgICAgICBpZiAoZmlsZXR5cGUoJHBhdGgpID09PSAiZGlyIikgewogICAgICAgICAgICAgICAgICAgICAgICAkY2hlY2tEaXJlY3Rvcmllc1tdID0gJHBhdGg7CiAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgJGZpbGVDaGVja0NvdW50Kys7CiAgICAgICAgICAgICAgICAgICAgICAgICRuZXdQYXRoID0gJHppcEV4dHJhY3REaXIgLiBEUyAuICRmaWxlQ2hlY2tDb3VudCAuICcuJyAuIG1iX3N0cnRvbG93ZXIocGF0aGluZm8oJGZpbGUsIFBBVEhJTkZPX0VYVEVOU0lPTikpOwogICAgICAgICAgICAgICAgICAgICAgICAvLyDlhYPjg5XjgqHjgqTjg6vjga7nva7jgY3mj5vjgYgKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHJlbmFtZSgkcGF0aCwgJG5ld1BhdGgpID09PSBmYWxzZSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgJHJlc3VsdCA9IGZhbHNlOwogICAgICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgICAgICAvLyDmjIflrprjgZfjgZ/mi6HlvLXlrZDjgafjgarjgYTjgajjgY0KICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCFpbl9hcnJheShtYl9zdHJ0b2xvd2VyKHBhdGhpbmZvKCRmaWxlLCBQQVRISU5GT19FWFRFTlNJT04pKSwgJGV4dGVuc2lvbkxpc3QpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkcmVzdWx0ID0gZmFsc2U7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgICAgIC8vIOaLoeW8teWtkOODgeOCp+ODg+OCr+eUqOOBruODh+ODvOOCvwogICAgICAgICAgICAgICAgICAgICAgICAkY2hlY2tEYXRhID0gWwogICAgICAgICAgICAgICAgICAgICAgICAgICAgJ25hbWUnID0+ICRmaWxlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3RtcF9uYW1lJyA9PiAkbmV3UGF0aAogICAgICAgICAgICAgICAgICAgICAgICBdOwoKICAgICAgICAgICAgICAgICAgICAgICAgLy8g5ouh5by15a2Q44Gu5pW05ZCI5oCn44GM44GC44KP44Gq44GE44Go44GNCiAgICAgICAgICAgICAgICAgICAgICAgIGlmICgkcmVzdWx0ICE9PSBmYWxzZSAmJiBzZWxmOjpjaGVja01pbWVDb250ZW50VHlwZSgkY2hlY2tEYXRhKSA9PT0gZmFsc2UpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICRyZXN1bHQgPSBmYWxzZTsKICAgICAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICAgICAgLy8g5bGV6ZaL44GX44Gf44OV44Kh44Kk44Or44KS5YmK6ZmkCiAgICAgICAgICAgICAgICAgICAgICAgIEB1bmxpbmsoJG5ld1BhdGgpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgICAgICAkdGFyZ2V0RGlyZWN0b3J5ID0gJGNoZWNrRGlyZWN0b3JpZXM7CiAgICAgICAgICAgIGFycmF5X3NoaWZ0KCRjaGVja0RpcmVjdG9yaWVzKTsKCiAgICAgICAgICAgIGlmIChjb3VudCgkY2hlY2tEaXJlY3RvcmllcykgPT09IDApIHsKICAgICAgICAgICAgICAgIC8vIOWxlemWi+OBl+OBn+ODh+OCo+ODrOOCr+ODiOODquOCkuWJiumZpAogICAgICAgICAgICAgICAgQHJtZGlyKCR0YXJnZXREaXJlY3RvcnlbMF0pOwogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICAvLyDkuIDmmYLjg4fjgqPjg6zjgq/jg4jjg6rjga7liYrpmaQKICAgICAgICBAcm1kaXIoJHppcEV4dHJhY3REaXIpOwoKICAgICAgICBpZiAoJGZpbGVDaGVja0NvdW50ID09PSAwKSB7CiAgICAgICAgICAgIC8vIHppcOODleOCoeOCpOODq+OBjOODleOCqeODq+ODgOOBruOBv+OBruWgtOWQiAogICAgICAgICAgICAkcmVzdWx0ID0gZmFsc2U7CiAgICAgICAgfQoKICAgICAgICAvLyBNYWMg562J44Gn6Zqg44GX44OV44Kh44Kk44Or44GM5q6L44KL5aC05ZCI44Gr5raI44GZ5Yem55CGCiAgICAgICAgaWYgKCRyZXN1bHQgPT09IGZhbHNlICYmIGZpbGVfZXhpc3RzKCR6aXBFeHRyYWN0RGlyKSkgewogICAgICAgICAgICAkZGlyZWN0b3J5ID0gbmV3IEZvbGRlcihydHJpbSgkemlwRXh0cmFjdERpciwgJy8nKSk7CiAgICAgICAgICAgICRkaXJlY3RvcnktPmRlbGV0ZSgpOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuICRyZXN1bHQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnemVua2FrdScgICAgPT4gWwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIOODleOCoeOCpOODq+OBrk1JTUUgQ29udGVudC10eXBl44KS56K66KqN44GZ44KLCiAgICAgKgogICAgICogQHBhcmFtIGFycmF5ICRmaWxlIOOCouODg+ODl+ODreODvOODieOBl+OBn+ODleOCoeOCpOODq+aDheWgsQogICAgICoKICAgICAqIEByZXR1cm4gYm9vbCB0cnVl77yaT0vjgIFmYWxzZe+8mk5HKOODleOCoeOCpOODq+OBruaLoeW8teWtkOOBqE1JTUUgQ29udGVudC10eXBl44Gu5pW05ZCI5oCn44GM5ZCI44KP44Gq44GEKQogICAgICovCiAgICBwdWJsaWMgc3RhdGljIGZ1bmN0aW9uIGNoZWNrTWltZUNvbnRlbnRUeXBlKGFycmF5ICRmaWxlKQogICAgewogICAgICAgIC8vIOepuuOBruWgtOWQiOOBr+ODgeOCp+ODg+OCr+OBl+OBquOBhAogICAgICAgIGlmIChlbXB0eSgkZmlsZSkpIHsKICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgfQoKICAgICAgICAvLyDmi6HlvLXlrZDjgpLlj5blvpcKICAgICAgICAkZXh0ZW5zaW9uID0gbWJfc3RydG9sb3dlcihwYXRoaW5mbygkZmlsZVsnbmFtZSddLCBQQVRISU5GT19FWFRFTlNJT04pKTsKCiAgICAgICAgLy8g5ouh5by15a2Q44GL44KJTUlNRSBDb250ZW50LXR5cGXjgpLlj5blvpfjgZnjgosKICAgICAgICAkY29udGVudFR5cGUgPSBDb25mOjpmKCdDT05TVC5XUklUSU5HLmdldE1pbWVDb250ZW50VHlwZScsIFskZXh0ZW5zaW9uXSk7CgogICAgICAgIC8vIOODleOCoeOCpOODq+OBruaLoeW8teWtkOOBqE1JTUUgQ29udGVudC10eXBl44Gu5pW05ZCI5oCn44GM5ZCI44KP44Gq44GE44Go44GNCiAgICAgICAgaWYgKG1pbWVfY29udGVudF90eXBlKCRmaWxlWyd0bXBfbmFtZSddKSAhPT0gJGNvbnRlbnRUeXBlKSB7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9CgogICAgICAgIHJldHVybiB0cnVlOwogICAgfQp9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnemVua2FrdScgICAgPT4gWwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogemlw44Gu5Lit6Lqr44Gu44OV44Kh44Kk44Or44KS56K66KqN44GZ44KLCiAgICAgKgogICAgICogQHBhcmFtIGFycmF5ICR6aXBGaWxlIOOCouODg+ODl+ODreODvOODieOBl+OBn+ODleOCoeOCpOODq+aDheWgsQogICAgICogQHBhcmFtIGFycmF5ICRleHRlbnNpb25MaXN0IOioseWPr+OBmeOCi+aLoeW8teWtkOOBrumFjeWIlwogICAgICoKICAgICAqIEByZXR1cm4gYm9vbCB0cnVl77yaT0vjgIFmYWxzZe+8mk5HKHppcOODleOCoeOCpOODq+OBq+OCouODg+ODl+ODreODvOODieOBp+OBjeOBquOBhOODleOCoeOCpOODq+OBjOWQq+OBvuOCjOOBpuOBhOOCiykKICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnemVua2FrdScgICAgPT4gWwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>__validateMessages</last-search>
+      <last-search>textData</last-search>
       <last-offset />
-      <last-pattern>__validateMessages</last-pattern>
+      <last-pattern>textData</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
       <last-dir>1</last-dir>
@@ -505,7 +340,6 @@
     </search>
     <history>
       <history-search>
-        <entry>showStep</entry>
         <entry>reseach</entry>
         <entry>work (</entry>
         <entry>work(</entry>
@@ -525,6 +359,7 @@
         <entry>confarm</entry>
         <entry>confirm</entry>
         <entry>__validateMessages</entry>
+        <entry>textData</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

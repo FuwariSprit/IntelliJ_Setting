@@ -11,6 +11,13 @@
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/View/Helper/ClientLandingHelper.php" timestamp="1625122044827" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" timestamp="1625469358538" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/routes/web.php" timestamp="1624589554991">
+        <mark key="'" line="568" column="16" />
+        <mark key="[" line="102" column="34" />
+        <mark key="]" line="102" column="34" />
+        <mark key="^" line="102" column="39" />
+        <mark key="." line="102" column="34" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/Offer/CreateOffer.php" timestamp="1624243034485" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/GetMstProducts.php" timestamp="1625450365768" />
       <file name="$USER_HOME$/workspace/sagooo_works/webroot_src/js/sg-front.js" timestamp="1625011842264" />
@@ -42,7 +49,7 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/public/js/admin/mynavi_evaluate/index.js" timestamp="1624492361786" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/MynaviEvaluate/Upload.php" timestamp="1624511968727" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Requests/Admin/Assign/CreateOfferAssignRequest.php" timestamp="1624243984000" />
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Front/Writing/Work/text.ctp" timestamp="1625477435426" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Front/Writing/Work/text.ctp" timestamp="1625644646976" />
       <file name="$USER_HOME$/workspace/sawa_renewal/works/app/controllers/api/api_controller.php" timestamp="1625120026717" />
       <file name="$USER_HOME$/workspace/sawa_renewal/member/app/controllers/components/api.php" timestamp="1625120605988" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" timestamp="1624511866868" />
@@ -76,9 +83,12 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Eloquents/MstProductGroup.php" timestamp="1625449799412" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/Offer/CreateTargetUser.php" timestamp="1624243701529" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Shell/CategoryUpdateFixShell.php" timestamp="1624318371653" />
-      <file name="$USER_HOME$/workspace/sagooo_works/webroot_src/js/module/writing-work-validation.js" timestamp="1625616613323">
-        <mark key="'" line="117" column="8" />
-        <mark key="^" line="251" column="54" />
+      <file name="$USER_HOME$/workspace/sagooo_works/webroot_src/js/module/writing-work-validation.js" timestamp="1625644283440">
+        <mark key="'" line="938" column="0" />
+        <mark key="[" line="347" column="0" />
+        <mark key="]" line="347" column="65" />
+        <mark key="^" line="967" column="57" />
+        <mark key="." line="347" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/work_groups/steps/create/StepFormItem.vue" timestamp="1624438145378">
         <mark key="'" line="346" column="32" />
@@ -177,7 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1155" column="32" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/UserRepository.php" />
       <jump line="1156" column="33" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/UserRepository.php" />
       <jump line="1245" column="21" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/UserRepository.php" />
       <jump line="922" column="20" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/UserRepository.php" />
@@ -277,13 +286,14 @@
       <jump line="17" column="6" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/SalesDeliveryController.php" />
       <jump line="70" column="52" filename="$USER_HOME$/workspace/sagooo_works/webroot_src/js/module/writing-work-validation.js" />
       <jump line="117" column="8" filename="$USER_HOME$/workspace/sagooo_works/webroot_src/js/module/writing-work-validation.js" />
+      <jump line="939" column="0" filename="$USER_HOME$/workspace/sagooo_works/webroot_src/js/module/writing-work-validation.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfX3ZhbGlkYXRlWmVua2FrdSh2YWxpZGF0aW9uQ29uZmlnLiRlbGVtZW50KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>GetUserList</text>
+        <text>__validataMessages.validateZenkaku.ok</text>
       </register>
       <register name="/" type="4">
         <text>__validateMessages</text>
@@ -292,34 +302,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfX3ZhbGlkYXRlWmVua2FrdSh2YWxpZGF0aW9uQ29uZmlnLiRlbGVtZW50KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDjg5Djg6rjg4fjg7zjgrfjg6fjg7PoqK3lrprjga7lj5blvpcKICAgICAgICB2YXIgbG9jYWxDb25maWcgPSB7fTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfX3ZhbGlkYXRlWmVua2FrdSh2YWxpZGF0aW9uQ29uZmlnLiRlbGVtZW50KTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDjgbDjgorvvYsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfX3ZhbGlkYXRlWmVua2FrdSh2YWxpZGF0aW9uQ29uZmlnLiRlbGVtZW50KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfX3ZhbGlkYXRlWmVua2FrdSh2YWxpZGF0aW9uQ29uZmlnLiRlbGVtZW50KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfX3ZhbGlkYXRlWmVua2FrdSh2YWxpZGF0aW9uQ29uZmlnLiRlbGVtZW50KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIFNhZ29vb05hdmlcQXBwbGljYXRpb25cVXNlQ2FzZXNcR2V0VXNlckxpc3Q7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDjg5Djg6rjg4fjg7zjgrfjg6fjg7PoqK3lrprjga7lj5blvpcKICAgICAgICB2YXIgbG9jYWxDb25maWcgPSB7fTsKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvLyDjgbDjgorvvYsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBEQjo6dGFibGUoJycpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogR2V0VXNlckxpc3QgY29uc3RydWN0b3IuCiAgICAgKiBAcGFyYW0gVXNlclJlcG9zaXRvcnkgJHJlcG9zaXRvcnkK</text>
+        <text encoding="base64">dXNlIFNhZ29vb05hdmlcQXBwbGljYXRpb25cVXNlQ2FzZXNcR2V0VXNlckxpc3Q7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

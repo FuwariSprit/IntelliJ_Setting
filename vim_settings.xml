@@ -42,12 +42,12 @@
       <file name="$USER_HOME$/workspace/sawa_renewal/works/app/controllers/api/api_controller.php" timestamp="1625120026717" />
       <file name="$USER_HOME$/workspace/sawa_renewal/member/app/controllers/components/api.php" timestamp="1625120605988" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" timestamp="1624511866868" />
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/WritingUtilComponent.php" timestamp="1625653047061">
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/WritingUtilComponent.php" timestamp="1625654409938">
         <mark key="'" line="1511" column="0" />
-        <mark key="[" line="766" column="0" />
-        <mark key="]" line="766" column="0" />
-        <mark key="^" line="624" column="127" />
-        <mark key="." line="766" column="0" />
+        <mark key="[" line="1472" column="20" />
+        <mark key="]" line="1472" column="20" />
+        <mark key="^" line="1472" column="20" />
+        <mark key="." line="1472" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/web_duplicate_check/src/app/Http/Requests/Api/ReportsContentRequest.php" timestamp="1624258917573" />
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_admin.php" timestamp="1625525691070" />
@@ -172,7 +172,8 @@
         <mark key="^" line="2" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/SalesDelivery/edit.ctp" timestamp="1625469608242" />
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Validation/ZenkakuValidation.php" timestamp="1625653023580">
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Validation/ZenkakuValidation.php" timestamp="1625654395880">
+        <mark key="'" line="1" column="0" />
         <mark key="[" line="26" column="9" />
         <mark key="]" line="28" column="19" />
         <mark key="." line="28" column="19" />
@@ -181,10 +182,6 @@
       <file name="$USER_HOME$/workspace/sawa_renewal/capistrano/production/works/app/config/api_bootstrap_env.php" timestamp="1625114115123" />
     </filemarks>
     <jumps>
-      <jump line="22" column="0" filename="$USER_HOME$/workspace/web_duplicate_check/src/app/Services/WebDuplicateCheck.php" />
-      <jump line="33" column="6" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/OfferController.php" />
-      <jump line="26" column="6" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/OfferController.php" />
-      <jump line="108" column="57" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/OfferController.php" />
       <jump line="29" column="37" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/AssignController.php" />
       <jump line="207" column="65" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
       <jump line="97" column="74" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/OfferController.php" />
@@ -281,10 +278,14 @@
       <jump line="274" column="20" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Validator/DtbTextParagraphDatasValidator.php" />
       <jump line="275" column="16" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Validator/DtbTextParagraphDatasValidator.php" />
       <jump line="289" column="20" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Validator/DtbTextParagraphDatasValidator.php" />
+      <jump line="18" column="27" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Validation/ZenkakuValidation.php" />
+      <jump line="5" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Validation/ZenkakuValidation.php" />
+      <jump line="3" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Validation/ZenkakuValidation.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Validation/ZenkakuValidation.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcGFyYWdyYXBoVmFsaWRhdGlvbkVycm9ycyk7ZXhpdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRyZXN1bHRWYWxpZGF0ZSk7ZXhpdDsK</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
@@ -296,28 +297,28 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnaGFzTm90WmVua2FrdScgPT4gWwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcGFyYWdyYXBoVmFsaWRhdGlvbkVycm9ycyk7ZXhpdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRyZXN1bHRWYWxpZGF0ZSk7ZXhpdDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkd29yZFZhbHVlKTtleGl0Owo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcGFyYWdyYXBoVmFsaWRhdGlvbkVycm9ycyk7ZXhpdDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIEFwcFxDb21tb25cQ29uZjsK</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkd29yZFZhbHVlKTtleGl0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIENha2VcRmlsZXN5c3RlbVxGb2xkZXI7Cg==</text>
+        <text encoding="base64">dXNlIEFwcFxDb21tb25cQ29uZjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIFxaaXBBcmNoaXZlOwo=</text>
+        <text encoding="base64">dXNlIENha2VcRmlsZXN5c3RlbVxGb2xkZXI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIFxaaXBBcmNoaXZlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnemVua2FrdScgICAgPT4gWwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnemVua2FrdScgICAgPT4gWwo=</text>

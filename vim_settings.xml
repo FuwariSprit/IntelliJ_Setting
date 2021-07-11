@@ -80,12 +80,12 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Eloquents/MstProductGroup.php" timestamp="1625449799412" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/Offer/CreateTargetUser.php" timestamp="1624243701529" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Shell/CategoryUpdateFixShell.php" timestamp="1624318371653" />
-      <file name="$USER_HOME$/workspace/sagooo_works/webroot_src/js/module/writing-work-validation.js" timestamp="1625646718838">
+      <file name="$USER_HOME$/workspace/sagooo_works/webroot_src/js/module/writing-work-validation.js" timestamp="1626046993166">
         <mark key="'" line="938" column="0" />
-        <mark key="[" line="347" column="0" />
-        <mark key="]" line="347" column="65" />
+        <mark key="[" line="331" column="0" />
+        <mark key="]" line="331" column="65" />
         <mark key="^" line="967" column="57" />
-        <mark key="." line="347" column="0" />
+        <mark key="." line="331" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/work_groups/steps/create/StepFormItem.vue" timestamp="1624438145378">
         <mark key="'" line="346" column="32" />
@@ -287,7 +287,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRyZXN1bHRWYWxpZGF0ZSk7ZXhpdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfX3ZhbGlkYXRlWmVua2FrdSh2YWxpZGF0aW9uQ29uZmlnLiRlbGVtZW50KTsK</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
@@ -299,34 +299,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnaGFzTm90WmVua2FrdScgPT4gWwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRyZXN1bHRWYWxpZGF0ZSk7ZXhpdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfX3ZhbGlkYXRlWmVua2FrdSh2YWxpZGF0aW9uQ29uZmlnLiRlbGVtZW50KTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcGFyYWdyYXBoVmFsaWRhdGlvbkVycm9ycyk7ZXhpdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfX3ZhbGlkYXRlWmVua2FrdSh2YWxpZGF0aW9uQ29uZmlnLiRlbGVtZW50KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkd29yZFZhbHVlKTtleGl0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRyZXN1bHRWYWxpZGF0ZSk7ZXhpdDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIEFwcFxDb21tb25cQ29uZjsK</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcGFyYWdyYXBoVmFsaWRhdGlvbkVycm9ycyk7ZXhpdDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIENha2VcRmlsZXN5c3RlbVxGb2xkZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkd29yZFZhbHVlKTtleGl0Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIFxaaXBBcmNoaXZlOwo=</text>
+        <text encoding="base64">dXNlIEFwcFxDb21tb25cQ29uZjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIENha2VcRmlsZXN5c3RlbVxGb2xkZXI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnemVua2FrdScgICAgPT4gWwo=</text>
+        <text encoding="base64">dXNlIFxaaXBBcmNoaXZlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnemVua2FrdScgICAgPT4gWwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

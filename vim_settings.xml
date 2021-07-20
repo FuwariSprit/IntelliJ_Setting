@@ -34,6 +34,13 @@
         <mark key="^" line="315" column="32" />
         <mark key="." line="321" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/routes/web.php" timestamp="1626320610095">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="102" column="34" />
+        <mark key="]" line="102" column="34" />
+        <mark key="^" line="102" column="39" />
+        <mark key="." line="102" column="34" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/Offer/CreateOffer.php" timestamp="1624243034485" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/GetMstProducts.php" timestamp="1625450365768" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Validation/IsExistUploadImageValidation.php" timestamp="1625650693510" />
@@ -103,9 +110,22 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Product/ProductId.php" timestamp="1626748559155" />
       <file name="$USER_HOME$/workspace/sawa_renewal/works/app/controllers/api/api_controller.php" timestamp="1625120026717" />
       <file name="$USER_HOME$/workspace/sawa_renewal/member/app/controllers/components/api.php" timestamp="1625120605988" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Product/MediaName.php" timestamp="1626748684180">
+        <mark key="[" line="23" column="7" />
+        <mark key="]" line="24" column="20" />
+        <mark key="^" line="24" column="20" />
+        <mark key="." line="24" column="20" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/EvaluateRepository.php" timestamp="1624511866868" />
       <file name="$USER_HOME$/workspace/web_duplicate_check/src/app/Http/Requests/Api/ReportsContentRequest.php" timestamp="1624258917573" />
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_admin.php" timestamp="1625525691070" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Product/Product.php" timestamp="1626749647076">
+        <mark key="'" line="79" column="33" />
+        <mark key="[" line="76" column="7" />
+        <mark key="]" line="77" column="23" />
+        <mark key="." line="77" column="23" />
+        <mark key="^" line="77" column="23" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/MynaviEvaluateController.php" timestamp="1624492386220" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Routes/FrontRoutes.php" timestamp="1625467862517">
         <mark key="'" line="338" column="24" />
@@ -187,11 +207,11 @@
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Routes/ClientRoutes.php" timestamp="1624577279617" />
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_all.php" timestamp="1625125899810" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Eloquents/MstProduct.php" timestamp="1626748439273">
-        <mark key="[" line="58" column="38" />
-        <mark key="]" line="58" column="38" />
-        <mark key="^" line="58" column="38" />
-        <mark key="." line="58" column="38" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Eloquents/MstProduct.php" timestamp="1626749905793">
+        <mark key="[" line="112" column="31" />
+        <mark key="]" line="112" column="31" />
+        <mark key="^" line="112" column="31" />
+        <mark key="." line="112" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientLandingPage/Element/faq.ctp" timestamp="1625122181326">
         <mark key="[" line="69" column="43" />
@@ -273,7 +293,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Product/Season.php" timestamp="1626748587008">
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Product/Season.php" timestamp="1626749121735">
         <mark key="[" line="4" column="3" />
         <mark key="]" line="6" column="43" />
         <mark key="." line="6" column="43" />
@@ -331,11 +351,11 @@
         <mark key="." line="89" column="45" />
         <mark key="^" line="89" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/database/migrations/2021_07_19_150000_add_column_mst_products_table_season_media_name.php" timestamp="1626745529375">
-        <mark key="[" line="5" column="46" />
-        <mark key="]" line="5" column="45" />
-        <mark key="^" line="5" column="45" />
-        <mark key="." line="5" column="45" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/database/migrations/2021_07_19_150000_add_column_mst_products_table_season_media_name.php" timestamp="1626754007895">
+        <mark key="[" line="28" column="52" />
+        <mark key="]" line="28" column="34" />
+        <mark key="^" line="28" column="34" />
+        <mark key="." line="28" column="34" />
       </file>
       <file name="/Dummy.txt" timestamp="1624271287503">
         <mark key="[" line="0" column="0" />
@@ -404,6 +424,13 @@
         <mark key="." line="21" column="7" />
         <mark key="^" line="21" column="7" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Validation/ZenkakuValidation.php" timestamp="1626080563232">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="26" column="9" />
+        <mark key="]" line="28" column="19" />
+        <mark key="." line="28" column="19" />
+        <mark key="^" line="28" column="19" />
+      </file>
       <file name="$USER_HOME$/workspace/sawa_renewal/capistrano/production/works/app/config/api_bootstrap_env.php" timestamp="1625114115123" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbOnlineOrdersTable.php" timestamp="1626048412023" />
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/works/writer_proofreeding.blade.php" timestamp="1621414016688">
@@ -426,7 +453,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="346" column="32" filename="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/work_groups/steps/create/StepFormItem.vue" />
       <jump line="37" column="28" filename="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/work_groups/steps/create/StepFormList.vue" />
       <jump line="43" column="20" filename="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/work_groups/steps/create/StepFormList.vue" />
       <jump line="1513" column="17" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/FrontRoutes.php" />
@@ -526,13 +552,14 @@
       <jump line="344" column="26" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/WorkGroupController.php" />
       <jump line="346" column="24" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/WorkGroupController.php" />
       <jump line="347" column="43" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/WorkGroupController.php" />
+      <jump line="79" column="33" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Product/Product.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICogQ2xhc3MgUHJvZHVjdElkCiAqIEBwYWNrYWdlIFNhZ29vb05hdmlcRG9tYWluXE1vZGVsc1xQcm9kdWN0CiAqLwo=</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>ProductId</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>upload</text>
@@ -541,43 +568,34 @@
         <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5kcm9wQ29sdW1uKCdvcGVyYXRvcl9pZCcpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogQ2xhc3MgUHJvZHVjdElkCiAqIEBwYWNrYWdlIFNhZ29vb05hdmlcRG9tYWluXE1vZGVsc1xQcm9kdWN0CiAqLwo=</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gTWVkaWFOYW1lfG51bGwKICAgICAqLwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5kcm9wRm9yZWlnbignaW50ZXJ2aWV3X3JlZmVyZW5jZV9maWxlc19vcGVyYXRvcl9pZCcpOwo=</text>
+        <text encoding="base64">ICAgICAqIFByb2R1Y3QgY29uc3RydWN0b3IuCiAgICAgKiBAcGFyYW0gUHJvZHVjdElkICRwcm9kdWN0SWQKICAgICAqIEBwYXJhbSBQcm9kdWN0R3JvdXBJZCAkcHJvZHVjdEdyb3VwSWQKICAgICAqIEBwYXJhbSBQcm9kdWN0TmFtZSAkcHJvZHVjdE5hbWUKICAgICAqIEBwYXJhbSBTZWFzb258bnVsbCAkc2Vhc29uCiAgICAgKiBAcGFyYW0gTWVkaWFOYW1lfG51bGwgJG1lZGlhTmFtZQogICAgICogQHBhcmFtIHN0cmluZyAkdGVtcGxhdGVOYW1lCiAgICAgKiBAcGFyYW0gc3RyaW5nICR0ZW1wbGF0ZVVybAogICAgICogQHBhcmFtIHN0cmluZyAkZ3VpZGVOYW1lCiAgICAgKiBAcGFyYW0gc3RyaW5nICRndWlkZVVybAogICAgICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5mb3JlaWduKCdvcGVyYXRvcl9pZCcsICdpbnRlcnZpZXdfcmVmZXJlbmNlX2ZpbGVzX29wZXJhdG9yX2lkJykKICAgICAgICAgICAgICAgIC0+cmVmZXJlbmNlcygnb3BlcmF0b3JfaWQnKS0+b24oJ2R0Yl9vcGVyYXRvcnMnKS0+b25VcGRhdGUoJ0NBU0NBREUnKS0+b25EZWxldGUoJ0NBU0NBREUnKTsK</text>
+        <text encoding="base64">ICAgICAqIFByb2R1Y3QgY29uc3RydWN0b3IuCiAgICAgKiBAcGFyYW0gUHJvZHVjdElkICRwcm9kdWN0SWQKICAgICAqIEBwYXJhbSBQcm9kdWN0R3JvdXBJZCAkcHJvZHVjdEdyb3VwSWQKICAgICAqIEBwYXJhbSBQcm9kdWN0TmFtZSAkcHJvZHVjdE5hbWUKICAgICAqIEBwYXJhbSBTZWFzb24gJHNlYXNvbgogICAgICogQHBhcmFtIE1lZGlhTmFtZSAkbWVkaWFOYW1lCiAgICAgKiBAcGFyYW0gc3RyaW5nICR0ZW1wbGF0ZU5hbWUKICAgICAqIEBwYXJhbSBzdHJpbmcgJHRlbXBsYXRlVXJsCiAgICAgKiBAcGFyYW0gc3RyaW5nICRndWlkZU5hbWUKICAgICAqIEBwYXJhbSBzdHJpbmcgJGd1aWRlVXJsCiAgICAgKi8K</text>
       </register>
-      <register name="4" type="8">
-        <text>_
-_</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gTWVkaWFOYW1lCiAgICAgKi8K</text>
       </register>
-      <register name="5" type="8">
-        <text>_
-_
-_
-_
-_</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gU2Vhc29uCiAgICAgKi8K</text>
       </register>
-      <register name="6" type="8">
-        <text>1
-1
-1
-1
-1</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBQcm9kdWN0SWQgJHByb2R1Y3RJZAogICAgICogQHBhcmFtIFByb2R1Y3RHcm91cElkICRwcm9kdWN0R3JvdXBJZAogICAgICogQHBhcmFtIFByb2R1Y3ROYW1lICRwcm9kdWN0TmFtZQogICAgICogQHBhcmFtIHN0cmluZyAkdGVtcGxhdGVOYW1lCiAgICAgKiBAcGFyYW0gc3RyaW5nICR0ZW1wbGF0ZVVybAogICAgICogQHBhcmFtIHN0cmluZyAkZ3VpZGVOYW1lCiAgICAgKiBAcGFyYW0gc3RyaW5nICRndWlkZVVybAogICAgICovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ09OTElORV9PUkRFUl9NRVNTQUdFJyAgICAgICAgICA9PiAnIzFf44Kq44Oz44Op44Kk44OzX+aWsOedgOODoeODg+OCu+ODvOOCuOmAmuefpV/jg4bjgrnjg4gnLAogICAgICAgICAgICAnRVNUSU1BVEVfQUxFUlQnICAgICAgICAgICAgICAgID0+ICcjMV/jgqrjg7Pjg6njgqTjg7Nf6KaL56mN44KC44KK5L6d6aC86YCa55+lX+ODhuOCueODiCcsCiAgICAgICAgICAgICdSRUdVTEFUSU9OX0VTVElNQVRFX0FMRVJUJyAgICAgPT4gJyMxX+imi+epjeOCguOCiuS+nemgvOmAmuefpV/jg4bjgrnjg4gnLAogICAgICAgICAgICAnUFVCTElTSF9SRVFVRVNUX0FSVElDTEVfQUxFUlQnID0+ICcjMV/oqJjkuotf5YWl56i/5L6d6aC86YCa55+lX+ODhuOCueODiCcsCiAgICAgICAgICAgICdQVUJMSVNIX1JFUVVFU1RfUExBTl9BTEVSVCcgICAgPT4gJyMxX+S8geeUu1/lhaXnqL/kvp3poLzpgJrnn6Vf44OG44K544OIJywKICAgICAgICAgICAgJ1BIUF9VTklUJyAgICAgICAgICAgICAgICAgICAgICA9PiAnI2Rldi13b3Jrc19ub3RpZnknLAo=</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ09OTElORV9PUkRFUl9NRVNTQUdFJyAgICAgICAgICA9PiAnIzFf44Kq44Oz44Op44Kk44OzX+aWsOedgOODoeODg+OCu+ODvOOCuOmAmuefpV/jg4bjgrnjg4gnLAogICAgICAgICAgICAnRVNUSU1BVEVfQUxFUlQnICAgICAgICAgICAgICAgID0+ICcjMV/jgqrjg7Pjg6njgqTjg7Nf6KaL56mN44KC44KK5L6d6aC86YCa55+lX+ODhuOCueODiCcsCiAgICAgICAgICAgICdSRUdVTEFUSU9OX0VTVElNQVRFX0FMRVJUJyAgICAgPT4gJyMxX+imi+epjeOCguOCiuS+nemgvOmAmuefpV/jg4bjgrnjg4gnLAogICAgICAgICAgICAnUFVCTElTSF9SRVFVRVNUX0FSVElDTEVfQUxFUlQnID0+ICcjMV/oqJjkuotf5YWl56i/5L6d6aC86YCa55+lX+ODhuOCueODiCcsCiAgICAgICAgICAgICdQVUJMSVNIX1JFUVVFU1RfUExBTl9BTEVSVCcgICAgPT4gJyMxX+S8geeUu1/lhaXnqL/kvp3poLzpgJrnn6Vf44OG44K544OIJywKICAgICAgICAgICAgJ1BIUF9VTklUJyAgICAgICAgICAgICAgICAgICAgICA9PiAnI2Rldi13b3Jrc19ub3RpZnknLAo=</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gaW50Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ09OTElORV9PUkRFUl9NRVNTQUdFJyAgICAgICAgICA9PiAnIzFf44Kq44Oz44Op44Kk44OzX+aWsOedgOODoeODg+OCu+ODvOOCuOmAmuefpV/jg4bjgrnjg4gnLAogICAgICAgICAgICAnRVNUSU1BVEVfQUxFUlQnICAgICAgICAgICAgICAgID0+ICcjMV/jgqrjg7Pjg6njgqTjg7Nf6KaL56mN44KC44KK5L6d6aC86YCa55+lX+ODhuOCueODiCcsCiAgICAgICAgICAgICdSRUdVTEFUSU9OX0VTVElNQVRFX0FMRVJUJyAgICAgPT4gJyMxX+imi+epjeOCguOCiuS+nemgvOmAmuefpV/jg4bjgrnjg4gnLAogICAgICAgICAgICAnUFVCTElTSF9SRVFVRVNUX0FSVElDTEVfQUxFUlQnID0+ICcjMV/oqJjkuotf5YWl56i/5L6d6aC86YCa55+lX+ODhuOCueODiCcsCiAgICAgICAgICAgICdQVUJMSVNIX1JFUVVFU1RfUExBTl9BTEVSVCcgICAgPT4gJyMxX+S8geeUu1/lhaXnqL/kvp3poLzpgJrnn6Vf44OG44K544OIJywKICAgICAgICAgICAgJ1BIUF9VTklUJyAgICAgICAgICAgICAgICAgICAgICA9PiAnI2Rldi13b3Jrc19ub3RpZnknLAo=</text>
+        <text encoding="base64">PD9waHAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

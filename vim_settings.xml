@@ -79,6 +79,9 @@
         <mark key="^" line="2355" column="53" />
         <mark key="." line="2355" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/public/js/admin/works/create/planForm.js" timestamp="1627375639757">
+        <mark key="[" line="2" column="65" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/interview.blade.php" timestamp="1625724841207" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Requests/Admin/WorkGroup/CreateStepRequest.php" timestamp="1625123348214">
         <mark key="'" line="10" column="6" />
@@ -125,6 +128,10 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/MynaviEvaluate/Upload.php" timestamp="1624511968727" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Requests/Admin/Assign/CreateOfferAssignRequest.php" timestamp="1624243984000" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Front/Writing/Work/text.ctp" timestamp="1625644646976" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/work_groups/detail.blade.php" timestamp="1627374913547">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="67" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Product/ProductId.php" timestamp="1626748559155" />
       <file name="$USER_HOME$/workspace/sawa_renewal/works/app/controllers/api/api_controller.php" timestamp="1625120026717" />
       <file name="$USER_HOME$/workspace/sawa_renewal/member/app/controllers/components/api.php" timestamp="1625120605988" />
@@ -257,11 +264,11 @@
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/DraftCommonComponent.php" timestamp="1627372764604" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/CreateAppealMessage.php" timestamp="1624244383926" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/work_groups/create.blade.php" timestamp="1627341863804">
-        <mark key="[" line="107" column="61" />
-        <mark key="]" line="107" column="63" />
-        <mark key="." line="107" column="63" />
-        <mark key="^" line="107" column="63" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/work_groups/create.blade.php" timestamp="1627375561789">
+        <mark key="[" line="61" column="70" />
+        <mark key="]" line="61" column="81" />
+        <mark key="." line="61" column="81" />
+        <mark key="^" line="61" column="81" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/public/js/work_groups/create/utility.js" timestamp="1627341556281">
         <mark key="[" line="0" column="0" />
@@ -390,11 +397,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/database/migrations/2019_12_06_180000_add_column_dtb_client_ng_users_table_operator_id.php" timestamp="1626745151491" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/public/js/admin/works/create.js" timestamp="1627344107297">
-        <mark key="[" line="242" column="1" />
-        <mark key="]" line="242" column="2" />
-        <mark key="^" line="242" column="2" />
-        <mark key="." line="242" column="2" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/public/js/admin/works/create.js" timestamp="1627375800231">
+        <mark key="'" line="0" column="21" />
+        <mark key="[" line="8" column="25" />
+        <mark key="]" line="8" column="27" />
+        <mark key="." line="8" column="27" />
+        <mark key="^" line="8" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Work/StepUpload/StepUpload.php" timestamp="1621417500103">
         <mark key="[" line="178" column="36" />
@@ -524,14 +532,14 @@
         <mark key="." line="26" column="20" />
         <mark key="^" line="26" column="20" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/public/js/admin/works/create/purchase.js" timestamp="1627375666817">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="338" column="24" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/FrontRoutes.php" />
-      <jump line="23" column="11" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientMypageOrderController.php" />
-      <jump line="896" column="20" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientMypageOrderController.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sagooo_works/cron/env/production/crontab.txt" />
-      <jump line="6" column="0" filename="$USER_HOME$/workspace/sagooo_works/cron/env/production/crontab.txt" />
-      <jump line="9" column="0" filename="$USER_HOME$/workspace/sagooo_works/cron/env/production/crontab.txt" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/sagooo_works/cron/env/production/crontab.txt" />
       <jump line="15" column="0" filename="$USER_HOME$/workspace/sagooo_works/cron/env/production/crontab.txt" />
       <jump line="19" column="0" filename="$USER_HOME$/workspace/sagooo_works/cron/env/production/crontab.txt" />
@@ -626,49 +634,55 @@
       <jump line="3" column="7" filename="$USER_HOME$/workspace/sagooo_navi/public/js/admin/works/create/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sagooo_navi/public/js/admin/works/create/index.js" />
       <jump line="2700" column="24" filename="$USER_HOME$/workspace/sagooo_navi/package-lock.json" />
+      <jump line="239" column="0" filename="$USER_HOME$/workspace/sagooo_navi/public/js/admin/works/create.js" />
+      <jump line="74" column="25" filename="$USER_HOME$/workspace/sagooo_navi/public/js/admin/works/create.js" />
+      <jump line="75" column="25" filename="$USER_HOME$/workspace/sagooo_navi/public/js/admin/works/create.js" />
+      <jump line="124" column="43" filename="$USER_HOME$/workspace/sagooo_navi/public/js/admin/works/create.js" />
+      <jump line="127" column="29" filename="$USER_HOME$/workspace/sagooo_navi/public/js/admin/works/create.js" />
+      <jump line="0" column="21" filename="$USER_HOME$/workspace/sagooo_navi/public/js/admin/works/create.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG1haWxUeHQgPSByZXF1ZXN0LnZhbHVlOwogICAgY29uc3QgbWFpbEFkZHJlc3MgPSByZXF1ZXN0Lm1haWxBZGRyZXNzOwo=</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9IkBhZGR0aW1lc3RhbXAoL2xpYi9qcy9kYXlqcy5taW4uanMpIj48L3NjcmlwdD4K</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>dayjs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">JChmdW5jdGlvbigpIHsKICAgICQoIi5qcy1jb250YWN0Iikub24oImNsaWNrIiwgZnVuY3Rpb24oKSB7CiAgICAgICAgJCgiLmpzLWNvbnRhY3Qtc3RlcC1pZCIpLnZhbCgkKHRoaXMpLmRhdGEoInN0ZXAtaWQiKSk7CiAgICAgICAgJCgiLmpzLWNvbnRhY3QtbW9kYWwiKS5tb2RhbCgpOwogICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0ibW9kdWxlIiBzcmM9IkBhZGR0aW1lc3RhbXAoL2pzL2FkbWluL3dvcmtzL2NyZWF0ZS9yZW1hcmsuanMpIj48L3NjcmlwdD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG1haWxUeHQgPSByZXF1ZXN0LnZhbHVlOwogICAgY29uc3QgbWFpbEFkZHJlc3MgPSByZXF1ZXN0Lm1haWxBZGRyZXNzOwo=</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9IkBhZGR0aW1lc3RhbXAoL2xpYi9qcy9kYXlqcy5taW4uanMpIj48L3NjcmlwdD4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHZhciBkYXlqcyA9IG5ldyBkYXlqczsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkKCIuanMtY29udGFjdC1zdGVwLWlkIikudmFsKCQodGhpcykuZGF0YSgic3RlcC1pZCIpKTsKICAgICAgICAkKCIuanMtY29udGFjdC1tb2RhbCIpLm1vZGFsKCk7Cg==</text>
+        <text encoding="base64">dmFyIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmlmICh3aW5kb3cubG9jYXRpb24uaG9zdC5pbmRleE9mKCJzYWdvb28uY3lib3p1LmNvbSIpID4gLTEpIHsKICAgIGNvcHlOb3RlKCk7Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IG1haWxUeHQgPSByZXF1ZXN0LnZhbHVlOwogICAgY29uc3QgbWFpbEFkZHJlc3MgPSByZXF1ZXN0Lm1haWxBZGRyZXNzOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0taW5saW5lIj4K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAkKCIuanMtY29udGFjdC1zdGVwLWlkIikudmFsKCQodGhpcykuZGF0YSgic3RlcC1pZCIpKTsKICAgICAgICAkKCIuanMtY29udGFjdC1tb2RhbCIpLm1vZGFsKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0taW5saW5lIj4K</text>
+        <text encoding="base64">CmlmICh3aW5kb3cubG9jYXRpb24uaG9zdC5pbmRleE9mKCJzYWdvb28uY3lib3p1LmNvbSIpID4gLTEpIHsKICAgIGNvcHlOb3RlKCk7Cn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFZqampqamo8dHI+CiAgICAgICAgICAgICAgICAgICAgPHRoPueZuuazqOaXpeaZgjwvdGg+CiAgICAgICAgICAgICAgICAgICAgPHRkPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtLWlubGluZSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgY2xhc3M9ImZvcm0tY29udHJvbCBqcy1lMmUganMtZTJlLW9yZGVyX3JlcXVlc3RlZF9kYXRlIiBtYXg9Ijk5OTktMTItMzEiIHJlcXVpcmVkPSIiIG5hbWU9Im9yZGVyX3JlcXVlc3RlZF9kYXRlIiB0eXBlPSJkYXRlIiB2YWx1ZT0iMjAyMS0wNy0yNyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgY2xhc3M9ImZvcm0tY29udHJvbCBqcy1lMmUganMtZTJlLW9yZGVyX3JlcXVlc3RlZF90aW1lIiByZXF1aXJlZD0iIiBuYW1lPSJvcmRlcl9yZXF1ZXN0ZWRfdGltZSIgdHlwZT0idGltZSIgdmFsdWU9IjA3OjUwIj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPC90ZD4KICAgICAgICAgICAgICAgIDwvdHI+CiAgICAgICAgICAgICAgICA8dHI+CiAgICAgICAgICAgICAgICAgICAgPHRoPuWPluadkOS6iOWumuaXpeaZgjwvdGg+CiAgICAgICAgICAgICAgICAgICAgPHRkPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtLWlubGluZSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgY2xhc3M9ImZvcm0tY29udHJvbCBqcy1pbnRlcnZpZXctc3RhcnQtZGF0ZSBqcy1lMmUganMtZTJlLWludGVydmlld19zdGFydF9kYXRlIiBtYXg9Ijk5OTktMTItMzEiIHJlcXVpcmVkPSIiIG5hbWU9ImludGVydmlld19zdGFydF9kYXRlIiB0eXBlPSJkYXRlIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCBjbGFzcz0iZm9ybS1jb250cm9sIGpzLWUyZSBqcy1lMmUtaW50ZXJ2aWV3X3N0YXJ0X3RpbWUiIHJlcXVpcmVkPSIiIG5hbWU9ImludGVydmlld19zdGFydF90aW1lIiB0eXBlPSJ0aW1lIiB2YWx1ZT0iMDA6MDAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAg772eCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgY2xhc3M9ImZvcm0tY29udHJvbCBqcy1pbnRlcnZpZXctZW5kLWRhdGUganMtZTJlIGpzLWUyZS1pbnRlcnZpZXdfZW5kX2RhdGUiIG1heD0iOTk5OS0xMi0zMSIgcmVxdWlyZWQ9IiIgbmFtZT0iaW50ZXJ2aWV3X2VuZF9kYXRlIiB0eXBlPSJkYXRlIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCBjbGFzcz0iZm9ybS1jb250cm9sIGpzLWUyZSBqcy1lMmUtaW50ZXJ2aWV3X2VuZF90aW1lIiByZXF1aXJlZD0iIiBuYW1lPSJpbnRlcnZpZXdfZW5kX3RpbWUiIHR5cGU9InRpbWUiIHZhbHVlPSIwMDowMCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgIDwvdGQ+CiAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgICAgICAgIDx0aD7ntI3lk4Hnt6DliIfml6U8L3RoPgogICAgICAgICAgICAgICAgICAgIDx0ZD4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1pbmxpbmUiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IGNsYXNzPSJmb3JtLWNvbnRyb2wganMtZGVsaXZlcnktZHVlLWRhdGUganMtZTJlIGpzLWUyZS1kZWxpdmVyeV9kdWVfZGF0ZSIgbWF4PSI5OTk5LTEyLTMxIiByZXF1aXJlZD0iIiBuYW1lPSJkZWxpdmVyeV9kdWVfZGF0ZSIgdHlwZT0iZGF0ZSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgY2xhc3M9ImZvcm0tY29udHJvbCBqcy1lMmUganMtZTJlLWRlbGl2ZXJ5X2R1ZV90aW1lIiByZXF1aXJlZD0iIiBuYW1lPSJkZWxpdmVyeV9kdWVfdGltZSIgdHlwZT0idGltZSIgdmFsdWU9IjEyOjAwIj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPC90ZD4KICAgICAgICAgICAgICAgIDwvdHI+CiAgICAgICAgICAgICAgICA8dHI+CiAgICAgICAgICAgICAgICAgICAgPHRoPuOCquODl+OCt+ODp+ODszwvdGg+CiAgICAgICAgICAgICAgICAgICAgPHRkPgogICAgICAgICAgICAgICAgICAgICAgICA8dGFibGUgY2xhc3M9InRhYmxlIG1iMCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGJvZHk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dHI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRoIHN0eWxlPSJ3aWR0aDoxNjBweDsiPueJueaApQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c21hbGw+77yI77yR5LyB55S777yJPC9zbWFsbD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3RoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJjaGVja2JveC1pbmxpbmUiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IGNsYXNzPSJqcy1lMmUganMtZTJlLW9wdGlvbl9pZHMiIG5hbWU9Im9wdGlvbl9pZHNbXSIgdHlwZT0iY2hlY2tib3giIHZhbHVlPSIxIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIOS4rTHllrbmj5Dlh7o8c21hbGw+KDMsMDAw5YaG6L+95YqgKTwvc21hbGw+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvbGFiZWw+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0iY2hlY2tib3gtaW5saW5lIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCBjbGFzcz0ianMtZTJlIGpzLWUyZS1vcHRpb25faWRzIiBuYW1lPSJvcHRpb25faWRzW10iIHR5cGU9ImNoZWNrYm94IiB2YWx1ZT0iMiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDnv4zllrbmj5Dlh7o8c21hbGw+KDUsMDAw5YaG6L+95YqgKTwvc21hbGw+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvbGFiZWw+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvdHI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dHI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRoIHN0eWxlPSJ3aWR0aDoxNjBweDsiPueJueaApQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c21hbGw+77yI6KSH5pWw5LyB55S777yJPC9zbWFsbD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3RoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJjaGVja2JveC1pbmxpbmUiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IGNsYXNzPSJqcy1lMmUganMtZTJlLW9wdGlvbl9pZHMiIG5hbWU9Im9wdGlvbl9pZHNbXSIgdHlwZT0iY2hlY2tib3giIHZhbHVlPSIzIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIOS4rTLllrbmj5Dlh7o8c21hbGw+KDMsMDAw5YaG6L+95YqgKTwvc21hbGw+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvbGFiZWw+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0iY2hlY2tib3gtaW5saW5lIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCBjbGFzcz0ianMtZTJlIGpzLWUyZS1vcHRpb25faWRzIiBuYW1lPSJvcHRpb25faWRzW10iIHR5cGU9ImNoZWNrYm94IiB2YWx1ZT0iNCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDkuK0x5Za25o+Q5Ye6PHNtYWxsPig1LDAwMOWGhui/veWKoCk8L3NtYWxsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2xhYmVsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90Ym9keT4KICAgICAgICAgICAgICAgICAgICAgICAgPC90YWJsZT4KICAgICAgICAgICAgICAgICAgICA8L3RkPgogICAgICAgICAgICAgICAgPC90cj4KICAgICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgICAgICA8dGg+44Op44Kk44K/44O8RDwvdGg+CiAgICAgICAgICAgICAgICAgICAgPHRkPgogICAgICAgICAgICAgICAgICAgICAgICA8bGFiZWwgY2xhc3M9ImNoZWNrYm94LWlubGluZSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgY2xhc3M9ImpzLWUyZSBqcy1lMmUtaXNfd3JpdGVyX2RpcmVjdGlvbiIgbmFtZT0iaXNfd3JpdGVyX2RpcmVjdGlvbiIgdHlwZT0iY2hlY2tib3giIHZhbHVlPSIxIj4g44Op44Kk44K/44O844OH44Kj44Os44Kv44K344On44Oz5Y+W5p2QPHNtYWxsPu+8iOipsuW9k+OBmeOCi+WgtOWQiOOBr+ODgeOCp+ODg+OCr++8iTwvc21hbGw+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvbGFiZWw+CiAgICAgICAgICAgICAgICAgICAgPC90ZD4KICAgICAgICAgICAgICAgIDwvdHI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

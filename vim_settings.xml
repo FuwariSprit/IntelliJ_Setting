@@ -338,6 +338,12 @@
         <mark key="." line="347" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Shell/OnlineOrderApprovalNotificationShell.php" timestamp="1626048301470" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/public/js/admin/works/create/presite.js" timestamp="1627377266461">
+        <mark key="[" line="2" column="64" />
+        <mark key="]" line="2" column="64" />
+        <mark key="." line="2" column="64" />
+        <mark key="^" line="2" column="64" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Shell/DeliveryManageShell.php" timestamp="1624318744336" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Commands/Aggregate/CreateUserEvaluateScore.php" timestamp="1624492717069" />
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/layout/admin/works/detail.blade.php" timestamp="1625041632955">
@@ -397,12 +403,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/database/migrations/2019_12_06_180000_add_column_dtb_client_ng_users_table_operator_id.php" timestamp="1626745151491" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/public/js/admin/works/create.js" timestamp="1627375800231">
-        <mark key="'" line="0" column="21" />
-        <mark key="[" line="8" column="25" />
-        <mark key="]" line="8" column="27" />
-        <mark key="." line="8" column="27" />
-        <mark key="^" line="8" column="27" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/public/js/admin/works/create.js" timestamp="1627379735128">
+        <mark key="'" line="39" column="34" />
+        <mark key="[" line="240" column="71" />
+        <mark key="]" line="240" column="72" />
+        <mark key="." line="240" column="72" />
+        <mark key="^" line="240" column="72" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Work/StepUpload/StepUpload.php" timestamp="1621417500103">
         <mark key="[" line="178" column="36" />
@@ -540,7 +546,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/workspace/sagooo_works/cron/env/production/crontab.txt" />
       <jump line="15" column="0" filename="$USER_HOME$/workspace/sagooo_works/cron/env/production/crontab.txt" />
       <jump line="19" column="0" filename="$USER_HOME$/workspace/sagooo_works/cron/env/production/crontab.txt" />
       <jump line="22" column="0" filename="$USER_HOME$/workspace/sagooo_works/cron/env/production/crontab.txt" />
@@ -640,49 +645,52 @@
       <jump line="124" column="43" filename="$USER_HOME$/workspace/sagooo_navi/public/js/admin/works/create.js" />
       <jump line="127" column="29" filename="$USER_HOME$/workspace/sagooo_navi/public/js/admin/works/create.js" />
       <jump line="0" column="21" filename="$USER_HOME$/workspace/sagooo_navi/public/js/admin/works/create.js" />
+      <jump line="39" column="34" filename="$USER_HOME$/workspace/sagooo_navi/public/js/admin/works/create.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9IkBhZGR0aW1lc3RhbXAoL2xpYi9qcy9kYXlqcy5taW4uanMpIj48L3NjcmlwdD4K</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>dayjs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0ibW9kdWxlIiBzcmM9IkBhZGR0aW1lc3RhbXAoL2pzL2FkbWluL3dvcmtzL2NyZWF0ZS9yZW1hcmsuanMpIj48L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgIGNvbnN0IHBsYW5UZXh0ID0gU3RyaW5nKHRleHQpLm1hdGNoKC/kvIHnlLvjgIBb77yafDpdKFtcc1xTXSop4oCV4oCV4oCV4oCV4oCV4oCV4oCV4oCV4oCV4oCV4oCV4oCV4oCV4oCV4oCV4oCV4oCV4oCV4oCV4oCVW1xufFxyXG58XHJd5Y+W5p2Q5LqI5a6a5pel5pmCLylbMV07Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9IkBhZGR0aW1lc3RhbXAoL2xpYi9qcy9kYXlqcy5taW4uanMpIj48L3NjcmlwdD4K</text>
+      <register name="1" type="8">
+        <text>//
+//
+//</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhciBkYXlqcyA9IG5ldyBkYXlqczsK</text>
+        <text encoding="base64">ICAgIG1haWwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmFyIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChtYWlsVGV4dC5pbmRleE9mKCLjg5fjg6zjgrXjgqTjg4giKSAhPT0gLTEpIHsKICAgICAgICByZXR1cm4gdHJ1ZTsKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG1haWxUeHQgPSByZXF1ZXN0LnZhbHVlOwogICAgY29uc3QgbWFpbEFkZHJlc3MgPSByZXF1ZXN0Lm1haWxBZGRyZXNzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkKCIuanMtY29udGFjdC1zdGVwLWlkIikudmFsKCQodGhpcykuZGF0YSgic3RlcC1pZCIpKTsKICAgICAgICAkKCIuanMtY29udGFjdC1tb2RhbCIpLm1vZGFsKCk7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAoCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmlmICh3aW5kb3cubG9jYXRpb24uaG9zdC5pbmRleE9mKCJzYWdvb28uY3lib3p1LmNvbSIpID4gLTEpIHsKICAgIGNvcHlOb3RlKCk7Cn0K</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9IkBhZGR0aW1lc3RhbXAoL2xpYi9qcy9kYXlqcy5taW4uanMpIj48L3NjcmlwdD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgIHZhciBkYXlqcyA9IG5ldyBkYXlqczsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

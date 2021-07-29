@@ -79,11 +79,11 @@
         <mark key="^" line="2355" column="53" />
         <mark key="." line="2355" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/public/js/admin/works/create/planForm.js" timestamp="1627517426218">
-        <mark key="[" line="26" column="34" />
-        <mark key="]" line="26" column="44" />
-        <mark key="." line="26" column="44" />
-        <mark key="^" line="26" column="44" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/public/js/admin/works/create/planForm.js" timestamp="1627523831704">
+        <mark key="[" line="26" column="45" />
+        <mark key="]" line="26" column="47" />
+        <mark key="." line="26" column="47" />
+        <mark key="^" line="26" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/interview.blade.php" timestamp="1625724841207" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Requests/Admin/WorkGroup/CreateStepRequest.php" timestamp="1625123348214">
@@ -416,12 +416,12 @@
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Commands/Alert/UserWorkNotification.php" timestamp="1626325516503" />
       <file name="$USER_HOME$/workspace/sagooo_navi/database/migrations/2019_12_06_180000_add_column_dtb_client_ng_users_table_operator_id.php" timestamp="1626745151491" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/public/js/admin/works/create.js" timestamp="1627381044965">
+      <file name="$USER_HOME$/workspace/sagooo_navi/public/js/admin/works/create.js" timestamp="1627529211543">
         <mark key="'" line="36" column="34" />
-        <mark key="[" line="232" column="22" />
-        <mark key="]" line="233" column="3" />
-        <mark key="." line="233" column="3" />
-        <mark key="^" line="233" column="3" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="^" line="67" column="21" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Work/StepUpload/StepUpload.php" timestamp="1621417500103">
         <mark key="[" line="178" column="36" />
@@ -673,47 +673,47 @@
       <jump line="67" column="19" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBsYW5BbmRNZWRpYU5hbWVMaXN0W2luZGV4XSA9IHBsYW5BbmRNZWRpYU5hbWU7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>媒体名</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBXb3JrUmVwb3NpdG9yeQogICAgICovCiAgICBwcml2YXRlICRyZXBvc2l0b3J5OwoKICAgIC8qKgogICAgICogQHBhcmFtIFdvcmtSZXBvc2l0b3J5ICRyZXBvc2l0b3J5CiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdChXb3JrUmVwb3NpdG9yeSAkcmVwb3NpdG9yeSkKICAgIHsKICAgICAgICAkdGhpcy0+cmVwb3NpdG9yeSA9ICRyZXBvc2l0b3J5OwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBsYW5BbmRNZWRpYU5hbWVMaXN0W2luZGV4XSA9IHBsYW5BbmRNZWRpYU5hbWU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQoKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBsYW5BbmRNZWRpYU5hbWVMaXN0W2luZGV4XSA9IHBsYW5BbmRNZWRpYU5hbWU7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBsYW5BbmRNZWRpYU5hbWVMaXN0W2luZGV4XSA9IHBsYW5BbmRNZWRpYU5hbWU7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lZGlhTmFtZUluZGV4Kys7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBsYW5BbmRNZWRpYU5hbWVMaXN0W2luZGV4XS5wbGFuID0gb2JqZWN0VmFsdWU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBzZXRQbGFuTmFtZSA9PT0gbm9ybWFsaXplUGxhbk5hbWUob3B0aW9uLnRleHRDb250ZW50KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBsYW5BbmRNZWRpYU5hbWVMaXN0W2luZGV4XS5tZWRpYU5hbWUgPSBvYmplY3RWYWx1ZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIF07Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNldFBsYW5OYW1lID09PSBub3JtYWxpemVQbGFuTmFtZShvcHRpb24udGV4dENvbnRlbnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwbGFuQW5kTWVkaWFOYW1lTGlzdFtpbmRleF0gPSB7CiAgICAgICAgICAgICJtZWRpYU5hbWUiIDogJycsCiAgICAgICAgICAgICJwbGFuIiA6ICcnLAogICAgICAgIH07Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IGNvdW50ID0gMDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwbGFuQW5kTWVkaWFOYW1lTGlzdFtpbmRleF0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cobWVkaWFOYW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBsYW5BbmRNZWRpYU5hbWVMaXN0W2luZGV4XSA9IHsKICAgICAgICAgICAgICAgICAgICAicGxhbiIgOiBvYmplY3RWYWx1ZQogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

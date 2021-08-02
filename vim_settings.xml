@@ -214,12 +214,12 @@
         <mark key="." line="97" column="19" />
         <mark key="^" line="97" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepositoryTest.php" timestamp="1627464588087">
+      <file name="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepositoryTest.php" timestamp="1627873699039">
         <mark key="'" line="64" column="19" />
-        <mark key="[" line="17" column="18" />
-        <mark key="]" line="17" column="18" />
-        <mark key="^" line="17" column="18" />
-        <mark key="." line="17" column="18" />
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="6" column="17" />
+        <mark key="^" line="6" column="17" />
+        <mark key="." line="6" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Traits/WritingTrait.php" timestamp="1625468712213" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/HealthCheckController.php" timestamp="1623228477848">
@@ -234,6 +234,7 @@
         <mark key="." line="192" column="31" />
         <mark key="^" line="192" column="31" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Domain/Models/Work/Offer/ChainOffer/ChainOfferTargetUserTest.php" timestamp="1627873360759" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Notifications/OfferTargetUserNotify.php" timestamp="1624243507474" />
       <file name="$USER_HOME$/workspace/sagooo_navi/app/Console/Kernel.php" timestamp="1626759818420" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Eloquents/MstProductGroup.php" timestamp="1625449799412" />
@@ -320,13 +321,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/SalesDeliveryController.php" timestamp="1625468355988">
-        <mark key="'" line="17" column="6" />
-        <mark key="[" line="2013" column="8" />
-        <mark key="]" line="2013" column="8" />
-        <mark key="^" line="2013" column="8" />
-        <mark key="." line="2013" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/LocalFileStorage/FileRepository.php" timestamp="1619084783903">
         <mark key="[" line="109" column="0" />
@@ -476,6 +470,9 @@
         <mark key="^" line="28" column="34" />
         <mark key="." line="28" column="34" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" timestamp="1627873783078">
+        <mark key="'" line="5602" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/OfferController.php" timestamp="1624244336731">
         <mark key="'" line="108" column="57" />
       </file>
@@ -600,7 +597,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="832" column="20" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="955" column="32" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="961" column="26" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="981" column="28" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
@@ -700,19 +696,20 @@
       <jump line="67" column="19" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
       <jump line="64" column="35" filename="$USER_HOME$/workspace/sagooo_navi/public/js/admin/works/create.js" />
       <jump line="256" column="22" filename="$USER_HOME$/workspace/sagooo_navi/public/js/admin/works/create.js" />
+      <jump line="5602" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFyZ2V0LnF1ZXJ5U2VsZWN0b3IoJ2EnKS5kaXNwYXRjaEV2ZW50KG5ldyBFdmVudCgnbW91c2Vkb3duJywgeyBidWJibGVzOiB0cnVlIH0pKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>媒体名</text>
+        <text>getProduct</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFyZ2V0LnF1ZXJ5U2VsZWN0b3IoJ2EnKS5kaXNwYXRjaEV2ZW50KG5ldyBFdmVudCgnbW91c2Vkb3duJywgeyBidWJibGVzOiB0cnVlIH0pKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJzIwMjEvMDgvMzHjga7loLTlkIjjgIEyMOOCt+ODvOOCuuODs+OBjOi/lOOBo+OBpuOBj+OCiycgPT4gWwogICAgICAgICAgICAgICAgJ2V4cGVjdGVkJyA9PiAyMCwKICAgICAgICAgICAgICAgICdkYXRhJyAgICAgPT4gWwogICAgICAgICAgICAgICAgICAgICd0aW1lJyA9PiBuZXcgQ2FyYm9uKCcyMDIxLTA4LTMxIDEwOjAwOjAwJyksCiAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgICcyMDIxLzA5LzAx44Gu5aC05ZCI44CBMjHjgrfjg7zjgrrjg7PjgYzov5TjgaPjgabjgY/jgosnID0+IFsKICAgICAgICAgICAgICAgICdleHBlY3RlZCcgPT4gMjEsCiAgICAgICAgICAgICAgICAnZGF0YScgICAgID0+IFsKICAgICAgICAgICAgICAgICAgICAndGltZScgPT4gbmV3IENhcmJvbignMjAyMS0wOS0wMSAxMDowMDowMCcpLAogICAgICAgICAgICAgICAgXQogICAgICAgICAgICBdLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -721,37 +718,37 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgX3NsZWVwID0gKG1zKSA9PiBuZXcgUHJvbWlzZSgocmVzb2x2ZSkgPT4gc2V0VGltZW91dChyZXNvbHZlLCBtcykpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgX3NsZWVwKDEwMDAwKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgX3NsZWVwKDUwMDApOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyDjg4bjgrnjg4jnlKjjgavmmYLliLvjgpLoqK3lrpoKICAgICAgICBDYXJib246OnNldFRlc3ROb3cobmV3IENhcmJvbignJykpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgX3NsZWVwID0gKG1zKSA9PiBuZXcgUHJvbWlzZSgocmVzb2x2ZSkgPT4gc2V0VGltZW91dChyZXNvbHZlLCBtcykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyDjg4bjgrnjg4jnlKjjgavmmYLliLvjgpLoqK3lrpoKICAgICAgICBDYXJib246OnNldFRlc3ROb3cobmV3IENhcmJvbignJykpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBDYXJib246OnNldFRlc3ROb3cobmV3IENhcmJvbignJykpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2xlZXAoMTAwMDApOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">Y29uc3QgX3NsZWVwID0gKG1zKSA9PiBuZXcgUHJvbWlzZSgocmVzb2x2ZSkgPT4gc2V0VGltZW91dChyZXNvbHZlLCBtcykpOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gc2xlZXAobXMsIGdlbmVyYXRvcikgewogICAgc2V0VGltZW91dCgoKSA9PiBnZW5lcmF0b3IubmV4dCgpLCBtcyk7Cn0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgX3NsZWVwKDEwMDAwKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>媒体名</last-search>
+      <last-search>getProduct</last-search>
       <last-offset />
-      <last-pattern>媒体名</last-pattern>
+      <last-pattern>getProduct</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
       <last-dir>1</last-dir>
@@ -774,11 +771,11 @@
         <entry>app</entry>
         <entry>dayjs</entry>
         <entry>getProductData</entry>
-        <entry>getProduct</entry>
         <entry>create</entry>
         <entry encoding="base64">XDxpdGVtXD4=</entry>
         <entry encoding="base64">XDx3b3JrUmVwb3NpdG9yeVw+</entry>
         <entry>媒体名</entry>
+        <entry>getProduct</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>
@@ -793,8 +790,8 @@
         <entry>wq</entry>
         <entry>q</entry>
         <entry>W</entry>
-        <entry>vs</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>vs</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

@@ -71,6 +71,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientLandingPageController.php" timestamp="1627969159214" />
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_session.php" timestamp="1626825976258" />
       <file name="$USER_HOME$/workspace/web_duplicate_check/src/routes/api.php" timestamp="1624258950511" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/AssignController.php" timestamp="1624244009310">
@@ -138,10 +139,6 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/MynaviEvaluate/Upload.php" timestamp="1624511968727" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Requests/Admin/Assign/CreateOfferAssignRequest.php" timestamp="1624243984000" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Front/Writing/Work/text.ctp" timestamp="1625644646976" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/work_groups/detail.blade.php" timestamp="1627374913547">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="67" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/accounts/signup.blade.php" timestamp="1627627324224">
         <mark key="[" line="70" column="24" />
         <mark key="]" line="70" column="57" />
@@ -151,10 +148,6 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Product/ProductId.php" timestamp="1626748559155" />
       <file name="$USER_HOME$/workspace/sawa_renewal/works/app/controllers/api/api_controller.php" timestamp="1625120026717" />
       <file name="$USER_HOME$/workspace/sawa_renewal/member/app/controllers/components/api.php" timestamp="1625120605988" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/public/js/work_groups/detail.js" timestamp="1627341821699">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="7" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Product/MediaName.php" timestamp="1626748684180">
         <mark key="[" line="23" column="7" />
         <mark key="]" line="24" column="20" />
@@ -173,6 +166,7 @@
       </file>
       <file name="$USER_HOME$/workspace/web_duplicate_check/src/app/Http/Requests/Api/ReportsContentRequest.php" timestamp="1624258917573" />
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_admin.php" timestamp="1625525691070" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Front/OperationTrustController.php" timestamp="1627969859001" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Product/Product.php" timestamp="1626749647076">
         <mark key="'" line="79" column="33" />
         <mark key="[" line="76" column="7" />
@@ -181,8 +175,8 @@
         <mark key="^" line="77" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/MynaviEvaluateController.php" timestamp="1624492386220" />
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Routes/FrontRoutes.php" timestamp="1625467862517">
-        <mark key="'" line="338" column="24" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Routes/FrontRoutes.php" timestamp="1627969953947">
+        <mark key="'" line="12" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/OfferController.php" timestamp="1624243343947">
         <mark key="'" line="97" column="74" />
@@ -281,7 +275,9 @@
         <mark key="." line="51" column="31" />
         <mark key="^" line="51" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Routes/ClientRoutes.php" timestamp="1626825714571" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Routes/ClientRoutes.php" timestamp="1627969029584">
+        <mark key="'" line="29" column="49" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/entrypoints/admin/work_groups/create.js" timestamp="1627888871062" />
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_all.php" timestamp="1625125899810" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientLandingPage/Element/faq.ctp" timestamp="1625122181326">
@@ -389,7 +385,7 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" timestamp="1627534841849">
         <mark key="'" line="332" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_client_online_order.php" timestamp="1626048594628" />
+      <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_client_online_order.php" timestamp="1627969352059" />
       <file name="$USER_HOME$/workspace/sagooo_navi/public/js/admin/works/create/utility.js" timestamp="1627951061055" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminCsvDraftController.php" timestamp="1627372829306" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Product/Season.php" timestamp="1626749121735">
@@ -516,10 +512,6 @@
         <mark key="." line="2" column="39" />
         <mark key="^" line="2" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/Search/GetProductData.php" timestamp="1627515335385">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="20" column="5" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/AwsS3/UserImageRepository.php" timestamp="1620975005889">
         <mark key="[" line="86" column="9" />
         <mark key="]" line="87" column="7" />
@@ -578,9 +570,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="961" column="26" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
-      <jump line="981" column="28" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
-      <jump line="1003" column="38" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="1011" column="32" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="1019" column="11" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="1030" column="13" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
@@ -678,6 +667,9 @@
       <jump line="256" column="22" filename="$USER_HOME$/workspace/sagooo_navi/public/js/admin/works/create.js" />
       <jump line="5602" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
       <jump line="41" column="41" filename="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/work_groups/create/InterviewFormItem.vue" />
+      <jump line="791" column="50" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/ClientRoutes.php" />
+      <jump line="29" column="49" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/ClientRoutes.php" />
+      <jump line="12" column="6" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/FrontRoutes.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -687,7 +679,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx9XD4=</text>
+        <text>OperationTrust</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0YXJnZXQpOwo=</text>
@@ -727,18 +719,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx9XD4=</last-search>
+      <last-search>OperationTrust</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx9XD4=</last-pattern>
+      <last-pattern>OperationTrust</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>create (</entry>
-        <entry>create(</entry>
         <entry>confarm</entry>
         <entry>confirm</entry>
         <entry>__validateMessages</entry>
@@ -757,6 +747,8 @@
         <entry>getProduct</entry>
         <entry encoding="base64">XDxuYW1lXD4=</entry>
         <entry encoding="base64">XDx9XD4=</entry>
+        <entry>LP</entry>
+        <entry>OperationTrust</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

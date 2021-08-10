@@ -291,6 +291,11 @@
         <mark key="." line="220" column="27" />
         <mark key="^" line="220" column="27" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/docker/docker-compose.yml" timestamp="1625636687139">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Product/Season.php" timestamp="1626749121735">
         <mark key="[" line="4" column="3" />
         <mark key="]" line="6" column="43" />
@@ -369,11 +374,15 @@
         <mark key="^" line="87" column="7" />
         <mark key="." line="87" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Admin/Work/WorkRepository.php" timestamp="1628562830468">
-        <mark key="[" line="779" column="0" />
-        <mark key="]" line="784" column="7" />
-        <mark key="." line="780" column="18" />
-        <mark key="^" line="780" column="18" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Admin/Work/WorkRepository.php" timestamp="1628568936978">
+        <mark key="[" line="778" column="0" />
+        <mark key="]" line="778" column="0" />
+        <mark key="." line="778" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/AwsS3/UserProductFileRepository.php" timestamp="1626329545996">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Domain/ClientAccount/signup.ctp" timestamp="1628071978425">
         <mark key="[" line="38" column="16" />
@@ -712,12 +721,12 @@
         <mark key="." line="726" column="44" />
         <mark key="^" line="726" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" timestamp="1628563391831">
-        <mark key="'" line="5744" column="21" />
-        <mark key="[" line="5670" column="38" />
-        <mark key="]" line="5673" column="0" />
-        <mark key="." line="5673" column="0" />
-        <mark key="^" line="5672" column="20" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" timestamp="1628569178224">
+        <mark key="'" line="5715" column="8" />
+        <mark key="[" line="5687" column="74" />
+        <mark key="]" line="5687" column="74" />
+        <mark key="^" line="5687" column="74" />
+        <mark key="." line="5687" column="74" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/env/local.docker/const_slack_env.php" timestamp="1626428980598">
         <mark key="[" line="22" column="58" />
@@ -771,24 +780,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="939" column="0" filename="$USER_HOME$/workspace/sagooo_works/webroot_src/js/module/writing-work-validation.js" />
-      <jump line="116" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Validation/ZenkakuValidation.php" />
-      <jump line="130" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Validation/ZenkakuValidation.php" />
-      <jump line="133" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Validation/ZenkakuValidation.php" />
-      <jump line="136" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Validation/ZenkakuValidation.php" />
-      <jump line="141" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Validation/ZenkakuValidation.php" />
-      <jump line="145" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Validation/ZenkakuValidation.php" />
-      <jump line="114" column="4" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Validation/ZenkakuValidation.php" />
-      <jump line="113" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Validation/ZenkakuValidation.php" />
-      <jump line="107" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Validation/ZenkakuValidation.php" />
-      <jump line="102" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Validation/ZenkakuValidation.php" />
-      <jump line="99" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Validation/ZenkakuValidation.php" />
-      <jump line="93" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Validation/ZenkakuValidation.php" />
-      <jump line="85" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Validation/ZenkakuValidation.php" />
-      <jump line="80" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Validation/ZenkakuValidation.php" />
-      <jump line="74" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Validation/ZenkakuValidation.php" />
-      <jump line="69" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Validation/ZenkakuValidation.php" />
-      <jump line="58" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Validation/ZenkakuValidation.php" />
       <jump line="56" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Validation/ZenkakuValidation.php" />
       <jump line="44" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Validation/ZenkakuValidation.php" />
       <jump line="41" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Validation/ZenkakuValidation.php" />
@@ -871,67 +862,83 @@
       <jump line="5675" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
       <jump line="5677" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
       <jump line="5731" column="21" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
+      <jump line="5669" column="19" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
+      <jump line="5725" column="8" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
+      <jump line="5733" column="8" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
+      <jump line="546" column="16" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
+      <jump line="556" column="16" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
+      <jump line="566" column="16" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
+      <jump line="576" column="16" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
+      <jump line="593" column="16" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
+      <jump line="719" column="16" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
+      <jump line="879" column="41" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
+      <jump line="881" column="43" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
+      <jump line="883" column="50" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
+      <jump line="3435" column="54" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
+      <jump line="3461" column="20" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
+      <jump line="3569" column="58" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
+      <jump line="3594" column="24" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
+      <jump line="5687" column="49" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
+      <jump line="5715" column="8" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDzlqpLkvZPlkI1cPg==</text>
+        <text>preg_match</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoJGlzUHVyY2hhc2UpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPmlzUHVyY2hhc2VQbGFuKCRwYXJzZWRXb3JrRGF0YVsncGxhbiddKSkgewogICAgICAgICAgICAkcGFyc2VkV29ya0RhdGFbJ2NsaWVudF9uYW1lJ10gPSAn44CQ6LK35Y+W5qGI5Lu244CRJyAuICRwYXJzZWRXb3JrRGF0YVsnY2xpZW50X25hbWUnXTsKCiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoJGlzUHVyY2hhc2UpIHsKCiAgICAgICAgICAgICAgICAgICAgfQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPmlzUHVyY2hhc2VQbGFuKCRwYXJzZWRXb3JrRGF0YVsncGxhbiddKSkgewogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoJGlzUHVyY2hhc2UpIHsKICAgICAgICAgICAgICAgICAgICAgICAgJHBhcnNlZFdvcmtEYXRhWydjbGllbnRfbmFtZSddID0gJ+OAkOiyt+WPluahiOS7tuOAkScgLiAkcGFyc2VkV29ya0RhdGFbJ2NsaWVudF9uYW1lJ107CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtICRwbGFuRGF0YUxpc3QKICAgICAqIEByZXR1cm4gYm9vbAogICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICAkaXNQdXJjaGFzZSA9ICR0aGlzLT5pc1B1cmNoYXNlUGxhbigkcGFyc2VkV29ya0RhdGFbJ3BsYW4nXSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKCRpID0gMDsgJGkgPiBjb3VudCgkcGxhbkRhdGFMaXN0KTsgJGkrKykgewo=</text>
+        <text encoding="base64">CiAgICAvKmsKICAgICAqIOiyt+WPluS8geeUu+OBi+OBqeOBhuOBi+WIpOWumuOBmeOCiwogICAgICoKICAgICAqIEBwYXJhbSAkcGxhbkRhdGFMaXN0CiAgICAgKiBAcmV0dXJuIGJvb2wKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGlzUHVyY2hhc2VQbGFuKCRwbGFuRGF0YUxpc3QpOiBib29sOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHByZWdfbWF0Y2goJy/osrflj5YvJywgJHBsYW4pKQo=</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIOiyt+WPluS8geeUu+OBi+OBqeOBhuOBi+WIpOWumuOBmeOCiwogICAgICoKICAgICAqIEBwYXJhbSAkcGxhbkRhdGFMaXN0CiAgICAgKiBAcmV0dXJuIGJvb2wKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGlzUHVyY2hhc2VQbGFuKCRwbGFuRGF0YUxpc3QpOiBib29sCiAgICB7CiAgICAgICAgZm9yZWFjaCAoJHBsYW5EYXRhTGlzdCBhcyAkcGxhbkRhdGEpIHsKICAgICAgICAgICAgaWYgKHByZWdfbWF0Y2goIi/osrflj5YvIiwgJHBsYW5EYXRhWydwbGFuX25hbWUnXSkpIHsKICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gZmFsc2U7CiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoJGlzUHVyY2hhc2UpIHsKICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgfQoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDzlqpLkvZPlkI1cPg==</last-search>
+      <last-search>preg_match</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDzlqpLkvZPlkI1cPg==</last-pattern>
+      <last-pattern>preg_match</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>textData</entry>
-        <entry encoding="base64">XDzvvJFcPg==</entry>
         <entry>provider</entry>
         <entry>work_groups</entry>
         <entry>upload</entry>
@@ -950,6 +957,8 @@
         <entry>新規入稿</entry>
         <entry encoding="base64">XDxzXD4=</entry>
         <entry encoding="base64">XDzlqpLkvZPlkI1cPg==</entry>
+        <entry>isPur</entry>
+        <entry>preg_match</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

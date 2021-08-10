@@ -180,12 +180,12 @@
         <mark key="." line="734" column="44" />
         <mark key="^" line="734" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/work_groups/create/InterviewFormList.vue" timestamp="1628587169300">
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/work_groups/create/InterviewFormList.vue" timestamp="1628589641990">
         <mark key="'" line="43" column="20" />
-        <mark key="[" line="90" column="38" />
-        <mark key="]" line="90" column="38" />
-        <mark key="." line="90" column="38" />
-        <mark key="^" line="90" column="38" />
+        <mark key="[" line="89" column="16" />
+        <mark key="]" line="89" column="16" />
+        <mark key="." line="89" column="16" />
+        <mark key="^" line="89" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/PixtaApiComponent.php" timestamp="1620637558246">
         <mark key="[" line="56" column="0" />
@@ -232,12 +232,12 @@
         <mark key="." line="17" column="58" />
         <mark key="^" line="17" column="58" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/work_groups/create.blade.php" timestamp="1628575126492">
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/work_groups/create.blade.php" timestamp="1628589629208">
         <mark key="'" line="37" column="53" />
-        <mark key="[" line="436" column="57" />
-        <mark key="]" line="436" column="58" />
-        <mark key="." line="436" column="58" />
-        <mark key="^" line="436" column="58" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+        <mark key="^" line="64" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/LocalFileStorage/FileRepository.php" timestamp="1619084783903">
         <mark key="[" line="109" column="0" />
@@ -663,11 +663,11 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/public/js/work_groups/create/plans.js" timestamp="1627341456988">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" timestamp="1628586266220">
-        <mark key="[" line="1685" column="24" />
-        <mark key="]" line="1685" column="23" />
-        <mark key="." line="1685" column="23" />
-        <mark key="^" line="1685" column="23" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" timestamp="1628588192915">
+        <mark key="[" line="1699" column="27" />
+        <mark key="]" line="1699" column="33" />
+        <mark key="." line="1699" column="33" />
+        <mark key="^" line="1699" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/env/develop/const_slack_env.php" timestamp="1626428984544">
         <mark key="[" line="22" column="58" />
@@ -882,20 +882,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,
-                        null,
-                        interviewData['before_file_name'],
-                        interviewData['before_file_path'],
-                        interviewData['before_file_url'],
-                        interviewData['regulation_sheet'],
-                        interviewData['before_sheet_name'],
-                        interviewData['before_sheet_path'],
-                        interviewData['before_sheet_url'],
-                        interviewData['memo'],
-                        interviewData['disabled'],</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>PHP_VARS.productTypes[interviewData['product_id']</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>getMedia</text>
@@ -903,7 +893,31 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3JtSXRlbXMucHVzaChuZXcgSW50ZXJ2aWV3KAogICAgICAgICAgICAgICAgICAgICAgICBpbnRlcnZpZXdEYXRhWydpbnRlcnZpZXdfaWQnXSwKICAgICAgICAgICAgICAgICAgICAgICAgbmV3IE9wdGlvbigKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGludGVydmlld0RhdGFbJ3Byb2R1Y3RfaWQnXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIFBIUF9WQVJTLnByb2R1Y3RUeXBlc1tpbnRlcnZpZXdEYXRhWydwcm9kdWN0X2lkJ11dLAogICAgICAgICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgICAgICAgICBpbnRlcnZpZXdEYXRhWydyZWZlcmVuY2VfZmlsZSddLAogICAgICAgICAgICAgICAgICAgICAgICBpbnRlcnZpZXdEYXRhWydiZWZvcmVfZmlsZV9uYW1lJ10sCiAgICAgICAgICAgICAgICAgICAgICAgIGludGVydmlld0RhdGFbJ2JlZm9yZV9maWxlX3BhdGgnXSwKICAgICAgICAgICAgICAgICAgICAgICAgaW50ZXJ2aWV3RGF0YVsnYmVmb3JlX2ZpbGVfdXJsJ10sCiAgICAgICAgICAgICAgICAgICAgICAgIGludGVydmlld0RhdGFbJ3JlZ3VsYXRpb25fc2hlZXQnXSwKICAgICAgICAgICAgICAgICAgICAgICAgaW50ZXJ2aWV3RGF0YVsnYmVmb3JlX3NoZWV0X25hbWUnXSwKICAgICAgICAgICAgICAgICAgICAgICAgaW50ZXJ2aWV3RGF0YVsnYmVmb3JlX3NoZWV0X3BhdGgnXSwKICAgICAgICAgICAgICAgICAgICAgICAgaW50ZXJ2aWV3RGF0YVsnYmVmb3JlX3NoZWV0X3VybCddLAogICAgICAgICAgICAgICAgICAgICAgICBpbnRlcnZpZXdEYXRhWydtZW1vJ10sCiAgICAgICAgICAgICAgICAgICAgICAgIGludGVydmlld0RhdGFbJ2Rpc2FibGVkJ10sCiAgICAgICAgICAgICAgICAgICAgKSk7CiAgICAgICAgICAgICAgICAgICAgZm9ybUluZGV4ZXMucHVzaChuZXh0SW5kZXgpOwogICAgICAgICAgICAgICAgICAgIG5leHRJbmRleCsrOwo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocHJvZHVjdERhdGFzKTsK</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICBjb25zb2xlLmxvZyhwcm9kdWN0RGF0YXMpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIDxzY3JpcHQgIXNyYz0iIj48L3NjcmlwdD4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBcSmF2YVNjcmlwdDo6cHV0KFsKICAgICAgICBdKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ3Byb2R1Y3REYXRhcycgPT4gJHBhcnNlZFdvcmtEYXRhWydwcm9kdWN0J10sCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdhYWFhYWFhJyk7Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>,
                         null,
                         interviewData['before_file_name'],
@@ -916,32 +930,8 @@
                         interviewData['memo'],
                         interviewData['disabled'],</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcGFyc2VkV29ya0RhdGEpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkb3JpZ2luYWxQcm9kdWN0RGF0YUxpc3QpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcHJvZHVjdERhdGFMaXN0LCAkb3JpZ2luYWxQcm9kdWN0RGF0YUxpc3QpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcHJvZHVjdERhdGFMaXN0LCAkb3JpZ2luYWxQcm9kdWN0RGF0YUxpc3QpOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkaG9nZVtdID0gJ3Byb2R1Y3RfbmFtZTogJyAuIAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

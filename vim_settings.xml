@@ -909,7 +909,7 @@
         <text>現在から2シーズン前のシーズンを取得</text>
       </register>
       <register name="/" type="4">
-        <text>autoIm</text>
+        <text>dayjs</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3JtSXRlbXMucHVzaChuZXcgSW50ZXJ2aWV3KAogICAgICAgICAgICAgICAgICAgICAgICBpbnRlcnZpZXdEYXRhWydpbnRlcnZpZXdfaWQnXSwKICAgICAgICAgICAgICAgICAgICAgICAgbmV3IE9wdGlvbigKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGludGVydmlld0RhdGFbJ3Byb2R1Y3RfaWQnXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIFBIUF9WQVJTLnByb2R1Y3RUeXBlc1tpbnRlcnZpZXdEYXRhWydwcm9kdWN0X2lkJ11dLAogICAgICAgICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgICAgICAgICBpbnRlcnZpZXdEYXRhWydyZWZlcmVuY2VfZmlsZSddLAogICAgICAgICAgICAgICAgICAgICAgICBpbnRlcnZpZXdEYXRhWydiZWZvcmVfZmlsZV9uYW1lJ10sCiAgICAgICAgICAgICAgICAgICAgICAgIGludGVydmlld0RhdGFbJ2JlZm9yZV9maWxlX3BhdGgnXSwKICAgICAgICAgICAgICAgICAgICAgICAgaW50ZXJ2aWV3RGF0YVsnYmVmb3JlX2ZpbGVfdXJsJ10sCiAgICAgICAgICAgICAgICAgICAgICAgIGludGVydmlld0RhdGFbJ3JlZ3VsYXRpb25fc2hlZXQnXSwKICAgICAgICAgICAgICAgICAgICAgICAgaW50ZXJ2aWV3RGF0YVsnYmVmb3JlX3NoZWV0X25hbWUnXSwKICAgICAgICAgICAgICAgICAgICAgICAgaW50ZXJ2aWV3RGF0YVsnYmVmb3JlX3NoZWV0X3BhdGgnXSwKICAgICAgICAgICAgICAgICAgICAgICAgaW50ZXJ2aWV3RGF0YVsnYmVmb3JlX3NoZWV0X3VybCddLAogICAgICAgICAgICAgICAgICAgICAgICBpbnRlcnZpZXdEYXRhWydtZW1vJ10sCiAgICAgICAgICAgICAgICAgICAgICAgIGludGVydmlld0RhdGFbJ2Rpc2FibGVkJ10sCiAgICAgICAgICAgICAgICAgICAgKSk7CiAgICAgICAgICAgICAgICAgICAgZm9ybUluZGV4ZXMucHVzaChuZXh0SW5kZXgpOwogICAgICAgICAgICAgICAgICAgIG5leHRJbmRleCsrOwo=</text>
@@ -949,9 +949,9 @@
       </register>
     </registers>
     <search>
-      <last-search>autoIm</last-search>
+      <last-search>dayjs</last-search>
       <last-offset />
-      <last-pattern>autoIm</last-pattern>
+      <last-pattern>dayjs</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
       <last-dir>1</last-dir>
@@ -959,7 +959,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx3b3JrUmVwb3NpdG9yeVw+</entry>
         <entry>媒体名</entry>
         <entry encoding="base64">XDxuYW1lXD4=</entry>
         <entry encoding="base64">XDx9XD4=</entry>
@@ -979,6 +978,7 @@
         <entry>autoImport</entry>
         <entry>autoImpo</entry>
         <entry>autoIm</entry>
+        <entry>dayjs</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

@@ -180,11 +180,11 @@
         <mark key="." line="734" column="44" />
         <mark key="^" line="734" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/work_groups/create/InterviewFormList.vue" timestamp="1628679043849">
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/work_groups/create/InterviewFormList.vue" timestamp="1628681292584">
         <mark key="'" line="43" column="20" />
-        <mark key="[" line="100" column="28" />
-        <mark key="]" line="100" column="40" />
-        <mark key="." line="100" column="40" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
         <mark key="^" line="100" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/PixtaApiComponent.php" timestamp="1620637558246">
@@ -205,11 +205,11 @@
         <mark key="." line="45" column="1" />
         <mark key="^" line="45" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/entrypoints/admin/work_groups/create.js" timestamp="1628676240556">
-        <mark key="[" line="15" column="31" />
-        <mark key="]" line="15" column="31" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/entrypoints/admin/work_groups/create.js" timestamp="1628681282586">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
         <mark key="^" line="15" column="31" />
-        <mark key="." line="15" column="31" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Pages/Client/ClientSignup/index.ctp" timestamp="1628072156464">
         <mark key="[" line="50" column="20" />
@@ -887,7 +887,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGVkKCkgewogICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IHByb2R1Y3REYXRhcyA9IHRoaXMucHJvZHVjdERhdGFzOwo=</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -899,21 +899,27 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBtYl9jb252ZXJ0X2thbmEoJHByb2R1Y3REYXRhWydwcm9kdWN0X25hbWUnXSwgJ0EnKSA9PT0gbWJfY29udmVydF9rYW5hKCRvcmlnaW5hbFByb2R1Y3REYXRhWydwcm9kdWN0X25hbWUnXSwgJ0EnKQogICAgICAgICAgICAgICAgICAgICYmIG1iX2NvbnZlcnRfa2FuYSgkcHJvZHVjdERhdGFbJ21lZGlhX25hbWUnXSwgJ0EnKSA9PT0gbWJfY29udmVydF9rYW5hKCRvcmlnaW5hbFByb2R1Y3REYXRhWydtZWRpYV9uYW1lJ10sICdBJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGVkKCkgewogICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IHByb2R1Y3REYXRhcyA9IHRoaXMucHJvZHVjdERhdGFzOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IHByb2R1Y3REYXRhID0gdGhpcy5wcm9kdWN0RGF0YTsK</text>
+        <text encoding="base64">Y29uc3QgcHJvZHVjdERhdGFzID0gSlNPTi5wYXJzZShkb2N1bWVudC5xdWVyeVNlbGVjdG9yKCcjanMtdnVlLWludGVydmlldy1mb3JtLWxpc3QnKS5kYXRhc2V0LnByb2R1Y3REYXRhcyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nCg==</text>
+        <text encoding="base64">ICAgICAgICBjcmVhdGVkKCkgewogICAgICAgIH0sCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IHByb2R1Y3REYXRhID0gdGhpcy5wcm9kdWN0RGF0YTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="5" type="8">
+      <register name="7" type="8">
         <text>//
 //
 //
@@ -928,19 +934,13 @@
 //
 //</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>{
 
         },</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGRhdGE6IHsKICAgICAgICBwcm9kdWN0RGF0YXM6IHByb2R1Y3REYXRhcywKICAgIH0sCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJlbnRPcHRpb25zOiBbXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

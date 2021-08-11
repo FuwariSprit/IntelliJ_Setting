@@ -180,12 +180,12 @@
         <mark key="." line="734" column="44" />
         <mark key="^" line="734" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/work_groups/create/InterviewFormList.vue" timestamp="1628676660463">
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/work_groups/create/InterviewFormList.vue" timestamp="1628679043849">
         <mark key="'" line="43" column="20" />
-        <mark key="[" line="101" column="37" />
-        <mark key="]" line="101" column="37" />
-        <mark key="." line="101" column="37" />
-        <mark key="^" line="101" column="37" />
+        <mark key="[" line="100" column="28" />
+        <mark key="]" line="100" column="40" />
+        <mark key="." line="100" column="40" />
+        <mark key="^" line="100" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/PixtaApiComponent.php" timestamp="1620637558246">
         <mark key="[" line="56" column="0" />
@@ -886,8 +886,8 @@
       <jump line="62" column="0" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/work_groups/create.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjcmVhdGVkKCkgewogICAgICAgIH0sCg==</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -899,12 +899,21 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBtYl9jb252ZXJ0X2thbmEoJHByb2R1Y3REYXRhWydwcm9kdWN0X25hbWUnXSwgJ0EnKSA9PT0gbWJfY29udmVydF9rYW5hKCRvcmlnaW5hbFByb2R1Y3REYXRhWydwcm9kdWN0X25hbWUnXSwgJ0EnKQogICAgICAgICAgICAgICAgICAgICYmIG1iX2NvbnZlcnRfa2FuYSgkcHJvZHVjdERhdGFbJ21lZGlhX25hbWUnXSwgJ0EnKSA9PT0gbWJfY29udmVydF9rYW5hKCRvcmlnaW5hbFByb2R1Y3REYXRhWydtZWRpYV9uYW1lJ10sICdBJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjcmVhdGVkKCkgewogICAgICAgIH0sCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="8">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IHByb2R1Y3REYXRhID0gdGhpcy5wcm9kdWN0RGF0YTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="5" type="8">
         <text>//
 //
 //
@@ -919,31 +928,19 @@
 //
 //</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>{
 
         },</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGRhdGE6IHsKICAgICAgICBwcm9kdWN0RGF0YXM6IHByb2R1Y3REYXRhcywKICAgIH0sCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJlbnRPcHRpb25zOiBbXQo=</text>
-      </register>
-      <register name="7" type="4">
-        <text>c
-    mounted() {
-        
-    }</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cocHJvZHVjdERhdGFzKTsK</text>
+        <text encoding="base64">ICAgICAgICBwYXJlbnRPcHRpb25zOiBbXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

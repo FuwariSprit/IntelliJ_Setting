@@ -104,8 +104,12 @@
         <mark key="'" line="97" column="74" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Shell/DeliveryDataShell.php" timestamp="1624319113478" />
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" timestamp="1628835620503">
-        <mark key="'" line="2676" column="20" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" timestamp="1628842044432">
+        <mark key="'" line="356" column="26" />
+        <mark key="[" line="2913" column="50" />
+        <mark key="]" line="2913" column="50" />
+        <mark key="." line="2913" column="50" />
+        <mark key="^" line="2913" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepositoryTest.php" timestamp="1627873699039">
         <mark key="'" line="64" column="19" />
@@ -302,6 +306,9 @@
         <mark key="." line="26" column="20" />
         <mark key="^" line="26" column="20" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" timestamp="1628841326028">
+        <mark key="'" line="1712" column="75" />
+      </file>
       <file name="$USER_HOME$/workspace/sawa_renewal/works/app/views/client/client1.ctp" timestamp="1628127919485">
         <mark key="[" line="732" column="44" />
         <mark key="]" line="732" column="44" />
@@ -322,7 +329,12 @@
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" timestamp="1626826319307" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/CreateProductFile.php" timestamp="1626328969302" />
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" timestamp="1626825970823" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" timestamp="1628841893322">
+        <mark key="'" line="3783" column="0" />
+        <mark key="[" line="2468" column="0" />
+        <mark key="]" line="2468" column="0" />
+        <mark key="." line="2468" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/routes/web.php" timestamp="1628833036661">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="391" column="15" />
@@ -360,6 +372,7 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/WorkGroupController.php" timestamp="1627629812729">
         <mark key="'" line="347" column="43" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Utility/ExcelIO.php" timestamp="1628838636647" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/Assign/AddAssignSync.php" timestamp="1628744468464" />
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/env/staging/const_slack_env.php" timestamp="1626428990598">
         <mark key="[" line="22" column="58" />
@@ -577,7 +590,7 @@
       <file name="$USER_HOME$/workspace/web_duplicate_check/src/resources/views/front/articles/entry.blade.php" timestamp="1624254360326" />
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_work_manage.php" timestamp="1628751654457" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/SalesDelivery/edit.ctp" timestamp="1625469608242" />
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Validation/ZenkakuValidation.php" timestamp="1627372611591">
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Validation/ZenkakuValidation.php" timestamp="1628836679612">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="26" column="9" />
         <mark key="]" line="28" column="19" />
@@ -599,62 +612,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="546" column="16" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="556" column="16" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="566" column="16" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="576" column="16" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="593" column="16" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="719" column="16" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="879" column="41" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="881" column="43" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="883" column="50" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="3435" column="54" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="3461" column="20" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="3569" column="58" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="3594" column="24" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="5687" column="49" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="5715" column="8" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="237" column="36" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/work_groups/create.blade.php" />
-      <jump line="134" column="0" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/work_groups/create.blade.php" />
-      <jump line="94" column="0" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/work_groups/create.blade.php" />
-      <jump line="88" column="0" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/work_groups/create.blade.php" />
-      <jump line="73" column="0" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/work_groups/create.blade.php" />
-      <jump line="218" column="38" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/work_groups/create.blade.php" />
-      <jump line="1677" column="32" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
-      <jump line="278" column="20" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
-      <jump line="361" column="65" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
-      <jump line="284" column="12" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
-      <jump line="285" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
-      <jump line="289" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
-      <jump line="300" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
-      <jump line="305" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
-      <jump line="326" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
-      <jump line="354" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
-      <jump line="342" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
-      <jump line="333" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
-      <jump line="1737" column="51" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
-      <jump line="401" column="99" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/work_groups/create.blade.php" />
-      <jump line="15" column="9" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/work_groups/create.blade.php" />
-      <jump line="37" column="53" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/work_groups/create.blade.php" />
-      <jump line="1689" column="10" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
-      <jump line="1691" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
-      <jump line="1695" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
-      <jump line="1706" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
-      <jump line="1711" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
-      <jump line="1732" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
-      <jump line="5765" column="7" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="675" column="28" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="676" column="40" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="770" column="57" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="903" column="32" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="907" column="31" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="778" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Admin/Work/WorkRepository.php" />
-      <jump line="5772" column="13" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="5762" column="4" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="786" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Admin/Work/WorkRepository.php" />
-      <jump line="679" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Admin/Work/WorkRepository.php" />
-      <jump line="920" column="14" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="5755" column="33" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
       <jump line="314" column="29" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Admin/Work/WorkRepository.php" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Admin/Work/WorkRepository.php" />
       <jump line="926" column="24" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
@@ -699,58 +656,114 @@
       <jump line="1489" column="37" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="2658" column="42" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
       <jump line="2676" column="20" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
+      <jump line="2900" column="36" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
+      <jump line="676" column="23" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
+      <jump line="648" column="33" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
+      <jump line="640" column="33" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
+      <jump line="632" column="33" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
+      <jump line="592" column="17" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
+      <jump line="585" column="51" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
+      <jump line="582" column="9" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
+      <jump line="577" column="23" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
+      <jump line="564" column="28" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
+      <jump line="562" column="28" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
+      <jump line="559" column="20" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
+      <jump line="2718" column="29" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
+      <jump line="2706" column="33" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
+      <jump line="1501" column="23" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
+      <jump line="1475" column="19" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
+      <jump line="836" column="13" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
+      <jump line="819" column="21" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
+      <jump line="818" column="17" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
+      <jump line="817" column="17" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
+      <jump line="808" column="36" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
+      <jump line="798" column="9" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
+      <jump line="786" column="20" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
+      <jump line="735" column="37" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
+      <jump line="2260" column="64" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
+      <jump line="2288" column="9" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
+      <jump line="2293" column="49" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
+      <jump line="792" column="47" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
+      <jump line="2690" column="38" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
+      <jump line="2927" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
+      <jump line="1509" column="13" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
+      <jump line="1485" column="20" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
+      <jump line="1484" column="13" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
+      <jump line="1482" column="43" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
+      <jump line="1480" column="19" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
+      <jump line="1476" column="19" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
+      <jump line="1512" column="16" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
+      <jump line="35" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
+      <jump line="1439" column="50" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
+      <jump line="2617" column="24" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
+      <jump line="2722" column="12" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
+      <jump line="6" column="16" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
+      <jump line="1162" column="16" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
+      <jump line="761" column="27" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
+      <jump line="2909" column="48" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
+      <jump line="2916" column="48" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
+      <jump line="2681" column="41" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
+      <jump line="1433" column="51" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
+      <jump line="297" column="48" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
+      <jump line="1712" column="75" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
+      <jump line="2434" column="19" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
+      <jump line="3782" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
+      <jump line="2920" column="21" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
+      <jump line="2944" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
+      <jump line="356" column="26" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcGFyc2VkV29ya0RhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcGFyYWdyYXBoU3RhdHVzKTtleGl0Owo=</text>
       </register>
       <register name="-" type="4">
-        <text>GetProductData $getProductDataUseCase</text>
+        <text>DtbOnlineOrderParagraph'</text>
       </register>
       <register name="/" type="4">
-        <text>validateParagraphsAndKeywords</text>
+        <text>fileUpload</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgcHJvZHVjdERhdGFzID0gSlNPTi5wYXJzZShkb2N1bWVudC5xdWVyeVNlbGVjdG9yKCcjanMtdnVlLWludGVydmlldy1mb3JtLWxpc3QnKS5kYXRhc2V0LnByb2R1Y3REYXRhcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL3Zhcl9kdW1wKCRkZXRhaWxSZWNvcmRbJ2FydGljbGVfY291bnQnXSk7ZXhpdDsKICAgICAgICAvL3Zhcl9kdW1wKEV4Y2VsSU86OmxvYWRBbmRSYW5nZVRvQXJyYXkoJHVwbG9hZEZpbGVJbmZvWyd0bXBfbmFtZSddLCAn55m65rOo6ICF5YWl5Yqb55So44K344O844OIJywgJ0YzJywgJ08zJykpO2V4aXQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcGFyc2VkV29ya0RhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcGFyYWdyYXBoU3RhdHVzKTtleGl0Owo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocHJvZHVjdERhdGFzKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocHJvZHVjdERhdGFzID09PSAnbnVsbCcpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAvL3Zhcl9kdW1wKCRkZXRhaWxSZWNvcmRbJ2FydGljbGVfY291bnQnXSk7ZXhpdDsKICAgICAgICAvL3Zhcl9kdW1wKEV4Y2VsSU86OmxvYWRBbmRSYW5nZVRvQXJyYXkoJHVwbG9hZEZpbGVJbmZvWyd0bXBfbmFtZSddLCAn55m65rOo6ICF5YWl5Yqb55So44K344O844OIJywgJ0YzJywgJ08zJykpO2V4aXQ7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvL3Zhcl9kdW1wKCRkZXRhaWxSZWNvcmRbJ2FydGljbGVfY291bnQnXSk7ZXhpdDsKICAgICAgICAvL3Zhcl9kdW1wKEV4Y2VsSU86OmxvYWRBbmRSYW5nZVRvQXJyYXkoJHVwbG9hZEZpbGVJbmZvWyd0bXBfbmFtZSddLCAn55m65rOo6ICF5YWl5Yqb55So44K344O844OIJywgJ0YzJywgJ08zJykpO2V4aXQ7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvL3Zhcl9kdW1wKEV4Y2VsSU86OmxvYWRBbmRSYW5nZVRvQXJyYXkoJHVwbG9hZEZpbGVJbmZvWyd0bXBfbmFtZSddLCAn55m65rOo6ICF5YWl5Yqb55So44K344O844OIJywgJ0YzJywgJ08zJykpO2V4aXQ7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAvL3Zhcl9kdW1wKCRkZXRhaWxSZWNvcmRbJ2FydGljbGVfY291bnQnXSk7ZXhpdDsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocGFyc2VkUHJvZHVjdERhdGFzKTsKICAgICAgICAgICAgaWYgKHBhcnNlZFByb2R1Y3REYXRhcyAmJiBwYXJzZWRQcm9kdWN0RGF0YXMubGVuZ3RoICE9PSAwKSB7CiAgICAgICAgICAgICAgICBmb3IgKGNvbnN0IGkgb2YgT2JqZWN0LmtleXMocGFyc2VkUHJvZHVjdERhdGFzKSkgewogICAgICAgICAgICAgICAgICAgIGZvcm1JdGVtcy5wdXNoKG5ldyBJbnRlcnZpZXcoCiAgICAgICAgICAgICAgICAgICAgICAgICcnLAogICAgICAgICAgICAgICAgICAgICAgICBuZXcgT3B0aW9uKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgcGFyc2VkUHJvZHVjdERhdGFzW2ldWydwcm9kdWN0X2lkJ10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBwYXJzZWRQcm9kdWN0RGF0YXNbaV1bJ3Byb2R1Y3RfbmFtZSddLAogICAgICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICAgICAgKSk7CiAgICAgICAgICAgICAgICAgICAgZm9ybUluZGV4ZXMucHVzaChuZXh0SW5kZXgpOwogICAgICAgICAgICAgICAgICAgIG5leHRJbmRleCsrOwogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgcGFyc2VkUHJvZHVjdERhdGFzID0gSlNPTi5wYXJzZShwcm9kdWN0RGF0YXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBDRUxMX09GRlNFVCA9IAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>validateParagraphsAndKeywords</last-search>
+      <last-search>fileUpload</last-search>
       <last-offset />
-      <last-pattern>validateParagraphsAndKeywords</last-pattern>
+      <last-pattern>fileUpload</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
       <last-dir>1</last-dir>
@@ -758,12 +771,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDzlqpLkvZPlkI1cPg==</entry>
-        <entry>isPur</entry>
-        <entry>preg_match</entry>
-        <entry>特急</entry>
-        <entry>showCreateForm</entry>
-        <entry>client_name</entry>
         <entry>product</entry>
         <entry>getMedia</entry>
         <entry>autoImport</entry>
@@ -777,7 +784,13 @@
         <entry>auto</entry>
         <entry>create</entry>
         <entry>create(</entry>
+        <entry>check</entry>
+        <entry>validateParagraphsAndKeywordsFile</entry>
+        <entry>uploadFile</entry>
+        <entry>Excel</entry>
         <entry>validateParagraphsAndKeywords</entry>
+        <entry>validateParagraphsAndK</entry>
+        <entry>fileUpload</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

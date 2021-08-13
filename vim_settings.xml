@@ -100,8 +100,13 @@
         <mark key="." line="264" column="49" />
         <mark key="^" line="264" column="49" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/OfferController.php" timestamp="1624243343947">
+        <mark key="'" line="97" column="74" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Shell/DeliveryDataShell.php" timestamp="1624319113478" />
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" timestamp="1626826301539" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" timestamp="1628835620503">
+        <mark key="'" line="2676" column="20" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepositoryTest.php" timestamp="1627873699039">
         <mark key="'" line="64" column="19" />
         <mark key="[" line="5" column="19" />
@@ -145,6 +150,12 @@
         <mark key="]" line="320" column="61" />
         <mark key="." line="320" column="61" />
         <mark key="^" line="320" column="61" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/work_groups/steps/create/StepFormItem.vue" timestamp="1624438145378">
+        <mark key="'" line="346" column="32" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Routes/ClientRoutes.php" timestamp="1627969029584">
+        <mark key="'" line="29" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Requests/Admin/WorkGroup/AutoImportRequest.php" timestamp="1628576791776">
         <mark key="[" line="45" column="1" />
@@ -249,6 +260,9 @@
         <mark key="^" line="15" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Commands/Alert/UserWorkNotification.php" timestamp="1626325516503" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/OfferController.php" timestamp="1624244336731">
+        <mark key="'" line="108" column="57" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Client/ClientOnlineOrder/index.ctp" timestamp="1624802957121">
         <mark key="[" line="113" column="32" />
         <mark key="]" line="113" column="32" />
@@ -338,8 +352,14 @@
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_session.php" timestamp="1626825976258" />
       <file name="$USER_HOME$/workspace/web_duplicate_check/src/routes/api.php" timestamp="1624258950511" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/AssignController.php" timestamp="1624244009310">
+        <mark key="'" line="29" column="37" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminEntryTextWorkController.php" timestamp="1626826517850" />
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/interview.blade.php" timestamp="1625724841207" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/WorkGroupController.php" timestamp="1627629812729">
+        <mark key="'" line="347" column="43" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/Assign/AddAssignSync.php" timestamp="1628744468464" />
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/env/staging/const_slack_env.php" timestamp="1626428990598">
         <mark key="[" line="22" column="58" />
@@ -402,6 +422,9 @@
         <mark key="]" line="77" column="23" />
         <mark key="." line="77" column="23" />
         <mark key="^" line="77" column="23" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Routes/FrontRoutes.php" timestamp="1627975223605">
+        <mark key="'" line="12" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" timestamp="1626324933378">
         <mark key="[" line="1599" column="5" />
@@ -548,6 +571,9 @@
         <mark key="." line="242" column="0" />
         <mark key="^" line="242" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/web_duplicate_check/src/app/Services/WebDuplicateCheck.php" timestamp="1624346162284">
+        <mark key="'" line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/web_duplicate_check/src/resources/views/front/articles/entry.blade.php" timestamp="1624254360326" />
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_work_manage.php" timestamp="1628751654457" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/SalesDelivery/edit.ctp" timestamp="1625469608242" />
@@ -573,8 +599,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5725" column="8" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="5733" column="8" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
       <jump line="546" column="16" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
       <jump line="556" column="16" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
       <jump line="566" column="16" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
@@ -673,6 +697,8 @@
       <jump line="1495" column="23" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="1492" column="20" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="1489" column="37" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
+      <jump line="2658" column="42" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
+      <jump line="2676" column="20" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -682,7 +708,7 @@
         <text>GetProductData $getProductDataUseCase</text>
       </register>
       <register name="/" type="4">
-        <text>create(</text>
+        <text>validateParagraphsAndKeywords</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29uc3QgcHJvZHVjdERhdGFzID0gSlNPTi5wYXJzZShkb2N1bWVudC5xdWVyeVNlbGVjdG9yKCcjanMtdnVlLWludGVydmlldy1mb3JtLWxpc3QnKS5kYXRhc2V0LnByb2R1Y3REYXRhcyk7Cg==</text>
@@ -722,9 +748,9 @@
       </register>
     </registers>
     <search>
-      <last-search>create(</last-search>
+      <last-search>validateParagraphsAndKeywords</last-search>
       <last-offset />
-      <last-pattern>create(</last-pattern>
+      <last-pattern>validateParagraphsAndKeywords</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
       <last-dir>1</last-dir>
@@ -732,7 +758,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzXD4=</entry>
         <entry encoding="base64">XDzlqpLkvZPlkI1cPg==</entry>
         <entry>isPur</entry>
         <entry>preg_match</entry>
@@ -752,6 +777,7 @@
         <entry>auto</entry>
         <entry>create</entry>
         <entry>create(</entry>
+        <entry>validateParagraphsAndKeywords</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

@@ -101,12 +101,12 @@
         <mark key="^" line="264" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Shell/DeliveryDataShell.php" timestamp="1624319113478" />
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" timestamp="1629159301003">
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" timestamp="1629167040382">
         <mark key="'" line="887" column="0" />
-        <mark key="[" line="3031" column="32" />
-        <mark key="]" line="3024" column="60" />
-        <mark key="." line="3024" column="60" />
-        <mark key="^" line="3024" column="60" />
+        <mark key="[" line="3026" column="148" />
+        <mark key="]" line="3026" column="74" />
+        <mark key="." line="3026" column="74" />
+        <mark key="^" line="3026" column="74" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepositoryTest.php" timestamp="1627873699039">
         <mark key="'" line="64" column="19" />
@@ -171,11 +171,12 @@
         <mark key="." line="50" column="53" />
         <mark key="^" line="50" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientOnlineOrder/OrderForm/entry_by_excel.ctp" timestamp="1626154004132">
-        <mark key="[" line="39" column="34" />
-        <mark key="]" line="39" column="34" />
-        <mark key="." line="39" column="34" />
-        <mark key="^" line="39" column="34" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientOnlineOrder/OrderForm/entry_by_excel.ctp" timestamp="1629166737116">
+        <mark key="'" line="45" column="9" />
+        <mark key="[" line="67" column="40" />
+        <mark key="]" line="67" column="40" />
+        <mark key="." line="67" column="40" />
+        <mark key="^" line="67" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/DraftCommonComponent.php" timestamp="1627372764604" />
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/work_groups/create.blade.php" timestamp="1628726186848">
@@ -311,9 +312,7 @@
         <mark key="." line="261" column="37" />
         <mark key="^" line="261" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Client/ClientOnlineOrder/article_entry.ctp" timestamp="1629156318441">
-        <mark key="[" line="59" column="14" />
-        <mark key="]" line="59" column="7" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Client/ClientOnlineOrder/article_entry.ctp" timestamp="1629166563885">
         <mark key="." line="59" column="7" />
         <mark key="^" line="59" column="7" />
       </file>
@@ -596,7 +595,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="477" column="35" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="1685" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="352" column="20" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="336" column="39" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
@@ -696,49 +694,50 @@
       <jump line="359" column="33" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
       <jump line="888" column="34" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
       <jump line="887" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
+      <jump line="45" column="9" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientOnlineOrder/OrderForm/entry_by_excel.ctp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>TableRegistry</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ0R0Yk9ubGluZU9yZGVyUGFyYWdyYXBocycsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPD9waHAgaWYgKCFlbXB0eSgkZXJyb3JNZXNzYWdlKSk6ID8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJhbGVydCBhbGVydC1kYW5nZXIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx1bD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPD9waHAgZm9yZWFjaCAoJGVycm9yTWVzc2FnZSBhcyAkbWVzc2FnZSk6ID8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGk+PGI+PHNwYW4gY2xhc3M9ImdseXBoaWNvbiBnbHlwaGljb24tZXhjbGFtYXRpb24tc2lnbiIgYXJpYS1oaWRkZW49InRydWUiPjwvc3Bhbj4mbmJzcDs8P3BocCBlY2hvICRtZXNzYWdlOyA/PjwvYj48L2xpPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8P3BocCBlbmRmb3JlYWNoOyA/PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvdWw+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgPD9waHAgZW5kaWY7ID8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRmb3JtYXR0ZWRFeGNlbERhdGEpO2V4aXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPD9waHAgZW5kaWY7ID8+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlzc2V0KCRlcnJvck1lc3NhZ2UpKSB7CiAgICAgICAgICAgICAgICBlY2hvICc8ZGl2IGNsYXNzPSJhbGVydCBhbGVydC1kYW5nZXIiPicgLiAkZXJyb3JNZXNzYWdlIC4gJzwvZGl2Pic7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXJfZHVtcCgnaG9nZScpO2V4aXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVjaG8gJzxkaXYgY2xhc3M9ImFsZXJ0IGFsZXJ0LWRhbmdlciI+JyAuICRlcnJvck1lc3NhZ2UgLiAnPC9kaXY+JzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPD9waHAgaWYgKCFlbXB0eSgkZXJyb3JNZXNzYWdlKSk6ID8+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGVycm9yTGlzdCk7ZXhpdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXJfZHVtcCgkcGFydHNEYXRhKTtleGl0Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghZW1wdHkoJGZvcm1hdHRlZEV4Y2VsRGF0YVsnYm9keV9rZXl3b3JkJ10pKSB7CiAgICAgICAgICAgICAgICAgICAgJGVycm9ycyA9ICR0aGlzLT5jaGVja0tleXdvcmRFeGNlbCgkZm9ybWF0dGVkRXhjZWxEYXRhWydhcnRpY2xlX251bWJlciddLCAkZm9ybWF0dGVkRXhjZWxEYXRhWydib2R5X2tleXdvcmQnXSwgJ+acrOaWh+OCreODvOODr+ODvOODiScpOwogICAgICAgICAgICAgICAgICAgIGlmICghZW1wdHkoJGVycm9ycykpIHsKICAgICAgICAgICAgICAgICAgICAgICAgJGVycm9yTGlzdCA9IGFycmF5X21lcmdlKCRlcnJvckxpc3QsICRlcnJvcnMpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRmb3JtYXR0ZWRFeGNlbERhdGEpO2V4aXQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGZvcm1hdHRlZEV4Y2VsRGF0YXMpO2V4aXQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgLy8g5q616JC95qeL5oiQCiAgICAgICAgJGVhc3lTZXR0aW5nID0gW107CiAgICAgICAgJGRldGFpbGVkU2V0dGluZyA9IFtdOwogICAgICAgIGlmICgoaW50KSRwYXJhZ3JhcGgtPnBhcmFncmFwaF9zdGF0dXMgPT09IENvbmY6OnIoJ0NPTlNULkFETUlOX09OTElORV9PUkRFUi5QQVJBR1JBUEhfU1RBVFVTX0xJU1QuRUFTWScpKSB7CiAgICAgICAgICAgIC8vIOewoeWNmOioreWumuOCkuWPluW+lwogICAgICAgICAgICAkZWFzeVNldHRpbmcgPSAkdGhpcy0+Z2V0UGFyYWdyYXBoRWFzeVNldHRpbmcoJHBhcmFncmFwaEJsb2Nrcyk7CiAgICAgICAgfSBlbHNlaWYgKChpbnQpJHBhcmFncmFwaC0+cGFyYWdyYXBoX3N0YXR1cyA9PT0gQ29uZjo6cignQ09OU1QuQURNSU5fT05MSU5FX09SREVSLlBBUkFHUkFQSF9TVEFUVVNfTElTVC5ERVRBSUxFRCcpKSB7CiAgICAgICAgICAgIC8vIOe0sOOBi+OBhOioreWumuOCkuWPluW+lwogICAgICAgICAgICAkZGV0YWlsZWRTZXR0aW5nID0gJHRoaXMtPmdldFBhcmFncmFwaERldGFpbGVkU2V0dGluZygkcGFyYWdyYXBoQmxvY2tzKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXJfZHVtcCgnaG9nZScpO2V4aXQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdGFibGVHcm91cCA9IFsKICAgICAgICAgICAgJ0R0Yk9ubGluZU9yZGVyUGFyYWdyYXBocycsCiAgICAgICAgICAgICdEdGJPbmxpbmVPcmRlclBhcmFncmFwaEJsb2NrcycsCiAgICAgICAgXTsKICAgICAgICAkdGhpcy0+Z2V0VGFibGVSZWdpc3RyeSgkdGFibGVHcm91cCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

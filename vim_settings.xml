@@ -101,12 +101,12 @@
         <mark key="^" line="264" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Shell/DeliveryDataShell.php" timestamp="1624319113478" />
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" timestamp="1629157012984">
-        <mark key="'" line="2996" column="67" />
-        <mark key="[" line="2952" column="0" />
-        <mark key="]" line="2952" column="0" />
-        <mark key="." line="2952" column="0" />
-        <mark key="^" line="2997" column="96" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" timestamp="1629159301003">
+        <mark key="'" line="887" column="0" />
+        <mark key="[" line="3031" column="32" />
+        <mark key="]" line="3024" column="60" />
+        <mark key="." line="3024" column="60" />
+        <mark key="^" line="3024" column="60" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/tests/Unit/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepositoryTest.php" timestamp="1627873699039">
         <mark key="'" line="64" column="19" />
@@ -294,10 +294,10 @@
         <mark key="." line="26" column="20" />
         <mark key="^" line="26" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" timestamp="1629155409137">
-        <mark key="'" line="1712" column="75" />
-        <mark key="[" line="1439" column="0" />
-        <mark key="]" line="1439" column="110" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" timestamp="1629157890102">
+        <mark key="'" line="446" column="0" />
+        <mark key="[" line="376" column="0" />
+        <mark key="]" line="429" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/sawa_renewal/works/app/views/client/client1.ctp" timestamp="1628127919485">
         <mark key="[" line="732" column="44" />
@@ -319,12 +319,12 @@
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" timestamp="1626826319307" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/CreateProductFile.php" timestamp="1626328969302" />
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" timestamp="1629157171691">
-        <mark key="'" line="2465" column="14" />
-        <mark key="[" line="2452" column="31" />
-        <mark key="]" line="2452" column="36" />
-        <mark key="." line="2452" column="36" />
-        <mark key="^" line="2452" column="36" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" timestamp="1629158402410">
+        <mark key="'" line="2469" column="21" />
+        <mark key="[" line="2469" column="37" />
+        <mark key="]" line="2469" column="37" />
+        <mark key="." line="2469" column="37" />
+        <mark key="^" line="2469" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/routes/web.php" timestamp="1628833036661">
         <mark key="'" line="0" column="0" />
@@ -596,20 +596,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1581" column="53" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
-      <jump line="983" column="8" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="5832" column="33" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
-      <jump line="63" column="9" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/work_groups/create.blade.php" />
-      <jump line="79" column="0" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/work_groups/create.blade.php" />
-      <jump line="71" column="0" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/work_groups/create.blade.php" />
-      <jump line="69" column="0" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/work_groups/create.blade.php" />
-      <jump line="58" column="0" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/work_groups/create.blade.php" />
-      <jump line="53" column="0" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/work_groups/create.blade.php" />
-      <jump line="51" column="0" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/work_groups/create.blade.php" />
-      <jump line="49" column="0" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/work_groups/create.blade.php" />
-      <jump line="47" column="0" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/work_groups/create.blade.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/work_groups/create.blade.php" />
-      <jump line="62" column="0" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/work_groups/create.blade.php" />
       <jump line="477" column="35" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="1685" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="352" column="20" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
@@ -696,58 +682,72 @@
       <jump line="1005" column="51" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
       <jump line="1380" column="77" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
       <jump line="2996" column="67" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
+      <jump line="376" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
+      <jump line="395" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
+      <jump line="407" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
+      <jump line="416" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
+      <jump line="427" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
+      <jump line="430" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
+      <jump line="446" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
+      <jump line="2469" column="21" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
+      <jump line="3087" column="30" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
+      <jump line="10" column="13" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
+      <jump line="243" column="27" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
+      <jump line="359" column="33" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
+      <jump line="888" column="34" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
+      <jump line="887" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcGFyYWdyYXBoU3RhdHVzKTtleGl0Owo=</text>
+      <register name="&quot;" type="4">
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
-        <text>PARAGRAPH_STATUS_LIST.DETAIL</text>
+        <text>TableRegistry</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbmY6OnIoJ0NPTlNULkNMSUVOVF9PTkxJTkVfT1JERVIuU1BSRUFEX1NIRUVUX0RFRklORURfTkFNRV9MSVNULlVTRVJfSU5QVVRfU0hFRVQnKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ0R0Yk9ubGluZU9yZGVyUGFyYWdyYXBocycsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcGFyYWdyYXBoU3RhdHVzKTtleGl0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRmb3JtYXR0ZWRFeGNlbERhdGEpO2V4aXQ7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJ2hvZ2UnKTtleGl0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbmY6OnIoJ0NPTlNULkNMSUVOVF9PTkxJTkVfT1JERVIuU1BSRUFEX1NIRUVUX0RFRklORURfTkFNRV9MSVNULlVTRVJfSU5QVVRfU0hFRVQnKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXJfZHVtcCgnaG9nZScpO2V4aXQ7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICsKICAgICAgICAgICAgICAgICAgICAoJGNlbGxDb3VudCAtIDE=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g6KiY5LqL5pWw44Gu5YiG44CB6KGM44KS5Y+W5b6X44GZ44KLCiAgICAgICAgICAgICRlbmRDZWxsID0gQ29uZjo6cignQ09OU1QuT05MSU5FX09SREVSLkVYQ0VMLkVBU1kuUk9XLkVORCcpIC4KICAgICAgICAgICAgICAgICgoaW50KUNvbmY6OnIoJ0NPTlNULk9OTElORV9PUkRFUi5FWENFTC5FQVNZLkNPTFVNTi5TVEFSVCcpICsKICAgICAgICAgICAgICAgICAgICAoJGFydGljbGVDb3VudCAtIDEpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGVycm9yTGlzdCk7ZXhpdDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHN0YXJ0Q2VsbCA9IENvbmY6OnIoJ0NPTlNULk9OTElORV9PUkRFUi5FWENFTC5FQVNZLlJPVy5TVEFSVCcpIC4KICAgICAgICAgICAgICAgIENvbmY6OnIoJ0NPTlNULk9OTElORV9PUkRFUi5FWENFTC5FQVNZLkNPTFVNTi5TVEFSVCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghZW1wdHkoJGZvcm1hdHRlZEV4Y2VsRGF0YVsnYm9keV9rZXl3b3JkJ10pKSB7CiAgICAgICAgICAgICAgICAgICAgJGVycm9ycyA9ICR0aGlzLT5jaGVja0tleXdvcmRFeGNlbCgkZm9ybWF0dGVkRXhjZWxEYXRhWydhcnRpY2xlX251bWJlciddLCAkZm9ybWF0dGVkRXhjZWxEYXRhWydib2R5X2tleXdvcmQnXSwgJ+acrOaWh+OCreODvOODr+ODvOODiScpOwogICAgICAgICAgICAgICAgICAgIGlmICghZW1wdHkoJGVycm9ycykpIHsKICAgICAgICAgICAgICAgICAgICAgICAgJGVycm9yTGlzdCA9IGFycmF5X21lcmdlKCRlcnJvckxpc3QsICRlcnJvcnMpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPD9waHAgaWYgKCFlbXB0eSgkZXJyb3JNZXNzYWdlKSk6ID8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJhbGVydCBhbGVydC1kYW5nZXIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx1bD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPD9waHAgZm9yZWFjaCAoJGVycm9yTWVzc2FnZSBhcyAkbWVzc2FnZSk6ID8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGk+PGI+PHNwYW4gY2xhc3M9ImdseXBoaWNvbiBnbHlwaGljb24tZXhjbGFtYXRpb24tc2lnbiIgYXJpYS1oaWRkZW49InRydWUiPjwvc3Bhbj4mbmJzcDs8P3BocCBlY2hvICRtZXNzYWdlOyA/PjwvYj48L2xpPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8P3BocCBlbmRmb3JlYWNoOyA/PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvdWw+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgPD9waHAgZW5kaWY7ID8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGZvcm1hdHRlZEV4Y2VsRGF0YXMpO2V4aXQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkZXJyb3JMaXN0KTtleGl0Owo=</text>
+        <text encoding="base64">CiAgICAgICAgLy8g5q616JC95qeL5oiQCiAgICAgICAgJGVhc3lTZXR0aW5nID0gW107CiAgICAgICAgJGRldGFpbGVkU2V0dGluZyA9IFtdOwogICAgICAgIGlmICgoaW50KSRwYXJhZ3JhcGgtPnBhcmFncmFwaF9zdGF0dXMgPT09IENvbmY6OnIoJ0NPTlNULkFETUlOX09OTElORV9PUkRFUi5QQVJBR1JBUEhfU1RBVFVTX0xJU1QuRUFTWScpKSB7CiAgICAgICAgICAgIC8vIOewoeWNmOioreWumuOCkuWPluW+lwogICAgICAgICAgICAkZWFzeVNldHRpbmcgPSAkdGhpcy0+Z2V0UGFyYWdyYXBoRWFzeVNldHRpbmcoJHBhcmFncmFwaEJsb2Nrcyk7CiAgICAgICAgfSBlbHNlaWYgKChpbnQpJHBhcmFncmFwaC0+cGFyYWdyYXBoX3N0YXR1cyA9PT0gQ29uZjo6cignQ09OU1QuQURNSU5fT05MSU5FX09SREVSLlBBUkFHUkFQSF9TVEFUVVNfTElTVC5ERVRBSUxFRCcpKSB7CiAgICAgICAgICAgIC8vIOe0sOOBi+OBhOioreWumuOCkuWPluW+lwogICAgICAgICAgICAkZGV0YWlsZWRTZXR0aW5nID0gJHRoaXMtPmdldFBhcmFncmFwaERldGFpbGVkU2V0dGluZygkcGFyYWdyYXBoQmxvY2tzKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkZXJyb3JMaXN0KTtleGl0Owo=</text>
+        <text encoding="base64">ICAgICAgICAkdGFibGVHcm91cCA9IFsKICAgICAgICAgICAgJ0R0Yk9ubGluZU9yZGVyUGFyYWdyYXBocycsCiAgICAgICAgICAgICdEdGJPbmxpbmVPcmRlclBhcmFncmFwaEJsb2NrcycsCiAgICAgICAgXTsKICAgICAgICAkdGhpcy0+Z2V0VGFibGVSZWdpc3RyeSgkdGFibGVHcm91cCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>PARAGRAPH_STATUS_LIST.DETAIL</last-search>
+      <last-search>TableRegistry</last-search>
       <last-offset />
-      <last-pattern>PARAGRAPH_STATUS_LIST.DETAIL</last-pattern>
+      <last-pattern>TableRegistry</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
       <last-dir>1</last-dir>
@@ -755,7 +755,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dayjs</entry>
         <entry>getProduct</entry>
         <entry>getProd</entry>
         <entry>edit</entry>
@@ -775,6 +774,7 @@
         <entry>validateParagraphsAndKeywords</entry>
         <entry>PARAGRAPH_STATUS_LIST.DETAIL'</entry>
         <entry>PARAGRAPH_STATUS_LIST.DETAIL</entry>
+        <entry>TableRegistry</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

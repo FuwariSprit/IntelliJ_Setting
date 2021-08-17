@@ -178,12 +178,12 @@
         <mark key="." line="67" column="40" />
         <mark key="^" line="67" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/DraftCommonComponent.php" timestamp="1629177826999">
-        <mark key="'" line="2794" column="46" />
-        <mark key="[" line="3383" column="0" />
-        <mark key="]" line="2489" column="16" />
-        <mark key="." line="2489" column="16" />
-        <mark key="^" line="2489" column="16" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/DraftCommonComponent.php" timestamp="1629179540018">
+        <mark key="'" line="1391" column="47" />
+        <mark key="[" line="1391" column="24" />
+        <mark key="]" line="1391" column="24" />
+        <mark key="." line="1391" column="24" />
+        <mark key="^" line="1391" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/work_groups/create.blade.php" timestamp="1628726186848">
         <mark key="'" line="62" column="0" />
@@ -371,7 +371,7 @@
         <mark key="[" line="1756" column="0" />
         <mark key="]" line="1756" column="72" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminEntryTextWorkController.php" timestamp="1629175217021">
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminEntryTextWorkController.php" timestamp="1629178262252">
         <mark key="'" line="464" column="45" />
         <mark key="[" line="467" column="46" />
         <mark key="]" line="467" column="79" />
@@ -619,12 +619,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1489" column="37" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
-      <jump line="2658" column="42" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
-      <jump line="2676" column="20" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
-      <jump line="2900" column="36" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
-      <jump line="676" column="23" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
-      <jump line="648" column="33" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
       <jump line="640" column="33" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
       <jump line="632" column="33" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
       <jump line="592" column="17" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
@@ -719,58 +713,64 @@
       <jump line="2485" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminCsvDraftController.php" />
       <jump line="2666" column="21" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/DraftCommonComponent.php" />
       <jump line="2771" column="46" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/DraftCommonComponent.php" />
+      <jump line="3396" column="20" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/DraftCommonComponent.php" />
+      <jump line="3402" column="47" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/DraftCommonComponent.php" />
+      <jump line="1224" column="52" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/DraftCommonComponent.php" />
+      <jump line="3439" column="20" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/DraftCommonComponent.php" />
+      <jump line="1282" column="47" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/DraftCommonComponent.php" />
+      <jump line="1391" column="47" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/DraftCommonComponent.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog44Kt44O844Ov44O844OJ44Gr5YWo6KeS6Iux5pWw5a2X44GM5ZCr44G+44KM44Gm44GE44Gq44GE44GL44OB44Kn44OD44Kv44GZ44KLCiAgICAgKgogICAgICogQHBhcmFtICRrZXl3b3JkCiAgICAgKiBAcmV0dXJuIGFycmF5IOOCreODvOODr+ODvOODieOBrue1kOaenAogICAgICogICAgICBbCiAgICAgKiAgICAgICAgICAna2V5d29yZCcgID0+IHN0cmluZyDjgq3jg7zjg6/jg7zjg4kKICAgICAqICAgICAgICAgICdlcnJvckZsZycgPT4gaW50IOOCqOODqeODvOOBruacieeEoQogICAgICogICAgICBdCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBfX2tleXdvcmRaZW5rYWt1Q2hlY2soJGtleXdvcmQpCiAgICB7CiAgICAgICAgJGtleXdvcmQgID0gVGV4dDo6c3BhY2VUcmltQmVmb3JlQWZ0ZXIoJGtleXdvcmQpOwogICAgICAgICRlcnJvckZsZyA9IENvbmY6OnIoJ0NPTlNULkFMTC5GTEdfT0ZGJyk7CgogICAgICAgIGlmIChpc3NldCgka2V5d29yZCkgJiYgJGtleXdvcmQgIT09ICcnKSB7CiAgICAgICAgICAgIGlmICghJHRoaXMtPmhhc05vdFplbmtha3UoJGtleXdvcmQpKSB7CiAgICAgICAgICAgICAgICAkZXJyb3JGbGcgPSBDb25mOjpyKCdDT05TVC5BTEwuRkxHX09OJyk7CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIHJldHVybiBbCiAgICAgICAgICAgICdrZXl3b3JkJyAgPT4gJGtleXdvcmQsCiAgICAgICAgICAgICdlcnJvckZsZycgPT4gJGVycm9yRmxnCiAgICAgICAgXTsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8g5YWo6KeS6Iux5pWw5a2X44GM5ZCr44G+44KM44Gm44GE44Gq44GE44GT44Go44KS44OB44Kn44OD44KvCiAgICAgICAgICAgICAgICAgICAgICAgICR6ZW5rYWt1RXJyb3IgPSAkdGhpcy0+X19rZXl3b3JkWmVua2FrdUVycm9yQ2hlY2soCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkZm9ybWF0S2V5d29yZEFycmF5WydrZXl3b3JkQXJyYXknXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICR0ZXh0V29ya0lkCiAgICAgICAgICAgICAgICAgICAgICAgICk7CgogICAgICAgICAgICAgICAgICAgICAgICBpZiAoIWVtcHR5KCR6ZW5rYWt1RXJyb3IpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkemVua2FrdUZsZyA9IENvbmY6OnIoJ0NPTlNULkFMTC5GTEdfT04nKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvcmVhY2ggKCR6ZW5rYWt1RXJyb3IgYXMgJGVycm9yKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJGVycm9yTGlzdFtdID0gJGVycm9yOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>次のキーワードは利用できません</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>TableRegistry</text>
+        <text>__keywordZenkakuErrorCheck</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkZXJyb3JMaXN0W10gPSAi44CQ44Kt44O844Ov44O844OJQ1NW44OV44Kh44Kk44Or44CRICIgLgogICAgICAgICAgICAgICAgICAgICAgICAi5qGI5Lu2SUTjgJAiIC4KICAgICAgICAgICAgICAgICAgICAgICAgJHRleHRXb3JrSWQgLgogICAgICAgICAgICAgICAgICAgICAgICAi44CRIC0g44OW44Ot44OD44Kv44CQIiAuCiAgICAgICAgICAgICAgICAgICAgICAgICgkb3JkZXJJZCArIENvbmY6OnIoJ0NPTlNULkFETUlOX0FSVElDTEVfRU5UUlkuQ1NWX1ZJRVdfT0ZGU0VUJykpIC4KICAgICAgICAgICAgICAgICAgICAgICAgIuOAkSDihpIg5qyh44Gu44Kt44O844Ov44O844OJ44Gv5Yip55So44Gn44GN44G+44Gb44KTOiIgLgogICAgICAgICAgICAgICAgICAgICAgICAka2V5d29yZDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8g5YWo6KeS6Iux5pWw5a2X44GM5ZCr44G+44KM44Gm44GE44Gq44GE44GT44Go44KS44OB44Kn44OD44KvCiAgICAgICAgICAgICAgICAgICAgICAgICR6ZW5rYWt1RXJyb3IgPSAkdGhpcy0+X19rZXl3b3JkWmVua2FrdUVycm9yQ2hlY2soCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkZm9ybWF0S2V5d29yZEFycmF5WydrZXl3b3JkQXJyYXknXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICR0ZXh0V29ya0lkCiAgICAgICAgICAgICAgICAgICAgICAgICk7CgogICAgICAgICAgICAgICAgICAgICAgICBpZiAoIWVtcHR5KCR6ZW5rYWt1RXJyb3IpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkemVua2FrdUZsZyA9IENvbmY6OnIoJ0NPTlNULkFMTC5GTEdfT04nKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvcmVhY2ggKCR6ZW5rYWt1RXJyb3IgYXMgJGVycm9yKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJGVycm9yTGlzdFtdID0gJGVycm9yOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog44Kt44O844Ov44O844OJ44Gr5YWo6KeS6Iux5pWw5a2X44GM5ZCr44G+44KM44Gm44GE44Gq44GE44GL44OB44Kn44OD44Kv44GZ44KLCiAgICAgKgogICAgICogQHBhcmFtICRrZXl3b3JkCiAgICAgKiBAcmV0dXJuIGFycmF5IOOCreODvOODr+ODvOODieOBrue1kOaenAogICAgICogICAgICBbCiAgICAgKiAgICAgICAgICAna2V5d29yZCcgID0+IHN0cmluZyDjgq3jg7zjg6/jg7zjg4kKICAgICAqICAgICAgICAgICdlcnJvckZsZycgPT4gaW50IOOCqOODqeODvOOBruacieeEoQogICAgICogICAgICBdCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBfX2tleXdvcmRaZW5rYWt1Q2hlY2soJGtleXdvcmQpCiAgICB7CiAgICAgICAgJGtleXdvcmQgID0gVGV4dDo6c3BhY2VUcmltQmVmb3JlQWZ0ZXIoJGtleXdvcmQpOwogICAgICAgICRlcnJvckZsZyA9IENvbmY6OnIoJ0NPTlNULkFMTC5GTEdfT0ZGJyk7CgogICAgICAgIGlmIChpc3NldCgka2V5d29yZCkgJiYgJGtleXdvcmQgIT09ICcnKSB7CiAgICAgICAgICAgIGlmICghJHRoaXMtPmhhc05vdFplbmtha3UoJGtleXdvcmQpKSB7CiAgICAgICAgICAgICAgICAkZXJyb3JGbGcgPSBDb25mOjpyKCdDT05TVC5BTEwuRkxHX09OJyk7CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIHJldHVybiBbCiAgICAgICAgICAgICdrZXl3b3JkJyAgPT4gJGtleXdvcmQsCiAgICAgICAgICAgICdlcnJvckZsZycgPT4gJGVycm9yRmxnCiAgICAgICAgXTsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBhcnJheSAkbmdLZXl3b3JkQXJyYXkgTkfjgq3jg7zjg6/jg7zjg4njga7pm4blkIjjgZfjgZ/phY3liJcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGtleXdvcmRSZXN1bHQgPSAkdGhpcy0+X19rZXl3b3JkWmVua2FrdUNoZWNrKCRzaW5nbGVSZWNvcmRbJ2tleXdvcmQnXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDjgq3jg7zjg6/jg7zjg4njgavlhajop5Loi7HmlbDlrZfjgYzlkKvjgb7jgozjgabjgYTjgarjgYTjgYvjg4Hjgqfjg4Pjgq8KICAgICAgICAka2V5d29yZFJlc3VsdCA9ICR0aGlzLT5fX2tleXdvcmRaZW5rYWt1Q2hlY2soJHNpbmdsZVJlY29yZFsna2V5d29yZCddKTsK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog44Kt44O844Ov44O844OJ44Gr5YWo6KeS6Iux5pWw5a2X44GM5ZCr44G+44KM44Gm44GE44Gq44GE44GL44OB44Kn44OD44Kv44GZ44KLCiAgICAgKgogICAgICogQHBhcmFtICRrZXl3b3JkCiAgICAgKiBAcmV0dXJuIGFycmF5IOOCreODvOODr+ODvOODieOBrue1kOaenAogICAgICogICAgICBbCiAgICAgKiAgICAgICAgICAna2V5d29yZCcgID0+IHN0cmluZyDjgq3jg7zjg6/jg7zjg4kKICAgICAqICAgICAgICAgICdlcnJvckZsZycgPT4gaW50IOOCqOODqeODvOOBruacieeEoQogICAgICogICAgICBdCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBfX2tleXdvcmRaZW5rYWt1Q2hlY2soJGtleXdvcmQpCiAgICB7CiAgICAgICAgJGtleXdvcmQgID0gVGV4dDo6c3BhY2VUcmltQmVmb3JlQWZ0ZXIoJGtleXdvcmQpOwogICAgICAgICRlcnJvckZsZyA9IENvbmY6OnIoJ0NPTlNULkFMTC5GTEdfT0ZGJyk7CgogICAgICAgIGlmIChpc3NldCgka2V5d29yZCkgJiYgJGtleXdvcmQgIT09ICcnKSB7CiAgICAgICAgICAgIGlmICghJHRoaXMtPmhhc05vdFplbmtha3UoJGtleXdvcmQpKSB7CiAgICAgICAgICAgICAgICAkZXJyb3JGbGcgPSBDb25mOjpyKCdDT05TVC5BTEwuRkxHX09OJyk7CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIHJldHVybiBbCiAgICAgICAgICAgICdrZXl3b3JkJyAgPT4gJGtleXdvcmQsCiAgICAgICAgICAgICdlcnJvckZsZycgPT4gJGVycm9yRmxnCiAgICAgICAgXTsKICAgIH0KCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gYXJyYXkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g44Kt44O844Ov44O844OJ44Gr5YWo6KeS6Iux5pWw5a2X44GM5ZCr44G+44KM44Gm44GE44Gq44GE44GLCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>TableRegistry</last-search>
+      <last-search>__keywordZenkakuErrorCheck</last-search>
       <last-offset />
-      <last-pattern>TableRegistry</last-pattern>
+      <last-pattern>__keywordZenkakuErrorCheck</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
       <last-dir>1</last-dir>
@@ -778,7 +778,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getProduct</entry>
         <entry>getProd</entry>
         <entry>edit</entry>
         <entry>企画</entry>
@@ -798,6 +797,7 @@
         <entry>PARAGRAPH_STATUS_LIST.DETAIL'</entry>
         <entry>PARAGRAPH_STATUS_LIST.DETAIL</entry>
         <entry>TableRegistry</entry>
+        <entry>__keywordZenkakuErrorCheck</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

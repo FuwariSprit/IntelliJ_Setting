@@ -178,12 +178,12 @@
         <mark key="." line="67" column="40" />
         <mark key="^" line="67" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/DraftCommonComponent.php" timestamp="1629183973790">
-        <mark key="'" line="2593" column="9" />
-        <mark key="[" line="2616" column="0" />
-        <mark key="]" line="2616" column="0" />
-        <mark key="." line="2616" column="0" />
-        <mark key="^" line="1861" column="23" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/DraftCommonComponent.php" timestamp="1629191611167">
+        <mark key="'" line="2599" column="9" />
+        <mark key="[" line="2663" column="56" />
+        <mark key="]" line="2663" column="44" />
+        <mark key="." line="2663" column="44" />
+        <mark key="^" line="2663" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/work_groups/create.blade.php" timestamp="1628726186848">
         <mark key="'" line="62" column="0" />
@@ -247,7 +247,7 @@
         <mark key="^" line="220" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_client_online_order.php" timestamp="1627969352059" />
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminCsvDraftController.php" timestamp="1629183763783">
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminCsvDraftController.php" timestamp="1629191089818">
         <mark key="'" line="2486" column="0" />
         <mark key="[" line="1901" column="0" />
         <mark key="]" line="1901" column="0" />
@@ -712,10 +712,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$partsData['paragraph_parts_string'] . 'の</text>
+        <text>+</text>
       </register>
       <register name="-" type="4">
-        <text>$partsData['paragraph_parts_string'] . 'の</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
         <text>upload_file</text>

@@ -317,12 +317,12 @@
         <mark key="." line="67" column="40" />
         <mark key="^" line="67" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/DraftCommonComponent.php" timestamp="1629255645077">
-        <mark key="'" line="2599" column="9" />
-        <mark key="[" line="2609" column="18" />
-        <mark key="]" line="2609" column="38" />
-        <mark key="." line="2609" column="38" />
-        <mark key="^" line="2609" column="38" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/DraftCommonComponent.php" timestamp="1629262280169">
+        <mark key="'" line="3072" column="11" />
+        <mark key="[" line="2973" column="0" />
+        <mark key="]" line="2973" column="0" />
+        <mark key="." line="2973" column="0" />
+        <mark key="^" line="2972" column="85" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Pages/Client/ClientSignup/entry.ctp" timestamp="1628072184854">
         <mark key="[" line="644" column="36" />
@@ -545,7 +545,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="564" column="28" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
       <jump line="562" column="28" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
       <jump line="559" column="20" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
       <jump line="2718" column="29" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
@@ -645,58 +644,59 @@
       <jump line="683" column="50" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
       <jump line="1759" column="75" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
       <jump line="366" column="47" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
+      <jump line="3071" column="11" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/DraftCommonComponent.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>keywordResult['keyword']</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHJlcXVlc3REYXRhWydEdGJUbXBQYXJhZ3JhcGhLZXl3b3JkcyddWydrZXl3b3JkJ11bJHBhcmFncmFwaElkXTsK</text>
       </register>
       <register name="-" type="4">
-        <text>keywordResult['keyword']</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>upload_file</text>
+        <text encoding="base64">PHByZT4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7Cg==</text>
+      <register name="0" type="4">
+        <text>$requestData['DtbTmpParagraphKeywords']['keyword'][$paragraphId]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7CiAgICAgICAgdmFyX2R1bXAoJGtleXdvcmRSZXN1bHRbJ2tleXdvcmQnXSk7CiAgICAgICAgZWNobyAnPC9wcmU+JzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHJlcXVlc3REYXRhWydEdGJUbXBQYXJhZ3JhcGhLZXl3b3JkcyddWydrZXl3b3JkJ11bJHBhcmFncmFwaElkXTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlY2hvICc8cHJlPic7CiAgICAgICAgICAgICAgICAgICAgdmFyX2R1bXAoJGtleXdvcmQpOwogICAgICAgICAgICAgICAgICAgIGVjaG8gJzwvcHJlPic7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7CiAgICAgICAgdmFyX2R1bXAoJGVycm9yTGlzdCk7CiAgICAgICAgZWNobyAnPC9wcmU+JzsK</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7CiAgICAgICAgdmFyX2R1bXAoJGVycm9yTGlzdCk7CiAgICAgICAgZWNobyAnPC9wcmU+JztleGl0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZWNobyAkZXJyb3JMaXN0Owo=</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7CiAgICAgICAgdmFyX2R1bXAoJHNpbmdsZVJlY29yZFsna2V5d29yZCddKTsKICAgICAgICBlY2hvICc8L3ByZT4nOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZWNobyAkZXJyb3JMaXN0Owo=</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7CiAgICAgICAgdmFyX2R1bXAoJGtleXdvcmRSZXN1bHRbJ2tleXdvcmQnXSk7CiAgICAgICAgZWNobyAnPC9wcmU+JzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXJfZHVtcCgkZXJyb3JMaXN0KTtleGl0Owo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXJfZHVtcCgkZXJyb3JMaXN0KTtleGl0Owo=</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7CiAgICAgICAgdmFyX2R1bXAoJGVycm9yTGlzdCk7CiAgICAgICAgZWNobyAnPC9wcmU+JzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlY2hvKCc8L3ByZT4nKTtleGl0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZWNobyAkZXJyb3JMaXN0Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlY2hvKCc8cHJlPicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZWNobyAkZXJyb3JMaXN0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>upload_file</last-search>
+      <last-search encoding="base64">PHByZT4=</last-search>
       <last-offset />
-      <last-pattern>upload_file</last-pattern>
+      <last-pattern encoding="base64">PHByZT4=</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
       <last-dir>1</last-dir>
@@ -704,8 +704,6 @@
     </search>
     <history>
       <history-search>
-        <entry>企画</entry>
-        <entry>auto</entry>
         <entry>create</entry>
         <entry>create(</entry>
         <entry>check</entry>
@@ -724,6 +722,8 @@
         <entry>__keywordZenkakuErrorCheck</entry>
         <entry>$formatKeywordArray['errorList']</entry>
         <entry>upload_file</entry>
+        <entry>var_dump</entry>
+        <entry encoding="base64">PHByZT4=</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

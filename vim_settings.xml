@@ -40,6 +40,12 @@
         <mark key="." line="211" column="45" />
         <mark key="^" line="211" column="45" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/database/migrations/2021_08_24_150000_add_column_mst_products_table_mynavi_product_name_mynavi_media_name.php" timestamp="1629789931893">
+        <mark key="[" line="30" column="32" />
+        <mark key="]" line="30" column="38" />
+        <mark key="." line="30" column="38" />
+        <mark key="^" line="30" column="38" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/AccountController.php" timestamp="1629446903431" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/HealthCheckController.php" timestamp="1625450751103">
         <mark key="[" line="5" column="0" />
@@ -457,9 +463,6 @@
         <mark key="." line="485" column="68" />
         <mark key="^" line="485" column="68" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/User/User.php" timestamp="1629277704161">
-        <mark key="'" line="204" column="57" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/env/local.example/const_slack_env.php" timestamp="1626429272686">
         <mark key="[" line="22" column="58" />
         <mark key="]" line="26" column="20" />
@@ -583,10 +586,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>REFERENCE_FILE</text>

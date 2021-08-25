@@ -156,6 +156,7 @@
         <mark key="^" line="23" column="19" />
         <mark key="." line="23" column="19" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/creator_column.blade.php" timestamp="1629868820205" />
       <file name="$USER_HOME$/workspace/sawa_renewal/works/app/views/elements/email/text/signature_client.ctp" timestamp="1628128020041">
         <mark key="[" line="4" column="33" />
         <mark key="]" line="4" column="31" />
@@ -368,6 +369,7 @@
         <mark key="." line="331" column="181" />
         <mark key="^" line="331" column="181" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/progress_step.blade.php" timestamp="1629868580950" />
       <file name="$USER_HOME$/workspace/sagooo_works/cron/env/production/crontab.txt" timestamp="1629695275871">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -699,7 +701,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>data</text>
+        <text>cancel</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ215bmF2aV9wcm9kdWN0X25hbWUnID0+ICRpdGVtLT5teW5hdmlfcHJvZHVjdF9uYW1lLAo=</text>
@@ -739,9 +741,9 @@
       </register>
     </registers>
     <search>
-      <last-search>data</last-search>
+      <last-search>cancel</last-search>
       <last-offset />
-      <last-pattern>data</last-pattern>
+      <last-pattern>cancel</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
       <last-dir>1</last-dir>
@@ -749,7 +751,6 @@
     </search>
     <history>
       <history-search>
-        <entry>validateParagraphsAndK</entry>
         <entry>fileUpload</entry>
         <entry>validateParagraphsAndKeyword</entry>
         <entry>タイトルキーワード'</entry>
@@ -769,6 +770,7 @@
         <entry>REFERENCE_FILE</entry>
         <entry>getProductNameAndMediaName</entry>
         <entry>data</entry>
+        <entry>cancel</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

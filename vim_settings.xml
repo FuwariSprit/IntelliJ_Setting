@@ -43,8 +43,20 @@
       <file name="$USER_HOME$/workspace/sagooo_works/src/Shell/ImportSalesForceContractInformationDataShell.php" timestamp="1629696765461" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/RegulationComponent.php" timestamp="1629453805723" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbSalesforceContractInformationBatchStatusesTable.php" timestamp="1629696792139" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" timestamp="1630397704339">
+        <mark key="'" line="589" column="20" />
+        <mark key="[" line="1690" column="0" />
+        <mark key="]" line="1690" column="0" />
+        <mark key="." line="1690" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbOnlineOrderEstimatesTable.php" timestamp="1629960358816" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbOnlineOrderSettlementsTable.php" timestamp="1630045516317" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" timestamp="1629947465523">
+        <mark key="'" line="3389" column="8" />
+        <mark key="[" line="5841" column="0" />
+        <mark key="]" line="5841" column="0" />
+        <mark key="." line="5841" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientDeliveryController.php" timestamp="1630387493756" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/AppTable.php" timestamp="1630045415946">
         <mark key="'" line="113" column="21" />
@@ -53,9 +65,6 @@
       <file name="$USER_HOME$/workspace/sawa_renewal/works/app/views/elements/admin_uploadcsv_writing_content/view.js.ctp" timestamp="1629965813265" />
     </filemarks>
     <jumps>
-      <jump line="416" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
-      <jump line="427" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
-      <jump line="430" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
       <jump line="446" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
       <jump line="2469" column="21" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
       <jump line="3087" column="30" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
@@ -153,6 +162,9 @@
       <jump line="113" column="21" filename="$USER_HOME$/workspace/sagooo_works/src/Model/Table/AppTable.php" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Eloquents/DtbWorkGroup.php" />
       <jump line="27" column="6" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Eloquents/DtbStep.php" />
+      <jump line="1691" column="28" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
+      <jump line="142" column="71" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
+      <jump line="589" column="20" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -162,7 +174,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>save</text>
+        <text>delete</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ215bmF2aV9wcm9kdWN0X25hbWUnID0+ICRpdGVtLT5teW5hdmlfcHJvZHVjdF9uYW1lLAo=</text>
@@ -202,9 +214,9 @@
       </register>
     </registers>
     <search>
-      <last-search>save</last-search>
+      <last-search>delete</last-search>
       <last-offset />
-      <last-pattern>save</last-pattern>
+      <last-pattern>delete</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
       <last-dir>1</last-dir>
@@ -212,7 +224,6 @@
     </search>
     <history>
       <history-search>
-        <entry>PARAGRAPH_STATUS_LIST.DETAIL'</entry>
         <entry>PARAGRAPH_STATUS_LIST.DETAIL</entry>
         <entry>TableRegistry</entry>
         <entry>__keywordZenkakuErrorCheck</entry>
@@ -232,6 +243,7 @@
         <entry>SETTLEMENT_STATUS</entry>
         <entry>add</entry>
         <entry>save</entry>
+        <entry>delete</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

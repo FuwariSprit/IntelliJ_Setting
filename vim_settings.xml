@@ -14,6 +14,13 @@
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/AdminDelivery/image_list.ctp" timestamp="1630387251222" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Routes/ClientRoutes.php" timestamp="1629959509541" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/work_groups/create.blade.php" timestamp="1629855049236">
+        <mark key="'" line="141" column="23" />
+        <mark key="[" line="331" column="181" />
+        <mark key="]" line="331" column="181" />
+        <mark key="." line="331" column="181" />
+        <mark key="^" line="331" column="181" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/progress_step.blade.php" timestamp="1629868580950" />
       <file name="$USER_HOME$/workspace/sawa_renewal/works/app/webroot/js/client_delivery.js" timestamp="1630387505191" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/SalesDeliveryController.php" timestamp="1629697277311" />
@@ -30,10 +37,24 @@
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/SalesDelivery/detail.ctp" timestamp="1630386978234" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" timestamp="1630282659005" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" timestamp="1630548280817">
+        <mark key="'" line="1108" column="33" />
+        <mark key="[" line="2469" column="37" />
+        <mark key="]" line="2469" column="37" />
+        <mark key="." line="2469" column="37" />
+        <mark key="^" line="2469" column="33" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/AccountController.php" timestamp="1629446903431" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/AdminPixtaImage/purchase.ctp" timestamp="1630280985394" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/AwsS3/FileRepository.php" timestamp="1629447695134" />
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/creator_column.blade.php" timestamp="1629868820205" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Product/Product.php" timestamp="1629848189805">
+        <mark key="'" line="90" column="33" />
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
+        <mark key="^" line="19" column="32" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/PixtaImageComponent.php" timestamp="1630280446438" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Eloquents/DtbStep.php" timestamp="1630392026158">
         <mark key="'" line="27" column="6" />
@@ -51,6 +72,13 @@
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbOnlineOrderEstimatesTable.php" timestamp="1629960358816" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbOnlineOrderSettlementsTable.php" timestamp="1630045516317" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/public/js/admin/works/create.js" timestamp="1629362152593">
+        <mark key="'" line="15" column="1" />
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="^" line="116" column="0" />
+        <mark key="." line="116" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" timestamp="1629947465523">
         <mark key="'" line="3389" column="8" />
         <mark key="[" line="5841" column="0" />
@@ -65,20 +93,6 @@
       <file name="$USER_HOME$/workspace/sawa_renewal/works/app/views/elements/admin_uploadcsv_writing_content/view.js.ctp" timestamp="1629965813265" />
     </filemarks>
     <jumps>
-      <jump line="446" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
-      <jump line="2469" column="21" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
-      <jump line="3087" column="30" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
-      <jump line="10" column="13" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
-      <jump line="243" column="27" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
-      <jump line="359" column="33" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
-      <jump line="888" column="34" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
-      <jump line="887" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
-      <jump line="45" column="9" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientOnlineOrder/OrderForm/entry_by_excel.ctp" />
-      <jump line="2837" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
-      <jump line="3080" column="57" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
-      <jump line="464" column="45" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminEntryTextWorkController.php" />
-      <jump line="1895" column="20" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminCsvDraftController.php" />
-      <jump line="2485" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminCsvDraftController.php" />
       <jump line="2666" column="21" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/DraftCommonComponent.php" />
       <jump line="2771" column="46" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/DraftCommonComponent.php" />
       <jump line="3396" column="20" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/DraftCommonComponent.php" />
@@ -165,6 +179,20 @@
       <jump line="1691" column="28" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="142" column="71" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="589" column="20" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
+      <jump line="1796" column="78" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
+      <jump line="2033" column="44" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
+      <jump line="2304" column="17" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
+      <jump line="2454" column="73" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
+      <jump line="2458" column="34" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
+      <jump line="2543" column="17" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
+      <jump line="3561" column="42" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
+      <jump line="820" column="59" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
+      <jump line="834" column="117" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
+      <jump line="2029" column="99" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
+      <jump line="2431" column="11" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
+      <jump line="2513" column="30" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
+      <jump line="2643" column="33" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
+      <jump line="1108" column="33" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -174,7 +202,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>delete</text>
+        <text>articleEntry</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ215bmF2aV9wcm9kdWN0X25hbWUnID0+ICRpdGVtLT5teW5hdmlfcHJvZHVjdF9uYW1lLAo=</text>
@@ -214,9 +242,9 @@
       </register>
     </registers>
     <search>
-      <last-search>delete</last-search>
+      <last-search>articleEntry</last-search>
       <last-offset />
-      <last-pattern>delete</last-pattern>
+      <last-pattern>articleEntry</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
       <last-dir>1</last-dir>
@@ -224,11 +252,6 @@
     </search>
     <history>
       <history-search>
-        <entry>PARAGRAPH_STATUS_LIST.DETAIL</entry>
-        <entry>TableRegistry</entry>
-        <entry>__keywordZenkakuErrorCheck</entry>
-        <entry>$formatKeywordArray['errorList']</entry>
-        <entry>upload_file</entry>
         <entry>var_dump</entry>
         <entry encoding="base64">PHByZT4=</entry>
         <entry>toDomain</entry>
@@ -244,6 +267,11 @@
         <entry>add</entry>
         <entry>save</entry>
         <entry>delete</entry>
+        <entry>upload_file</entry>
+        <entry>function upload_ifle</entry>
+        <entry>function upload_file</entry>
+        <entry>function uploadFile</entry>
+        <entry>articleEntry</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

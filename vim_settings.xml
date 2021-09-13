@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Eloquents/DtbStep.php" timestamp="1630392026158">
-        <mark key="'" line="27" column="6" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientMypageOrderController.php" timestamp="1631504036203">
+        <mark key="[" line="772" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/work_groups/create/InterviewFormItem.vue" timestamp="1629367426244">
         <mark key="[" line="138" column="40" />
@@ -27,6 +27,7 @@
         <mark key="^" line="236" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbOnlineOrderDetailsTable.php" timestamp="1631232054478" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminPixtaImageController.php" timestamp="1631504429224" />
       <file name="$USER_HOME$/workspace/sagooo_navi/config/anti_virus_check_scan.php" timestamp="1631499024627" />
       <file name="$USER_HOME$/workspace/sagooo_works/cron/env/production/crontab.txt" timestamp="1629695275871">
         <mark key="[" line="0" column="0" />
@@ -41,31 +42,10 @@
         <mark key="." line="134" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_admin_online_order.php" timestamp="1631232274835" />
-      <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_client_online_order.php" timestamp="1629960757586">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" timestamp="1630397704339">
-        <mark key="'" line="589" column="20" />
-        <mark key="[" line="1690" column="0" />
-        <mark key="]" line="1690" column="0" />
-        <mark key="." line="1690" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Eloquents/DtbWorkGroup.php" timestamp="1630389849176">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Front/MypageController.php" timestamp="1631498051925" />
       <file name="$USER_HOME$/workspace/sagooo_works/webroot_src/js/pages/Client/OnlineOrder/index.js" timestamp="1631172027239" />
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminBannerController.php" timestamp="1629966302983">
-        <mark key="'" line="15" column="6" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/SagoooS3Table.php" timestamp="1631495392920" />
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbMemberProfileImagesTable.php" timestamp="1631500318431" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" timestamp="1629947465523">
-        <mark key="'" line="3389" column="8" />
-        <mark key="[" line="5841" column="0" />
-        <mark key="]" line="5841" column="0" />
-        <mark key="." line="5841" column="0" />
-      </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbMemberProfileImagesTable.php" timestamp="1631502689587" />
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/work_groups/create/InterviewFormRemarkButton.vue" timestamp="1629367694634">
         <mark key="[" line="19" column="21" />
         <mark key="]" line="19" column="21" />
@@ -77,14 +57,14 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/DeliveryDownloadComponent.php" timestamp="1631504214996">
+        <mark key="'" line="1002" column="65" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/AwsS3/UserImageRepository.php" timestamp="1631498565647" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" timestamp="1631231024998" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/User/User.php" timestamp="1629277704161">
-        <mark key="'" line="204" column="57" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/AppTable.php" timestamp="1630045415946">
-        <mark key="'" line="113" column="21" />
-      </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/src/View/Helper/ImageHelper.php" timestamp="1631504497763" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/PixtaImageComponent.php" timestamp="1631502847512" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" timestamp="1631504289606" />
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/work_groups/create/InterviewFormList.vue" timestamp="1629855323186">
         <mark key="[" line="91" column="0" />
         <mark key="]" line="91" column="0" />
@@ -93,9 +73,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1759" column="75" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
-      <jump line="366" column="47" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" />
-      <jump line="3071" column="11" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/DraftCommonComponent.php" />
       <jump line="355" column="39" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="265" column="12" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/User/User.php" />
       <jump line="204" column="57" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/User/User.php" />
@@ -193,6 +170,9 @@
       <jump line="43" column="13" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
       <jump line="3407" column="33" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
       <jump line="3380" column="33" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
+      <jump line="560" column="30" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/DeliveryDownloadComponent.php" />
+      <jump line="1000" column="21" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/DeliveryDownloadComponent.php" />
+      <jump line="1002" column="65" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/DeliveryDownloadComponent.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -202,7 +182,7 @@
         <text>|</text>
       </register>
       <register name="/" type="4">
-        <text>index</text>
+        <text>downloadImage</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkdGFiQWN0aXZlID0gWwogICAgICAgICAgICAnZGV0YWlsJyA9PiAnYWN0aXZlJywKICAgICAgICAgICAgJ2Jhc2ljJyAgPT4gJycKICAgICAgICBdOwo=</text>
@@ -253,9 +233,9 @@
       </register>
     </registers>
     <search>
-      <last-search>index</last-search>
+      <last-search>downloadImage</last-search>
       <last-offset />
-      <last-pattern>index</last-pattern>
+      <last-pattern>downloadImage</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
       <last-dir>1</last-dir>
@@ -263,7 +243,6 @@
     </search>
     <history>
       <history-search>
-        <entry>toDomain</entry>
         <entry>RULE</entry>
         <entry>entry</entry>
         <entry>REFERENCE_FILE</entry>
@@ -283,6 +262,7 @@
         <entry>articleEntry</entry>
         <entry>$requestData['DtbOnlineOrderDetails']['use_url_public_status']</entry>
         <entry>index</entry>
+        <entry>downloadImage</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

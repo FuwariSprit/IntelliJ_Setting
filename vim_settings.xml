@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientMypageOrderController.php" timestamp="1631504036203">
-        <mark key="[" line="772" column="9" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/webroot/css/Client/lp/landing2/design-ui.css" timestamp="1631594694327" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Routes/ClientRoutes.php" timestamp="1631172411454" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" timestamp="1631259541306">
@@ -23,6 +20,12 @@
         <mark key="." line="52" column="4" />
         <mark key="^" line="36" column="7" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientLandingPage/Element/faq.ctp" timestamp="1631602035352">
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="4" />
+        <mark key="." line="104" column="4" />
+        <mark key="^" line="104" column="17" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientLandingPage/Element/header.ctp" timestamp="1631597609042">
         <mark key="'" line="98" column="0" />
         <mark key="[" line="51" column="0" />
@@ -36,6 +39,18 @@
         <mark key="." line="144" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminPixtaImageController.php" timestamp="1631504429224" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientLandingPage/Element/footer-action.ctp" timestamp="1631602483855">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="4" />
+        <mark key="." line="52" column="4" />
+        <mark key="^" line="52" column="13" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientLandingPage/Element/flow.ctp" timestamp="1631601717477">
+        <mark key="[" line="159" column="0" />
+        <mark key="]" line="159" column="4" />
+        <mark key="." line="159" column="4" />
+        <mark key="^" line="159" column="17" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/AdminPlatinumTest/detail.ctp" timestamp="1631507082158">
         <mark key="'" line="0" column="0" />
       </file>
@@ -46,11 +61,17 @@
         <mark key="." line="114" column="4" />
         <mark key="^" line="77" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientLandingPage/Element/reason.ctp" timestamp="1631598885460">
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientLandingPage/Element/reason.ctp" timestamp="1631601372687">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="609" column="0" />
-        <mark key="]" line="609" column="4" />
+        <mark key="[" line="320" column="0" />
+        <mark key="]" line="320" column="71" />
         <mark key="." line="609" column="4" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientLandingPage/Element/case.ctp" timestamp="1631602158930">
+        <mark key="[" line="583" column="0" />
+        <mark key="]" line="583" column="4" />
+        <mark key="." line="583" column="4" />
+        <mark key="^" line="583" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/運用保守/sidebizz/sagoooworks/client/element/top-link.php" timestamp="1631596403270">
         <mark key="[" line="0" column="0" />
@@ -69,20 +90,26 @@
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Pages/Admin/AdminOnlineOrder/detail.ctp" timestamp="1631507663334">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/運用保守/sidebizz/sagoooworks/client/lp_sidebizz/index.php" timestamp="1631597254609">
+      <file name="$USER_HOME$/workspace/運用保守/sidebizz/sagoooworks/client/lp_sidebizz/index.php" timestamp="1631602622671">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="46" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/SagoooS3Table.php" timestamp="1631495392920" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbMemberProfileImagesTable.php" timestamp="1631502689587" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientLandingPage/Element/use.ctp" timestamp="1631601401450">
+        <mark key="[" line="167" column="0" />
+        <mark key="]" line="167" column="4" />
+        <mark key="." line="167" column="4" />
+        <mark key="^" line="164" column="17" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/DeliveryDownloadComponent.php" timestamp="1631504214996">
         <mark key="'" line="1002" column="65" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientLandingPage/web-x.ctp" timestamp="1631599046960">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-        <mark key="^" line="53" column="76" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientLandingPage/web-x.ctp" timestamp="1631602398000">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="115" />
+        <mark key="^" line="70" column="0" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/AwsS3/UserImageRepository.php" timestamp="1631498565647" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" timestamp="1631231024998" />
@@ -196,40 +223,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">PD9waHAgZWNobyAkdGhpcy0+ZWxlbWVudCgnQ2xpZW50L0NsaWVudExhbmRpbmdQYWdlL0VsZW1lbnQvd3JpdGVyJywgWydscEtleScgPT4gJGxwS2V5XSk7IC8v44Op44Kk44K/44O844Gr44Gk44GE44GmID8+Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>lpKey</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>記事情報</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">ICAgICAgICBjYXNlIENvbmY6OnIoJ0NPTlNULkNMSUVOVF9PTkxJTkVfT1JERVIuTEFORElOR19QQUdFX0xJU1QuV0VCX1gnKSA6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PD9waHAgZWNobyAkdGhpcy0+ZWxlbWVudCgnQ2xpZW50L0NsaWVudExhbmRpbmdQYWdlL0VsZW1lbnQvd3JpdGVyJywgWydscEtleScgPT4gJGxwS2V5XSk7IC8v44Op44Kk44K/44O844Gr44Gk44GE44GmID8+Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZmF1bHQ6Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlIENvbmY6OnIoJ0NPTlNULkNMSUVOVF9PTkxJTkVfT1JERVIuTEFORElOR19QQUdFX0xJU1QuV0VCX1gnKSA6Cg==</text>
+        <text encoding="base64">PGRpdiBpZD0iQ29udGFjdCI+CiAgICA8P3BocCBlY2hvICR0aGlzLT5lbGVtZW50KCdDbGllbnQvQ2xpZW50TGFuZGluZ1BhZ2UvRWxlbWVudC9jb250YWN0LWNvbW1vbicsCiAgICAgICAgWydscEtleScgPT4gJGxwS2V5LCd0eXBlJyA9PiAnbm9ybWFsJ10pOyAvL+OCouOCr+OCt+ODp+ODs+OCqOODquOCoiA/Pgo8L2Rpdj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">awo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBjYXNlIENvbmY6OnIoJ0NPTlNULkNMSUVOVF9PTkxJTkVfT1JERVIuTEFORElOR19QQUdFX0xJU1QuV0VCX1gnKSA6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDwhLS0tQ09OVEFDVC0tLS0+Cg==</text>
+        <text encoding="base64">ICAgIGRlZmF1bHQ6Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>

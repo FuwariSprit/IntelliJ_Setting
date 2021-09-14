@@ -22,11 +22,19 @@
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/config/anti_virus_check_scan.php" timestamp="1631499024627" />
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_admin_online_order.php" timestamp="1631232274835" />
+      <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_client_online_order.php" timestamp="1631594503220">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1512" column="46" />
+        <mark key="]" line="1512" column="48" />
+        <mark key="^" line="1512" column="48" />
+        <mark key="." line="1512" column="48" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Front/MypageController.php" timestamp="1631498051925" />
       <file name="$USER_HOME$/workspace/sagooo_works/webroot_src/js/pages/Client/OnlineOrder/index.js" timestamp="1631172027239" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Pages/Admin/AdminOnlineOrder/detail.ctp" timestamp="1631507663334">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/運用保守/sidebizz/sagoooworks/client/lp_sidebizz/index.php" timestamp="1631594554122" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/SagoooS3Table.php" timestamp="1631495392920" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbMemberProfileImagesTable.php" timestamp="1631502689587" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Client/ClientOnlineOrder/index.ctp" timestamp="1631232820650">
@@ -37,7 +45,7 @@
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/DeliveryDownloadComponent.php" timestamp="1631504214996">
         <mark key="'" line="1002" column="65" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientLandingPage/web-x.ctp" timestamp="1631582167141" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientLandingPage/web-x.ctp" timestamp="1631594613045" />
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/AwsS3/UserImageRepository.php" timestamp="1631498565647" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" timestamp="1631231024998" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/View/Helper/ImageHelper.php" timestamp="1631504497763" />
@@ -149,11 +157,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Pages/Admin/AdminOnlineOrder/detail.ctp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAvLyR3cml0ZXJSZXF1ZXN0VGV4dCA9ICRyZXF1ZXN0RGF0YVsnRHRiT25saW5lT3JkZXJEZXRhaWxzJ11bJ3dyaXRlcl9yZXF1ZXN0X3RleHQnXSA/PyAiIjsKICAgIC8vaWYgKCFlbXB0eSgkd3JpdGVyUmVxdWVzdFRleHQpKSB7CiAgICAvLyAgICAkdGFiQWN0aXZlID0gWwogICAgLy8gICAgICAgICdkZXRhaWwnID0+ICdhY3RpdmUnLAogICAgLy8gICAgICAgICdiYXNpYycgID0+ICcnCiAgICAvLyAgICBdOwogICAgLy99Cg==</text>
+      <register name="&quot;" type="4">
+        <text>記事作成特化型の記事作成サービスサグーワークスでは、オウンドメディアやアフィリエイトサイト用のSEOに強い集客に効く高品質なコンテンツを外注することが可能です。納期管理など、面倒な作業はすべてディレクターにお任せください！</text>
       </register>
       <register name="-" type="4">
-        <text>|</text>
+        <text>記事作成特化型の記事作成サービスサグーワークスでは、オウンドメディアやアフィリエイトサイト用のSEOに強い集客に効く高品質なコンテンツを外注することが可能です。納期管理など、面倒な作業はすべてディレクターにお任せください！</text>
       </register>
       <register name="/" type="4">
         <text>記事情報</text>

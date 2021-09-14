@@ -6,6 +6,7 @@
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientMypageOrderController.php" timestamp="1631504036203">
         <mark key="[" line="772" column="9" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/webroot/css/Client/lp/landing2/design-ui.css" timestamp="1631594694327" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Routes/ClientRoutes.php" timestamp="1631172411454" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" timestamp="1631259541306">
         <mark key="'" line="3380" column="33" />
@@ -45,7 +46,12 @@
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/DeliveryDownloadComponent.php" timestamp="1631504214996">
         <mark key="'" line="1002" column="65" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientLandingPage/web-x.ctp" timestamp="1631594613045" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientLandingPage/web-x.ctp" timestamp="1631595714552">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="6" column="4" />
+        <mark key="." line="6" column="4" />
+        <mark key="^" line="6" column="7" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/AwsS3/UserImageRepository.php" timestamp="1631498565647" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/OnlineOrderComponent.php" timestamp="1631231024998" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/View/Helper/ImageHelper.php" timestamp="1631504497763" />
@@ -158,39 +164,42 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>記事作成特化型の記事作成サービスサグーワークスでは、オウンドメディアやアフィリエイトサイト用のSEOに強い集客に効く高品質なコンテンツを外注することが可能です。納期管理など、面倒な作業はすべてディレクターにお任せください！</text>
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>記事作成特化型の記事作成サービスサグーワークスでは、オウンドメディアやアフィリエイトサイト用のSEOに強い集客に効く高品質なコンテンツを外注することが可能です。納期管理など、面倒な作業はすべてディレクターにお任せください！</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>記事情報</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdGFiQWN0aXZlID0gWwogICAgICAgICAgICAnZGV0YWlsJyA9PiAnYWN0aXZlJywKICAgICAgICAgICAgJ2Jhc2ljJyAgPT4gJycKICAgICAgICBdOwo=</text>
+        <text encoding="base64">ZWNobyAkdGhpcy0+SHRtbC0+bWV0YShbCiAgICAnbGluaycgPT4gJ2h0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vY3NzP2ZhbWlseT1NK1BMVVMrMXA6NDAwLDUwMCw3MDAsODAwLDkwMHxOb3RvK1NhbnMrSlA6NDAwLDcwMCw5MDB8Tm90bytTZXJpZitKUDo0MDAsNjAwLDkwMCZhbXA7c3Vic2V0PWphcGFuZXNlJywKICAgICdyZWwnID0+ICdzdHlsZXNoZWV0JwpdKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAvLyR3cml0ZXJSZXF1ZXN0VGV4dCA9ICRyZXF1ZXN0RGF0YVsnRHRiT25saW5lT3JkZXJEZXRhaWxzJ11bJ3dyaXRlcl9yZXF1ZXN0X3RleHQnXSA/PyAiIjsKICAgIC8vaWYgKCFlbXB0eSgkd3JpdGVyUmVxdWVzdFRleHQpKSB7CiAgICAvLyAgICAkdGFiQWN0aXZlID0gWwogICAgLy8gICAgICAgICdkZXRhaWwnID0+ICdhY3RpdmUnLAogICAgLy8gICAgICAgICdiYXNpYycgID0+ICcnCiAgICAvLyAgICBdOwogICAgLy99Cg==</text>
+        <text encoding="base64">ICAgICdsaW5rJyA9PiAnaHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9jc3M/ZmFtaWx5PU0rUExVUysxcDo0MDAsNTAwLDcwMCw4MDAsOTAwfE5vdG8rU2FucytKUDo0MDAsNzAwLDkwMHxOb3RvK1NlcmlmK0pQOjQwMCw2MDAsOTAwJmFtcDtzdWJzZXQ9amFwYW5lc2UnLAogICAgJ3JlbCcgPT4gJ3N0eWxlc2hlZXQnCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdGFiQWN0aXZlID0gCg==</text>
+        <text encoding="base64">CiAgICAvLyR3cml0ZXJSZXF1ZXN0VGV4dCA9ICRyZXF1ZXN0RGF0YVsnRHRiT25saW5lT3JkZXJEZXRhaWxzJ11bJ3dyaXRlcl9yZXF1ZXN0X3RleHQnXSA/PyAiIjsKICAgIC8vaWYgKCFlbXB0eSgkd3JpdGVyUmVxdWVzdFRleHQpKSB7CiAgICAvLyAgICAkdGFiQWN0aXZlID0gWwogICAgLy8gICAgICAgICdkZXRhaWwnID0+ICdhY3RpdmUnLAogICAgLy8gICAgICAgICdiYXNpYycgID0+ICcnCiAgICAvLyAgICBdOwogICAgLy99Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGFiQWN0aXZlID0gCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkaXNEZXRhaWxlZCwgJGxlbk1heExpbWl0RmxhZywgJHVzZVVybFB1YmxpY1N0YXR1cywgJHdyaXRlclJlcXVlc3RTdGF0dXMsICRwYXJhZ3JhcGhTdGF0dXMpOwogICAgICAgIGV4aXQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7CiAgICAgICAgdmFyX2R1bXAoJHJlcXVlc3REYXRhKTsKICAgICAgICBlY2hvICc8L3ByZT4nOwogICAgICAgIGV4aXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkaXNEZXRhaWxlZCwgJGxlbk1heExpbWl0RmxhZywgJHVzZVVybFB1YmxpY1N0YXR1cywgJHdyaXRlclJlcXVlc3RTdGF0dXMsICRwYXJhZ3JhcGhTdGF0dXMpOwogICAgICAgIGV4aXQ7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7CiAgICAgICAgdmFyX2R1bXAoJHJlcXVlc3REYXRhKTsKICAgICAgICBlY2hvICc8L3ByZT4nOwogICAgICAgIGV4aXQ7Cg==</text>
       </register>
-      <register name="7" type="8">
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7CiAgICAgICAgdmFyX2R1bXAoJHJlcXVlc3REYXRhKTsKICAgICAgICBlY2hvICc8L3ByZT4nOwogICAgICAgIGV4aXQ7Cg==</text>
+      </register>
+      <register name="8" type="8">
         <text>//
 //
 //
@@ -204,11 +213,8 @@
 //
 //</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2UK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2UK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

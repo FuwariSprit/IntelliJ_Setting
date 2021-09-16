@@ -47,6 +47,9 @@
         <mark key="." line="140" column="126" />
         <mark key="^" line="140" column="126" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/AdminPlatinumTest/detail.ctp" timestamp="1631507082158">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/admin/work_groups/create.blade.php" timestamp="1629855049236">
         <mark key="'" line="141" column="23" />
         <mark key="[" line="331" column="181" />
@@ -99,6 +102,9 @@
         <mark key="^" line="1287" column="43" />
         <mark key="." line="1287" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Pages/Admin/AdminOnlineOrder/detail.ctp" timestamp="1631507663334">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/運用保守/sidebizz/sagoooworks/client/lp_sidebizz/index.php" timestamp="1631606044658">
         <mark key="[" line="2" column="14" />
         <mark key="]" line="4" column="1" />
@@ -142,6 +148,9 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/DeliveryDownloadComponent.php" timestamp="1631504214996">
+        <mark key="'" line="1002" column="65" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientLandingPage/web-x.ctp" timestamp="1631689780037">
         <mark key="[" line="12" column="5" />
         <mark key="]" line="12" column="5" />
@@ -162,9 +171,11 @@
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/View/Helper/ImageHelper.php" timestamp="1631504497763" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/PixtaImageComponent.php" timestamp="1631502847512" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" timestamp="1631755120095">
+        <mark key="'" line="869" column="20" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="316" column="21" filename="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/work_groups/create/InterviewFormList.vue" />
       <jump line="83" column="10" filename="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/work_groups/create/InterviewFormList.vue" />
       <jump line="81" column="6" filename="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/work_groups/create/InterviewFormList.vue" />
       <jump line="145" column="0" filename="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/work_groups/create/InterviewFormList.vue" />
@@ -264,6 +275,7 @@
       <jump line="191" column="105" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientLandingPage/Element/reason.ctp" />
       <jump line="168" column="105" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientLandingPage/Element/reason.ctp" />
       <jump line="494" column="113" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientLandingPage/Element/reason.ctp" />
+      <jump line="869" column="20" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -273,7 +285,7 @@
         <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>事例を見る</text>
+        <text>public function detail</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNhc2UgQ29uZjo6cignQ09OU1QuQ0xJRU5UX09OTElORV9PUkRFUi5MQU5ESU5HX1BBR0VfTElTVC5XRUJfWCcpIDoK</text>
@@ -313,9 +325,9 @@
       </register>
     </registers>
     <search>
-      <last-search>事例を見る</last-search>
+      <last-search>public function detail</last-search>
       <last-offset />
-      <last-pattern>事例を見る</last-pattern>
+      <last-pattern>public function detail</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
       <last-dir>1</last-dir>
@@ -323,7 +335,6 @@
     </search>
     <history>
       <history-search>
-        <entry>SETTLEMENT_STATUS</entry>
         <entry>add</entry>
         <entry>save</entry>
         <entry>delete</entry>
@@ -343,6 +354,7 @@
         <entry>inflowDisplayName</entry>
         <entry>INFLOW_KEY</entry>
         <entry>事例を見る</entry>
+        <entry>public function detail</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

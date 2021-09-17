@@ -74,12 +74,12 @@
       <file name="$USER_HOME$/workspace/sagooo_works/webroot/css/Client/lp/landing2/design-ui.css" timestamp="1631594694327" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Routes/ClientRoutes.php" timestamp="1631172411454" />
       <file name="$USER_HOME$/workspace/tact/app/Console/Commands/SeoImprovement/RankFactorAnalysis/RegistRelatedContent.php" timestamp="1631778794175" />
-      <file name="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.js" timestamp="1631783671061">
-        <mark key="'" line="117" column="0" />
-        <mark key="[" line="106" column="9" />
-        <mark key="]" line="70" column="15" />
-        <mark key="^" line="70" column="15" />
-        <mark key="." line="70" column="15" />
+      <file name="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.js" timestamp="1631837496663">
+        <mark key="'" line="243" column="54" />
+        <mark key="[" line="429" column="35" />
+        <mark key="]" line="429" column="45" />
+        <mark key="^" line="429" column="45" />
+        <mark key="." line="429" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminPlatinumTestController.php" timestamp="1631506984107" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientLandingPage/Element/faq.ctp" timestamp="1631602035352">
@@ -117,6 +117,7 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="376" column="68" />
       </file>
+      <file name="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/keywords_research/serps_analysis/top.js" timestamp="1631835601347" />
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_admin_online_order.php" timestamp="1631232274835" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientLandingPage/a8.ctp" timestamp="1631607481321" />
       <file name="$USER_HOME$/workspace/tact/app/Services/DevelopManagement/UserEditLoader.php" timestamp="1631698487820" />
@@ -134,8 +135,8 @@
         <mark key="." line="1512" column="80" />
       </file>
       <file name="$USER_HOME$/workspace/運用保守/sidebizz/sagoooworks/client/element/case.php" timestamp="1631689361058" />
-      <file name="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/content_analysis/search_needs_researches/top.js" timestamp="1631783390595">
-        <mark key="'" line="169" column="24" />
+      <file name="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/content_analysis/search_needs_researches/top.js" timestamp="1631835223850">
+        <mark key="'" line="360" column="42" />
         <mark key="[" line="84" column="0" />
         <mark key="]" line="108" column="2" />
       </file>
@@ -143,11 +144,11 @@
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/SagoooS3Table.php" timestamp="1631495392920" />
-      <file name="$USER_HOME$/workspace/tact/resources/views/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.blade.php" timestamp="1631782168210">
-        <mark key="[" line="209" column="169" />
-        <mark key="]" line="209" column="220" />
-        <mark key="." line="209" column="220" />
-        <mark key="^" line="209" column="220" />
+      <file name="$USER_HOME$/workspace/tact/resources/views/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.blade.php" timestamp="1631837350951">
+        <mark key="[" line="239" column="150" />
+        <mark key="]" line="239" column="155" />
+        <mark key="." line="239" column="155" />
+        <mark key="^" line="239" column="155" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientLandingPage/Element/service.ctp" timestamp="1631772301448">
         <mark key="'" line="2" column="0" />
@@ -190,28 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3561" column="42" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
-      <jump line="820" column="59" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
-      <jump line="834" column="117" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
-      <jump line="2029" column="99" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
-      <jump line="2431" column="11" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
-      <jump line="2513" column="30" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
-      <jump line="2643" column="33" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
-      <jump line="1108" column="33" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
-      <jump line="1754" column="6" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
-      <jump line="3790" column="30" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
-      <jump line="225" column="66" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
-      <jump line="584" column="41" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
-      <jump line="578" column="59" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
-      <jump line="147" column="41" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
-      <jump line="108" column="41" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
-      <jump line="101" column="59" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
-      <jump line="84" column="20" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
-      <jump line="43" column="13" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
-      <jump line="3407" column="33" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
-      <jump line="3380" column="33" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" />
-      <jump line="560" column="30" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/DeliveryDownloadComponent.php" />
-      <jump line="1000" column="21" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/DeliveryDownloadComponent.php" />
       <jump line="1002" column="65" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/DeliveryDownloadComponent.php" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/AdminPlatinumTest/detail.ctp" />
       <jump line="2110" column="36" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
@@ -256,7 +235,6 @@
       <jump line="608" column="8" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.js" />
       <jump line="423" column="0" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/content_analysis/search_needs_researches/top.js" />
       <jump line="605" column="17" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.js" />
-      <jump line="93" column="8" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.js" />
       <jump line="609" column="29" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.js" />
       <jump line="607" column="21" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.js" />
       <jump line="426" column="21" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/content_analysis/search_needs_researches/top.js" />
@@ -278,70 +256,93 @@
       <jump line="249" column="26" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/content_analysis/search_needs_researches/top.js" />
       <jump line="250" column="25" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/content_analysis/search_needs_researches/top.js" />
       <jump line="134" column="30" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.js" />
+      <jump line="466" column="70" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/content_analysis/search_needs_researches/top.js" />
+      <jump line="169" column="24" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/content_analysis/search_needs_researches/top.js" />
+      <jump line="112" column="0" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.js" />
+      <jump line="188" column="54" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/content_analysis/search_needs_researches/top.js" />
+      <jump line="187" column="54" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/content_analysis/search_needs_researches/top.js" />
+      <jump line="77" column="0" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.js" />
+      <jump line="150" column="78" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.js" />
+      <jump line="163" column="64" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.js" />
+      <jump line="164" column="121" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.js" />
+      <jump line="165" column="61" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.js" />
+      <jump line="171" column="23" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.js" />
+      <jump line="219" column="48" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.js" />
+      <jump line="222" column="87" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.js" />
+      <jump line="436" column="54" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.js" />
+      <jump line="623" column="11" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.js" />
+      <jump line="622" column="8" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.js" />
+      <jump line="467" column="17" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/content_analysis/search_needs_researches/top.js" />
+      <jump line="85" column="8" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/content_analysis/search_needs_researches/top.js" />
+      <jump line="515" column="31" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/content_analysis/search_needs_researches/top.js" />
+      <jump line="79" column="14" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.js" />
+      <jump line="86" column="8" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/content_analysis/search_needs_researches/top.js" />
+      <jump line="450" column="17" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/content_analysis/search_needs_researches/top.js" />
+      <jump line="564" column="27" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.js" />
+      <jump line="92" column="8" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.js" />
+      <jump line="93" column="8" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.js" />
+      <jump line="458" column="27" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/content_analysis/search_needs_researches/top.js" />
+      <jump line="451" column="29" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/content_analysis/search_needs_researches/top.js" />
+      <jump line="87" column="8" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/content_analysis/search_needs_researches/top.js" />
       <jump line="92" column="58" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/content_analysis/search_needs_researches/top.js" />
       <jump line="157" column="33" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/content_analysis/search_needs_researches/top.js" />
       <jump line="158" column="33" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/content_analysis/search_needs_researches/top.js" />
       <jump line="270" column="25" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/content_analysis/search_needs_researches/top.js" />
       <jump line="359" column="42" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/content_analysis/search_needs_researches/top.js" />
       <jump line="360" column="42" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/content_analysis/search_needs_researches/top.js" />
-      <jump line="451" column="29" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/content_analysis/search_needs_researches/top.js" />
-      <jump line="458" column="27" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/content_analysis/search_needs_researches/top.js" />
-      <jump line="466" column="70" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/content_analysis/search_needs_researches/top.js" />
-      <jump line="87" column="8" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/content_analysis/search_needs_researches/top.js" />
-      <jump line="169" column="24" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/content_analysis/search_needs_researches/top.js" />
-      <jump line="112" column="0" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.js" />
+      <jump line="243" column="54" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>this.filters.including</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>this.filters.including</text>
       </register>
       <register name="/" type="4">
-        <text>watch:</text>
+        <text>applyFilter</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8g57We44KK6L6844G/6aCF55uu5ZCNCnZ1ZURhdGEub3BlbkZpbHRlckZvcm0gPSBudWxsOwovLyDntZ7jgorovrzjgb/mnaHku7YKdnVlRGF0YS5maWx0ZXJDb25kaXRpb25zID0gewogICAgc3RhdHVzICA6IFtdLAogICAgZXhlY3V0b3I6IFtdLAp9OwovLyDooajnpLrnlKjntZ7jgorovrzjgb/mnaHku7YKdnVlRGF0YS5kaXNwRmlsdGVyQ29uZGl0aW9ucyA9ICQuZXh0ZW5kKHRydWUsIHt9LCB2dWVEYXRhLmZpbHRlckNvbmRpdGlvbnMpOwovLyDntZ7jgorovrzjgb/mnaHku7bjg5Hjg6njg6Hjg7zjgr8KdnVlRGF0YS5maWx0ZXJQYXJhbWV0ZXJzID0ge307Ci8vIOe1nuOCiui+vOOBv+adoeS7tuOCueODhuODvOOCv+OCuQp2dWVEYXRhLnN0YXR1c2VzID0gUEhQX1ZBUlMuc3RhdHVzZXM7Ci8vIOe1nuOCiui+vOOBv+adoeS7tuWun+ihjOiAhQp2dWVEYXRhLmV4ZWN1dG9ycyA9IFBIUF9WQVJTLmV4ZWN1dG9yczsKLy8g44CM5YWo44Gm6YG45oqe44CN44OB44Kn44OD44Kv44OV44Op44KwCnZ1ZURhdGEuaXNBbGxDaGVja2VkID0gewogICAgc3RhdHVzICA6IHRydWUsCiAgICBleGVjdXRvcjogdHJ1ZSwKfTsKLy8g57We44KK6L6844G/6aCF55uu5pWwCnZ1ZURhdGEuYWxsQ2hlY2tlZExlbmd0aCA9IHsKICAgIHN0YXR1cyAgOiBQSFBfVkFSUy5zdGF0dXNlcy5sZW5ndGgsCiAgICBleGVjdXRvcjogUEhQX1ZBUlMuZXhlY3V0b3JzLmxlbmd0aCwKfTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g44Oa44O844K444ON44O844K344On44Oz44Gu5YWI6aCt44Gr56e75YuVCiAgICAgICAgICAgIHRoaXMuJG5leHRUaWNrKGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgICAgIHRoaXMuc2V0VHJhbnNpdGlvblBhZ2VJbmRleCgwKTsKICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IGV4ZWN1dG9yQ2hlY2tlZENvdW50ID0gY29uZGl0aW9ucy5leGVjdXRvci5sZW5ndGg7CiAgICAgICAgICAgICAgICBpZiAoIXRoaXMuaXNBbGxDaGVja2VkLmV4ZWN1dG9yICYmIGV4ZWN1dG9yQ2hlY2tlZENvdW50ID09PSB0aGlzLmFsbENoZWNrZWRMZW5ndGguZXhlY3V0b3IpIHsKICAgICAgICAgICAgICAgICAgICB0aGlzLmlzQWxsQ2hlY2tlZC5leGVjdXRvciA9IHRydWU7CiAgICAgICAgICAgICAgICB9IGVsc2UgaWYgKHRoaXMuaXNBbGxDaGVja2VkLmV4ZWN1dG9yICYmIGV4ZWN1dG9yQ2hlY2tlZENvdW50ICE9PSB0aGlzLmFsbENoZWNrZWRMZW5ndGguZXhlY3V0b3IpIHsKICAgICAgICAgICAgICAgICAgICB0aGlzLmlzQWxsQ2hlY2tlZC5leGVjdXRvciA9IGZhbHNlOwogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAodGhpcy5maWx0ZXJzLmluY2x1ZGluZyA9PT0gJ292ZXInICYmICghc2l0ZS5oYXNBbmFseXNpc1BhZ2UgfHwgIXNpdGUuaXNFeGNlZWRBdmVyYWdlV29yZENvdW50KSkgewogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gMDsKICAgICAgICAgICAgICAgICAgICB9IGVsc2UgaWYgKHRoaXMuZmlsdGVycy5pbmNsdWRpbmcgPT09ICdsZXNzJyAmJiAoIXNpdGUuaGFzQW5hbHlzaXNQYWdlIHx8IHNpdGUuaXNFeGNlZWRBdmVyYWdlV29yZENvdW50KSkgewogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gMDsKICAgICAgICAgICAgICAgICAgICB9IGVsc2UgaWYgKHRoaXMuZmlsdGVycy5pbmNsdWRpbmcgPT09ICdub3RoaW5nJyAmJiBzaXRlLmhhc0FuYWx5c2lzUGFnZSkgewogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gMDsKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGV4ZWN1dG9yOiBbXSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8g57We44KK6L6844G/5p2h5Lu25a6f6KGM6ICFCnZ1ZURhdGEuZXhlY3V0b3JzID0gUEhQX1ZBUlMuZXhlY3V0b3JzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMuZmlsdGVycy5pbmNsdWRpbmcpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGV4ZWN1dG9yOiB0cnVlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdob2dlJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGV4ZWN1dG9yOiBQSFBfVkFSUy5leGVjdXRvcnMubGVuZ3RoLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ci8vIOOAjOWFqOOBpumBuOaKnuOAjeODgeOCp+ODg+OCr+ODleODqeOCsAp2dWVEYXRhLmlzQWxsQ2hlY2tlZCA9IHsKICAgIHN0YXR1cyAgIDogdHJ1ZSwKICAgIGV4ZWN1dG9yIDogdHJ1ZSwKfTsK</text>
+        <text encoding="base64">ICAgICAgICBkaXNwRmlsdGVyQ29uZGl0aW9uczogewogICAgICAgICAgICBoYW5kbGVyOiBmdW5jdGlvbiAoY29uZGl0aW9ucykgewogICAgICAgICAgICAgICAgY29uc3Qgc3RhdHVzQ2hlY2tlZENvdW50ID0gY29uZGl0aW9ucy5zdGF0dXMubGVuZ3RoOwogICAgICAgICAgICAgICAgaWYgKCF0aGlzLmlzQWxsQ2hlY2tlZC5zdGF0dXMgJiYgc3RhdHVzQ2hlY2tlZENvdW50ID09PSB0aGlzLmFsbENoZWNrZWRMZW5ndGguc3RhdHVzKSB7CiAgICAgICAgICAgICAgICAgICAgdGhpcy5pc0FsbENoZWNrZWQuc3RhdHVzID0gdHJ1ZTsKICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAodGhpcy5pc0FsbENoZWNrZWQuc3RhdHVzICYmIHN0YXR1c0NoZWNrZWRDb3VudCAhPT0gdGhpcy5hbGxDaGVja2VkTGVuZ3RoLnN0YXR1cykgewogICAgICAgICAgICAgICAgICAgIHRoaXMuaXNBbGxDaGVja2VkLnN0YXR1cyA9IGZhbHNlOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9LAogICAgICAgICAgICBkZWVwOiB0cnVlLAogICAgICAgIH0sCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICBWZFZkCg==</text>
+      <register name="8" type="8">
+        <text encoding="base64">IAog</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy90aGlzLiRzZXQodGhpcy5maWx0ZXJzLCB0aGlzLm9wZW5GaWx0ZXJLZXksICkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>watch:</last-search>
+      <last-search>applyFilter</last-search>
       <last-offset />
-      <last-pattern>watch:</last-pattern>
+      <last-pattern>applyFilter</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
       <last-dir>1</last-dir>
@@ -349,11 +350,6 @@
     </search>
     <history>
       <history-search>
-        <entry>function upload_file</entry>
-        <entry>function uploadFile</entry>
-        <entry>articleEntry</entry>
-        <entry>$requestData['DtbOnlineOrderDetails']['use_url_public_status']</entry>
-        <entry>index</entry>
         <entry>downloadImage</entry>
         <entry>ポートフォリオ</entry>
         <entry>detail</entry>
@@ -367,8 +363,13 @@
         <entry>js-filter-form</entry>
         <entry>copyToClipBoard</entry>
         <entry>isAllChecked</entry>
-        <entry>filterConditions</entry>
         <entry>watch:</entry>
+        <entry>batchStatuses</entry>
+        <entry>this.filters</entry>
+        <entry>openFilterKey</entry>
+        <entry>openFilterForm</entry>
+        <entry>filterConditions</entry>
+        <entry>applyFilter</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

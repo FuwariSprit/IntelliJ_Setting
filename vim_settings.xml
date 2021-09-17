@@ -74,12 +74,12 @@
       <file name="$USER_HOME$/workspace/sagooo_works/webroot/css/Client/lp/landing2/design-ui.css" timestamp="1631594694327" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Routes/ClientRoutes.php" timestamp="1631172411454" />
       <file name="$USER_HOME$/workspace/tact/app/Console/Commands/SeoImprovement/RankFactorAnalysis/RegistRelatedContent.php" timestamp="1631778794175" />
-      <file name="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.js" timestamp="1631837496663">
+      <file name="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.js" timestamp="1631840140396">
         <mark key="'" line="243" column="54" />
-        <mark key="[" line="429" column="35" />
-        <mark key="]" line="429" column="45" />
-        <mark key="^" line="429" column="45" />
-        <mark key="." line="429" column="45" />
+        <mark key="[" line="423" column="40" />
+        <mark key="]" line="423" column="52" />
+        <mark key="^" line="423" column="52" />
+        <mark key="." line="423" column="52" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminPlatinumTestController.php" timestamp="1631506984107" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientLandingPage/Element/faq.ctp" timestamp="1631602035352">
@@ -144,12 +144,6 @@
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/SagoooS3Table.php" timestamp="1631495392920" />
-      <file name="$USER_HOME$/workspace/tact/resources/views/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.blade.php" timestamp="1631837350951">
-        <mark key="[" line="239" column="150" />
-        <mark key="]" line="239" column="155" />
-        <mark key="." line="239" column="155" />
-        <mark key="^" line="239" column="155" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientLandingPage/Element/service.ctp" timestamp="1631772301448">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="166" column="0" />
@@ -294,10 +288,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>this.filters.including</text>
+        <text>g</text>
       </register>
       <register name="-" type="4">
-        <text>this.filters.including</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text>applyFilter</text>

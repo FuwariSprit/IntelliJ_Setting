@@ -74,12 +74,12 @@
       <file name="$USER_HOME$/workspace/sagooo_works/webroot/css/Client/lp/landing2/design-ui.css" timestamp="1631594694327" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Routes/ClientRoutes.php" timestamp="1631172411454" />
       <file name="$USER_HOME$/workspace/tact/app/Console/Commands/SeoImprovement/RankFactorAnalysis/RegistRelatedContent.php" timestamp="1631778794175" />
-      <file name="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.js" timestamp="1631841968099">
-        <mark key="'" line="243" column="54" />
-        <mark key="[" line="425" column="0" />
-        <mark key="]" line="425" column="0" />
-        <mark key="^" line="425" column="52" />
-        <mark key="." line="425" column="0" />
+      <file name="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.js" timestamp="1631846743695">
+        <mark key="'" line="78" column="11" />
+        <mark key="[" line="129" column="50" />
+        <mark key="]" line="129" column="101" />
+        <mark key="^" line="129" column="101" />
+        <mark key="." line="129" column="101" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminPlatinumTestController.php" timestamp="1631506984107" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientLandingPage/Element/faq.ctp" timestamp="1631602035352">
@@ -144,11 +144,12 @@
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/SagoooS3Table.php" timestamp="1631495392920" />
-      <file name="$USER_HOME$/workspace/tact/resources/views/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.blade.php" timestamp="1631841821151">
-        <mark key="[" line="200" column="164" />
-        <mark key="]" line="200" column="167" />
-        <mark key="." line="200" column="167" />
-        <mark key="^" line="200" column="167" />
+      <file name="$USER_HOME$/workspace/tact/resources/views/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.blade.php" timestamp="1631846363648">
+        <mark key="'" line="212" column="137" />
+        <mark key="[" line="212" column="129" />
+        <mark key="]" line="212" column="129" />
+        <mark key="." line="212" column="129" />
+        <mark key="^" line="212" column="137" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientLandingPage/Element/service.ctp" timestamp="1631772301448">
         <mark key="'" line="2" column="0" />
@@ -191,14 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1002" column="65" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/DeliveryDownloadComponent.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Admin/AdminPlatinumTest/detail.ctp" />
-      <jump line="2110" column="36" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
-      <jump line="2324" column="58" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
-      <jump line="2325" column="92" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
-      <jump line="2333" column="37" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
-      <jump line="2348" column="13" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
-      <jump line="2373" column="103" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
       <jump line="2433" column="58" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
       <jump line="2434" column="92" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
       <jump line="2442" column="13" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
@@ -291,58 +284,66 @@
       <jump line="359" column="42" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/content_analysis/search_needs_researches/top.js" />
       <jump line="360" column="42" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/content_analysis/search_needs_researches/top.js" />
       <jump line="243" column="54" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.js" />
+      <jump line="78" column="11" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.js" />
+      <jump line="236" column="63" filename="$USER_HOME$/workspace/tact/resources/views/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.blade.php" />
+      <jump line="251" column="131" filename="$USER_HOME$/workspace/tact/resources/views/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.blade.php" />
+      <jump line="170" column="90" filename="$USER_HOME$/workspace/tact/resources/views/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.blade.php" />
+      <jump line="144" column="136" filename="$USER_HOME$/workspace/tact/resources/views/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.blade.php" />
+      <jump line="115" column="138" filename="$USER_HOME$/workspace/tact/resources/views/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.blade.php" />
+      <jump line="120" column="217" filename="$USER_HOME$/workspace/tact/resources/views/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.blade.php" />
+      <jump line="212" column="137" filename="$USER_HOME$/workspace/tact/resources/views/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coaW5jbHVkaW5nU3RhdHVzKTsK</text>
+      <register name="&quot;" type="4">
+        <text>this.includingItems.length</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>this.includingItems.length</text>
       </register>
       <register name="/" type="4">
-        <text>applyFilter</text>
+        <text>全てチェック</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g44Oa44O844K444ON44O844K344On44Oz44Gu5YWI6aCt44Gr56e75YuVCiAgICAgICAgICAgIHRoaXMuJG5leHRUaWNrKGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgICAgIHRoaXMuc2V0VHJhbnNpdGlvblBhZ2VJbmRleCgwKTsKICAgICAgICAgICAgfSk7Cg==</text>
+      <register name="0" type="4">
+        <text>Object.keys(this.includingItems)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coaW5jbHVkaW5nU3RhdHVzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsbFNpdGVTZWxlY3RlZCAgICAgICAgICAgICAgOiB0aGlzLnVwcGVyUmFua2VkUGFnZXMubGVuZ3RoID09PSB0aGlzLnRtcEZpbHRlcnMucGFnZXMubGVuZ3RoLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IGlkPSJ1c2VfMSIgY2xhc3M9ImZvcm0tY29udHJvbCIgdHlwZT0iY2hlY2tib3giIGNoZWNrZWQ9IiI6dmFsdWU9ImluY2x1ZGluZ0l0ZW1zLmxlc3MiIHYtbW9kZWw9ImZpbHRlcnMuaW5jbHVkaW5nU3RhdHVzZXMiPjxpIGNsYXNzPSJmYSI+PC9pPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvbGFiZWw+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbHRlcmVkQWxsSW5jbHVkaW5nU2VsZWN0ZWQgOiB0aGlzLnVwcGVyUmFua2VkUGFnZXMubGVuZ3RoID09PSB0aGlzLmZpbHRlcnMucGFnZXMubGVuZ3RoLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiAwOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAodGhpcy5maWx0ZXJzLmluY2x1ZGluZyA9PT0gJ292ZXInICYmICghc2l0ZS5oYXNBbmFseXNpc1BhZ2UgfHwgIXNpdGUuaXNFeGNlZWRBdmVyYWdlV29yZENvdW50KSkgewogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gMDsKICAgICAgICAgICAgICAgICAgICB9IGVsc2UgaWYgKHRoaXMuZmlsdGVycy5pbmNsdWRpbmcgPT09ICdsZXNzJyAmJiAoIXNpdGUuaGFzQW5hbHlzaXNQYWdlIHx8IHNpdGUuaXNFeGNlZWRBdmVyYWdlV29yZENvdW50KSkgewogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gMDsKICAgICAgICAgICAgICAgICAgICB9IGVsc2UgaWYgKHRoaXMuZmlsdGVycy5pbmNsdWRpbmcgPT09ICdub3RoaW5nJyAmJiBzaXRlLmhhc0FuYWx5c2lzUGFnZSkgewogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gMDsKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiAwOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiAwOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMuZmlsdGVycy5pbmNsdWRpbmcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdob2dlJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coaW5jbHVkaW5nU3RhdHVzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IGlkPSJ1c2VfMSIgY2xhc3M9ImZvcm0tY29udHJvbCIgdHlwZT0iY2hlY2tib3giIGNoZWNrZWQ9IiI6dmFsdWU9ImluY2x1ZGluZ0l0ZW1zLmxlc3MiIHYtbW9kZWw9ImZpbHRlcnMuaW5jbHVkaW5nU3RhdHVzZXMiPjxpIGNsYXNzPSJmYSI+PC9pPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvbGFiZWw+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNwRmlsdGVyQ29uZGl0aW9uczogewogICAgICAgICAgICBoYW5kbGVyOiBmdW5jdGlvbiAoY29uZGl0aW9ucykgewogICAgICAgICAgICAgICAgY29uc3Qgc3RhdHVzQ2hlY2tlZENvdW50ID0gY29uZGl0aW9ucy5zdGF0dXMubGVuZ3RoOwogICAgICAgICAgICAgICAgaWYgKCF0aGlzLmlzQWxsQ2hlY2tlZC5zdGF0dXMgJiYgc3RhdHVzQ2hlY2tlZENvdW50ID09PSB0aGlzLmFsbENoZWNrZWRMZW5ndGguc3RhdHVzKSB7CiAgICAgICAgICAgICAgICAgICAgdGhpcy5pc0FsbENoZWNrZWQuc3RhdHVzID0gdHJ1ZTsKICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAodGhpcy5pc0FsbENoZWNrZWQuc3RhdHVzICYmIHN0YXR1c0NoZWNrZWRDb3VudCAhPT0gdGhpcy5hbGxDaGVja2VkTGVuZ3RoLnN0YXR1cykgewogICAgICAgICAgICAgICAgICAgIHRoaXMuaXNBbGxDaGVja2VkLnN0YXR1cyA9IGZhbHNlOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9LAogICAgICAgICAgICBkZWVwOiB0cnVlLAogICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>applyFilter</last-search>
+      <last-search>全てチェック</last-search>
       <last-offset />
-      <last-pattern>applyFilter</last-pattern>
+      <last-pattern>全てチェック</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
       <last-dir>1</last-dir>
@@ -350,12 +351,6 @@
     </search>
     <history>
       <history-search>
-        <entry>downloadImage</entry>
-        <entry>ポートフォリオ</entry>
-        <entry>detail</entry>
-        <entry>function detail</entry>
-        <entry>記事情報</entry>
-        <entry>lp</entry>
         <entry>inflowDisplayName</entry>
         <entry>INFLOW_KEY</entry>
         <entry>事例を見る</entry>
@@ -370,6 +365,12 @@
         <entry>openFilterForm</entry>
         <entry>filterConditions</entry>
         <entry>applyFilter</entry>
+        <entry>apply</entry>
+        <entry>filterResu</entry>
+        <entry>setFilter</entry>
+        <entry>全て選択</entry>
+        <entry>すべてチェック</entry>
+        <entry>全てチェック</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

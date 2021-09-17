@@ -74,12 +74,12 @@
       <file name="$USER_HOME$/workspace/sagooo_works/webroot/css/Client/lp/landing2/design-ui.css" timestamp="1631594694327" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Routes/ClientRoutes.php" timestamp="1631172411454" />
       <file name="$USER_HOME$/workspace/tact/app/Console/Commands/SeoImprovement/RankFactorAnalysis/RegistRelatedContent.php" timestamp="1631778794175" />
-      <file name="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.js" timestamp="1631846743695">
+      <file name="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.js" timestamp="1631848734585">
         <mark key="'" line="78" column="11" />
-        <mark key="[" line="129" column="50" />
-        <mark key="]" line="129" column="101" />
-        <mark key="^" line="129" column="101" />
-        <mark key="." line="129" column="101" />
+        <mark key="[" line="470" column="0" />
+        <mark key="]" line="470" column="0" />
+        <mark key="^" line="468" column="14" />
+        <mark key="." line="470" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminPlatinumTestController.php" timestamp="1631506984107" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientLandingPage/Element/faq.ctp" timestamp="1631602035352">
@@ -95,7 +95,7 @@
         <mark key="." line="140" column="126" />
         <mark key="^" line="140" column="126" />
       </file>
-      <file name="$USER_HOME$/workspace/tact/resources/views/content_analysis/search_needs_researches/top.blade.php" timestamp="1631782599437">
+      <file name="$USER_HOME$/workspace/tact/resources/views/content_analysis/search_needs_researches/top.blade.php" timestamp="1631848297089">
         <mark key="'" line="311" column="146" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/config/anti_virus_check_scan.php" timestamp="1631499024627" />
@@ -117,7 +117,11 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="376" column="68" />
       </file>
-      <file name="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/keywords_research/serps_analysis/top.js" timestamp="1631835601347" />
+      <file name="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/keywords_research/serps_analysis/top.js" timestamp="1631848703380">
+        <mark key="'" line="257" column="8" />
+        <mark key="[" line="257" column="0" />
+        <mark key="]" line="259" column="10" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_admin_online_order.php" timestamp="1631232274835" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientLandingPage/a8.ctp" timestamp="1631607481321" />
       <file name="$USER_HOME$/workspace/tact/app/Services/DevelopManagement/UserEditLoader.php" timestamp="1631698487820" />
@@ -144,12 +148,12 @@
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/SagoooS3Table.php" timestamp="1631495392920" />
-      <file name="$USER_HOME$/workspace/tact/resources/views/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.blade.php" timestamp="1631846363648">
+      <file name="$USER_HOME$/workspace/tact/resources/views/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.blade.php" timestamp="1631848540574">
         <mark key="'" line="212" column="137" />
-        <mark key="[" line="212" column="129" />
-        <mark key="]" line="212" column="129" />
-        <mark key="." line="212" column="129" />
-        <mark key="^" line="212" column="137" />
+        <mark key="[" line="249" column="141" />
+        <mark key="]" line="249" column="141" />
+        <mark key="." line="249" column="141" />
+        <mark key="^" line="249" column="142" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientLandingPage/Element/service.ctp" timestamp="1631772301448">
         <mark key="'" line="2" column="0" />
@@ -192,8 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2433" column="58" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
-      <jump line="2434" column="92" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
       <jump line="2442" column="13" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
       <jump line="2474" column="103" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
       <jump line="2479" column="66" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
@@ -292,58 +294,60 @@
       <jump line="115" column="138" filename="$USER_HOME$/workspace/tact/resources/views/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.blade.php" />
       <jump line="120" column="217" filename="$USER_HOME$/workspace/tact/resources/views/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.blade.php" />
       <jump line="212" column="137" filename="$USER_HOME$/workspace/tact/resources/views/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.blade.php" />
+      <jump line="278" column="24" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/keywords_research/serps_analysis/top.js" />
+      <jump line="257" column="8" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/keywords_research/serps_analysis/top.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>this.includingItems.length</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy50bXBGaWx0ZXJzLmluY2x1ZGluZy5sZW5ndGgpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>this.includingItems.length</text>
+        <text>絞</text>
       </register>
       <register name="/" type="4">
-        <text>全てチェック</text>
+        <text>isSetDispStatusFilter</text>
       </register>
       <register name="0" type="4">
-        <text>Object.keys(this.includingItems)</text>
+        <text>this.tmpFilters.including.length</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsbFNpdGVTZWxlY3RlZCAgICAgICAgICAgICAgOiB0aGlzLnVwcGVyUmFua2VkUGFnZXMubGVuZ3RoID09PSB0aGlzLnRtcEZpbHRlcnMucGFnZXMubGVuZ3RoLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy50bXBGaWx0ZXJzLmluY2x1ZGluZy5sZW5ndGgpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbHRlcmVkQWxsSW5jbHVkaW5nU2VsZWN0ZWQgOiB0aGlzLnVwcGVyUmFua2VkUGFnZXMubGVuZ3RoID09PSB0aGlzLmZpbHRlcnMucGFnZXMubGVuZ3RoLAo=</text>
+        <text encoding="base64">ICAgICAgICBpc1NldEluY2x1ZGluZ0ZpbHRlcjogZnVuY3Rpb24gKCkgewogICAgICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnRtcEZpbHRlcnMuaW5jbHVkaW5nLmxlbmd0aCk7CiAgICAgICAgICAgIHJldHVybiB0aGlzLnRtcEZpbHRlcnMuaW5jbHVkaW5nLmxlbmd0aCA+IDA7CiAgICAgICAgfSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coT2JqZWN0LmtleXModGhpcy5pbmNsdWRpbmdJdGVtcykubGVuZ3RoLCB0aGlzLmZpbHRlcnMuaW5jbHVkaW5nLmxlbmd0aCwgdGhpcy50bXBGaWx0ZXJzLmluY2x1ZGluZy5sZW5ndGgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKE9iamVjdC52YWx1ZXModGhpcy5kZWZhdWx0RmlsdGVycy5pbmNsdWRpbmcpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiAwOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">dnVlRGF0YS5pbmNsdWRpbmdJdGVtcyA9IHsKICAgIG92ZXI6ICAgICdvdmVyJywKICAgIGxlc3M6ICAgICdsZXNzJywKICAgIG5vdGhpbmc6ICdub3RoaW5nJywKfTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coaW5jbHVkaW5nU3RhdHVzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsbFNpdGVTZWxlY3RlZCAgICAgICAgICAgICAgOiB0aGlzLnVwcGVyUmFua2VkUGFnZXMubGVuZ3RoID09PSB0aGlzLnRtcEZpbHRlcnMucGFnZXMubGVuZ3RoLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IGlkPSJ1c2VfMSIgY2xhc3M9ImZvcm0tY29udHJvbCIgdHlwZT0iY2hlY2tib3giIGNoZWNrZWQ9IiI6dmFsdWU9ImluY2x1ZGluZ0l0ZW1zLmxlc3MiIHYtbW9kZWw9ImZpbHRlcnMuaW5jbHVkaW5nU3RhdHVzZXMiPjxpIGNsYXNzPSJmYSI+PC9pPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvbGFiZWw+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbHRlcmVkQWxsSW5jbHVkaW5nU2VsZWN0ZWQgOiB0aGlzLnVwcGVyUmFua2VkUGFnZXMubGVuZ3RoID09PSB0aGlzLmZpbHRlcnMucGFnZXMubGVuZ3RoLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiAwOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>全てチェック</last-search>
+      <last-search>isSetDispStatusFilter</last-search>
       <last-offset />
-      <last-pattern>全てチェック</last-pattern>
+      <last-pattern>isSetDispStatusFilter</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
       <last-dir>1</last-dir>
@@ -351,7 +355,6 @@
     </search>
     <history>
       <history-search>
-        <entry>inflowDisplayName</entry>
         <entry>INFLOW_KEY</entry>
         <entry>事例を見る</entry>
         <entry>public function detail</entry>
@@ -371,6 +374,7 @@
         <entry>全て選択</entry>
         <entry>すべてチェック</entry>
         <entry>全てチェック</entry>
+        <entry>isSetDispStatusFilter</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

@@ -28,9 +28,6 @@
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbOnlineOrderDetailsTable.php" timestamp="1631232054478" />
       <file name="$USER_HOME$/workspace/sagooo_works/webroot/old/js/clientOrder/estimate.js" timestamp="1631684592241" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/routes/web.php" timestamp="1632204813116">
-        <mark key="'" line="200" column="61" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientLandingPage/Element/top-link.ctp" timestamp="1631597187271">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="4" />
@@ -79,6 +76,9 @@
       <file name="$USER_HOME$/workspace/sagooo_works/tests/TestCase/Controller/Component/PixtaApiComponentTest.php" timestamp="1632278030712">
         <mark key="'" line="88" column="27" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Domain/SalseForceContractInformationData.php" timestamp="1632301666456">
+        <mark key="'" line="29" column="18" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/config/mail.php" timestamp="1630642639798">
         <mark key="[" line="134" column="0" />
         <mark key="]" line="134" column="0" />
@@ -89,6 +89,12 @@
         <mark key="[" line="292" column="0" />
         <mark key="]" line="292" column="0" />
         <mark key="." line="292" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Shell/SalesforceShell.php" timestamp="1632302353703">
+        <mark key="[" line="88" column="16" />
+        <mark key="]" line="88" column="16" />
+        <mark key="." line="88" column="16" />
+        <mark key="^" line="88" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Eloquents/DtbWorkGroup.php" timestamp="1630389849176">
         <mark key="'" line="0" column="0" />
@@ -143,12 +149,6 @@
         <mark key="." line="2109" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbClientAccountsTable.php" timestamp="1632296551906" />
-      <file name="$USER_HOME$/workspace/sagooo_works/config/const/env/pipelines/anti_virus_check_scan.php" timestamp="1632178790015">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Traits/WritingTrait.php" timestamp="1632278000951">
         <mark key="'" line="17" column="6" />
         <mark key="[" line="2223" column="0" />
@@ -190,12 +190,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.js" timestamp="1632209770778">
-        <mark key="'" line="611" column="19" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientLandingPage/Element/faq.ctp" timestamp="1631602035352">
         <mark key="[" line="104" column="0" />
         <mark key="]" line="104" column="4" />
@@ -208,9 +202,6 @@
         <mark key="]" line="140" column="126" />
         <mark key="." line="140" column="126" />
         <mark key="^" line="140" column="126" />
-      </file>
-      <file name="$USER_HOME$/workspace/tact/resources/views/content_analysis/search_needs_researches/top.blade.php" timestamp="1631848297089">
-        <mark key="'" line="311" column="146" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_aws.php" timestamp="1632181887099" />
       <file name="$USER_HOME$/workspace/sagooo_navi/config/anti_virus_check_scan.php" timestamp="1632180554784">
@@ -256,12 +247,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="69" />
       </file>
-      <file name="$USER_HOME$/workspace/tact/app/Http/Controllers/SeoImprovement/RankFactorAnalysis/PageAnalysis/CooccurrenceWordsController.php" timestamp="1631775013898">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_client_online_order.php" timestamp="1631684456310">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="1512" column="80" />
@@ -300,12 +285,6 @@
         <mark key="[" line="628" column="0" />
         <mark key="]" line="628" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientLandingPage/Element/service.ctp" timestamp="1631772301448">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="166" column="0" />
-        <mark key="]" line="166" column="0" />
-        <mark key="." line="166" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientLandingPage/Element/comparison.ctp" timestamp="1631690829474">
         <mark key="[" line="179" column="0" />
         <mark key="]" line="179" column="4" />
@@ -318,6 +297,7 @@
         <mark key="." line="167" column="4" />
         <mark key="^" line="164" column="17" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/cron/env/develop/crontab.txt" timestamp="1632302144387" />
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/work_groups/create/InterviewFormRemarkButton.vue" timestamp="1629367694634">
         <mark key="[" line="19" column="21" />
         <mark key="]" line="19" column="21" />
@@ -332,6 +312,9 @@
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/ApprovalOperator/TextApprovalController.php" timestamp="1632294697058">
         <mark key="[" line="624" column="0" />
         <mark key="]" line="624" column="46" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Utility/SalesForce/Client.php" timestamp="1632301694673">
+        <mark key="'" line="42" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientLandingPage/web-x.ctp" timestamp="1631689780037">
         <mark key="[" line="12" column="5" />
@@ -354,12 +337,6 @@
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/AppTable.php" timestamp="1630045415946">
         <mark key="'" line="113" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_online_order.php" timestamp="1631687962288">
-        <mark key="'" line="150" column="58" />
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" timestamp="1632278532823">
         <mark key="[" line="34" column="24" />
         <mark key="]" line="34" column="24" />
@@ -368,8 +345,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="257" column="25" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/content_analysis/search_needs_researches/top.js" />
-      <jump line="256" column="26" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/content_analysis/search_needs_researches/top.js" />
       <jump line="252" column="25" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/content_analysis/search_needs_researches/top.js" />
       <jump line="251" column="32" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/content_analysis/search_needs_researches/top.js" />
       <jump line="442" column="29" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/content_analysis/search_needs_researches/top.js" />
@@ -468,6 +443,8 @@
       <jump line="88" column="27" filename="$USER_HOME$/workspace/sagooo_works/tests/TestCase/Controller/Component/PixtaApiComponentTest.php" />
       <jump line="68" column="22" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/WritingSegmentComponent.php" />
+      <jump line="29" column="18" filename="$USER_HOME$/workspace/sagooo_works/src/Domain/SalseForceContractInformationData.php" />
+      <jump line="42" column="20" filename="$USER_HOME$/workspace/sagooo_works/src/Utility/SalesForce/Client.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -477,7 +454,7 @@
         <text>を</text>
       </register>
       <register name="/" type="4">
-        <text>assigned</text>
+        <text>getSalesForceData</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvLyBTM+S4iuOBq+ODleOCoeOCpOODq+OBjOWtmOWcqOOBl+OBquOBhOWgtOWQiOOBr1NDQU5OSU5H44KS6L+U44GZCg==</text>
@@ -517,9 +494,9 @@
       </register>
     </registers>
     <search>
-      <last-search>assigned</last-search>
+      <last-search>getSalesForceData</last-search>
       <last-offset />
-      <last-pattern>assigned</last-pattern>
+      <last-pattern>getSalesForceData</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
       <last-dir>1</last-dir>
@@ -527,7 +504,6 @@
     </search>
     <history>
       <history-search>
-        <entry>filterResu</entry>
         <entry>全て選択</entry>
         <entry>すべてチェック</entry>
         <entry>全てチェック</entry>
@@ -547,6 +523,7 @@
         <entry encoding="base64">XDxtZW1iZXJQb3J0Zm9saW9EYXRhXD4=</entry>
         <entry>AntiVirusCheck</entry>
         <entry>assigned</entry>
+        <entry>getSalesForceData</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

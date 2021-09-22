@@ -66,11 +66,11 @@
         <mark key="^" line="583" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/運用保守/sidebizz/sagoooworks/css/Client/lp/landing2/design-ui.css" timestamp="1631680837862" />
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/AntiVirusCheckComponent.php" timestamp="1632200014440">
-        <mark key="[" line="40" column="117" />
-        <mark key="]" line="40" column="117" />
-        <mark key="." line="40" column="117" />
-        <mark key="^" line="40" column="117" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/AntiVirusCheckComponent.php" timestamp="1632295698567">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="37" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/AdminApprovalComponent.php" timestamp="1632180055837">
         <mark key="[" line="4" column="0" />
@@ -142,6 +142,7 @@
         <mark key="]" line="2109" column="0" />
         <mark key="." line="2109" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbClientAccountsTable.php" timestamp="1632296551906" />
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/env/pipelines/anti_virus_check_scan.php" timestamp="1632178790015">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="21" column="0" />
@@ -155,11 +156,11 @@
         <mark key="." line="2165" column="54" />
         <mark key="^" line="2165" column="54" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/View/Helper/ImageHelper.php" timestamp="1632288648573">
-        <mark key="[" line="51" column="41" />
-        <mark key="]" line="51" column="41" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/View/Helper/ImageHelper.php" timestamp="1632296109667">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="8" />
         <mark key="^" line="51" column="41" />
-        <mark key="." line="51" column="41" />
+        <mark key="." line="48" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/PixtaImageComponent.php" timestamp="1631502847512" />
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/work_groups/create/InterviewFormList.vue" timestamp="1629855323186">
@@ -184,7 +185,7 @@
       <file name="$USER_HOME$/workspace/運用保守/sidebizz/sagoooworks/css/Client/lp/landing2/design.css" timestamp="1631608791563">
         <mark key="'" line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/config/const/env/develop/const_anti_virus_check_scan_env.php" timestamp="1632291144103">
+      <file name="$USER_HOME$/workspace/sagooo_works/config/const/env/develop/const_anti_virus_check_scan_env.php" timestamp="1632294555857">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
@@ -268,19 +269,13 @@
         <mark key="^" line="1512" column="147" />
         <mark key="." line="1512" column="80" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" timestamp="1632204808948">
-        <mark key="'" line="1234" column="26" />
-        <mark key="[" line="1690" column="0" />
-        <mark key="]" line="1690" column="0" />
-        <mark key="." line="1690" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/運用保守/sidebizz/sagoooworks/client/element/case.php" timestamp="1631689361058" />
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/env/local.example/anti_virus_check_scan.php" timestamp="1632178805734">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/plugins/CakeS3/src/Database/AwsS3Table.php" timestamp="1632179793169">
+      <file name="$USER_HOME$/workspace/sagooo_works/plugins/CakeS3/src/Database/AwsS3Table.php" timestamp="1632295083440">
         <mark key="[" line="209" column="21" />
         <mark key="]" line="210" column="6" />
         <mark key="." line="210" column="6" />
@@ -300,12 +295,6 @@
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/WritingSegmentComponent.php" timestamp="1632280259735">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" timestamp="1629947465523">
-        <mark key="'" line="3389" column="8" />
-        <mark key="[" line="5841" column="0" />
-        <mark key="]" line="5841" column="0" />
-        <mark key="." line="5841" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/ApprovalOperator/ClientTextApprovalController.php" timestamp="1632288479923">
         <mark key="[" line="628" column="0" />
@@ -339,6 +328,10 @@
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/ApprovalOperator/TextApprovalController.php" timestamp="1632294697058">
+        <mark key="[" line="624" column="0" />
+        <mark key="]" line="624" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientLandingPage/web-x.ctp" timestamp="1631689780037">
         <mark key="[" line="12" column="5" />
@@ -477,47 +470,47 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/WritingSegmentComponent.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>み</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="-" type="4">
-        <text>み</text>
+        <text>を</text>
       </register>
       <register name="/" type="4">
         <text>assigned</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICR0aGlzLT5sb2dXcml0ZShbCiAgICAgICAgICAgICAgICAgICAgJ21lc3NhZ2UnID0+ICfjgqbjgqTjg6vjgrnjgrnjgq3jg6Pjg7Pjga7ntZDmnpzjgYxDTEVBTuOBp+OBr+OBguOCiuOBvuOBm+OCkycsCiAgICAgICAgICAgICAgICAgICAgJ3BhcmFtcycgPT4gWwogICAgICAgICAgICAgICAgICAgICAgICAnYW50aVZpcnVzQ2hlY2tTY2FuU3RhdHVzJyA9PiAkYW50aVZpcnVzQ2hlY2tTY2FuU3RhdHVzLAogICAgICAgICAgICAgICAgICAgICAgICAnczNQYXRoJyAgICAgICAgICAgICAgICAgICA9PiAkczNQYXRoLAogICAgICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgICAgIF0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBTM+S4iuOBq+ODleOCoeOCpOODq+OBjOWtmOWcqOOBl+OBquOBhOWgtOWQiOOBr1NDQU5OSU5H44KS6L+U44GZCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnYW50aVZpcnVzQ2hlY2tTY2FuU3RhdHVzJyA9PiAkYW50aVZpcnVzQ2hlY2tTY2FuU3RhdHVzLAo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmxvZ1dyaXRlKCRlLT5nZXRNZXNzYWdlKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChTM0V4Y2VwdGlvbiAkZSkgewogICAgICAgICAgICAvLyDmjIflrprjgZfjgZ/jg5Hjgrnjgavjg5XjgqHjgqTjg6vjgYzlrZjlnKjjgZfjgarjgYTloLTlkIjjga/jg63jgrDjgavmm7jjgY3ovrzjgoAKICAgICAgICAgICAgJHRoaXMtPmxvZ1dyaXRlKFsKICAgICAgICAgICAgICAgICdtZXNzYWdlJyA9PiAkZS0+Z2V0TWVzc2FnZSgpLAogICAgICAgICAgICAgICAgJ3BhcmFtcycgPT4gWwogICAgICAgICAgICAgICAgICAgICdzM1BhdGgnID0+ICRzM1BhdGgsCiAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgIF0pOwogICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIEF3c1xTM1xFeGNlcHRpb25cUzNFeGNlcHRpb247Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g44OH44OV44Kp44Or44OI44Gu44KC44Gu44Gr5LiK5pu444GN44GX44Gm5re344Gc44KLCiAgICAgICAgICAgICR0aGlzLT5faW1hZ2VBdHRyaWJ1dGVMaXN0ID0gYXJyYXlfbWVyZ2UoJHRoaXMtPl9pbWFnZUF0dHJpYnV0ZUxpc3QsICRpbWFnZUF0dHJpYnV0ZUxpc3QpOwogICAgICAgICAgICAkdGhpcy0+X2xpbmtBdHRyaWJ1dGVMaXN0ID0gYXJyYXlfbWVyZ2UoJHRoaXMtPl9saW5rQXR0cmlidXRlTGlzdCwgJGxpbmtBdHRyaWJ1dGVMaXN0KTsKCiAgICAgICAgICAgIHJldHVybiAgJHRoaXMtPkh0bWwtPmxpbmsoCiAgICAgICAgICAgICAgICAkdGhpcy0+SHRtbC0+aW1hZ2UoJHVybCwgJHRoaXMtPl9pbWFnZUF0dHJpYnV0ZUxpc3QpLAogICAgICAgICAgICAgICAgJHVybCwKICAgICAgICAgICAgICAgICR0aGlzLT5fbGlua0F0dHJpYnV0ZUxpc3QKICAgICAgICAgICAgKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDjgqbjgqTjg6vjgrnjgrnjgq3jg6Pjg7Pjga7ntZDmnpzjgYzjgrnjgq3jg6Pjg7PkuK3jga7loLTlkIjjgIHjgrnjgq3jg6Pjg7PkuK3jga7nlLvlg4/jgpLooajnpLrjgZnjgosKICAgICAgICBpZiAoJGFudGlWaXJ1c0NoZWNrU2NhblN0YXR1cyA9PT0gQ29uZjo6cignQ09OU1QuQU5USV9WSVJVU19DSEVDS19TQ0FOX0VOVi5TVEFUVVMuU0NBTk5JTkcnKSkgewogICAgICAgICAgICAkdXJsID0gQ29uZjo6cignQ09OU1QuQU5USV9WSVJVU19DSEVDS19TQ0FOX0VOVi5QSVhUQV9JTUFHRS5TQ0FOTklORycpOwogICAgICAgIH0KICAgICAgICAvLyDjgqbjgqTjg6vjgrnjgrnjgq3jg6Pjg7Pjga7ntZDmnpzjgYzmhJ/mn5Pjga7loLTlkIjjgIHmhJ/mn5Pjga7nlLvlg4/jgpLooajnpLrjgZnjgosKICAgICAgICBpZiAoJGFudGlWaXJ1c0NoZWNrU2NhblN0YXR1cyA9PT0gQ29uZjo6cignQ09OU1QuQU5USV9WSVJVU19DSEVDS19TQ0FOX0VOVi5TVEFUVVMuSU5GRUNURUQnKSkgewogICAgICAgICAgICAkdXJsID0gQ29uZjo6cignQ09OU1QuQU5USV9WSVJVU19DSEVDS19TQ0FOX0VOVi5QSVhUQV9JTUFHRS5JTkZFQ1RFRCcpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gQ29uZjo6cignQ09OU1QuQU5USV9WSVJVU19DSEVDS19TQ0FOX0VOVi5TVEFUVVMuU0NBTk5JTkcnKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBTM+S4iuOBq+ODleOCoeOCpOODq+OBjOWtmOWcqOOBl+OBquOBhOWgtOWQiOOBr1NDQU5OSU5H44KS6L+U44GZCiAgICAgICAgJHRoaXMtPmxvZ1dyaXRlKCRlLT5nZXRNZXNzYWdlKCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkYW50aVZpcnVzQ2hlY2tTY2FuU3RhdHVzID0gJHRoaXMtPkFudGlWaXJ1c0NoZWNrLT5nZXRBbnRpVmlydXNDaGVja1NjYW5TdGF0dXMoJHMzUGF0aCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChTM0V4Y2VwdGlvbiAkZSkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -27,7 +27,12 @@
         <mark key="." line="52" column="4" />
         <mark key="^" line="36" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/tests/TestCase/View/Helper/ImageHelperTest.php" timestamp="1632287938809" />
+      <file name="$USER_HOME$/workspace/sagooo_works/tests/TestCase/View/Helper/ImageHelperTest.php" timestamp="1632448829634">
+        <mark key="[" line="61" column="17" />
+        <mark key="]" line="61" column="17" />
+        <mark key="." line="61" column="17" />
+        <mark key="^" line="61" column="17" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientLandingPage/Element/footer-action.ctp" timestamp="1631611848950">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -393,11 +398,11 @@
       <jump line="57" column="88" filename="$USER_HOME$/workspace/sagooo_works/config/const/const_aws.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhcl9kdW1wKENvbmY6OnIoJ0NPTlNULkFXUy5BTUFaT05fUzNfVEVYVF9QSVhUQV9USFVNQk5BSUxfSU1BR0VfRElSRUNUT1JZJykgLiAkYXJ0aWNsZURldGFpbFsncGFyYWdyYXBoUGl4dGFJbWFnZSddWyRwYXJhZ3JhcGhEYXRhSWRdWzBdWyd0aHVtYm5haWxfaW1hZ2VfZmlsZXBhdGgnXSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>AMAZON_S3_TEXT_IMAGE_DIRECTORY</text>

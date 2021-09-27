@@ -153,10 +153,11 @@
         <mark key="]" line="3" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Admin/AdminApproval/paragraph_image_pixta_detail.ctp" timestamp="1632304566182" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" timestamp="1632724566117">
-        <mark key="[" line="724" column="0" />
-        <mark key="]" line="724" column="0" />
-        <mark key="." line="724" column="0" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" timestamp="1632725191524">
+        <mark key="[" line="702" column="26" />
+        <mark key="]" line="702" column="26" />
+        <mark key="." line="702" column="26" />
+        <mark key="^" line="702" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/DeliveryDownloadComponent.php" timestamp="1632291121220">
         <mark key="'" line="242" column="0" />
@@ -505,11 +506,11 @@
       <jump line="57" column="88" filename="$USER_HOME$/workspace/sagooo_works/config/const/const_aws.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZChcREI6OmdldFF1ZXJ5TG9nKCkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>AMAZON_S3_TEXT_IMAGE_DIRECTORY</text>

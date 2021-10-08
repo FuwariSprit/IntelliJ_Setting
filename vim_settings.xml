@@ -42,6 +42,9 @@
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbOnlineOrderDetailsTable.php" timestamp="1631232054478" />
       <file name="$USER_HOME$/workspace/sagooo_works/webroot/old/js/clientOrder/estimate.js" timestamp="1631684592241" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/routes/web.php" timestamp="1632204813116">
+        <mark key="'" line="200" column="61" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientLandingPage/Element/top-link.ctp" timestamp="1631597187271">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="4" />
@@ -137,7 +140,9 @@
         <mark key="^" line="151" column="121" />
         <mark key="." line="151" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Front/MypageController.php" timestamp="1633075559758" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Front/MypageController.php" timestamp="1633660927027">
+        <mark key="'" line="1150" column="13" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/webroot_src/js/pages/Client/OnlineOrder/index.js" timestamp="1631688007539">
         <mark key="[" line="1287" column="0" />
         <mark key="]" line="1287" column="0" />
@@ -290,6 +295,12 @@
         <mark key="]" line="140" column="126" />
         <mark key="." line="140" column="126" />
         <mark key="^" line="140" column="126" />
+      </file>
+      <file name="$USER_HOME$/workspace/tact/resources/views/content_analysis/search_needs_researches/top.blade.php" timestamp="1631848297089">
+        <mark key="'" line="317" column="146" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_aws.php" timestamp="1632445581566">
+        <mark key="'" line="57" column="88" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/View/Helper/AntiVirusCheckHelper.php" timestamp="1632442614577">
         <mark key="[" line="3" column="0" />
@@ -505,7 +516,6 @@
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Pages/Admin/AdminOnlineOrder/Common/client.ctp" timestamp="1633591328944" />
     </filemarks>
     <jumps>
-      <jump line="623" column="11" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.js" />
       <jump line="622" column="8" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.js" />
       <jump line="467" column="17" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/content_analysis/search_needs_researches/top.js" />
       <jump line="85" column="8" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/content_analysis/search_needs_researches/top.js" />
@@ -605,6 +615,7 @@
       <jump line="268" column="21" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Admin/Work/WorkRepository.php" />
       <jump line="271" column="56" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Admin/Work/WorkRepository.php" />
       <jump line="2048" column="14" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminOnlineOrderController.php" />
+      <jump line="1150" column="13" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Front/MypageController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -614,7 +625,7 @@
         <text encoding="base64">ICAgICAgLy8=</text>
       </register>
       <register name="/" type="4">
-        <text>function detail</text>
+        <text>function quit</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gY29uZmlybSgiXCIiICsgYmVmb3JlSW50ZXJ2aWV3Tm8gKyAiXCLjgYvjgolcIiIgKyBpbnRlcnZpZXdObyArICJcIuOBuOWPluadkE5v44KS5pu05paw44GX44G+44GZ44GL77yfIik7Cg==</text>
@@ -658,9 +669,9 @@ this.openFilterKey</text>
       </register>
     </registers>
     <search>
-      <last-search>function detail</last-search>
+      <last-search>function quit</last-search>
       <last-offset />
-      <last-pattern>function detail</last-pattern>
+      <last-pattern>function quit</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
       <last-dir>1</last-dir>
@@ -668,7 +679,6 @@ this.openFilterKey</text>
     </search>
     <history>
       <history-search>
-        <entry>社外納品</entry>
         <entry>DtbMemberProfileImagesTable</entry>
         <entry>findImageUrlWithSize</entry>
         <entry>downloadImage</entry>
@@ -688,6 +698,7 @@ this.openFilterKey</text>
         <entry>interview</entry>
         <entry>detail (</entry>
         <entry>function detail</entry>
+        <entry>function quit</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

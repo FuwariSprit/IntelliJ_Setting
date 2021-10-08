@@ -381,8 +381,8 @@
         <mark key="^" line="1512" column="147" />
         <mark key="." line="1512" column="80" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" timestamp="1632960960157">
-        <mark key="'" line="1234" column="26" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" timestamp="1633675675247">
+        <mark key="'" line="1358" column="11" />
         <mark key="[" line="1690" column="0" />
         <mark key="]" line="1690" column="0" />
         <mark key="." line="1690" column="0" />
@@ -513,13 +513,6 @@
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Pages/Admin/AdminOnlineOrder/Common/client.ctp" timestamp="1633591328944" />
     </filemarks>
     <jumps>
-      <jump line="515" column="31" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/content_analysis/search_needs_researches/top.js" />
-      <jump line="79" column="14" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.js" />
-      <jump line="86" column="8" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/content_analysis/search_needs_researches/top.js" />
-      <jump line="450" column="17" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/content_analysis/search_needs_researches/top.js" />
-      <jump line="564" column="27" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.js" />
-      <jump line="92" column="8" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.js" />
-      <jump line="93" column="8" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.js" />
       <jump line="458" column="27" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/content_analysis/search_needs_researches/top.js" />
       <jump line="451" column="29" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/content_analysis/search_needs_researches/top.js" />
       <jump line="87" column="8" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/content_analysis/search_needs_researches/top.js" />
@@ -613,6 +606,13 @@
       <jump line="35" column="31" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/detail/notification.blade.php" />
       <jump line="27" column="30" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/detail/notification.blade.php" />
       <jump line="31" column="30" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/detail/notification.blade.php" />
+      <jump line="1209" column="11" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
+      <jump line="1246" column="11" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
+      <jump line="1271" column="11" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
+      <jump line="1302" column="11" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
+      <jump line="1320" column="11" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
+      <jump line="1338" column="11" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
+      <jump line="1358" column="11" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -622,7 +622,7 @@
         <text encoding="base64">PC9kaXY+</text>
       </register>
       <register name="/" type="4">
-        <text>class=&quot;radio-inline&quot;</text>
+        <text>function detail</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0icmFkaW8iPgo=</text>
@@ -663,9 +663,9 @@ this.openFilterKey</text>
       </register>
     </registers>
     <search>
-      <last-search>class=&quot;radio-inline&quot;</last-search>
+      <last-search>function detail</last-search>
       <last-offset />
-      <last-pattern>class=&quot;radio-inline&quot;</last-pattern>
+      <last-pattern>function detail</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
       <last-dir>1</last-dir>
@@ -673,7 +673,6 @@ this.openFilterKey</text>
     </search>
     <history>
       <history-search>
-        <entry>downloadImage</entry>
         <entry>createDeliveryImageZip</entry>
         <entry>記事情報</entry>
         <entry>detail</entry>
@@ -689,10 +688,11 @@ this.openFilterKey</text>
         <entry>this.filters.including.forEach(in</entry>
         <entry>interview</entry>
         <entry>detail (</entry>
-        <entry>function detail</entry>
         <entry>function quit</entry>
         <entry>radio-inline</entry>
         <entry>class=&quot;radio-inline&quot;</entry>
+        <entry encoding="base64">XDxmdW5jdGlvblw+</entry>
+        <entry>function detail</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

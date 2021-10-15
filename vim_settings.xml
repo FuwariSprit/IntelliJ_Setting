@@ -162,7 +162,7 @@
         <mark key="." line="264" column="74" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Admin/AdminApproval/paragraph_image_pixta_detail.ctp" timestamp="1632304566182" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/OfferController.php" timestamp="1632730019637" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/OfferController.php" timestamp="1634287135904" />
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/navbar.blade.php" timestamp="1633340915119" />
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/works/contact.blade.php" timestamp="1634117813131">
         <mark key="[" line="41" column="49" />
@@ -175,6 +175,7 @@
         <mark key="]" line="2109" column="0" />
         <mark key="." line="2109" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/ChainOfferController.php" timestamp="1634287473041" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbClientAccountsTable.php" timestamp="1632296551906" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Front/OperationTrust/entry.ctp" timestamp="1633930532983">
         <mark key="[" line="650" column="72" />
@@ -227,6 +228,12 @@
         <mark key="]" line="140" column="126" />
         <mark key="." line="140" column="126" />
         <mark key="^" line="140" column="126" />
+      </file>
+      <file name="$USER_HOME$/workspace/tact/resources/views/content_analysis/search_needs_researches/top.blade.php" timestamp="1631848297089">
+        <mark key="'" line="317" column="146" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_aws.php" timestamp="1632445581566">
+        <mark key="'" line="57" column="88" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/webroot/css/Client/lp/web-x_design_ui.css" timestamp="1631610325329">
         <mark key="[" line="918" column="0" />
@@ -354,6 +361,10 @@
         <mark key="." line="418" column="144" />
         <mark key="^" line="418" column="144" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/config/order_request_cancel_fee.php" timestamp="1634287513107" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/routes/web.php" timestamp="1634287193801">
+        <mark key="'" line="200" column="61" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/tests/TestCase/View/Helper/ImageHelperTest.php" timestamp="1632448829634">
         <mark key="[" line="61" column="17" />
         <mark key="]" line="61" column="17" />
@@ -419,7 +430,10 @@
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/webroot_src/js/pages/Admin/AdminOnlineOrder/detail.js" timestamp="1632464741526" />
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/creator_column.blade.php" timestamp="1634007415873" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/search/work.blade.php" timestamp="1634286368161" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Front/MypageController.php" timestamp="1633660927027">
+        <mark key="'" line="1150" column="13" />
+      </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/search/work.blade.php" timestamp="1634287108104" />
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/accounts/signup.blade.php" timestamp="1633930416514">
         <mark key="[" line="71" column="44" />
         <mark key="]" line="71" column="44" />
@@ -739,7 +753,7 @@
         <text>E</text>
       </register>
       <register name="/" type="4">
-        <text>function detail</text>
+        <text>function list</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8g44Oa44O844K444ON44O844K344On44Oz44Gu5YWI6aCt44Gr56e75YuVCiAgICAgICAgICAgIHRoaXMuJG5leHRUaWNrKGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgICAgIHRoaXMuc2V0VHJhbnNpdGlvblBhZ2VJbmRleCgwKTsKICAgICAgICAgICAgfSk7Cg==</text>
@@ -779,9 +793,9 @@
       </register>
     </registers>
     <search>
-      <last-search>function detail</last-search>
+      <last-search>function list</last-search>
       <last-offset />
-      <last-pattern>function detail</last-pattern>
+      <last-pattern>function list</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
       <last-dir>1</last-dir>
@@ -789,7 +803,6 @@
     </search>
     <history>
       <history-search>
-        <entry>createDeliveryImageZip</entry>
         <entry>記事情報</entry>
         <entry>detail</entry>
         <entry encoding="base64">XDxtZW1iZXJQb3J0Zm9saW9EYXRhXD4=</entry>
@@ -809,6 +822,7 @@
         <entry>class=&quot;radio-inline&quot;</entry>
         <entry encoding="base64">XDxmdW5jdGlvblw+</entry>
         <entry>function detail</entry>
+        <entry>function list</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

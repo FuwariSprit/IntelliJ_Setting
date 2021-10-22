@@ -3,7 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientMypageOrderController.php" timestamp="1634871189669">
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientMypageOrderController.php" timestamp="1634876227978">
+        <mark key="'" line="19" column="6" />
         <mark key="[" line="772" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/tact/app/Console/Commands/SeoImprovement/RankFactorAnalysis/RegistPrepareData.php" timestamp="1631778435639">
@@ -100,12 +101,12 @@
         <mark key="^" line="96" column="49" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/ApprovalOperator/AppOperatorWriting/progress_record.ctp" timestamp="1634871681915">
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/ApprovalOperator/AppOperatorWriting/progress_record.ctp" timestamp="1634877418383">
         <mark key="'" line="375" column="83" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="7" column="18" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="223" column="81" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/webroot_src/js/pages/Admin/SalesDelivery/detail.js" timestamp="1633997520054" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Admin/AdminApproval/paragraph_image_pixta_detail.ctp" timestamp="1632304566182" />
@@ -126,8 +127,8 @@
         <mark key="^" line="39" column="18" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Routes/ClientRoutes.php" timestamp="1634871541124">
-        <mark key="'" line="297" column="56" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Routes/ClientRoutes.php" timestamp="1634875687232">
+        <mark key="'" line="205" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/tact/app/Console/Commands/SeoImprovement/RankFactorAnalysis/RegistRelatedContent.php" timestamp="1631778794175" />
       <file name="$USER_HOME$/workspace/運用保守/sidebizz/sagoooworks/css/Client/lp/landing2/design.css" timestamp="1631608791563">
@@ -198,7 +199,7 @@
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/運用保守/sidebizz/sagoooworks/client/element/reason.php" timestamp="1631603801647" />
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/ApprovalOperator/ApprovalOperatorTop/index.ctp" timestamp="1634871121950">
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/ApprovalOperator/ApprovalOperatorTop/index.ctp" timestamp="1634876305212">
         <mark key="[" line="22" column="84" />
         <mark key="]" line="22" column="98" />
         <mark key="^" line="22" column="98" />
@@ -271,6 +272,7 @@
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/AssignController.php" timestamp="1634864875818">
         <mark key="'" line="29" column="6" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/ApprovalOperator/ApprovalOperatorTopController.php" timestamp="1634876353820" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientLandingPage/Element/case.ctp" timestamp="1631689720772">
         <mark key="[" line="732" column="0" />
         <mark key="]" line="732" column="0" />
@@ -371,9 +373,6 @@
         <mark key="^" line="615" column="23" />
         <mark key="." line="622" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/config/logging.php" timestamp="1633341056132">
-        <mark key="[" line="79" column="10" />
-      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminPixtaImageController.php" timestamp="1631504429224" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/View/Helper/AntiVirusCheckHelper.php" timestamp="1632442614577">
         <mark key="[" line="3" column="0" />
@@ -416,6 +415,12 @@
         <mark key="'" line="42" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Requests/Admin/WorkGroup/DeleteUploadedFileRequest.php" timestamp="1634808518334" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbAppRequestsTable.php" timestamp="1634877261339">
+        <mark key="[" line="336" column="102" />
+        <mark key="]" line="336" column="102" />
+        <mark key="." line="336" column="102" />
+        <mark key="^" line="336" column="102" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/layout/master.blade.php" timestamp="1633672128388" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/AppTable.php" timestamp="1630045415946">
         <mark key="'" line="113" column="21" />
@@ -428,10 +433,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="16" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.js" />
-      <jump line="228" column="64" filename="$USER_HOME$/workspace/tact/resources/views/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.blade.php" />
-      <jump line="115" column="138" filename="$USER_HOME$/workspace/tact/resources/views/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.blade.php" />
-      <jump line="144" column="136" filename="$USER_HOME$/workspace/tact/resources/views/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.blade.php" />
       <jump line="170" column="90" filename="$USER_HOME$/workspace/tact/resources/views/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.blade.php" />
       <jump line="172" column="127" filename="$USER_HOME$/workspace/tact/resources/views/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.blade.php" />
       <jump line="236" column="131" filename="$USER_HOME$/workspace/tact/resources/views/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.blade.php" />
@@ -528,58 +529,62 @@
       <jump line="467" column="56" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/ClientRoutes.php" />
       <jump line="482" column="56" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/ClientRoutes.php" />
       <jump line="297" column="56" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/ClientRoutes.php" />
+      <jump line="1" column="9" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/ClientRoutes.php" />
+      <jump line="203" column="11" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/ClientRoutes.php" />
+      <jump line="205" column="24" filename="$USER_HOME$/workspace/sagooo_works/src/Routes/ClientRoutes.php" />
+      <jump line="19" column="6" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientMypageOrderController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHVzZSBBcHBcUm91dGVzOwo=</text>
+        <text encoding="base64">ICAgIGVjaG8gJzxwcmU+JzsKICAgIHZhcl9kdW1wKCRwcm9ncmVzc0RhdGEpOwogICAgZWNobyAnPC9wcmU+JzsK</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>ClientMypageOrder</text>
+        <text>progressDataListForWriting</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LmxhYmVsLXN1Y2Nlc3MgewogICAgZm9udC13ZWlnaHQ6IG5vcm1hbDsKICAgIGJvcmRlcjogMXB4IHNvbGlkICRjb2xvci1ncmVlbi00MDA7CiAgICBib3JkZXItbGVmdDogNnB4IHNvbGlkICRjb2xvci1ncmVlbi00MDA7CiAgICBjb2xvcjogJGNvbG9yLWdyZWVuLTcwMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gRHRiT25saW5lT3JkZXJHcm91cENvbm5lY3Rpb25zCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHVzZSBBcHBcUm91dGVzOwo=</text>
+        <text encoding="base64">ICAgIGVjaG8gJzxwcmU+JzsKICAgIHZhcl9kdW1wKCRwcm9ncmVzc0RhdGEpOwogICAgZWNobyAnPC9wcmU+JzsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBdLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ0R0Yk9ubGluZScK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnPycgICAgICAgICAgPT4gWwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ0R0YicK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnY29udHJvbGxlcicgPT4gJ0NsaWVudC9DbGllbnRNeXBhZ2VPcmRlcicsCg==</text>
+        <text encoding="base64">ICAgIHZhcl9kdW1wKCRwcm9ncmVzc0RhdGEpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8YSBjbGFzcz0iYnRuIGJ0bi1kZWZhdWx0IGJ0bi14cyI+CiAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJnbHlwaGljb24gZ2x5cGhpY29uLWxpbmsiIGFyaWEtaGlkZGVuPSJ0cnVlIj48L3NwYW4+IOOBk+OBoeOCieOBi+OCiQogICAgICAgIDwvYT4K</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcHJvZ3Jlc3NEYXRhKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHByb2dyZXNzRGF0YSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA/Pgo=</text>
+        <text encoding="base64">ICAgIHVzZSBBcHBcUm91dGVzOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIOazqOaEj+S6i+mgheODnOOCv+ODsyAtLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBdLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8P3BocCBlY2hvICR0aGlzLT5lbGVtZW50KAogICAgICAgICAgICAnQXBwcm92YWxPcGVyYXRvci9BcHByb3ZhbE9wZXJhdG9yVG9wL3Byb2dyZXNzX3JlY29yZF9tZW1vJywKICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ2FwcFJlcXVlc3RUeXBlJyA9PiAnd3JpdGluZycsCiAgICAgICAgICAgICAgICAnYXBwUmVxdWVzdElkJyAgID0+ICRwcm9ncmVzc0RhdGEtPmFwcF9yZXF1ZXN0X2lkLAogICAgICAgICAgICAgICAgJ3Byb2dyZXNzRGF0YScgICA9PiAkcHJvZ3Jlc3NEYXRhLAogICAgICAgICAgICBdCiAgICAgICAgKTsgPz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnPycgICAgICAgICAgPT4gWwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ClientMypageOrder</last-search>
+      <last-search>progressDataListForWriting</last-search>
       <last-offset />
-      <last-pattern>ClientMypageOrder</last-pattern>
+      <last-pattern>progressDataListForWriting</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
       <last-dir>1</last-dir>
@@ -587,9 +592,6 @@
     </search>
     <history>
       <history-search>
-        <entry>調査URL</entry>
-        <entry>setAnalysisPageIncluding</entry>
-        <entry>this5.filters.including.f</entry>
         <entry>this5.filters.includin</entry>
         <entry>this.filters.including.forEach(in</entry>
         <entry>interview</entry>
@@ -600,13 +602,16 @@
         <entry encoding="base64">XDxmdW5jdGlvblw+</entry>
         <entry>function list</entry>
         <entry>function detai</entry>
-        <entry>function detail</entry>
         <entry>オンライン発注詳細</entry>
         <entry>online</entry>
         <entry>order</entry>
         <entry>showOrderAssignCreateForm</entry>
         <entry>Client</entry>
         <entry>ClientMypageOrder</entry>
+        <entry>client_mypage</entry>
+        <entry>function detail</entry>
+        <entry>progressData</entry>
+        <entry>progressDataListForWriting</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

@@ -595,12 +595,12 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" timestamp="1635150890227">
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" timestamp="1635152596812">
         <mark key="'" line="3127" column="0" />
-        <mark key="[" line="3263" column="44" />
-        <mark key="]" line="3263" column="59" />
-        <mark key="." line="3263" column="59" />
-        <mark key="^" line="3263" column="59" />
+        <mark key="[" line="3246" column="10" />
+        <mark key="]" line="3248" column="7" />
+        <mark key="." line="3248" column="7" />
+        <mark key="^" line="3248" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/DeliveryDownloadComponent.php" timestamp="1632291121220">
         <mark key="'" line="242" column="0" />
@@ -725,12 +725,12 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="22" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" timestamp="1635151711732">
-        <mark key="'" line="10" column="52" />
-        <mark key="[" line="1553" column="0" />
-        <mark key="]" line="1553" column="0" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" timestamp="1635152714647">
+        <mark key="'" line="127" column="56" />
+        <mark key="[" line="82" column="36" />
+        <mark key="]" line="82" column="36" />
         <mark key="^" line="1553" column="11" />
-        <mark key="." line="1553" column="0" />
+        <mark key="." line="82" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/public/js/admin/develop/index.js" timestamp="1633588071573">
         <mark key="[" line="149" column="34" />
@@ -771,10 +771,11 @@
         <mark key="^" line="164" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/cron/env/develop/crontab.txt" timestamp="1632302144387" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/DeleteContact.php" timestamp="1635151688087">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/DeleteContact.php" timestamp="1635152382788">
+        <mark key="[" line="2" column="47" />
+        <mark key="]" line="2" column="41" />
+        <mark key="." line="2" column="41" />
+        <mark key="^" line="2" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/js/components/admin/work_groups/create/InterviewFormRemarkButton.vue" timestamp="1629367694634">
         <mark key="[" line="19" column="21" />
@@ -815,8 +816,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
-      <jump line="200" column="61" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
       <jump line="944" column="17" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="1215" column="26" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="1214" column="26" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
@@ -909,22 +908,24 @@
       <jump line="23" column="38" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" />
       <jump line="3127" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" />
       <jump line="101" column="19" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
-      <jump line="1546" column="13" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="33" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="1539" column="14" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
-      <jump line="1540" column="14" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="1544" column="8" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
+      <jump line="1546" column="17" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="10" column="52" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
+      <jump line="82" column="46" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
+      <jump line="1540" column="14" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
+      <jump line="127" column="56" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>\</text>
       </register>
       <register name="-" type="4">
-        <text>DeleteContact</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
-        <text>DeleteContact</text>
+        <text>deleteContact</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQGNhbignbWVzc2FnZS1kZWxldGUtZnVsbC1hY2Nlc3MnKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0icHVsbC1yaWdodCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNtYWxsPnt7JG1lc3NhZ2VbJ3RpbWUnXX19PC9zbWFsbD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7ISEgRm9ybTo6b3BlbigKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAndXJsJyA9PiBhY3Rpb24oJ0FkbWluXFdvcmtHcm91cENvbnRyb2xsZXJAZGVsZXRlTWVzc2FnZScsIFsnd29ya19ncm91cF9pZCcgPT4gJHdvcmtHcm91cElkXSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ21ldGhvZCcgPT4gJ1BPU1QnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdjbGFzcycgPT4gJ21sNSBpbmxpbmUtYmxvY2sganMtZGVsZXRlLW1lc3NhZ2UtZm9ybScKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICEhfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAY3NyZgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7ISEgRm9ybTo6aGlkZGVuKCd3b3JrX2dyb3VwX2ludGVydmlld191cGRhdGVfaWQnLCAkbWVzc2FnZVsnbWVzc2FnZV9pZCddID8/IG51bGwpICEhfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7ISEgRm9ybTo6YnV0dG9uKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJzxzcGFuIGNsYXNzPSJnbHlwaGljb24gZ2x5cGhpY29uLXRyYXNoIiBhcmlhLWhpZGRlbj0idHJ1ZSI+PC9zcGFuPicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2NsYXNzJyA9PiAnRGVsZXRlTWVzc2FnZUJ1dHRvbicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3R5cGUnICA9PiAnc3VibWl0JywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIF0pCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICEhfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHshISBGb3JtOjpjbG9zZSgpICEhfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBlbHNlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c21hbGwgY2xhc3M9Im10NSBwdWxsLXJpZ2h0Ij57eyRtZXNzYWdlWyd0aW1lJ119fTwvc21hbGw+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBlbmRjYW4K</text>
@@ -964,9 +965,9 @@
       </register>
     </registers>
     <search>
-      <last-search>DeleteContact</last-search>
+      <last-search>deleteContact</last-search>
       <last-offset />
-      <last-pattern>DeleteContact</last-pattern>
+      <last-pattern>deleteContact</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
       <last-dir>1</last-dir>
@@ -974,7 +975,6 @@
     </search>
     <history>
       <history-search>
-        <entry>オンライン発注詳細</entry>
         <entry>online</entry>
         <entry>order</entry>
         <entry>showOrderAssignCreateForm</entry>
@@ -994,6 +994,7 @@
         <entry>deleteMessage</entry>
         <entry>SagoooNavi\Application\UseCases\Admin\WorkGroup\DeleteContact</entry>
         <entry>DeleteContact</entry>
+        <entry>deleteContact</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

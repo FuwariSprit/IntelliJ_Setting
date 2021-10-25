@@ -250,8 +250,8 @@
         <mark key="." line="5" column="39" />
         <mark key="^" line="5" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/routes/web.php" timestamp="1634894609851">
-        <mark key="'" line="200" column="61" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/routes/web.php" timestamp="1635141334492">
+        <mark key="'" line="456" column="90" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/tests/TestCase/View/Helper/ImageHelperTest.php" timestamp="1632448829634">
         <mark key="[" line="61" column="17" />
@@ -271,11 +271,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="27" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Requests/Admin/WorkGroup/DeleteMessageRequest.php" timestamp="1634888624724">
-        <mark key="[" line="39" column="65" />
-        <mark key="]" line="39" column="77" />
-        <mark key="." line="39" column="77" />
-        <mark key="^" line="39" column="77" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Requests/Admin/WorkGroup/DeleteMessageRequest.php" timestamp="1635141740491">
+        <mark key="[" line="26" column="57" />
+        <mark key="]" line="26" column="64" />
+        <mark key="." line="26" column="64" />
+        <mark key="^" line="26" column="64" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/env/develop/anti_virus_check_scan_env.php" timestamp="1632185345170">
         <mark key="'" line="0" column="4" />
@@ -361,6 +361,7 @@
         <mark key="." line="777" column="58" />
         <mark key="^" line="777" column="58" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/app/Providers/AuthServiceProvider.php" timestamp="1635141104950" />
       <file name="$USER_HOME$/workspace/sagooo_navi/doc/esa/3_ 開発チケット/仕様書/WGはアサイン解除した時にアラートを出したい.md" timestamp="1632960841889" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Traits/WritingTrait.php" timestamp="1632278000951">
         <mark key="'" line="17" column="6" />
@@ -418,12 +419,11 @@
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_regulation_publish_request.php" timestamp="1633997421329" />
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_admin_online_order.php" timestamp="1631232274835" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/RegulationComponent.php" timestamp="1632181598131" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" timestamp="1634894561292">
-        <mark key="'" line="1360" column="11" />
-        <mark key="[" line="1515" column="0" />
-        <mark key="]" line="1515" column="0" />
-        <mark key="." line="1515" column="0" />
-        <mark key="^" line="1525" column="21" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" timestamp="1635141806809">
+        <mark key="[" line="1517" column="14" />
+        <mark key="]" line="1517" column="33" />
+        <mark key="^" line="1517" column="33" />
+        <mark key="." line="1517" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/public/js/admin/develop/index.js" timestamp="1633588071573">
         <mark key="[" line="149" column="34" />
@@ -458,7 +458,7 @@
       <file name="$USER_HOME$/workspace/sagooo_works/src/Utility/SalesForce/Client.php" timestamp="1632301694673">
         <mark key="'" line="42" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Requests/Admin/WorkGroup/DeleteUploadedFileRequest.php" timestamp="1634808518334" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Requests/Admin/WorkGroup/DeleteUploadedFileRequest.php" timestamp="1635141314093" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/DtbAppRequestsTable.php" timestamp="1634877261339">
         <mark key="[" line="336" column="102" />
         <mark key="]" line="336" column="102" />
@@ -477,8 +477,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2026" column="40" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/SalesDeliveryController.php" />
-      <jump line="384" column="11" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/SalesDeliveryController.php" />
       <jump line="399" column="19" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/SalesDeliveryController.php" />
       <jump line="416" column="37" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/SalesDeliveryController.php" />
       <jump line="1057" column="12" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/SalesDeliveryController.php" />
@@ -577,58 +575,60 @@
       <jump line="929" column="30" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/OfferRepository.php" />
       <jump line="914" column="32" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/OfferRepository.php" />
       <jump line="901" column="32" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/OfferRepository.php" />
+      <jump line="627" column="101" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
+      <jump line="456" column="90" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgJHdvcmtfZ3JvdXBfaW50ZXJ2aWV3X3VwZGF0ZV9pZCwK</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>が見つかりませんでした</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>isWeekend(</text>
+        <text>deleteUploadedFile</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ3dvcmtfZ3JvdXBfaW50ZXJ2aWV3X3VwZGF0ZV9pZC5yZXF1aXJlZCcgPT4gJ+ODoeODg+OCu+ODvOOCuElE44GM6KaL44Gk44GL44KK44G+44Gb44KT44Gn44GX44GfJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgJHdvcmtfZ3JvdXBfaW50ZXJ2aWV3X3VwZGF0ZV9pZCwK</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBpbnQgJHdvcmtHcm91cEludGVydmlld1VwZGF0ZUlkCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkd29ya0dyb3VwSW50ZXJ2aWV3VXBkYXRlSWQgPSAkcmVxdWVzdC0+d29yawo=</text>
+        <text encoding="base64">ICAgICAgICBSZXF1ZXN0ICRyZXF1ZXN0LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJycK</text>
+        <text encoding="base64">ICAgICAgICBpbnQgJHdvcmtHcm91cEludGVydmlld1VwZGF0ZUlkLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCiAqIOWPguiAg+ODleOCoeOCpOODq+OBruWJiumZpOOBruOBn+OCgeOBruODquOCr+OCqOOCueODiAogKi8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxDb2xsZWN0aW9uOwo=</text>
+        <text encoding="base64">LyoqCiAqIOWPguiAg+ODleOCoeOCpOODq+OBruWJiumZpOOBruOBn+OCgeOBruODquOCr+OCqOOCueODiAogKi8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog44Kq44Oa44Os44O844K/44O844Gu44Oh44OD44K744O844K444KS5YmK6Zmk44GZ44KLCiAgICAgKgogICAgICogQHBhcmFtIGludCAkd29ya0dyb3VwSW50ZXJ2aWV3VXBkYXRlSWQKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog44Kq44Oa44Os44O844K/44O844Gu44Oh44OD44K744O844K444KS5YmK6Zmk44GZ44KLCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIAogICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqCiAgICAgKiBAcGFyYW0gaW50ICR3b3JrR3JvdXBJbnRlcnZpZXdVcGRhdGVJZAogICAgICogQHJldHVybiB2b2lkCiAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>isWeekend(</last-search>
+      <last-search>deleteUploadedFile</last-search>
       <last-offset />
-      <last-pattern>isWeekend(</last-pattern>
+      <last-pattern>deleteUploadedFile</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
       <last-dir>1</last-dir>
@@ -636,9 +636,6 @@
     </search>
     <history>
       <history-search>
-        <entry>this.filters.including.forEach(in</entry>
-        <entry>interview</entry>
-        <entry>detail (</entry>
         <entry>function quit</entry>
         <entry>radio-inline</entry>
         <entry>class=&quot;radio-inline&quot;</entry>
@@ -656,6 +653,9 @@
         <entry>progressData</entry>
         <entry>progressDataListForWriting</entry>
         <entry>isWeekend(</entry>
+        <entry>DeleteUploadedFileRequest</entry>
+        <entry>deleteUploadedFileRequest</entry>
+        <entry>deleteUploadedFile</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

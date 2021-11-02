@@ -369,11 +369,11 @@
         <mark key="." line="30" column="59" />
         <mark key="^" line="30" column="59" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/public/js/admin/works/detail.js" timestamp="1635735550638">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="25" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/public/js/admin/works/detail.js" timestamp="1635848214058">
+        <mark key="[" line="348" column="0" />
+        <mark key="]" line="348" column="0" />
+        <mark key="." line="348" column="0" />
+        <mark key="^" line="326" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Routes/AdminRoutes.php" timestamp="1635468808260" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" timestamp="1632464505661">
@@ -395,8 +395,8 @@
         <mark key="." line="5" column="39" />
         <mark key="^" line="5" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/routes/web.php" timestamp="1635150612580">
-        <mark key="'" line="481" column="83" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/routes/web.php" timestamp="1635846587946">
+        <mark key="'" line="148" column="48" />
         <mark key="[" line="488" column="89" />
         <mark key="]" line="488" column="95" />
         <mark key="." line="488" column="95" />
@@ -458,12 +458,12 @@
         <mark key="^" line="89" column="166" />
         <mark key="." line="89" column="166" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/interview.blade.php" timestamp="1635731606127">
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/interview.blade.php" timestamp="1635846786337">
         <mark key="'" line="257" column="27" />
-        <mark key="[" line="258" column="143" />
-        <mark key="]" line="258" column="143" />
-        <mark key="." line="258" column="143" />
-        <mark key="^" line="280" column="187" />
+        <mark key="[" line="239" column="80" />
+        <mark key="]" line="239" column="15" />
+        <mark key="." line="239" column="15" />
+        <mark key="^" line="239" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/config/mail.php" timestamp="1630642639798">
         <mark key="[" line="134" column="0" />
@@ -655,11 +655,11 @@
         <mark key="]" line="611" column="32" />
         <mark key="." line="611" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" timestamp="1635739862965">
-        <mark key="[" line="742" column="0" />
-        <mark key="]" line="742" column="0" />
-        <mark key="^" line="742" column="144" />
-        <mark key="." line="742" column="0" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" timestamp="1635846752192">
+        <mark key="[" line="743" column="119" />
+        <mark key="]" line="743" column="126" />
+        <mark key="^" line="743" column="126" />
+        <mark key="." line="743" column="126" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/public/js/admin/develop/index.js" timestamp="1633588071573">
         <mark key="[" line="149" column="34" />
@@ -734,9 +734,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1213" column="26" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
-      <jump line="1211" column="9" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
-      <jump line="1234" column="26" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="2173" column="8" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Traits/WritingTrait.php" />
       <jump line="17" column="6" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Traits/WritingTrait.php" />
       <jump line="88" column="27" filename="$USER_HOME$/workspace/sagooo_works/tests/TestCase/Controller/Component/PixtaApiComponentTest.php" />
@@ -834,58 +831,61 @@
       <jump line="246" column="16" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/interview.blade.php" />
       <jump line="275" column="20" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/interview.blade.php" />
       <jump line="257" column="27" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/interview.blade.php" />
+      <jump line="488" column="91" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
+      <jump line="418" column="47" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
+      <jump line="148" column="48" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">e3sgc2Vzc2lvbignaXNfdXBkYXRlZF9pbnRlcnZpZXdfbWVtbycpIH19Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>メッセージ作成</text>
       </register>
       <register name="/" type="4">
-        <text>deleteContact</text>
+        <text>WorkGroupController@detail</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxhcnRpY2xlIGNsYXNzPSJwYW5lbCBwYW5lbC1kZWZhdWx0Ij4KICAgICAgICAgICAgICAgICAgICA8aGVhZGVyIGNsYXNzPSJwYW5lbC1oZWFkaW5nIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGg0IGNsYXNzPSJoNSBtdDAgbWIwIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIOabtOaWsOaXpeaZgjogMjAyMS0xMC0yNiAxNDo0MAogICAgICAgICAgICAgICAgICAgICAgICA8L2g0PgogICAgICAgICAgICAgICAgICAgIDwvaGVhZGVyPgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InBhbmVsLWJvZHkiPgogICAgICAgICAgICAgICAgICAgICAgICDmm7TmlrDlsaXmrbTjgpLooajnpLrjgZnjgovjgajjgYTjgYbjg5zjgr/jg7PjgpI8c3BhbiBzdHlsZT0iYmFja2dyb3VuZDogI2VkYjZiMDsgcGFkZGluZzogMCA1cHg7IG1hcmdpbjogMCAycHg7IGZvbnQtd2VpZ2h0OiBib2xkOyBib3JkZXItcmFkaXVzOiAzcHg7Ij7jgq/jg6rjg4Pjgq/jgZnjgos8L3NwYW4+44GT44Go44Gn5pu05paw5bGl5q2044GM6KGo56S644GV44KM44G+44GZ44CC5pu05paw5bGl5q2044Gv5pu05paw5pel5pmC44KS5Z+65rqW44Gr6ZmN6aCG44Gn6KGo56S644GV44KM44G+44GZ44CCPHNwYW4gc3R5bGU9ImJhY2tncm91bmQ6ICNlZGI2YjA7IHBhZGRpbmc6IDAgNXB4OyBtYXJnaW46IDAgMnB4OyBmb250LXdlaWdodDogYm9sZDsgYm9yZGVyLXJhZGl1czogM3B4OyI+44GT44GT44Gu5paH56ug44Gv5YmK6Zmk44GX44G+44GZ44CCPC9zcGFuPgogICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPC9hcnRpY2xlPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">e3sgc2Vzc2lvbignaXNfdXBkYXRlZF9pbnRlcnZpZXdfbWVtbycpIH19Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKFBIUF9WQVJTKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVxdWVzdC0+c2Vzc2lvbigpLT4K</text>
+        <text encoding="base64">ICAgIC8vIOODoeODg+OCu+ODvOOCuOS9nOaIkOODouODvOODgOODq+OCkumWi+OBjwogICAgY29uc3Qgb3Blbk1lc3NhZ2VNb2RhbCA9IChjbGFzc05hbWUsIHdvcmtHcm91cEludGVydmlld0lkKSA9PiB7CiAgICAgICAgJCgiLmpzLW1lc3NhZ2Utd29yay1ncm91cC1pbnRlcnZpZXctaWQiKS52YWwod29ya0dyb3VwSW50ZXJ2aWV3SWQpOwogICAgICAgICQoIi5qcy1tZXNzYWdlLWZvcm0tc2VuZCIpLmF0dHIoImRpc2FibGVkIiwgdHJ1ZSk7CiAgICAgICAgJChjbGFzc05hbWUpLm1vZGFsKCk7CiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gc3R5bGU9ImJhY2tncm91bmQ6ICM5ZWM0Yjg7IHBhZGRpbmc6IDAgNXB4OyBtYXJnaW46IDAgMnB4OyBmb250LXdlaWdodDogYm9sZDsgYm9yZGVyLXJhZGl1czogM3B4OyI+44GT44KM44Gv5pu05paw5bGl5q2044Gu44OG44K544OI44Oh44OD44K744O844K444Gn44GZ44CCPC9zcGFuPuabtOaWsOWxpeattOOCkuihqOekuuOBmeOCi+OBqOOBhOOBhuODnOOCv+ODs+OCkjxzcGFuIHN0eWxlPSJiYWNrZ3JvdW5kOiAjY2VjMDc2OyBwYWRkaW5nOiAwIDVweDsgbWFyZ2luOiAwIDJweDsgZm9udC13ZWlnaHQ6IGJvbGQ7IGJvcmRlci1yYWRpdXM6IDNweDsiPuOCr+ODquODg+OCr+OBmeOCizwvc3Bhbj7jgZPjgajjgafmm7TmlrDlsaXmrbTjgYzooajnpLrjgZXjgozjgb7jgZnjgILmm7TmlrDlsaXmrbTjga/mm7TmlrDml6XmmYLjgpLln7rmupbjgavpmY3poIbjgafooajnpLrjgZXjgozjgb7jgZnjgIIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAg44G744GS44G744GS44G744GS44G144GM44G144GM44G144GM44G044KI44G044KI44G044KI44G744GS44G744GS44G744GS44G144GM44G144GM44G144GM44G044KI44G044KI44G044KI44G744GS44G744GS44G744GS44G144GM44G144GM44G144GM44G044KI44G044KI44G044KI44G044KI44G044KICg==</text>
+        <text encoding="base64">ICAgIC8vIOOCr+OCqOODquODkeODqeODoeODvOOCv+OBq+WApOOBjOOBquOBhOWgtOWQiAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAg44G744GS44G744GS44G744GSPHNwYW4gc3R5bGU9ImJhY2tncm91bmQ6ICNlZGI2YjA7IHBhZGRpbmc6IDAgNXB4OyBtYXJnaW46IDAgMnB4OyBmb250LXdlaWdodDogYm9sZDsgYm9yZGVyLXJhZGl1czogM3B4OyI+44G144GM44G144GM44G144GMPC9zcGFuPuOBtOOCiOOBtOOCiOOBtOOCiOOBu+OBkuOBu+OBkuOBu+OBkuOBteOBjOOBteOBjOOBteOBjOOBtOOCiOOBtOOCiOOBtOOCiOOBu+OBkuOBu+OBkuOBu+OBkuOBteOBjOOBteOBjOOBteOBjOOBtOOCiOOBtOOCiOOBtOOCiDxzcGFuIHN0eWxlPSJiYWNrZ3JvdW5kOiAjOWVjNGI4OyBwYWRkaW5nOiAwIDVweDsgbWFyZ2luOiAwIDJweDsgZm9udC13ZWlnaHQ6IGJvbGQ7IGJvcmRlci1yYWRpdXM6IDNweDsiPuOBu+OBkuOBu+OBkuOBu+OBkuOBteOBjOOBteOBjOOBteOBjOOBtOOCiDwvc3Bhbj7jgbTjgojjgbTjgogK</text>
+        <text encoding="base64">ICAgIGlmICgpIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c3BhbiBzdHlsZT0iYmFja2dyb3VuZDogIzllYzRiODsgcGFkZGluZzogMCA1cHg7IG1hcmdpbjogMCAycHg7IGZvbnQtd2VpZ2h0OiBib2xkOyBib3JkZXItcmFkaXVzOiAzcHg7Ij4+6L+95Yqg44GV44KM44Gf5paH5a2XPC9zcGFuPgo=</text>
+        <text encoding="base64">ICAgIC8vIOOCr+OCqOODquODkeODqeODoeODvOOCv+OBq+WApOOBjOOBquOBhOWgtOWQiAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0icGFuZWwtYm9keSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICDjgbvjgZLjgbvjgZLjgbvjgZIKICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAkKCIuanMtbWVzc2FnZS13b3JrLWdyb3VwLWludGVydmlldy1pZCIpLnZhbCh3b3JrR3JvdXBJbnRlcnZpZXdJZCk7CiAgICAgICAgJCgiLmpzLW1lc3NhZ2UtZm9ybS1zZW5kIikuYXR0cigiZGlzYWJsZWQiLCB0cnVlKTsKICAgICAgICAkKGNsYXNzTmFtZSkubW9kYWwoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>deleteContact</last-search>
+      <last-search>WorkGroupController@detail</last-search>
       <last-offset />
-      <last-pattern>deleteContact</last-pattern>
+      <last-pattern>WorkGroupController@detail</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
       <last-dir>1</last-dir>
@@ -893,8 +893,6 @@
     </search>
     <history>
       <history-search>
-        <entry>online</entry>
-        <entry>order</entry>
         <entry>showOrderAssignCreateForm</entry>
         <entry>Client</entry>
         <entry>ClientMypageOrder</entry>
@@ -913,6 +911,8 @@
         <entry>SagoooNavi\Application\UseCases\Admin\WorkGroup\DeleteContact</entry>
         <entry>DeleteContact</entry>
         <entry>deleteContact</entry>
+        <entry>Admin\WorkGroupController@detail</entry>
+        <entry>WorkGroupController@detail</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

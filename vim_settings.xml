@@ -255,7 +255,7 @@
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/SagoooS3Table.php" timestamp="1632180123682" />
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_salesforce.php" timestamp="1631872034231" />
-      <file name="$USER_HOME$/workspace/tact/resources/views/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.blade.php" timestamp="1636356195260">
+      <file name="$USER_HOME$/workspace/tact/resources/views/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.blade.php" timestamp="1636357771129">
         <mark key="'" line="155" column="40" />
         <mark key="[" line="165" column="119" />
         <mark key="]" line="165" column="120" />
@@ -335,6 +335,7 @@
         <mark key="." line="488" column="95" />
         <mark key="^" line="488" column="95" />
       </file>
+      <file name="$USER_HOME$/workspace/tact/resources/assets/js/components/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words/ResultRow.vue" timestamp="1636358010405" />
       <file name="$USER_HOME$/workspace/sagooo_works/tests/TestCase/View/Helper/ImageHelperTest.php" timestamp="1632448829634">
         <mark key="[" line="61" column="17" />
         <mark key="]" line="61" column="17" />
@@ -510,11 +511,12 @@
         <mark key="^" line="5" column="39" />
         <mark key="." line="5" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.js" timestamp="1636355826555">
-        <mark key="'" line="489" column="43" />
-        <mark key="[" line="622" column="0" />
-        <mark key="]" line="622" column="0" />
-        <mark key="." line="622" column="0" />
+      <file name="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.js" timestamp="1636358388283">
+        <mark key="'" line="447" column="8" />
+        <mark key="[" line="496" column="98" />
+        <mark key="]" line="496" column="123" />
+        <mark key="." line="496" column="98" />
+        <mark key="^" line="478" column="106" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/docker/services/node/Dockerfile" timestamp="1634536991023">
         <mark key="[" line="0" column="10" />
@@ -634,8 +636,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="44" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Domain/Models/Admin/MessageRepository.php" />
-      <jump line="18" column="4" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/Admin/WorkGroup/DeleteReferenceFile.php" />
       <jump line="501" column="24" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/OfferRepository.php" />
       <jump line="902" column="16" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/OfferRepository.php" />
       <jump line="933" column="28" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/OfferRepository.php" />
@@ -734,19 +734,21 @@
       <jump line="489" column="43" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.js" />
       <jump line="199" column="94" filename="$USER_HOME$/workspace/tact/resources/views/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.blade.php" />
       <jump line="155" column="40" filename="$USER_HOME$/workspace/tact/resources/views/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.blade.php" />
+      <jump line="64" column="34" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.js" />
+      <jump line="447" column="8" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>100</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>100</text>
       </register>
       <register name="/" type="4">
-        <text>使用率</text>
+        <text>displayResults</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJwYW5lbC1mb290ZXIiPgogICAgICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIGNsYXNzPSJtdDUgbWI1IGJ0biBidG4tZGVmYXVsdCBidG4tYmxvY2siIGRhdGEtdG9nZ2xlPSJjb2xsYXBzZSIgZGF0YS10YXJnZXQ9IiNob2dlaG9nZTEiPuWFqOaWh+OCkuihqOekuuOBmeOCizwvYnV0dG9uPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGlkPSJob2dlaG9nZTEiIGNsYXNzPSJjb2xsYXBzZSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICDliY3lvozjgavlhaXjgaPjgabjgYTjgovjgajjgabjgoLplbfjgYTmnKzmloc8YnI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICDliY3lvozjgavlhaXjgaPjgabjgYTjgovjgajjgabjgoLplbfjgYTmnKzmloc8YnI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICDliY3lvozjgavlhaXjgaPjgabjgYTjgovjgajjgabjgoLplbfjgYTmnKzmloc8YnI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICDliY3lvozjgavlhaXjgaPjgabjgYTjgovjgajjgabjgoLplbfjgYTmnKzmloc8YnI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICDliY3lvozjgavlhaXjgaPjgabjgYTjgovjgajjgabjgoLplbfjgYTmnKzmloc8YnI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICDliY3lvozjgavlhaXjgaPjgabjgYTjgovjgajjgabjgoLplbfjgYTmnKzmloc8YnI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICDliY3lvozjgavlhaXjgaPjgabjgYTjgovjgajjgabjgoLplbfjgYTmnKzmloc8YnI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICDliY3lvozjgavlhaXjgaPjgabjgYTjgovjgajjgabjgoLplbfjgYTmnKzmloc8YnI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICDjgZPjgozjga/mm7TmlrDlsaXmrbTjga7jg4bjgrnjg4jjg6Hjg4Pjgrvjg7zjgrjjgafjgZnjgILmm7TmlrDlsaXmrbTjgpLooajnpLrjgZnjgovjgajjgYTjgYbjg5zjgr/jg7PjgpLmirzjgZnjgZPjgajjgafmm7TmlrDlsaXmrbTjgYzooajnpLrjgZXjgozjgb7jgZnjgILmm7TmlrDlsaXmrbTjga/mm7TmlrDml6XmmYLjgpLln7rmupbjgavpmY3poIbjgafooajnpLrjgZXjgozjgb7jgZnjgII8YnI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICDliY3lvozjgavlhaXjgaPjgabjgYTjgovjgajjgabjgoLplbfjgYTmnKzmloc8YnI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICDliY3lvozjgavlhaXjgaPjgabjgYTjgovjgajjgabjgoLplbfjgYTmnKzmloc8YnI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICDliY3lvozjgavlhaXjgaPjgabjgYTjgovjgajjgabjgoLplbfjgYTmnKzmloc8YnI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICDliY3lvozjgavlhaXjgaPjgabjgYTjgovjgajjgabjgoLplbfjgYTmnKzmloc8YnI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICDliY3lvozjgavlhaXjgaPjgabjgYTjgovjgajjgabjgoLplbfjgYTmnKzmloc8YnI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICDliY3lvozjgavlhaXjgaPjgabjgYTjgovjgajjgabjgoLplbfjgYTmnKzmloc8YnI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICDliY3lvozjgavlhaXjgaPjgabjgYTjgovjgajjgabjgoLplbfjgYTmnKzmloc8YnI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICDliY3lvozjgavlhaXjgaPjgabjgYTjgovjgajjgabjgoLplbfjgYTmnKzmloc8YnI+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+      <register name="0" type="4">
+        <text>this.filters.pages.length</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGk+JTwvbGk+Cg==</text>
@@ -783,9 +785,9 @@
       </register>
     </registers>
     <search>
-      <last-search>使用率</last-search>
+      <last-search>displayResults</last-search>
       <last-offset />
-      <last-pattern>使用率</last-pattern>
+      <last-pattern>displayResults</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
       <last-dir>1</last-dir>
@@ -793,7 +795,6 @@
     </search>
     <history>
       <history-search>
-        <entry>isWeekend(</entry>
         <entry>DeleteUploadedFileRequest</entry>
         <entry>deleteUploadedFileRequest</entry>
         <entry>deleteUploadedFile</entry>
@@ -813,6 +814,7 @@
         <entry>tmpFilters</entry>
         <entry>width: 75px;</entry>
         <entry>使用率</entry>
+        <entry>displayResults</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

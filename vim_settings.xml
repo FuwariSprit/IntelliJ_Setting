@@ -617,11 +617,11 @@
       <file name="$USER_HOME$/workspace/sagooo_works/src/Domain/SalseForceContractInformationData.php" timestamp="1632301666456">
         <mark key="'" line="29" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/WorkGroupController.php" timestamp="1636535427266">
-        <mark key="'" line="56" column="6" />
-        <mark key="[" line="433" column="61" />
-        <mark key="]" line="433" column="61" />
-        <mark key="." line="433" column="61" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/WorkGroupController.php" timestamp="1637140994080">
+        <mark key="'" line="433" column="74" />
+        <mark key="[" line="433" column="74" />
+        <mark key="]" line="433" column="74" />
+        <mark key="." line="433" column="74" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/config/mail.php" timestamp="1630642639798">
         <mark key="[" line="134" column="0" />
@@ -729,7 +729,7 @@
         <mark key="." line="45" column="43" />
         <mark key="^" line="45" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" timestamp="1637136059499">
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" timestamp="1637141328463">
         <mark key="'" line="3127" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/DeliveryDownloadComponent.php" timestamp="1632291121220">
@@ -899,8 +899,8 @@
         <mark key="]" line="611" column="32" />
         <mark key="." line="611" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" timestamp="1637131069101">
-        <mark key="'" line="730" column="14" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" timestamp="1637140187662">
+        <mark key="'" line="735" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/public/js/admin/develop/index.js" timestamp="1633588071573">
         <mark key="[" line="149" column="34" />
@@ -948,7 +948,7 @@
         <mark key="^" line="48" column="93" />
         <mark key="." line="48" column="93" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" timestamp="1635146788843">
+      <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" timestamp="1637140569686">
         <mark key="'" line="3393" column="8" />
         <mark key="[" line="1585" column="76" />
         <mark key="]" line="1585" column="76" />
@@ -1021,8 +1021,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1540" column="14" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
-      <jump line="127" column="56" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="246" column="16" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/interview.blade.php" />
       <jump line="275" column="20" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/interview.blade.php" />
       <jump line="257" column="27" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/interview.blade.php" />
@@ -1121,16 +1119,18 @@
       <jump line="482" column="16" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientOnlineOrder/OrderForm/base_form_entry.ctp" />
       <jump line="69" column="68" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="730" column="14" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
+      <jump line="735" column="22" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
+      <jump line="433" column="74" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/WorkGroupController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPD9waHAgaWYgKGlzc2V0KCRlcnJvclsnb3ZlcnZpZXcnXSkpIDo/PgogICAgICAgICAgICAgICAgPGRpdiBpZD0iZXJyb3IiIGNsYXNzPSJhbGVydCBhbGVydC1kYW5nZXIiPgogICAgICAgICAgICAgICAgICAgIDw/cGhwIGVjaG8gJGVycm9yWydvdmVydmlldyddOyA/PgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDw/cGhwIGVuZGlmOz8+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
-        <text>EditInterviewMemo</text>
+        <text>function detail</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPD9waHAgaWYgKGVtcHR5KCRyZXF1ZXN0RGF0YVsnRHRiT25saW5lT3JkZXJEZXRhaWxzJ11bJ3dvcmtfb3ZlcnZpZXcnXSkpOiA/PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iYWxlcnQgYWxlcnQtd2FybmluZyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHA+44K144Kw44O844Ov44O844Kv44K56YGL5Za25LqL5YuZ5bGA44Gr44Gm5L+u5q2j44GX44Gf44GC44Go44Gu5YaF5a6544GM5YWl5Yqb44GV44KM44Gm44GE44G+44GZ44Gu44Gn44GU56K66KqN44GP44Gg44GV44GE44CCPC9wPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgIDw/cGhwIGVuZGlmOyA/Pgo=</text>
@@ -1174,9 +1174,9 @@
       </register>
     </registers>
     <search>
-      <last-search>EditInterviewMemo</last-search>
+      <last-search>function detail</last-search>
       <last-offset />
-      <last-pattern>EditInterviewMemo</last-pattern>
+      <last-pattern>function detail</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
       <last-dir>1</last-dir>
@@ -1184,7 +1184,6 @@
     </search>
     <history>
       <history-search>
-        <entry>検索上位ページの使用状況</entry>
         <entry>setFilter</entry>
         <entry>tmpFilters</entry>
         <entry>width: 75px;</entry>
@@ -1204,6 +1203,7 @@
         <entry>entry_easy</entry>
         <entry>どのような内容について書いてほしいかを記載してください。</entry>
         <entry>EditInterviewMemo</entry>
+        <entry>function detail</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

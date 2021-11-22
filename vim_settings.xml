@@ -3,6 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientMypageOrderController.php" timestamp="1637555344470">
+        <mark key="'" line="759" column="11" />
+        <mark key="[" line="772" column="9" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/config/session_keys.php" timestamp="1635735161181">
         <mark key="[" line="45" column="5" />
         <mark key="]" line="45" column="4" />
@@ -738,10 +742,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="198" column="0" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis.js" />
-      <jump line="223" column="0" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis.js" />
-      <jump line="225" column="0" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis.js" />
-      <jump line="227" column="0" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis.js" />
       <jump line="229" column="0" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis.js" />
       <jump line="231" column="0" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis.js" />
       <jump line="233" column="0" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis.js" />
@@ -838,6 +838,10 @@
       <jump line="587" column="46" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis.js" />
       <jump line="1449" column="16" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis.js" />
       <jump line="410" column="44" filename="$USER_HOME$/workspace/tact/app/Http/Controllers/SeoImprovement/RankFactorAnalysis/PageAnalysisController.php" />
+      <jump line="234" column="48" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientMypageOrderController.php" />
+      <jump line="242" column="81" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientMypageOrderController.php" />
+      <jump line="716" column="11" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientMypageOrderController.php" />
+      <jump line="759" column="11" filename="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientMypageOrderController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -847,7 +851,7 @@
         <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>clipboard</text>
+        <text>function settlement</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIOOBqeOBruOCiOOBhuOBquWGheWuueOBq+OBpOOBhOOBpuabuOOBhOOBpuOBu+OBl+OBhOOBi+OCkuiomOi8ieOBl+OBpuOBj+OBoOOBleOBhOOAgjxicj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIOOBk+OBk+OBp+iomOi8ieOBmeOCi+iomOS6i+OBruWGheWuueOBr+OAgeWFqOiomOS6i+WFsemAmuOBruWGheWuueOBq+OBquOCiuOBvuOBmeOAgjxicj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIOiomOS6i+OBlOOBqOOBruaMh+WumuOBq+OBpOOBhOOBpuOBr+OAgeOCreODvOODr+ODvOODieOCkuaMh+WumuOBhOOBn+OBoOOBj0V4Y2Vs44OV44Kh44Kk44Or44Gr44Gm5oyH56S644Gn44GN44G+44GZ44CCCg==</text>
@@ -887,9 +891,9 @@
       </register>
     </registers>
     <search>
-      <last-search>clipboard</last-search>
+      <last-search>function settlement</last-search>
       <last-offset />
-      <last-pattern>clipboard</last-pattern>
+      <last-pattern>function settlement</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
       <last-dir>1</last-dir>
@@ -897,9 +901,6 @@
     </search>
     <history>
       <history-search>
-        <entry>downloadCSV</entry>
-        <entry>formattedParameters</entry>
-        <entry>downloadParameters</entry>
         <entry>vueData</entry>
         <entry>downloadPara</entry>
         <entry>mounted</entry>
@@ -917,6 +918,9 @@
         <entry>多重</entry>
         <entry>isSubmittable</entry>
         <entry>clipboard</entry>
+        <entry>setlement</entry>
+        <entry>settlement</entry>
+        <entry>function settlement</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

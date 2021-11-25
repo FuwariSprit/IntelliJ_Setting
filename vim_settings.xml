@@ -269,11 +269,10 @@
       <file name="$USER_HOME$/workspace/sagooo_works/src/Model/Table/SagoooS3Table.php" timestamp="1632180123682" />
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_salesforce.php" timestamp="1631872034231" />
       <file name="$USER_HOME$/workspace/tact/resources/views/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.blade.php" timestamp="1637567704689">
-        <mark key="'" line="158" column="89" />
-        <mark key="[" line="307" column="0" />
-        <mark key="]" line="307" column="0" />
-        <mark key="^" line="307" column="21" />
-        <mark key="." line="307" column="0" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="^" line="81" column="21" />
+        <mark key="." line="81" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Component/WritingSegmentComponent.php" timestamp="1632280259735">
         <mark key="'" line="0" column="0" />
@@ -445,6 +444,12 @@
         <mark key="^" line="333" column="39" />
         <mark key="." line="333" column="39" />
       </file>
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/sass/service/utility/index.scss" timestamp="1636346814138">
+        <mark key="[" line="74" column="18" />
+        <mark key="]" line="74" column="18" />
+        <mark key="." line="74" column="18" />
+        <mark key="^" line="74" column="18" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_cashpost.php" timestamp="1636597427231" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Pages/Client/ClientMypageOrder/detail.ctp" timestamp="1636702021829">
         <mark key="'" line="61" column="20" />
@@ -579,12 +584,8 @@
         <mark key="^" line="5" column="39" />
         <mark key="." line="5" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.js" timestamp="1637573664827">
-        <mark key="'" line="820" column="43" />
-        <mark key="[" line="752" column="28" />
-        <mark key="]" line="752" column="28" />
-        <mark key="." line="752" column="28" />
-        <mark key="^" line="752" column="28" />
+      <file name="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.js" timestamp="1637799073917">
+        <mark key="'" line="739" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/docker/services/node/Dockerfile" timestamp="1634536991023">
         <mark key="[" line="0" column="10" />
@@ -593,10 +594,10 @@
         <mark key="^" line="0" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/tact/public/js/common.js" timestamp="1637573449056">
-        <mark key="[" line="263" column="0" />
-        <mark key="]" line="263" column="0" />
-        <mark key="." line="263" column="0" />
-        <mark key="^" line="257" column="23" />
+        <mark key="[" line="260" column="0" />
+        <mark key="]" line="260" column="0" />
+        <mark key="." line="260" column="0" />
+        <mark key="^" line="256" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminPixtaImageController.php" timestamp="1631504429224" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Admin/AdminApproval/article.ctp" timestamp="1636080649212" />
@@ -725,8 +726,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="273" column="11" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis.js" />
-      <jump line="64" column="0" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis.js" />
       <jump line="62" column="0" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis.js" />
       <jump line="60" column="0" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis.js" />
       <jump line="58" column="0" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis.js" />
@@ -825,68 +824,67 @@
       <jump line="757" column="19" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.js" />
       <jump line="819" column="43" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.js" />
       <jump line="261" column="12" filename="$USER_HOME$/workspace/tact/public/js/common.js" />
+      <jump line="772" column="22" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.js" />
+      <jump line="830" column="9" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis/cooccurrence_words.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiDooajjga7lhoXlrrnjgpJDU1bjgoTjgq/jg6rjg4Pjg5fjg5zjg7zjg4njgavjgrPjg5Tjg7zlh7rmnaXjgovjgojjgYbjgavlpInmj5vjgZnjgosKICAgICAgICAgKi8KICAgICAgICBjb252ZXJ0VGFibGVUb0NzdjogZnVuY3Rpb24gKGlzQWxsKSB7CiAgICAgICAgfSwK</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpZlw+</text>
+        <text>convertTableToCsv</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgY29udGVudCA9IFtdOwoKICAgICAgICAgICAgLy8g44OY44OD44OA6KGMCiAgICAgICAgICAgIGNvbnN0IGhlYWRlcnMgPSBbCiAgICAgICAgICAgICAgICAnJywKICAgICAgICAgICAgICAgICfmpJzntKLkuIrkvY3jg5rjg7zjgrgnLAogICAgICAgICAgICAgICAgJycsCiAgICAgICAgICAgIF07CgogICAgICAgICAgICBjb25zdCBzdWJIZWFkZXJzID0gWwogICAgICAgICAgICAgICAgJ+WFsei1t+iqnicsCiAgICAgICAgICAgICAgICAn5L2/55So546HJywKICAgICAgICAgICAgICAgICflubPlnYfkvb/nlKjlm57mlbAnLAogICAgICAgICAgICBdOwoKICAgICAgICAgICAgaWYgKHRoaXMuaGFzQW5hbHlzaXNVcmwpIHsKICAgICAgICAgICAgICAgIGhlYWRlcnMucHVzaCgn6Kq/5p+7VVJMJywgJycsICcnKTsKICAgICAgICAgICAgICAgIHN1YkhlYWRlcnMucHVzaCgn5L2/55So5Zue5pWwJywgJ+W5s+Wdh+OBqOOBruW3ricsICfkvb/nlKjnirbms4EnKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgY29udGVudC5wdXNoKF9jb252ZXJ0VG9Dc3ZSb3coaGVhZGVycykpOwogICAgICAgICAgICBjb250ZW50LnB1c2goX2NvbnZlcnRUb0NzdlJvdyhzdWJIZWFkZXJzKSk7CgogICAgICAgICAgICBsZXQgY29sdW1ucyA9IFtdOwogICAgICAgICAgICBpZiAoaXNBbGwpIHsKICAgICAgICAgICAgICAgIGNvbHVtbnMgPSB0aGlzLmZvcm1hdHRlZERvd25sb2FkQWxsUmVzdWx0cy5tYXAoKGVsZW1lbnQpID0+IHsKICAgICAgICAgICAgICAgICAgICBjb25zdCBpdGVtID0gW107CiAgICAgICAgICAgICAgICAgICAgaXRlbS5wdXNoKGVsZW1lbnQua2V5d29yZCwgZWxlbWVudC5hbGxQYWdlVXNhZ2VQZXJjZW50YWdlICsgJyUnLCBlbGVtZW50LmFsbFBhZ2VBdmVyYWdlV29yZENvdW50KTsKICAgICAgICAgICAgICAgICAgICBpZiAodGhpcy5oYXNBbmFseXNpc1VybCkgewogICAgICAgICAgICAgICAgICAgICAgICBsZXQgaGFzQW5hbHlzaXNQYWdlU3R5bGUgPSAn5pyq5L2/55SoJzsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGVsZW1lbnQuaGFzQW5hbHlzaXNQYWdlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBoYXNBbmFseXNpc1BhZ2VTdHlsZSA9IGVsZW1lbnQuaXNFeGNlZWRBdmVyYWdlV29yZENvdW50ID8gJ+S9v+eUqO+8iOW5s+Wdh+S7peS4iu+8iScgOiAn5L2/55So77yI5bmz5Z2H5pyq5rqA77yJJzsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICBpdGVtLnB1c2goZWxlbWVudC5hbmFseXNpc1dvcmRDb3VudCwgZWxlbWVudC5kaWZmZXJlbmNlVmFsdWUsIGhhc0FuYWx5c2lzUGFnZVN0eWxlKTsKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIHJldHVybiBpdGVtOwogICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjb2x1bW5zID0gdGhpcy5maWx0ZXJlZFJlc3VsdHMubWFwKChlbGVtZW50KSA9PiB7CiAgICAgICAgICAgICAgICAgICAgY29uc3QgaXRlbSA9IFtdOwogICAgICAgICAgICAgICAgICAgIGl0ZW0ucHVzaChlbGVtZW50LmtleXdvcmQsIGVsZW1lbnQudXNhZ2VQZXJjZW50YWdlICsgJyUnLCBlbGVtZW50LmF2ZXJhZ2VXb3JkQ291bnQpOwogICAgICAgICAgICAgICAgICAgIGlmICh0aGlzLmhhc0FuYWx5c2lzVXJsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGxldCBoYXNBbmFseXNpc1BhZ2VTdHlsZSA9ICfmnKrkvb/nlKgnOwogICAgICAgICAgICAgICAgICAgICAgICBpZiAoZWxlbWVudC5oYXNBbmFseXNpc1BhZ2UpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhhc0FuYWx5c2lzUGFnZVN0eWxlID0gZWxlbWVudC5pc0V4Y2VlZEF2ZXJhZ2VXb3JkQ291bnQgPyAn5L2/55So77yI5bmz5Z2H5Lul5LiK77yJJyA6ICfkvb/nlKjvvIjlubPlnYfmnKrmuoDvvIknOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIGl0ZW0ucHVzaChlbGVtZW50LmFuYWx5c2lzV29yZENvdW50LCBlbGVtZW50LmRpZmZlcmVuY2VWYWx1ZSwgaGFzQW5hbHlzaXNQYWdlU3R5bGUpOwogICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGl0ZW07CiAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgY29sdW1ucy5tYXAoKGNvbHVtbikgPT4gewogICAgICAgICAgICAgICAgLy8g6KGM44KS6L+95YqgCiAgICAgICAgICAgICAgICBjb250ZW50LnB1c2goX2NvbnZlcnRUb0NzdlJvdyhjb2x1bW4pKTsKICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRlbnQucHVzaChfY29udmVydFRvVHN2Um93KGNvbHVtbikpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29sdW1ucwoK</text>
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiDooajjga7lhoXlrrnjgpJDU1bjgoTjgq/jg6rjg4Pjg5fjg5zjg7zjg4njgavjgrPjg5Tjg7zlh7rmnaXjgovjgojjgYbjgavlpInmj5vjgZnjgosKICAgICAgICAgKi8KICAgICAgICBjb252ZXJ0VGFibGVUb0NzdjogZnVuY3Rpb24gKGlzQWxsKSB7CiAgICAgICAgfSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy99Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coY29udGVudCk7Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g5pei44Gr44CMIuOAjeOBjOWFpeOBo+OBpuOBhOOCi+WgtOWQiOOBr+e9ruaPm+WHpueQhuOCkuihjOOCj+OBquOBhAogICAgICAgICAgICAvL2lmICh2YWx1ZS5zZWFyY2goLyIvZykgPT09IC0xKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRlbnQucHVzaChjb2x1bW4pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codmFsdWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29sdW1ucwoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsdWUgPSB2YWx1ZS5yZXBsYWNlKC8iL2csICciIicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy99Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g5pei44Gr44CMIuOAjeOBjOWFpeOBo+OBpuOBhOOCi+WgtOWQiOOBr+e9ruaPm+WHpueQhuOCkuihjOOCj+OBquOBhAogICAgICAgICAgICAvL2lmICh2YWx1ZS5zZWFyY2goLyIvZykgPT09IC0xKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgY29udGVudCA9IFtdOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codmFsdWUpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsdWUgPSB2YWx1ZS5yZXBsYWNlKC8iL2csICciIicpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpZlw+</last-search>
+      <last-search>convertTableToCsv</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpZlw+</last-pattern>
+      <last-pattern>convertTableToCsv</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>isToastNotification</entry>
-        <entry>トースト</entry>
-        <entry>csv</entry>
         <entry>ThemeComparisonController</entry>
         <entry>多重</entry>
         <entry>isSubmittable</entry>
@@ -904,6 +902,9 @@
         <entry>isSubmit</entry>
         <entry>isLoading</entry>
         <entry encoding="base64">XDxpZlw+</entry>
+        <entry encoding="base64">XDxfY29udmVydFRvVHN2Um93XD4=</entry>
+        <entry>console</entry>
+        <entry>convertTableToCsv</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

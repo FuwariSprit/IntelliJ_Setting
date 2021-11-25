@@ -666,6 +666,9 @@
       <file name="$USER_HOME$/workspace/sagooo_works/src/Domain/SalseForceContractInformationData.php" timestamp="1632301666456">
         <mark key="'" line="29" column="18" />
       </file>
+      <file name="$USER_HOME$/workspace/tact/tests/Unit/Services/SiteDiagnosis/DiagnosisLoaderTest.php" timestamp="1637811981105">
+        <mark key="'" line="74" column="13" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/config/mail.php" timestamp="1630642639798">
         <mark key="[" line="134" column="0" />
         <mark key="]" line="134" column="0" />
@@ -1128,8 +1131,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1493" column="8" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis.js" />
-      <jump line="106" column="8" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis.js" />
       <jump line="1494" column="17" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis.js" />
       <jump line="1479" column="33" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis.js" />
       <jump line="1447" column="21" filename="$USER_HOME$/workspace/tact/resources/assets/js/entry_points/seo_improvement/rank_factor_analysis/page_analysis.js" />
@@ -1228,6 +1229,8 @@
       <jump line="608" column="0" filename="$USER_HOME$/workspace/tact/app/Http/Controllers/SeoImprovement/RankFactorAnalysis/PageAnalysisController.php" />
       <jump line="5" column="0" filename="$USER_HOME$/workspace/tact/app/Http/Controllers/SeoImprovement/RankFactorAnalysis/PageAnalysisController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/tact/app/Http/Controllers/SeoImprovement/RankFactorAnalysis/PageAnalysisController.php" />
+      <jump line="21" column="6" filename="$USER_HOME$/workspace/tact/tests/Unit/Services/SiteDiagnosis/DiagnosisLoaderTest.php" />
+      <jump line="74" column="13" filename="$USER_HOME$/workspace/tact/tests/Unit/Services/SiteDiagnosis/DiagnosisLoaderTest.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1237,7 +1240,7 @@
         <text>\</text>
       </register>
       <register name="/" type="4">
-        <text>formattedPara</text>
+        <text>診断結果が存在する場合、結果配列を返すこと</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxDb2xsZWN0aW9uOwo=</text>
@@ -1277,9 +1280,9 @@
       </register>
     </registers>
     <search>
-      <last-search>formattedPara</last-search>
+      <last-search>診断結果が存在する場合、結果配列を返すこと</last-search>
       <last-offset />
-      <last-pattern>formattedPara</last-pattern>
+      <last-pattern>診断結果が存在する場合、結果配列を返すこと</last-pattern>
       <last-replace>assigned</last-replace>
       <last-substitute>andRe</last-substitute>
       <last-dir>1</last-dir>
@@ -1287,7 +1290,6 @@
     </search>
     <history>
       <history-search>
-        <entry>isLoading</entry>
         <entry encoding="base64">XDxpZlw+</entry>
         <entry encoding="base64">XDxfY29udmVydFRvVHN2Um93XD4=</entry>
         <entry>console</entry>
@@ -1307,6 +1309,7 @@
         <entry>formattedParameters</entry>
         <entry>download</entry>
         <entry>formattedPara</entry>
+        <entry>診断結果が存在する場合、結果配列を返すこと</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

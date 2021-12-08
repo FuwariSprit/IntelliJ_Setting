@@ -105,11 +105,11 @@
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Admin/AdminProgressController.php" timestamp="1635988478816" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Common/Cache.php" timestamp="1634546286926" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientLandingPageController.php" timestamp="1631684361599" />
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/works/interview_info.blade.php" timestamp="1638947860587">
-        <mark key="[" line="210" column="96" />
-        <mark key="]" line="210" column="96" />
-        <mark key="^" line="210" column="96" />
-        <mark key="." line="210" column="96" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/works/interview_info.blade.php" timestamp="1638949965812">
+        <mark key="[" line="195" column="35" />
+        <mark key="]" line="217" column="119" />
+        <mark key="^" line="217" column="119" />
+        <mark key="." line="217" column="119" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/public/js/common.js" timestamp="1638523589757">
         <mark key="[" line="10" column="29" />
@@ -636,12 +636,12 @@
         <mark key="^" line="89" column="166" />
         <mark key="." line="89" column="166" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/interview.blade.php" timestamp="1638949073910">
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/interview.blade.php" timestamp="1638949999555">
         <mark key="'" line="68" column="62" />
-        <mark key="[" line="284" column="104" />
-        <mark key="]" line="284" column="107" />
-        <mark key="." line="284" column="107" />
-        <mark key="^" line="284" column="107" />
+        <mark key="[" line="300" column="31" />
+        <mark key="]" line="300" column="30" />
+        <mark key="." line="300" column="30" />
+        <mark key="^" line="300" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/OwnerGroupIdUpdate.php" timestamp="1638930304227" />
       <file name="$USER_HOME$/workspace/sagooo_navi/config/mail.php" timestamp="1630642639798">
@@ -1208,46 +1208,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PA==</text>
+        <text>count($interview['memos'])</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>count($interview['memos'])</text>
       </register>
       <register name="/" type="4">
         <text>upload</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkaW50ZXJ2aWV3TWVtb3MpOwogICAgICAgICRpbnRlcnZpZXdNZW1vcyA9ICRpbnRlcnZpZXdNZW1vcy0+ZXhjZXB0KCRpbnRlcnZpZXdNZW1vcy0+Y291bnQgLSAxKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLQogICAgICAgICAgICAgICAg5pu05paw44Ot44Kw6KGo56S644Oc44K/44OzCiAgICAgICAgICAgICAgICAtIOWCmeiAg+OBjDHku7bjgZfjgYvjgarjgYTloLTlkIjjga/mm7TmlrDjg63jgrDooajnpLrjg5zjgr/jg7PjgpLooajnpLrjgZfjgarjgYQKICAgICAgICAgICAgLS0+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBAcGhwICRtZW1vc0NvdW50ID0gY291bnQoJGludGVydmlld1snbWVtb3MnXSk7IEBlbmRwaHAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8IS0tIOabtOaWsOODreOCsOihqOekuuODnOOCv+ODsyAtLT4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQHBocCAkbWVtb0luZGV4Kys7IEBlbmRwaHAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBAcGhwICRtZW1vc0NvdW50ID0gY291bnQoJGludGVydmlld1snbWVtb3MnXSk7IEBlbmRwaHAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBAcGhwICRtZW1vSW5kZXggPSAwOyBAZW5kcGhwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQHBocCAkbWVtb0luZGV4Kys7IEBlbmRwaHAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQHBocCAkbWVtb0luZGV4ID0gMDsgQGVuZHBocAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBAcGhwICRtZW1vSW5kZXggPSAwOyBAZW5kcGhwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBwaHAgJG1lbW9JbmRleCsrOyBAZW5kcGhwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQHBocCAkbWVtb0luZGV4ID0gMDsgQGVuZHBocAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgoKICAgICAgICBkZCgkaW50ZXJ2aWV3TWVtb3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBwaHAgJG1lbW9JbmRleCsrOyBAZW5kcGhwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">CgoKICAgICAgICBkZCgkaW50ZXJ2aWV3TWVtb3MpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkaW50ZXJ2aWV3TWVtb3MtPmV4Y2VwdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">dChmdW5jdGlvbiAoJHZhbHVlLCAka2V5KSB7CiAgICAgICAgICAgIHJldHVybiAka2V5ID09PSAkaW50ZXJ2aWV3TWVtb3MtPmNvdW50KCk7CiAgICAgICAgfSk7</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAkaW50ZXJ2aWV3TWVtb3MtPmV4Y2VwdAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

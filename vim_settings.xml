@@ -104,12 +104,12 @@
         <mark key="." line="2048" column="17" />
         <mark key="^" line="2048" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/public/js/admin/works/detail.js" timestamp="1639379179627">
+      <file name="$USER_HOME$/workspace/sagooo_navi/public/js/admin/works/detail.js" timestamp="1639381703704">
         <mark key="'" line="319" column="2" />
-        <mark key="[" line="329" column="66" />
-        <mark key="]" line="329" column="66" />
-        <mark key="." line="329" column="66" />
-        <mark key="^" line="329" column="66" />
+        <mark key="[" line="330" column="8" />
+        <mark key="]" line="330" column="29" />
+        <mark key="." line="330" column="29" />
+        <mark key="^" line="330" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/UseCases/ScheduledDeliveryAtUpdate.php" timestamp="1639117809019" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Client/ClientOnlineOrderController.php" timestamp="1636703045982">
@@ -207,11 +207,11 @@
         <mark key="." line="74" column="137" />
         <mark key="^" line="74" column="137" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/step_edit_form.blade.php" timestamp="1639376778871">
-        <mark key="[" line="44" column="92" />
-        <mark key="]" line="44" column="106" />
-        <mark key="." line="44" column="106" />
-        <mark key="^" line="44" column="106" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/step_edit_form.blade.php" timestamp="1639381692429">
+        <mark key="[" line="44" column="38" />
+        <mark key="]" line="44" column="43" />
+        <mark key="." line="44" column="43" />
+        <mark key="^" line="44" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" timestamp="1639117957615">
         <mark key="[" line="3364" column="0" />
@@ -324,46 +324,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.prop(&quot;disabled&quot;, true);</text>
+        <text>js-edit-step-form-date</text>
       </register>
       <register name="-" type="4">
-        <text>.prop(&quot;disabled&quot;, true);</text>
+        <text>js-edit-step-form-date</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ICQoIi5qcy1lZGl0LXN0ZXAtbW9kYWwtc3RlcC1pZCIpLnZhbCgkKHRoaXMpLmRhdGEoInN0ZXAtaWQiKSk7</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkcGFyZW50RWxlbWVudC5maW5kKCJqcy1lZGl0LXN0ZXAtZm9ybS1kYXRlIikucHJvcCgiZGlzYWJsZWQiLCB0cnVlKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBiZWZvcmVTY2hlZHVsZWREZWxpdmVyeUF0ID0gJHBhcmVudEVsZW1lbnQuZGF0YSgiZGVsaXZlcnktc2NoZWR1bGVkLWF0Iik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzY2hlZHVsZWREZWxpdmVyeURhdGUgPyB0cnVlIDogZmFsc2UpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGJlZm9yZVNjaGVkdWxlZERlbGl2ZXJ5QXQgPSAkcGFyZW50RWxlbWVudC5kYXRhKCJkZWxpdmVyeS1zY2hlZHVsZWQtYXQiKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICQoIi5qcy1lZGl0LXN0ZXAtZm9ybS1kYXRlIikub24oInN1Ym1pdCIsIGZ1bmN0aW9uKCkgewogICAgICAgICQoIi5qcy1lZGl0LXN0ZXAtZGF0ZS1mb3JtIikuc3VibWl0KCk7CiAgICB9KTsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IGVsc2UgewogICAgICAgICAgICAkcGFyZW50RWxlbWVudC5maW5kKCJqcy1lZGl0LXN0ZXAtZm9ybS1kYXRlIikucHJvcCgiZGlzYWJsZWQiLCBmYWxzZSk7CiAgICAgICAgfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCBiZWZvcmVTY2hlZHVsZWREZWxpdmVyeUF0ID0gJHBhcmVudEVsZW1lbnQuZGF0YSgiZGVsaXZlcnktc2NoZWR1bGVkLWF0Iik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkcGFyZW50RWxlbWVudC5maW5kCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBvd25lckdyb3VwTm8gPSAkKCcuanMtZ3JvdXAtb3duZXItZ3JvdXAtbm8tdXBkYXRlLWlucHV0JykudmFsKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhiZWZvcmVTY2hlZHVsZWREZWxpdmVyeUF0KTsKICAgICAgICBjb25zb2xlLmxvZyhzY2hlZHVsZWREZWxpdmVyeUF0KTsKCg==</text>
+        <text encoding="base64">CiAgICAgICAgLy8g54++5Zyo44Gu5qGI5Lu2Tk8KCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzY2hlZHVsZWREZWxpdmVyeURhdGUpOwo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygkcGFyZW50RWxlbWVudCk7Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygkcGFyZW50RWxlbWVudCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHBhcmVudEVsZW1lbnQuZmluZCgianMtZWRpdC1zdGVwLWZvcm0tZGF0ZSIpLnByb3AoImRpc2FibGVkIiwgdHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGZvcm1hdERhdGVUaW1lID0gKGRhdGUpID0+IHsKICAgICAgICByZXR1cm4gYCR7ZGF0ZS5nZXRGdWxsWWVhcigpfS0ke2RhdGUuZ2V0TW9udGgoKSArIDF9LSR7ZGF0ZS5nZXREYXRlKCl9YDsKICAgIH0KCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

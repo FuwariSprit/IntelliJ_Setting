@@ -65,8 +65,8 @@
         <mark key="." line="26" column="6" />
         <mark key="^" line="26" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_navi/routes/web.php" timestamp="1638932772279">
-        <mark key="'" line="156" column="7" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/routes/web.php" timestamp="1639725604998">
+        <mark key="'" line="245" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_session.php" timestamp="1636703072921">
         <mark key="'" line="151" column="69" />
@@ -136,19 +136,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="284" column="21" filename="$USER_HOME$/workspace/sagooo_navi/public/js/diff.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sagooo_navi/public/js/diff.js" />
-      <jump line="304" column="0" filename="$USER_HOME$/workspace/sagooo_navi/public/js/diff.js" />
-      <jump line="250" column="29" filename="$USER_HOME$/workspace/sagooo_navi/public/js/diff.js" />
-      <jump line="281" column="23" filename="$USER_HOME$/workspace/sagooo_navi/public/js/diff.js" />
-      <jump line="276" column="24" filename="$USER_HOME$/workspace/sagooo_navi/public/js/diff.js" />
-      <jump line="274" column="8" filename="$USER_HOME$/workspace/sagooo_navi/public/js/diff.js" />
-      <jump line="183" column="43" filename="$USER_HOME$/workspace/sagooo_navi/public/js/diff.js" />
-      <jump line="143" column="57" filename="$USER_HOME$/workspace/sagooo_navi/public/js/diff.js" />
-      <jump line="139" column="29" filename="$USER_HOME$/workspace/sagooo_navi/public/js/diff.js" />
-      <jump line="138" column="27" filename="$USER_HOME$/workspace/sagooo_navi/public/js/diff.js" />
-      <jump line="122" column="28" filename="$USER_HOME$/workspace/sagooo_navi/public/js/diff.js" />
-      <jump line="120" column="21" filename="$USER_HOME$/workspace/sagooo_navi/public/js/diff.js" />
       <jump line="733" column="6" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="1882" column="14" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
       <jump line="286" column="68" filename="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/interview.blade.php" />
@@ -236,6 +223,19 @@
       <jump line="365" column="0" filename="$USER_HOME$/workspace/sagooo_navi/public/js/admin/works/detail.js" />
       <jump line="951" column="14" filename="$USER_HOME$/workspace/sawa_renewal/works/app/controllers/client/client_controller.php" />
       <jump line="855" column="11" filename="$USER_HOME$/workspace/sawa_renewal/works/app/controllers/client/client_controller.php" />
+      <jump line="242" column="2" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
+      <jump line="624" column="42" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
+      <jump line="270" column="45" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
+      <jump line="583" column="26" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
+      <jump line="252" column="82" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
+      <jump line="36" column="37" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
+      <jump line="37" column="17" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
+      <jump line="87" column="12" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
+      <jump line="92" column="27" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
+      <jump line="93" column="57" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
+      <jump line="95" column="59" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
+      <jump line="102" column="12" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
+      <jump line="245" column="27" filename="$USER_HOME$/workspace/sagooo_navi/routes/web.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -245,7 +245,7 @@
         <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>contact_confirm</text>
+        <text>admin</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkKCIuanMtc2NoZWR1bGVkLWRlbGl2ZXJ5LXRpbWUiKS52YWwoZm9ybWF0dGVkVGltZShzY2hlZHVsZWREZWxpdmVyeUF0KSk7Cg==</text>
@@ -285,9 +285,9 @@
       </register>
     </registers>
     <search>
-      <last-search>contact_confirm</last-search>
+      <last-search>admin</last-search>
       <last-offset />
-      <last-pattern>contact_confirm</last-pattern>
+      <last-pattern>admin</last-pattern>
       <last-replace>===</last-replace>
       <last-substitute>==</last-substitute>
       <last-dir>1</last-dir>
@@ -295,8 +295,6 @@
     </search>
     <history>
       <history-search>
-        <entry>update</entry>
-        <entry>function update</entry>
         <entry>upload</entry>
         <entry>getstep</entry>
         <entry>delivery-date-at</entry>
@@ -315,6 +313,8 @@
         <entry>console.log</entry>
         <entry>contact_input</entry>
         <entry>contact_confirm</entry>
+        <entry>search</entry>
+        <entry>admin</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

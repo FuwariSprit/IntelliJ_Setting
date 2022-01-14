@@ -72,12 +72,12 @@
         <mark key="." line="48" column="72" />
         <mark key="^" line="48" column="71" />
       </file>
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientLandingPage/client8.ctp" timestamp="1642150050118">
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientLandingPage/client8.ctp" timestamp="1642150656454">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="11" column="5" />
-        <mark key="]" line="11" column="5" />
-        <mark key="^" line="11" column="22" />
-        <mark key="." line="11" column="5" />
+        <mark key="[" line="11" column="15" />
+        <mark key="]" line="11" column="25" />
+        <mark key="^" line="11" column="25" />
+        <mark key="." line="11" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Front/WritingController.php" timestamp="1636081012438">
         <mark key="'" line="917" column="11" />
@@ -248,11 +248,11 @@
       <file name="$USER_HOME$/workspace/sagooo_works/src/Utility/YConnect/YConnectClient.php" timestamp="1641450590038" />
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/works/progress_table.blade.php" timestamp="1642128846597" />
       <file name="$USER_HOME$/workspace/sagooo_navi/config/user_register_items.php" timestamp="1639957927571" />
-      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Layout/Client/lp.ctp" timestamp="1642150014936">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="37" />
-        <mark key="^" line="53" column="8" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/workspace/sagooo_works/src/Template/Layout/Client/lp.ctp" timestamp="1642150638218">
+        <mark key="[" line="52" column="8" />
+        <mark key="]" line="53" column="29" />
+        <mark key="^" line="53" column="29" />
+        <mark key="." line="53" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_online_order.php" timestamp="1631687962288">
         <mark key="'" line="150" column="58" />
@@ -364,8 +364,8 @@
       <jump line="1119" column="24" filename="$USER_HOME$/workspace/sagooo_works/config/const/const_client_online_order.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -377,34 +377,34 @@
         <text encoding="base64">ICAgIDw/cGhwIGVjaG8gJHRoaXMtPmZldGNoKCdjc3MnKSA/Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBWCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICR0aGlzLT5mZXRjaCgnY3NzJykgPz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICA8P3BocCBlY2hvICR0aGlzLT5mZXRjaCgnY3NzJykgPz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBWCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAkdGhpcy0+ZmV0Y2goJ3NjcmlwdCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICR0aGlzLT5mZXRjaCgnY3NzJykgPz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Pz4K</text>
+        <text encoding="base64">ICAgICAgICA8P3BocCBlY2hvICR0aGlzLT5mZXRjaCgnY3NzJykgPz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PD9waHAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PD9waHAKICAgIGVjaG8gJHRoaXMtPkh0bWwtPnNjcmlwdChbCiAgICAgICAgJy9qcy9jbGllbnQ4L2pxdWVyeS5taW4nLAogICAgICAgICdodHRwczovL2NvZGUuanF1ZXJ5LmNvbS9qcXVlcnktbWlncmF0ZS0xLjIuMS5taW4nLAogICAgICAgICcvanMvY2xpZW50OC9ib290c3RyYXAubWluJywKICAgICAgICAnL2pzL2NsaWVudDgvYm9vdHN0cmFwNC10b2dnbGUubWluJywKICAgICAgICAnL2pzL2NsaWVudDgvc21vb3RoU2Nyb2xsJywKICAgICAgICAnL2pzL2NsaWVudDgvd293Lm1pbicsCiAgICAgICAgJy9qcy9jbGllbnQ4L3NsaWNrLm1pbicsCiAgICAgICAgJy9qcy9jbGllbnQ4L2FkbWluJywKICAgIF0pOwo/Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAkdGhpcy0+ZmV0Y2goJ3NjcmlwdCcpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iL2pzL2NsaWVudDgvanF1ZXJ5Lm1pbi5qcyI+PC9zY3JpcHQ+CjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Imh0dHBzOi8vY29kZS5qcXVlcnkuY29tL2pxdWVyeS1taWdyYXRlLTEuMi4xLm1pbi5qcyI+PC9zY3JpcHQ+CjxzY3JpcHQgc3JjPSIvanMvY2xpZW50OC9ib290c3RyYXAubWluLmpzIj48L3NjcmlwdD4KPHNjcmlwdCBzcmM9Ii9qcy9jbGllbnQ4L2Jvb3RzdHJhcDQtdG9nZ2xlLm1pbi5qcyI+PC9zY3JpcHQ+CjxzY3JpcHQgc3JjPSIvanMvY2xpZW50OC9zbW9vdGhTY3JvbGwuanMiPjwvc2NyaXB0Pgo8c2NyaXB0IHNyYz0iL2pzL2NsaWVudDgvd293Lm1pbi5qcyI+PC9zY3JpcHQ+CjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii9qcy9jbGllbnQ4L3NsaWNrLm1pbi5qcyI+PC9zY3JpcHQ+CjxzY3JpcHQgc3JjPSIvanMvY2xpZW50OC9hZG1pbi5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">Pz4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

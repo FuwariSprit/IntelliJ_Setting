@@ -73,12 +73,12 @@
         <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/UserRepository.php" timestamp="1639974396041" />
-      <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_client_online_order.php" timestamp="1642140296723">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="1272" column="24" />
-        <mark key="]" line="1272" column="25" />
-        <mark key="." line="1272" column="25" />
-        <mark key="^" line="1272" column="25" />
+      <file name="$USER_HOME$/workspace/sagooo_works/config/const/const_client_online_order.php" timestamp="1642141415607">
+        <mark key="'" line="1119" column="24" />
+        <mark key="[" line="1272" column="47" />
+        <mark key="]" line="1272" column="47" />
+        <mark key="." line="1272" column="47" />
+        <mark key="^" line="1272" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/config/user_search.php" timestamp="1639957790697" />
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/develop/content.blade.php" timestamp="1639114608165">
@@ -108,6 +108,12 @@
       </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/User/UserRepository.php" timestamp="1639975052645" />
       <file name="$USER_HOME$/workspace/sagooo_works/src/Controller/Front/LoginController.php" timestamp="1641447361403" />
+      <file name="$USER_HOME$/workspace/sagooo_works/webroot/css/Client/lp/client8/style.css" timestamp="1642141907378">
+        <mark key="[" line="90" column="38" />
+        <mark key="]" line="90" column="38" />
+        <mark key="." line="90" column="38" />
+        <mark key="^" line="90" column="38" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/views/partials/admin/works/detail/interview.blade.php" timestamp="1641862060055" />
       <file name="$USER_HOME$/workspace/tact/app/Http/Controllers/SeoImprovement/RankFactorAnalysis/PageAnalysis/ThemeComparisonController.php" timestamp="1637904455925">
         <mark key="'" line="259" column="17" />
@@ -217,12 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1330" column="11" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
-      <jump line="245" column="11" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
-      <jump line="2595" column="90" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" />
-      <jump line="2620" column="0" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" />
-      <jump line="2776" column="23" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/WorkRepository.php" />
-      <jump line="5925" column="14" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
       <jump line="736" column="22" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Application/Controllers/Admin/WorkGroupController.php" />
       <jump line="3383" column="62" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
       <jump line="2435" column="8" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
@@ -317,19 +317,25 @@
       <jump line="5845" column="29" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Repositories/Domain/Eloquent/Admin/Work/WorkRepository.php" />
       <jump line="263" column="34" filename="$USER_HOME$/workspace/sagooo_navi/packages/SagoooNavi/Infrastructure/Eloquents/DtbWorkGroup.php" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/sagooo_works/src/Template/Element/Client/ClientLandingPage/client8.ctp" />
+      <jump line="1239" column="83" filename="$USER_HOME$/workspace/sagooo_works/config/const/const_client_online_order.php" />
+      <jump line="1696" column="69" filename="$USER_HOME$/workspace/sagooo_works/config/const/const_client_online_order.php" />
+      <jump line="1253" column="20" filename="$USER_HOME$/workspace/sagooo_works/config/const/const_client_online_order.php" />
+      <jump line="1252" column="75" filename="$USER_HOME$/workspace/sagooo_works/config/const/const_client_online_order.php" />
+      <jump line="1118" column="14" filename="$USER_HOME$/workspace/sagooo_works/config/const/const_client_online_order.php" />
+      <jump line="1119" column="24" filename="$USER_HOME$/workspace/sagooo_works/config/const/const_client_online_order.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>7</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>yahoo</text>
+        <text>CLIENT_EIGHT</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgQ29uZjo6cignQ09OU1QuQ0xJRU5UX09OTElORV9PUkRFUi5MQU5ESU5HX1BBR0VfTElTVC5DTElFTlRfU0VWRU4nKToKICAgICAgICAgICAgICAgICAgICAkZWxlbWVudEluZm9ybWF0aW9uID0gWwogICAgICAgICAgICAgICAgICAgICAgICAndGl0bGUnICAgICAgICAgICA9PiAn44Kq44Km44Oz44OJ44Oh44OH44Kj44Ki44Gu44Kz44Oz44OG44Oz44OE5L2c5oiQ44KS44G+44KL44Gj44Go44GK44G+44GL44Gb77yB44CQ44K144Kw44O844Ov44O844Kv44K544CRJywKICAgICAgICAgICAgICAgICAgICAgICAgJ3BhdGgnICAgICAgICAgICAgPT4gIkNsaWVudC9DbGllbnRMYW5kaW5nUGFnZS9jbGllbnQ3IiwKICAgICAgICAgICAgICAgICAgICAgICAgJ2Zvb3RlckZsZycgICAgICAgPT4gQ29uZjo6cignQ09OU1QuQUxMLkZMR19PRkYnKSwKICAgICAgICAgICAgICAgICAgICAgICAgJ3NlcnZpY2VGbGcnICAgICAgPT4gQ29uZjo6cignQ09OU1QuQUxMLkZMR19PRkYnKSwKICAgICAgICAgICAgICAgICAgICAgICAgJ2luZmxvd0tleScgICAgICAgPT4gJGxwS2V5LAogICAgICAgICAgICAgICAgICAgICAgICAnbm9JbmRleEZsZycgICAgICA9PiBDb25mOjpyKCdDT05TVC5BTEwuRkxHX09GRicpLAogICAgICAgICAgICAgICAgICAgICAgICAnbWV0YUtleXdvcmQnICAgICA9PiBDb25mOjpyKCdDT05TVC5DTElFTlRfT05MSU5FX09SREVSLlBBUlRORVJfQ09NTU9OX01FVEEuS0VZV09SRCcpLAogICAgICAgICAgICAgICAgICAgICAgICAnbWV0YURlc2NyaXB0aW9uJyA9PiBDb25mOjpyKCdDT05TVC5DTElFTlRfT05MSU5FX09SREVSLlBBUlRORVJfQ09NTU9OX01FVEEuREVTQ1JJUFRJT04nKSwKICAgICAgICAgICAgICAgICAgICBdOwogICAgICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ0NMSUVOVF9TRVZFTicgICAgPT4gJ2NsaWVudDcnLAo=</text>
       </register>
       <register name="1" type="8">
         <text>js/
@@ -368,9 +374,9 @@ js/</text>
       </register>
     </registers>
     <search>
-      <last-search>yahoo</last-search>
+      <last-search>CLIENT_EIGHT</last-search>
       <last-offset />
-      <last-pattern>yahoo</last-pattern>
+      <last-pattern>CLIENT_EIGHT</last-pattern>
       <last-replace>===</last-replace>
       <last-substitute>==</last-substitute>
       <last-dir>1</last-dir>
@@ -378,9 +384,6 @@ js/</text>
     </search>
     <history>
       <history-search>
-        <entry>getOwner</entry>
-        <entry>js-edit</entry>
-        <entry>js-edit-step-modal-btn</entry>
         <entry>formatted</entry>
         <entry>console.log</entry>
         <entry>contact_input</entry>
@@ -398,6 +401,9 @@ js/</text>
         <entry>takeda</entry>
         <entry>納品</entry>
         <entry>yahoo</entry>
+        <entry>CLIENT_SIX</entry>
+        <entry>LIENT_SEVEN</entry>
+        <entry>CLIENT_EIGHT</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>

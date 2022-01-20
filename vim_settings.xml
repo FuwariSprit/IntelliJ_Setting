@@ -483,6 +483,12 @@
         <mark key="^" line="19" column="54" />
       </file>
       <file name="$USER_HOME$/workspace/sagooo_works/webroot_src/js/pages/Admin/AdminOnlineOrder/detail.js" timestamp="1639618544847" />
+      <file name="$USER_HOME$/workspace/sagooo_navi/database/migrations/2022_01_20_140000_add_column_mst_products_table_is_video.php" timestamp="1642660631161">
+        <mark key="[" line="16" column="28" />
+        <mark key="]" line="16" column="35" />
+        <mark key="." line="16" column="35" />
+        <mark key="^" line="16" column="35" />
+      </file>
       <file name="$USER_HOME$/workspace/sagooo_navi/resources/assets/sass/service/component/_InterviewMemoDeleteTextDiff.scss" timestamp="1638341934483">
         <mark key="[" line="3" column="2" />
         <mark key="]" line="3" column="3" />
@@ -865,10 +871,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>mynavi_product_name</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>mynavi_product_name</text>
       </register>
       <register name="/" type="4">
         <text>専任</text>
@@ -923,7 +929,7 @@
         <text encoding="base64">ICAgICAgICBlY2hvICR0aGlzLT5mZXRjaCgnY3NzJykgPz4K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
@@ -974,8 +980,8 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL3Zhci9sZXQvZw==</entry>
         <entry encoding="base64">JzwsJz5zLz09Lz09PS9n</entry>
-        <entry>vs</entry>
         <entry>w</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
